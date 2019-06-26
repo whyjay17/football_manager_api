@@ -1,0 +1,106 @@
+[
+  {
+    "profile_img": "https://fmdataba.com/images/p/3744.png",
+    "name": "N'Golo Kant\u00e9 ",
+    "birth_date": "29/3/1991",
+    "nation": "FranceMain 31 caps / 1 goalsYouth 0 caps / 0 goals",
+    "position": "DM, M (C)",
+    "foot": "Right",
+    "abilities": {
+      "technical": {
+        "Corners": 6,
+        "Crossing": 12,
+        "Dribbling": 11,
+        "Finishing": 10,
+        "First Touch": 12,
+        "Free Kick": 8,
+        "Heading": 10,
+        "Long Shots": 11,
+        "Long Throws": 6,
+        "Marking": 12,
+        "Passing": 12,
+        "Penalty Taking": 8,
+        "Tackling": 20,
+        "Technique": 14
+      },
+      "mental": {
+        "Aggression": 15,
+        "Anticipation": 17,
+        "Bravery": 15,
+        "Composure": 14,
+        "Concentration": 15,
+        "Decisions": 12,
+        "Determination": 15,
+        "Flair": 13,
+        "Leadership": 5,
+        "Off The Ball": 15,
+        "Positioning": 15,
+        "Teamwork": 20,
+        "Vision": 14,
+        "Work Rate": 20
+      },
+      "physical": {
+        "Acceleration": 17,
+        "Agility": 14,
+        "Balance": 15,
+        "Jumping Reach": 7,
+        "Natural Fitness": 18,
+        "Pace": 15,
+        "Stamina": 20,
+        "Strength": 13
+      }
+    }
+  },
+  {
+    "profile_img": "https://fmdataba.com/images/p/4269.png",
+    "name": "Leroy San\u00e9 ",
+    "birth_date": "11/1/1996",
+    "nation": "Germany 12 caps / 0 goalsYouth 10 caps / 5 goals",
+    "position": "M/AM (RL)",
+    "foot": "Left",
+    "abilities": {
+      "technical": {
+        "Corners": 12,
+        "Crossing": 14,
+        "Dribbling": 17,
+        "Finishing": 15,
+        "First Touch": 16,
+        "Free Kick": 12,
+        "Heading": 10,
+        "Long Shots": 14,
+        "Long Throws": 7,
+        "Marking": 4,
+        "Passing": 13,
+        "Penalty Taking": 10,
+        "Tackling": 6,
+        "Technique": 15
+      },
+      "mental": {
+        "Aggression": 13,
+        "Anticipation": 14,
+        "Bravery": 10,
+        "Composure": 12,
+        "Concentration": 12,
+        "Decisions": 13,
+        "Determination": 13,
+        "Flair": 16,
+        "Leadership": 6,
+        "Off The Ball": 17,
+        "Positioning": 5,
+        "Teamwork": 10,
+        "Vision": 15,
+        "Work Rate": 12
+      },
+      "physical": {
+        "Acceleration": 17,
+        "Agility": 16,
+        "Balance": 14,
+        "Jumping Reach": 11,
+        "Natural Fitness": 14,
+        "Pace": 19,
+        "Stamina": 15,
+        "Strength": 11
+      }
+    }
+  }
+]

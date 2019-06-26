@@ -52,7 +52,9 @@ def get_profile_data(url):
     page = requests.get(url, headers={'User-Agent':'Mozilla/5.0'})
     soup = bs(page.content, 'html.parser')
     rows = soup.find("table").find("tbody").find_all("tr")[0]
+    print(pd.read_html(page.text))
     tables = pd.read_html(page.text)[0]
+    print(tables)
     idx = tables[1][12].index('Main')
     img_meta = rows.findAll('img')[0]
     idx2 = img_meta['alt'].index('FM')
@@ -62,5 +64,5 @@ def get_profile_data(url):
     profile_data['nation'] = tables[1][12][:idx]
     profile_data['position'] = tables[1][21]
     profile_data['foot'] = tables[1][19]
-    
+
     return profile_data
