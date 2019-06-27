@@ -2,9 +2,10 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import numpy as np
 import requests
+import time
+import random
 
-
-def get_abilities(url, is_gk = False):
+def get_abilities(url, is_gk, ua_list, sec_list):
     """Gets player's abilitiy stats based on the URL link given
 
     Parameters
@@ -20,7 +21,8 @@ def get_abilities(url, is_gk = False):
         a dict of dicts that contains the player ability  stats
     """
 
-    page = requests.get(url, headers={'User-Agent':'Mozilla/5.0'})
+    time.sleep(random.choice(sec_list))
+    page = requests.get(url, headers = {'User-Agent':'Mozilla/5.0'})
     tables = pd.read_html(page.text)
     abilities = {}
     first_col = (2, 'technical')
