@@ -11,6 +11,18 @@ app = Flask(__name__)
 client = MongoClient(connection_str)
 db = client.get_database(db_name)
 
+def player_to_dict(player):
+    return {
+        'name': player['name'],
+        'position': player['position'],
+        'nationality': player['nation'],
+        'position': player['position'],
+        'foot': player['foot'],
+        'age': utils.date_to_age(player['birth_date']),
+        'profile_img': player['profile_img'],
+        'abilities': player['abilities']
+    }
+
 @app.route("/api/v1/players", methods = ['GET'])
 def get_all_players():
     # TODO: Implement pagination
@@ -19,19 +31,7 @@ def get_all_players():
     """
     try:
         players = db.players.find()
-        output = []
-        for player in players:
-            output.append({
-                'name': player['name'],
-                'position': player['position'],
-                'nationality': player['nation'],
-                'position': player['position'],
-                'foot': player['foot'],
-                'age': utils.date_to_age(player['birth_date']),
-                'profile_img': player['profile_img'],
-                'abilities': player['abilities']
-            })
-        return jsonify({'result': output})
+        return jsonify({'result': [player_to_dict(player) for player in players]})
 
     except:
         return jsonify({
@@ -46,17 +46,7 @@ def get_player(name):
     """
     try:
         player = db.players.find_one({'name': name})
-        output = {
-            'name': player['name'],
-            'position': player['position'],
-            'nationality': player['nation'],
-            'position': player['position'],
-            'foot': player['foot'],
-            'age': utils.date_to_age(player['birth_date']),
-            'profile_img': player['profile_img'],
-            'abilities': player['abilities']
-        }
-        return jsonify({'result': output})
+        return jsonify({'result': player_to_dict(player)})
 
     except:
         return jsonify({
