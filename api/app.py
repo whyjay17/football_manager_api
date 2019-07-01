@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from pymongo import MongoClient
+from pymongo import MongoClient, TEXT
 import json
 import utils
 import config
@@ -12,6 +12,9 @@ app = Flask(__name__)
 cors = CORS(app)
 client = MongoClient(connection_str)
 db = client.get_database(db_name)
+
+# Text Indexing for Full Text Search
+db.players.create_index([("name", TEXT)])
 
 def player_to_dict(player):
     return {
@@ -33,7 +36,7 @@ def get_all_players():
     """
     try:
         players = db.players.find()
-        return jsonify({'result': [player_to_dict(player) for player in players]})
+        return jsonify({ 'result': [player_to_dict(player) for player in players]})
 
     except:
         return jsonify({
@@ -47,14 +50,16 @@ def get_player(name):
     returns an object of a player given a name
     """
     try:
-        player = db.players.find_one({'name': name})
-        return jsonify({'result': player_to_dict(player)})
+        players = list(db.players.find({ "$text": { "$search": name }},
+               { 'score': { "$meta": "textScore" }}))
+        players.sort(key = lambda k: k['score'], reverse = True)
+        # Return results based on the input query
+        return jsonify({ 'result': [player_to_dict(player) for player in players]})
 
     except:
         return jsonify({
             'result': 'failure', 
             "error": 400, 
             "message": "Bad Request (Double check player's name)"}), 400
-
 
 app.run()
