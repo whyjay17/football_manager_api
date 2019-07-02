@@ -28,6 +28,20 @@ def player_to_dict(player):
         'abilities': player['abilities']
     }
 
+@app.route('/', methods = ['GET'])
+def index_route():
+    return jsonify({
+        'author': 'YJ Kim',
+        'project': {
+            'name': 'Football Manager API',
+            'url': 'https://github.com/whyjay17/football_manager_api',
+        },
+        'endpoints': {
+            'get_all_players': '/players',
+            'get_player': '/players/{name}',
+        }
+    })
+
 @app.route("/api/v1/players", methods = ['GET'])
 def get_all_players():
     # TODO: Implement pagination
@@ -35,7 +49,10 @@ def get_all_players():
     returns a list of players
     """
     try:
-        players = db.players.find()
+        if request.args['nation']:
+            players = db.players.find({ 'nation': request.args['nation'] })
+        else:
+            players = db.players.find()
         return jsonify({ 'result': [player_to_dict(player) for player in players]})
 
     except:
@@ -50,11 +67,12 @@ def get_player(name):
     returns an object of a player given a name
     """
     try:
+        print('req', request)
         players = list(db.players.find({ "$text": { "$search": name }},
                { 'score': { "$meta": "textScore" }}))
         players.sort(key = lambda k: k['score'], reverse = True)
         # Return results based on the input query
-        return jsonify({ 'result': [player_to_dict(player) for player in players]})
+        return jsonify({ 'count': len(players), 'result': [player_to_dict(player) for player in players]})
 
     except:
         return jsonify({
@@ -62,4 +80,5 @@ def get_player(name):
             "error": 400, 
             "message": "Bad Request (Double check player's name)"}), 400
 
-app.run()
+if __name__ == '__main__':
+    app.run(debug = True)
