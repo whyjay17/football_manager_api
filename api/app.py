@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 from pymongo import MongoClient, TEXT
+from langdetect import detect
 import json
 import utils
 import config
@@ -14,7 +15,7 @@ client = MongoClient(connection_str)
 db = client.get_database(db_name)
 
 # Text Indexing for Full Text Search
-db.players.create_index([("name", TEXT)])
+# db.players.create_index([("name", TEXT)])
 
 def player_to_dict(player):
     return {
@@ -49,8 +50,9 @@ def get_all_players():
     returns a list of players
     """
     try:
-        if request.args['nation']:
-            players = db.players.find({ 'nation': request.args['nation'] })
+        if request.args:
+            if request.args['nation']:
+                players = db.players.find({ 'nation': request.args['nation'] })
         else:
             players = db.players.find()
         return jsonify({ 'result': [player_to_dict(player) for player in players]})
@@ -67,12 +69,20 @@ def get_player(name):
     returns an object of a player given a name
     """
     try:
-        print('req', request)
-        players = list(db.players.find({ "$text": { "$search": name }},
+        # transform query if it's Korean
+        if detect(name) == 'ko':
+            query = ''
+            for ch in name:
+                if ch != ' ':
+                    query += ch + ' '
+            query = query.rstrip()
+        else:
+            query = name
+        players = list(db.players.find({ "$text": { "$search": query }},
                { 'score': { "$meta": "textScore" }}))
         players.sort(key = lambda k: k['score'], reverse = True)
         # Return results based on the input query
-        return jsonify({ 'count': len(players), 'result': [player_to_dict(player) for player in players]})
+        return jsonify({ 'count': len(players), 'result': [player_to_dict(player) for player in players][:4]})
 
     except:
         return jsonify({
