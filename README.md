@@ -73,7 +73,10 @@ An unofficial API for Football Manager
 - Covers up to 30K player data (currently 6K)
 - MongoDB Full Text Search (case insensitive)
 - Accepts Korean Query (e.g. GET http://fm-api-heroku.herokuapp.com/api/v1/players/손흥민)
-- More to come
+
+## Future Plans
+- Filter by parameters (nationality, position, foot, etc.)
+- Sort by ability (e.g. Get Top 5 players with the highest Passing ability)
 
 # Usage
 - WIP
