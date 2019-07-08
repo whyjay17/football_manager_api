@@ -23,7 +23,7 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
         cache: 'default'
     };
 
-    url = 'http://localhost:5000/api/v1/players/' + fixedEncodeURI(clickData.selectionText)
+    url = 'https://fm-api-heroku.herokuapp.com/api/v1/players/' + fixedEncodeURI(clickData.selectionText)
 
 
     return new Promise((reslove, reject) => {

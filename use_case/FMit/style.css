@@ -4,6 +4,10 @@
   border-radius: 6px;
 }
 
+.margin-right {
+  margin-right: 1em;
+}
+
 .btn-margin {
   margin-top: 0.75em;
   margin-left: 0.75em;
@@ -16,6 +20,12 @@
   margin-top: 1em;
   width: 160px;
   height: 160px;
+}
+
+.card-img-small {
+  margin-top: 1em;
+  width: 80px;
+  height: 80px;
 }
 
 .card>.card-link {
@@ -238,6 +248,17 @@
 
 .card-price p:last-child {
   margin-bottom: 0;
+}
+
+.price-small {
+
+  text-align: center;
+  color: #337ab7;
+  font-size: 1em;
+  text-transform: uppercase;
+  line-height: 0.7em;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
 
 .card-price .price {

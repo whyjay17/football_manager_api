@@ -3,6 +3,7 @@
     "name": "FMit",
     "version": "1.0",
     "description": "Check player information based on Football Manager data",
+    "content_security_policy": "script-src 'self' 'sha256-WOdSzz11/3cpqOdrm89LBL2UPwEU9EhbDtMy2OciEhs='",
     "icons": {
         "128": "small-logo.png",
         "48": "small-logo.png",
