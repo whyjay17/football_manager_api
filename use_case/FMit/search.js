@@ -1,13 +1,52 @@
+const fixedEncodeURI = (str) => {
+    return encodeURI(str).replace(/%5B/g, '[').replace(/%5D/g, ']');
+}
+
+// TODO: Refactor - move to a different file since it already has duplicate in eventPage.js
+const fetchPlayerInfo = (name) => {
+    let header = new Headers({
+        'Access-Control-Allow-Origin': '*',
+        'Content-Type': 'application/json'
+    });
+
+    let myInit = {
+        method: 'GET',
+        headers: header,
+        mode: 'cors',
+        cache: 'default'
+    };
+
+    url = 'https://fm-api-heroku.herokuapp.com/api/v1/players/' + fixedEncodeURI(name)
+
+    return new Promise((reslove, reject) => {
+        fetch(url, myInit)
+            .then(response => response.json())
+            .then(responseText => {
+                // Store user data into a temp storage
+                chrome.storage.sync.set({ 'player_info': responseText.result }, function () {
+                    console.log('DONE: ' + responseText.result)
+                    window.location.replace("search.html");
+                });
+            }).catch(err => {
+                reject(err);
+            });
+    }).catch(err => {
+        console.log(err);
+    });
+}
+
+// Renders a new profile page based on the selected player
 const renderSelectedPlayer = (idx) => {
     chrome.storage.sync.get(['player_info'], (data) => {
         // data = list of possible players
         let player_item = data.player_info[idx]
         chrome.storage.sync.set({ 'selected_player_info': player_item }, function () {
-        window.location.replace("popup.html");
+            window.location.replace("popup.html");
         });
     })
 }
 
+// Renders all player info included in the search result
 chrome.storage.sync.get(['player_info'], (data) => {
     console.log('search')
     console.log(data)
@@ -26,10 +65,13 @@ chrome.storage.sync.get(['player_info'], (data) => {
                         ${player_arr[i].name}
                     </div>`
     }
+    // Bind eventListeners to each item
     for (let i = 0; i < player_arr.length; i++) {
-        document.getElementById(`selected_player_${i}`).addEventListener("click", function() {
+        document.getElementById(`selected_player_${i}`).addEventListener("click", () => {
             renderSelectedPlayer(i)
         })
     }
+    document.getElementById(`search-button`).addEventListener("click", () => {
+        fetchPlayerInfo(document.getElementById(`input-text`).value)
+    })
 })
-

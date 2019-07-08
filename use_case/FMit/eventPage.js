@@ -25,7 +25,6 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
 
     url = 'https://fm-api-heroku.herokuapp.com/api/v1/players/' + fixedEncodeURI(clickData.selectionText)
 
-
     return new Promise((reslove, reject) => {
         fetch(url, myInit)
             .then(response => response.json())
@@ -34,32 +33,17 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
                 var createData = {
                     "url": popup_url,
                     "type": "popup",
-                    "top": 5,
-                    "left": 5,
-                    "width": 570,
-                    "height": 535
+                    "top": 0,
+                    "left": 0,
+                    "width": 590,
+                    "height": 585
                 };
                 // Store user data into a temp storage
-                console.log('===========')
-                console.log(responseText.result)
                 chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
-                chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {  
-                    chrome.windows.create(createData, function () {});
+                chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {
+                    chrome.windows.create(createData, function () { });
                 });
 
-                /* test */
-                var popup_url = 'table.html'
-                var createData = {
-                    "url": popup_url,
-                    "type": "popup",
-                    "top": 5,
-                    "left": 5,
-                    "width": 570,
-                    "height": 535
-                };
-                chrome.windows.create(createData, function () { });
-
-                /**** */
             }).catch(err => {
                 reject(err);
             });
