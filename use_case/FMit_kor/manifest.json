@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "FMit_KOR_TEST",
+    "version": "1.0",
+    "description": "Check player information based on Football Manager data",
+    "icons": {
+        "128": "small-logo.png",
+        "48": "small-logo.png",
+        "16": "small-logo.png"
+    },
+    "background":{
+        "scripts": ["eventPage.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "storage",
+        "tabs", 
+        "contextMenus"
+    ]
+}
