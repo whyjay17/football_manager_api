@@ -39,13 +39,13 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
                     "width": 570,
                     "height": 535
                 };
-                chrome.windows.create(createData, function () {
-
-                });
                 // Store user data into a temp storage
+                console.log('===========')
                 console.log(responseText.result)
                 chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
-
+                chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {  
+                    chrome.windows.create(createData, function () {});
+                });
 
                 /* test */
                 var popup_url = 'table.html'

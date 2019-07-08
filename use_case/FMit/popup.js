@@ -17,6 +17,26 @@ const summarize_abiltiy = (abilities) => {
 }
 
 // Retrieve player data and display
+chrome.storage.sync.get(['selected_player_info'], (data) => {
+    document.getElementById("player_age").innerHTML = data.selected_player_info.age;
+    document.getElementById("player_foot").innerHTML = data.selected_player_info.foot;
+    document.getElementById("player_nation").innerHTML = data.selected_player_info.nationality;
+    document.getElementById("player_name").innerHTML = data.selected_player_info.name;
+    document.getElementById("player_img").src = data.selected_player_info.profile_img;
+    document.getElementById("player_pos").innerHTML = data.selected_player_info.position;
+    let abilities = data.abilities
+    let summary = summarize_abiltiy(abilities)
+
+    for (let i = 0; i < 5; i++) {
+        document.getElementById("strength").innerHTML +=
+            `<span class="label label-success"> ${summary.strength[i][0]}: ${summary.strength[i][1]} </span>`;
+        document.getElementById("weakness").innerHTML +=
+            `<span class="label label-danger"> ${summary.weakness[i][0]}: ${summary.weakness[i][1]} </span>`;
+    }
+});
+
+/*
+// Retrieve player data and display
 chrome.storage.sync.get(['player_info'], (data) => {
     document.getElementById("player_age").innerHTML = data.player_info[0].age;
     document.getElementById("player_foot").innerHTML = data.player_info[0].foot;
@@ -35,3 +55,4 @@ chrome.storage.sync.get(['player_info'], (data) => {
             `<span class="label label-danger"> ${summary.weakness[i][0]}: ${summary.weakness[i][1]} </span>`;
     }
 });
+*/
