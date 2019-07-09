@@ -9,7 +9,7 @@ var popupWindow = {
     "url": popup_url,
     "type": "popup",
     "top": 0,
-    "left": 0,
+    "left": screen.availWidth,
     "width": 590,
     "height": 585
 };
@@ -19,7 +19,7 @@ var searchWindow = {
     "url": search_url,
     "type": "popup",
     "top": 0,
-    "left": 0,
+    "left": screen.availWidth,
     "width": 590,
     "height": 585
 };
