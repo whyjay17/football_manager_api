@@ -3,9 +3,11 @@ const fixedEncodeURI = (str) => {
 }
 
 chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
+    console.log('====')
+    console.log(data)
     // data = list of possible players
     let count = data.result_count
-    if (count === 0 || data.player_info === 'failure') {
+    if (count === 'empty' || data.player_info === 'failure') {
         document.getElementById(`player_name`).innerHTML = "선수를 찾지 못했습니다"
 
         document.getElementById(`search-button`).addEventListener("click", () => {
@@ -69,13 +71,13 @@ const fetchPlayerInfo = (name) => {
             .then(responseText => {
                 // If no search result
                 if (responseText.count === 0) {
-                    chrome.storage.sync.set({ 'result_count': 0 }, function () {
+                    chrome.storage.sync.set({ 'result_count': 'empty' }, function () {
                         window.location.replace("search.html");
                     });
                 } else {
                     // Store user data into a temp storage
                     console.log(responseText)
-                    chrome.storage.sync.set({ 'result_count': responseText.count }, function () { });
+                    chrome.storage.sync.set({ 'result_count': 'non-empty' }, function () { });
                     chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
                     chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {
                         window.location.replace("search.html");

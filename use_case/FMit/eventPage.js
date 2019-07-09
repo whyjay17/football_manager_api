@@ -51,11 +51,12 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
             .then(responseText => {
                 // If no search result
                 if (responseText.count === 0) {
-                    chrome.storage.sync.set({ 'result_count': 0 }, function () {
+                    chrome.storage.sync.set({ 'result_count': 'empty' }, function () {
                         chrome.windows.create(searchWindow, function () { });
                     });
                 } else {
                     // Store user data into a temp storage
+                    chrome.storage.sync.set({ 'result_count': 'non-empty' }, function () { });
                     chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
                     chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {
                         chrome.windows.create(popupWindow, function () { });
