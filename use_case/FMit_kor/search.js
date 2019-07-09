@@ -3,8 +3,6 @@ const fixedEncodeURI = (str) => {
 }
 
 chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
-    console.log('====')
-    console.log(data)
     // data = list of possible players
     let count = data.result_count
     if (count === 'empty' || data.player_info === 'failure') {
@@ -18,8 +16,6 @@ chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
 
         // Renders all player info included in the search result
         chrome.storage.sync.get(['player_info'], (data) => {
-            console.log('search')
-            console.log(data)
             // data = list of possible players
             let player_arr = data.player_info
             for (let i = 0; i < player_arr.length; i++) {
@@ -76,7 +72,6 @@ const fetchPlayerInfo = (name) => {
                     });
                 } else {
                     // Store user data into a temp storage
-                    console.log(responseText)
                     chrome.storage.sync.set({ 'result_count': 'non-empty' }, function () { });
                     chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
                     chrome.storage.sync.set({ 'selected_player_info': responseText.result[0] }, function () {
