@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "FMit_KOR_TEST",
+    "name": "펨카우터",
     "version": "1.0",
-    "description": "Check player information based on Football Manager data",
+    "description": "방대한 양의 Football Manager (FM) 데이터를 이용하여 축구 선수의 장단점을 알아보자",
     "icons": {
         "128": "small-logo.png",
         "48": "small-logo.png",

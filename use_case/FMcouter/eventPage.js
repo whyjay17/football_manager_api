@@ -1,6 +1,6 @@
 var menuItem = {
-    "id": "FMit",
-    "title": "FMit",
+    "id": "FMcouter",
+    "title": "FMcouter",
     "contexts": ["selection"]
 };
 

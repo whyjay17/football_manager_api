@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "FMit",
+    "name": "FMcouter",
     "version": "1.0",
     "description": "Check player information based on Football Manager data",
     "icons": {
