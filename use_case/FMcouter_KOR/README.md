@@ -1,3 +1,5 @@
+![logo](https://i.imgur.com/5gNFpUY.png)
+
 # FMcouter (펨카우터)
 
 방대한 양의 Football Manager (FM) 데이터를 이용하여 축구 선수의 장단점을 알아보자

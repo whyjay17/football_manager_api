@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "FMcouter",
     "version": "1.0",
-    "description": "Check player information based on Football Manager data",
+    "description": "Find out the strengths and weaknesses of a soccer player using massive amounts of Football Manager (FM) data.",
     "icons": {
         "128": "small-logo.png",
         "48": "small-logo.png",
