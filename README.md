@@ -79,7 +79,8 @@ An unofficial API for Football Manager
 - Sort by ability (e.g. Get Top 5 players with the highest Passing ability)
 
 # Usage
-- WIP
+- [FMcouter](https://github.com/whyjay17/football_manager_api/tree/master/use_case/FMcouter)
+- [FMcouter_KOR (펨카우터)](https://github.com/whyjay17/football_manager_api/tree/master/use_case/FMcouter_KOR)
 
 # How to Run
 ```
