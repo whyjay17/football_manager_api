@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+js/
+fonts/
+actions/
+
+# Important
+data/settings.json
+project.discordbot
+Procfile
