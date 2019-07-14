@@ -81,6 +81,7 @@ An unofficial API for Football Manager
 # Usage
 - [FMcouter](https://github.com/whyjay17/football_manager_api/tree/master/use_case/FMcouter)
 - [FMcouter_KOR (펨카우터)](https://github.com/whyjay17/football_manager_api/tree/master/use_case/FMcouter_KOR)
+- [Discord Bot](https://github.com/whyjay17/football_manager_api/tree/master/use_case/discord_bot)
 
 # How to Run
 ```
