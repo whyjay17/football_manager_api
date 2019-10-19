@@ -67,12 +67,49 @@ An unofficial API for Football Manager
     ]
   }
   ```
+  - GET: `/alternatives/<name>`
+  - Explanation: Given a player name, retrieves lists of players similar to the given player.
+  - Fields:
+    - name: name of the given player
+    - close: top 4 players with similar ability stat sum
+    - upper: top 4 better alternatives
+    - lower: top 4 worse alternatives
+  - Sample Usage: `GET http://fm-api-heroku.herokuapp.com/api/v1/alternatives/Harry%20Maguire`
+  - Sample Result:
+  ```
+  {
+    "result": [
+      {
+        "close": [
+          "Gary Cahill",
+          "Dante",
+          "Gabriel Paulista",
+          "Kalidou Koulibaly"
+        ],
+        "lower": [
+          "Davinson Sánchez",
+          "Laurent Koscielny",
+          "Mamadou Sakho",
+          "James Tarkowski"
+        ],
+        "name": "Harry Maguire",
+        "upper": [
+          "Gerard Piqué",
+          "Leonardo Bonucci",
+          "Sergio Ramos",
+          "Nicolás Otamendi"
+        ]
+      }
+    ]
+  }
+  ```
   - More to come
  
 # Features
-- Covers up to 30K player data (currently 6K)
+- Covers up to 30K player data (currently 8K)
 - MongoDB Full Text Search (case insensitive)
 - Accepts Korean Query (e.g. GET http://fm-api-heroku.herokuapp.com/api/v1/players/손흥민)
+- Provides lists of similar players
 
 ## Future Plans
 - Filter by parameters (nationality, position, foot, etc.)
