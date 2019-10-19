@@ -29,6 +29,16 @@ def player_to_dict(player):
         'abilities': player['abilities']
     }
 
+
+def alternatives_to_dict(player):
+    return {
+        'name': player['name'],
+        'close': player['close'],
+        'upper': player['upper'],
+        'lower': player['lower']
+    }
+
+
 @app.route('/', methods = ['GET'])
 def index_route():
     return jsonify({
@@ -89,6 +99,25 @@ def get_player(name):
             'result': 'failure', 
             "error": 400, 
             "message": "Bad Request (Double check player's name)"}), 400
+
+
+@app.route("/api/v1/alternatives/<name>", methods = ['GET'])
+def get_alternative_players(name):
+    """
+    returns an object of alternative players give a player name
+    """
+    print(name)
+    try:
+        alternative_players = db.alternatives.find({ 'name': name })
+        # Return results based on the input query
+        return jsonify({ 'result': [alternatives_to_dict(player) for player in alternative_players]})
+
+    except:
+        return jsonify({
+            'result': 'failure', 
+            "error": 400, 
+            "message": "Bad Request"}), 400
+
 
 if __name__ == '__main__':
     app.run(debug = True)
