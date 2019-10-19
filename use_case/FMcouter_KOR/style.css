@@ -4,6 +4,57 @@
   border-radius: 6px;
 }
 
+
+.similar-player-elem {
+  display: inline-block;
+  width: 20%;
+}
+
+.player-name-small {  
+  text-align: center;
+  color: #337ab7;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  line-height: 0.7em;
+  margin-top: .75em;
+  margin-bottom: .25em;
+}
+
+.similar-players {
+  width: 100%;
+}
+
+.small-img {
+  width: 65px;
+  height: 65px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table-row {
+  display: flex;
+  justify-content: center;
+}
+
+.inline-display {
+  display: inline;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.list-group {
+  width: 100%;
+}
+
 .margin-right {
   margin-right: 1em;
 }
@@ -11,6 +62,11 @@
 .btn-margin {
   margin-top: 0.75em;
   margin-left: 0.75em;
+}
+
+.btn-margin2 {
+  margin-top: 0.75em;
+  margin-right: 0.75em;
 }
 
 .label {
@@ -251,7 +307,6 @@
 }
 
 .price-small {
-
   text-align: center;
   color: #337ab7;
   font-size: 1em;
@@ -261,13 +316,22 @@
   margin-bottom: .25em;
 }
 
+.alternative-subtitle {
+  text-align: center;
+  color: #337ab7;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  margin-bottom: 1.5em;
+  font-weight: 500;
+}
+
 .card-price .price {
   text-align: center;
   color: #337ab7;
   font-size: 2em;
   text-transform: uppercase;
   line-height: 0.7em;
-  margin: 24px 0 16px;
+  margin: 24px 16px;
 }
 
 .card-price .price small {
