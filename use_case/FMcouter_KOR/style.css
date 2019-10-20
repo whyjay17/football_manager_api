@@ -10,6 +10,11 @@
   width: 20%;
 }
 
+.similar-player-elem:hover {
+  background: #e2e2e2;
+  border-radius: 1.4em
+}
+
 .player-name-small {  
   text-align: center;
   color: #337ab7;
@@ -321,7 +326,7 @@
   color: #337ab7;
   font-size: 1.2em;
   text-transform: uppercase;
-  margin-bottom: 1.5em;
+  margin: 1.5em 0;
   font-weight: 500;
 }
 

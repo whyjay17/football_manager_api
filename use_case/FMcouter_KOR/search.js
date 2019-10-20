@@ -11,6 +11,12 @@ chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
         document.getElementById(`search-button`).addEventListener("click", () => {
             fetchPlayerInfo(document.getElementById(`input-text`).value)
         })
+        document.querySelector('#input-text').addEventListener('keypress', (e) => {
+            let key = e.which || e.keyCode;
+            if (key === 13) { // 13 is Enter
+                fetchPlayerInfo(document.getElementById(`input-text`).value)
+            } 
+        })
     } else {
         document.getElementById(`player_name`).innerHTML = "다음 선수를 찾으십니까?"
 
@@ -39,6 +45,12 @@ chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
             }
             document.getElementById(`search-button`).addEventListener("click", () => {
                 fetchPlayerInfo(document.getElementById(`input-text`).value)
+            })
+            document.querySelector('#input-text').addEventListener('keypress', (e) => {
+                let key = e.which || e.keyCode;
+                if (key === 13) { // 13 is Enter
+                    fetchPlayerInfo(document.getElementById(`input-text`).value)
+                } 
             })
         })
     }
