@@ -1,7 +1,5 @@
 chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (data) => {
     // data = list of possible players
-    console.log('DATA', data)
-    console.log(data.selected_player_info.profile_img)
     document.getElementById("alternative-page-profile").innerHTML +=
         `
         <center>
@@ -125,7 +123,6 @@ const fetchById = (id) => {
         fetch(url, myInit)
             .then(response => response.json())
             .then(responseText => {
-                console.log('FETCH BY ID', responseText)
                 // Store user data into a temp storage
                 chrome.storage.sync.set({ 'player_info': responseText.result }, function () {});
                 chrome.storage.sync.set({ 'selected_player_info': responseText.result }, function () {
