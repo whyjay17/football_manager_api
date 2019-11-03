@@ -1,3 +1,19 @@
+const header = new Headers({
+    'Access-Control-Allow-Origin': '*',
+    'Content-Type': 'application/json'
+});
+
+const myInit = {
+    method: 'GET',
+    headers: header,
+    mode: 'cors',
+    cache: 'default'
+};
+
+const fixedEncodeURI = (str) => {
+    return encodeURI(str).replace(/%5B/g, '[').replace(/%5D/g, ']');
+}
+
 const format_birthdate = (bdate) => {
     let bdate_arr = bdate.split('/')
     let yr = bdate_arr[2]
@@ -42,5 +58,19 @@ window.onload = () => {
             document.getElementById("weakness").innerHTML +=
                 `<span class="label label-danger"> ${summary.weakness[i][0]}: ${summary.weakness[i][1]} </span>`;
         }
+        url = 'https://fm-api-heroku.herokuapp.com/api/v1/alternatives/' + fixedEncodeURI(data.selected_player_info.name)
+        return new Promise((reslove, reject) => {
+            fetch(url, myInit)
+                .then(response => response.json())
+                .then(responseText => {
+                    chrome.storage.sync.set({ 'close': responseText.result.close }, function () { });
+                    chrome.storage.sync.set({ 'upper': responseText.result.upper }, function () { });
+                    chrome.storage.sync.set({ 'lower': responseText.result.lower }, function () { });
+                }).catch(err => {
+                    reject(err);
+                });
+        }).catch(err => {
+            console.log(err);
+        });
     });
 }
