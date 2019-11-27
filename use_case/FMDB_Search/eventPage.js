@@ -1,6 +1,6 @@
 var menuItem = {
-    "id": "FMcouter",
-    "title": "FMcouter",
+    "id": "FMDB Search",
+    "title": "FMDB Search",
     "contexts": ["selection"]
 };
 
@@ -10,8 +10,8 @@ var popupWindow = {
     "type": "popup",
     "top": 0,
     "left": screen.availWidth,
-    "width": 590,
-    "height": 585
+    "width": 610,
+    "height": 675
 };
 
 var search_url = 'search.html'
@@ -20,8 +20,8 @@ var searchWindow = {
     "type": "popup",
     "top": 0,
     "left": screen.availWidth,
-    "width": 590,
-    "height": 585
+    "width": 610,
+    "height": 675
 };
 
 chrome.contextMenus.create(menuItem);
@@ -43,7 +43,7 @@ chrome.contextMenus.onClicked.addListener(function (clickData) {
         cache: 'default'
     };
 
-    url = 'https://fm-api-heroku.herokuapp.com/api/v1/players/' + fixedEncodeURI(clickData.selectionText)
+    url = 'https://fm-api-heroku.herokuapp.com/api/v2/players/' + fixedEncodeURI(clickData.selectionText)
 
     return new Promise((reslove, reject) => {
         fetch(url, myInit)

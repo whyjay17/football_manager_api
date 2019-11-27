@@ -1,7 +1,36 @@
+body {
+    min-width: 610px;
+}
+
+html {
+  background-color: #352257;
+}
+
 .card {
   background-color: #fff;
-  border: 1px solid transparent;
-  border-radius: 6px;
+  /* border-radius: 6px; */
+}
+
+/* attribute colors */
+
+.high-attr {
+  font-weight: 400;
+  color: #0AFF6F;
+}
+
+.avg-attr {
+  font-weight: 400;
+  color: #EFF33B;
+}
+
+.low-attr {
+  font-weight: 400;
+  color: #F4F4F4;
+}
+
+.list-group-item-header {
+  color: #EFF33B;
+  font-weight: 700;
 }
 
 .similar-player-elem {
@@ -9,17 +38,22 @@
   width: 20%;
 }
 
+.similar-player-name-elem {
+  display: inline-block;
+  width: 20%;
+}
+
 .similar-player-elem:hover {
-  background: #e2e2e2;
+  background: #422b6b;
   border-radius: 1.4em
 }
 
 .player-name-small {  
   text-align: center;
-  color: #337ab7;
+  color: #F1C40F;
   font-size: 0.85em;
   text-transform: uppercase;
-  line-height: 0.7em;
+  line-height: 0.95em;
   margin-top: .75em;
   margin-bottom: .25em;
 }
@@ -55,6 +89,16 @@
   float: right;
 }
 
+.list-group-item-cell {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  border: 1px solid #ddd;
+  background-color: #352257;
+  color: #fff;
+}
+
 .list-group {
   width: 100%;
 }
@@ -88,8 +132,12 @@
   height: 80px;
 }
 
+.glyphicon-star-yellow {
+  color: #F1C40F;
+}
+
 .card>.card-link {
-  color: #333;
+  color: #fff;
 }
 
 .card>.card-link:hover {
@@ -117,6 +165,7 @@
   display: table;
   width: 100%;
   padding: 12px;
+  color: #fff;
 }
 
 .card .card-header {
@@ -162,7 +211,7 @@
 
 .card .card-body .lead {
   text-align: center;
-  color: #337ab7;
+  color: #F1C40F;
 }
 
 @media(min-width: 768px) {
@@ -226,7 +275,7 @@
 
 .card-default>.card-header,
 .card-default>.card-footer {
-  color: #333;
+  color: #fff;
   background-color: #ddd;
 }
 
@@ -265,17 +314,16 @@
 }
 
 
-/* -- price theme ------ */
 .card-price {
   border-color: #999;
-  background-color: #ededed;
+  background-color: #352257;
   margin-bottom: 24px;
 }
 
 .card-price>.card-heading,
 .card-price>.card-footer {
-  color: #333;
-  background-color: #fdfdfd;
+  color: #fff;
+  background-color: #352257;
 }
 
 .card-price>.card-heading {
@@ -312,7 +360,7 @@
 
 .price-small {
   text-align: center;
-  color: #337ab7;
+  color: #F1C40F;
   font-size: 1em;
   text-transform: uppercase;
   line-height: 0.7em;
@@ -322,7 +370,7 @@
 
 .alternative-subtitle {
   text-align: center;
-  color: #337ab7;
+  color: #F1C40F;
   font-size: 1.2em;
   text-transform: uppercase;
   margin: 1.5em 0;
@@ -331,7 +379,7 @@
 
 .card-price .price {
   text-align: center;
-  color: #337ab7;
+  color: #F1C40F;
   font-size: 2em;
   text-transform: uppercase;
   line-height: 0.7em;
@@ -357,6 +405,8 @@
 
 .card-price .buy-now {
   text-transform: uppercase;
+  background-color: #F1C40F;
+  color: #352257;
 }
 
 .card-price table .price {

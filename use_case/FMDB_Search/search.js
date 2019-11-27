@@ -5,7 +5,7 @@ const fixedEncodeURI = (str) => {
 chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
     // data = list of possible players
     let count = data.result_count
-    if (count === 'empty' || data.player_info === 'failure') {
+    if (count === 'empty' || (data.player_info === 'failure' || data.player_info === undefined)) {
         document.getElementById(`player_name`).innerHTML = "Player not found"
 
         document.getElementById(`search-button`).addEventListener("click", () => {
@@ -18,8 +18,7 @@ chrome.storage.sync.get(['result_count', 'player_info'], (data) => {
             } 
         })
     } else {
-        document.getElementById(`player_name`).innerHTML = "Are you looking for..."
-
+        document.getElementById(`player_name`).innerHTML = "Database Search"
         // Renders all player info included in the search result
         chrome.storage.sync.get(['player_info'], (data) => {
             // data = list of possible players
@@ -71,7 +70,7 @@ const fetchPlayerInfo = (name) => {
         cache: 'default'
     };
 
-    url = 'https://fm-api-heroku.herokuapp.com/api/v1/players/' + fixedEncodeURI(name)
+    url = 'https://fm-api-heroku.herokuapp.com/api/v2/players/' + fixedEncodeURI(name)
 
     return new Promise((reslove, reject) => {
         fetch(url, myInit)

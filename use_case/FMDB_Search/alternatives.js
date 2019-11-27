@@ -1,3 +1,4 @@
+
 chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (data) => {
     // data = list of possible players
     document.getElementById("alternative-page-profile").innerHTML +=
@@ -27,17 +28,25 @@ chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (da
             `
     }
     for (let i = 0; i < close_player_arr.length; i++) {
+
         document.getElementById("close-player-wrapper").innerHTML +=
-            // structure A[0]: name, A[1]: _id, A[2]: profile_img
+            // structure A[0]: name, A[1]: _id, A[2]: profile_img /https://df11img.s3-us-west-1.amazonaws.com/115830.png.png
             `
             <div id="player-id-${close_player_arr[i][1]}" class="similar-player-elem">
-                <img class="small-img img-responsive" src="${close_player_arr[i][2]}">
+                <img id="img-id-${close_player_arr[i][1]}" class="small-img img-responsive" src="https://df11img.s3-us-west-1.amazonaws.com/${close_player_arr[i][1]}.png" onerror="this.onerror=null;this.src='https://df11img.s3-us-west-1.amazonaws.com/default.png';">
+            </div> 
+            `
+        document.getElementById("close-player-names").innerHTML +=
+            // structure A[0]: name, A[1]: _id, A[2]: profile_img /https://df11img.s3-us-west-1.amazonaws.com/115830.png.png
+            `
+            <div id="player-id-${close_player_arr[i][1]}" class="similar-player-name-elem">
                 <div id="player-name" class="player-name-small">
                     ${close_player_arr[i][0]}
                 </div>
             </div> 
             `
     }
+
     for (let i = 0; i < close_player_arr.length; i++) {
         document.getElementById(`player-id-${close_player_arr[i][1]}`).addEventListener("click", () => {
             fetchById(`${close_player_arr[i][1]}`)
@@ -60,7 +69,13 @@ chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (da
             // structure A[0]: name, A[1]: _id, A[2]: profile_img
             `
             <div id="player-id-${upper_player_arr[i][1]}" class="similar-player-elem">
-                <img class="small-img img-responsive" src="${upper_player_arr[i][2]}">
+                <img id="img-id-${upper_player_arr[i][1]}" class="small-img img-responsive" src="https://df11img.s3-us-west-1.amazonaws.com/${upper_player_arr[i][1]}.png" onerror="this.onerror=null;this.src='https://df11img.s3-us-west-1.amazonaws.com/default.png';">
+            </div>
+            `
+        document.getElementById("upper-player-names").innerHTML +=
+            // structure A[0]: name, A[1]: _id, A[2]: profile_img /https://df11img.s3-us-west-1.amazonaws.com/115830.png.png
+            `
+            <div id="player-id-${upper_player_arr[i][1]}" class="similar-player-name-elem">
                 <div id="player-name" class="player-name-small">
                     ${upper_player_arr[i][0]}
                 </div>
@@ -89,7 +104,13 @@ chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (da
             // structure A[0]: name, A[1]: _id, A[2]: profile_img
             `
             <div id="player-id-${lower_player_arr[i][1]}" class="similar-player-elem">
-                <img class="small-img img-responsive" src="${lower_player_arr[i][2]}">
+                <img id="img-id-${lower_player_arr[i][1]}" class="small-img img-responsive" src="https://df11img.s3-us-west-1.amazonaws.com/${lower_player_arr[i][1]}.png" onerror="myFunction()">
+            </div>
+            `
+        document.getElementById("lower-player-names").innerHTML +=
+            // structure A[0]: name, A[1]: _id, A[2]: profile_img /https://df11img.s3-us-west-1.amazonaws.com/115830.png.png
+            `
+            <div id="player-id-${lower_player_arr[i][1]}" class="similar-player-name-elem">
                 <div id="player-name" class="player-name-small">
                     ${lower_player_arr[i][0]}
                 </div>
@@ -101,6 +122,7 @@ chrome.storage.sync.get(['selected_player_info', 'close', 'upper', 'lower'], (da
             fetchById(`${lower_player_arr[i][1]}`)
         })
     }
+
 
 })
 
@@ -117,14 +139,14 @@ const fetchById = (id) => {
         cache: 'default'
     };
 
-    url = 'https://fm-api-heroku.herokuapp.com/api/v1/player/' + id
+    url = 'https://fm-api-heroku.herokuapp.com/api/v2/player/' + id
 
     return new Promise((reslove, reject) => {
         fetch(url, myInit)
             .then(response => response.json())
             .then(responseText => {
                 // Store user data into a temp storage
-                chrome.storage.sync.set({ 'player_info': responseText.result }, function () {});
+                chrome.storage.sync.set({ 'player_info': responseText.result }, function () { });
                 chrome.storage.sync.set({ 'selected_player_info': responseText.result }, function () {
                     window.location.replace("popup.html");
                 });
