@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46782.png",
+  "name": "Han Seung-Gyu",
+  "birth_date": "28/9/1996",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "한 승 규",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

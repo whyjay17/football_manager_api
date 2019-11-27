@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59027.png",
+  "name": "Alberto Quintana",
+  "birth_date": "29/4/1996",
+  "nation": "Spain",
+  "position": "M (RLC), AM (C)",
+  "foot": "Left",
+  "korean": "알 베 르 토 퀸 타 나",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 3,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

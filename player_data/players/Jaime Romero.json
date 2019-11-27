@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19373.png",
+  "name": "Jaime Romero",
+  "birth_date": "31/7/1990",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "하 이 메 로 메 로",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6015.png",
+  "name": "Mikael Ishak",
+  "birth_date": "31/3/1993",
+  "nation": "Sweden",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "미 카 엘 이 삭",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

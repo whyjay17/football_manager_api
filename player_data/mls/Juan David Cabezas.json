@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49598.png",
+  "name": "Juan David Cabezas",
+  "birth_date": "27/2/1991",
+  "nation": "Colombia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "후 안 데 이 비 드 카 베 자 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

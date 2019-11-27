@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11629.png",
+  "name": "Karlan Grant",
+  "birth_date": "18/9/1997",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "카 를 란 그 랜 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

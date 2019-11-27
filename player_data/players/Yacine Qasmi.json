@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59568.png",
+  "name": "Yacine Qasmi",
+  "birth_date": "3/1/1991",
+  "nation": "Morocco",
+  "position": "AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "야 신 카 스 미",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

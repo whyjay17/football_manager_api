@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46739.png",
+  "name": "Yoo Ju-Ahn",
+  "birth_date": "1/10/1998",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "유 주 안",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 7,
+      "Flair": 14,
+      "Leadership": 1,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

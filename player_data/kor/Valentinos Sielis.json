@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46372.png",
+  "name": "Valentinos Sielis",
+  "birth_date": "1/3/1990",
+  "nation": "Cyprus",
+  "position": "D (LC), DM",
+  "foot": "Left Only",
+  "korean": "발 렌 티 노 스 시 엘 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

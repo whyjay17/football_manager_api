@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1124.png",
+  "name": "Sergi Roberto",
+  "birth_date": "7/2/1992",
+  "nation": "Spain",
+  "position": "D/WB (R), DM, M (RC)",
+  "foot": "Right",
+  "korean": "세 르 기 로 베 르 토",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 17,
+      "Strength": 11
+    }
+  }
+}

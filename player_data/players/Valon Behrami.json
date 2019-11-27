@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23021.png",
+  "name": "Valon Behrami",
+  "birth_date": "19/4/1985",
+  "nation": "Switzerland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "발 론 베 라 미",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

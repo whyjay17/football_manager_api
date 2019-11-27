@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2758.png",
+  "name": "Yusuf Erdoğan",
+  "birth_date": "7/8/1992",
+  "nation": "Turkey",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "유 수 프 에 르 도 안",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 3,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 7,
+      "Bravery": 14,
+      "Composure": 5,
+      "Concentration": 14,
+      "Decisions": 4,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

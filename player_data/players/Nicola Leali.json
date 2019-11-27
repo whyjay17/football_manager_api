@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35280.png",
+  "name": "Nicola Leali",
+  "birth_date": "17/2/1993",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "니 콜 라 레 알 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

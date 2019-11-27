@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7005.png",
+  "name": "William",
+  "birth_date": "3/4/1995",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "윌 리 엄",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

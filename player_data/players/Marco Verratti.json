@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8093.png",
+  "name": "Marco Verratti",
+  "birth_date": "5/11/1992",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 르 코 베 라 티",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 17,
+      "Dribbling": 16,
+      "Finishing": 8,
+      "First Touch": 17,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 18,
+      "Penalty Taking": 15,
+      "Tackling": 13,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 17,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 18,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 18,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 16,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

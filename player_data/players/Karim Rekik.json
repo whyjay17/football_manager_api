@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6504.png",
+  "name": "Karim Rekik",
+  "birth_date": "2/12/1994",
+  "nation": "Netherlands",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "카 림 레 키 크",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

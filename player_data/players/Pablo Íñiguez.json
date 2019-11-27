@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58981.png",
+  "name": "Pablo Íñiguez",
+  "birth_date": "20/1/1994",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Left Only",
+  "korean": "파 블 로 이 니 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 7,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 3,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

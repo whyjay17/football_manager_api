@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8443.png",
+  "name": "Yannick Cahuzac",
+  "birth_date": "18/1/1985",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "야 닉 카 후 작",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58807.png",
+  "name": "Marc Cucurella",
+  "birth_date": "22/7/1998",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "마 크 쿠 쿠 렐 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

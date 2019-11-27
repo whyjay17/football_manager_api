@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22588.png",
+  "name": "Duván Zapata",
+  "birth_date": "1/4/1991",
+  "nation": "Colombia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "두 반 사 파 타",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 16,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 18,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 18
+    }
+  }
+}

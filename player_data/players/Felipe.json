@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6434.png",
+  "name": "Felipe",
+  "birth_date": "15/5/1987",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "펠 리 페",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

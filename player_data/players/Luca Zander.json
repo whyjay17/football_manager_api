@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25259.png",
+  "name": "Luca Zander",
+  "birth_date": "9/8/1995",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "루 카 잔 더",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

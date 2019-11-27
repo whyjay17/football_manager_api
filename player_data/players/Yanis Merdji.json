@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25848.png",
+  "name": "Yanis Merdji",
+  "birth_date": "29/10/1993",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "야 니 스 메 르 지",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

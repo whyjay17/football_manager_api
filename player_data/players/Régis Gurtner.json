@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7057.png",
+  "name": "Régis Gurtner",
+  "birth_date": "8/12/1986",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "레 지 스 거 트 너",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

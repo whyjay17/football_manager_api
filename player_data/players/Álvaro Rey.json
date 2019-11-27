@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58535.png",
+  "name": "Álvaro Rey",
+  "birth_date": "11/7/1989",
+  "nation": "Spain",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "알 바 로 레 이",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25069.png",
+  "name": "Stefan Thesker",
+  "birth_date": "11/4/1991",
+  "nation": "Germany",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "스 테 판 테 스 커",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 16,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

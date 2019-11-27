@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35553.png",
+  "name": "Eugenio Lamanna",
+  "birth_date": "7/8/1989",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "에 우 제 니 오 라 마 나",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 15,
+      "Eccentricity": 7,
+      "First Touch": 4,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 7,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 11,
+      "Off The Ball": 4,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25895.png",
+  "name": "Faycal Rherras",
+  "birth_date": "7/4/1993",
+  "nation": "Morocco",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Right",
+  "korean": "페 이 칼 헤 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11020.png",
+  "name": "Joel Asoro",
+  "birth_date": "27/4/1999",
+  "nation": "Sweden",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "조 엘 아 소 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

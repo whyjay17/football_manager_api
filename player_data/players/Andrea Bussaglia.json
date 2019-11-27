@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34435.png",
+  "name": "Andrea Bussaglia",
+  "birth_date": "28/5/1997",
+  "nation": "Italy",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "안 드 레 아 부 사 글 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

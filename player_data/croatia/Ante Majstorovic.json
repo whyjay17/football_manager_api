@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48176.png",
+  "name": "Ante Majstorovic",
+  "birth_date": "6/11/1993",
+  "nation": "Croatia",
+  "position": "D (RC), DM",
+  "foot": "Right",
+  "korean": "안 테 마 즈 스 토 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

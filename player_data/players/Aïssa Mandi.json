@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/523.png",
+  "name": "Aïssa Mandi",
+  "birth_date": "22/10/1991",
+  "nation": "Algeria",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "아 이 사 만 디",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 15,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 16,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

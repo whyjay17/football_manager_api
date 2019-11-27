@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7932.png",
+  "name": "Ousseynou Ndiaye",
+  "birth_date": "24/11/1998",
+  "nation": "Senegal",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "오 세 이 누 은 디 아 예",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

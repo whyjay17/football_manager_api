@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2812.png",
+  "name": "Salih Uçan",
+  "birth_date": "6/1/1994",
+  "nation": "Turkey",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "살 리 우 산",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

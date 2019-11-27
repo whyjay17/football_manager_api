@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6772.png",
+  "name": "Amine Harit",
+  "birth_date": "18/6/1997",
+  "nation": "Morocco",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "아 민 하 리 트",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 10,
+      "First Touch": 17,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35372.png",
+  "name": "Edgar Elizalde",
+  "birth_date": "27/2/2000",
+  "nation": "Uruguay",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "에 드 가 엘 리 잘 데",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34700.png",
+  "name": "Marcos Curado",
+  "birth_date": "9/5/1995",
+  "nation": "Argentina",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "마 르 코 스 쿠 라 도",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

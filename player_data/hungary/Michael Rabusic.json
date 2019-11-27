@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56927.png",
+  "name": "Michael Rabusic",
+  "birth_date": "17/9/1989",
+  "nation": "Czech Republic",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "미 하 엘 라 부 시 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

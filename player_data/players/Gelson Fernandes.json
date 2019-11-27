@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6218.png",
+  "name": "Gelson Fernandes",
+  "birth_date": "2/9/1986",
+  "nation": "Switzerland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "겔 슨 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 17,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 15,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

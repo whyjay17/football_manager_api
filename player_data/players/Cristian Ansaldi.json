@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22907.png",
+  "name": "Cristian Ansaldi",
+  "birth_date": "20/9/1986",
+  "nation": "Argentina",
+  "position": "D (RL), WB (L)",
+  "foot": "Either",
+  "korean": "크 리 스 티 안 안 살 디",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

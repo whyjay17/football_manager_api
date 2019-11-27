@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35379.png",
+  "name": "Valentino Cernaz",
+  "birth_date": "19/6/1998",
+  "nation": "Argentina",
+  "position": "AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "발 렌 티 노 세 르 나 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

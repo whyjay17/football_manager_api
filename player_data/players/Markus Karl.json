@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25222.png",
+  "name": "Markus Karl",
+  "birth_date": "14/2/1986",
+  "nation": "Germany",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "마 르 쿠 스 칼",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

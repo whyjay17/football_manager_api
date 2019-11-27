@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6889.png",
+  "name": "Lukas Rupp",
+  "birth_date": "8/1/1991",
+  "nation": "Germany",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "루 카 스 루 프",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 7
+    }
+  }
+}

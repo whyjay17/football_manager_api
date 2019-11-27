@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35664.png",
+  "name": "Francesco Cernuto",
+  "birth_date": "25/1/1992",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "프 란 체 스 코 세 르 누 토",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 6,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

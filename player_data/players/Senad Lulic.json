@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22109.png",
+  "name": "Senad Lulic",
+  "birth_date": "18/1/1986",
+  "nation": "Bosnia and Herzegovina",
+  "position": "D (L), WB (RL), M (LC), AM (L)",
+  "foot": "Right",
+  "korean": "세 나 드 룰 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 2,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 18,
+      "Off The Ball": 17,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

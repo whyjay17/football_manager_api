@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26238.png",
+  "name": "Valentin Wojtkowiak",
+  "birth_date": "14/6/1997",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "발 렌 틴 워 트 코 위 악",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 7,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

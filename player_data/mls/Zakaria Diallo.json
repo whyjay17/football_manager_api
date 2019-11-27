@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49716.png",
+  "name": "Zakaria Diallo",
+  "birth_date": "13/8/1986",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "자 카 리 아 다 이 얼 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

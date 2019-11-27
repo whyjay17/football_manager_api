@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25221.png",
+  "name": "Nejmeddin Daghfous",
+  "birth_date": "1/10/1986",
+  "nation": "Tunisia",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "네 이 메 딘 다 그 후 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

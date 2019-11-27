@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6984.png",
+  "name": "Mario Gómez",
+  "birth_date": "10/7/1985",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "마 리 오 고 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 17,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 17,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

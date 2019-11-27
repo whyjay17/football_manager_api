@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41194.png",
+  "name": "Pierre Kanstrup",
+  "birth_date": "21/2/1989",
+  "nation": "Denmark",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "피 에 르 칸 스 트 루 프",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 16,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

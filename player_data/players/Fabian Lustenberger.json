@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6512.png",
+  "name": "Fabian Lustenberger",
+  "birth_date": "2/5/1988",
+  "nation": "Switzerland",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "파 비 안 루 스 텐 베 르",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 17,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

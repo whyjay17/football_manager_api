@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25985.png",
+  "name": "Serigne Fallou Niang",
+  "birth_date": "1/5/1995",
+  "nation": "Senegal",
+  "position": "M/AM (RC)",
+  "foot": "Right Only",
+  "korean": "세 리 뉴 팔 루 니 앙",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 6,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 8,
+      "Pace": 15,
+      "Stamina": 7,
+      "Strength": 12
+    }
+  }
+}

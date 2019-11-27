@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46380.png",
+  "name": "Seo Myeong-Won",
+  "birth_date": "19/4/1995",
+  "nation": "South Korea KOR",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "서 명 원",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

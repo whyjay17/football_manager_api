@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6487.png",
+  "name": "Hendrik Weydandt",
+  "birth_date": "16/7/1995",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "헨 드 릭 웨 이 단 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 18,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7825.png",
+  "name": "Malang Sarr",
+  "birth_date": "23/1/1999",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "말 랑 사 르",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

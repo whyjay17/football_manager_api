@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48278.png",
+  "name": "Dario Zuparic",
+  "birth_date": "3/5/1992",
+  "nation": "Croatia",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "다 리 오 주 파 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

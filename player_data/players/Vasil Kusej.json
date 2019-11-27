@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24857.png",
+  "name": "Vasil Kusej",
+  "birth_date": "24/5/2000",
+  "nation": "Czech Republic",
+  "position": "AM (C), ST (C)",
+  "foot": "Either",
+  "korean": "바 실 쿠 세 지",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 4
+    }
+  }
+}

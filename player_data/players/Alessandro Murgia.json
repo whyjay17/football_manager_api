@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22115.png",
+  "name": "Alessandro Murgia",
+  "birth_date": "9/8/1996",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 무 르 지 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 17,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

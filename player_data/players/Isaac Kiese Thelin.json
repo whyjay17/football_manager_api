@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6057.png",
+  "name": "Isaac Kiese Thelin",
+  "birth_date": "24/6/1992",
+  "nation": "Sweden",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 이 작 키 제 텔 린",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

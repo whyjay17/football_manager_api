@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6842.png",
+  "name": "Ousman Manneh",
+  "birth_date": "10/3/1997",
+  "nation": "Gambia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "오 스 만 마 네",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 7,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 7,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49519.png",
+  "name": "Federico Higuaín",
+  "birth_date": "25/10/1984",
+  "nation": "Argentina",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "페 데 리 코 이 과 인",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

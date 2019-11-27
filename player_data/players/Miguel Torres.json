@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19860.png",
+  "name": "Miguel Torres",
+  "birth_date": "28/1/1986",
+  "nation": "Spain",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "미 겔 토 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 16,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

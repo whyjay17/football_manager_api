@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52261.png",
+  "name": "Alexandru Ioniţă",
+  "birth_date": "14/12/1994",
+  "nation": "Romania",
+  "position": "AM (RLC)",
+  "foot": "Left Only",
+  "korean": "알 렉 산 드 루 이 오 니 타",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

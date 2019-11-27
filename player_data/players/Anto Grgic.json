@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6952.png",
+  "name": "Anto Grgic",
+  "birth_date": "28/11/1996",
+  "nation": "Switzerland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "안 토 그 르 기 치",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

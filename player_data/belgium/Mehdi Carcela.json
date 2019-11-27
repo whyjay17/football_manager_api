@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21082.png",
+  "name": "Mehdi Carcela",
+  "birth_date": "1/7/1989",
+  "nation": "Morocco",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "메 디 카 르 셀 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 17,
+      "Finishing": 10,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 18,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

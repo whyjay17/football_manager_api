@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53906.png",
+  "name": "Geferson",
+  "birth_date": "13/5/1994",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "제 페 르 손",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

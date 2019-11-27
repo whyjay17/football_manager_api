@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/435.png",
+  "name": "Héctor Moreno",
+  "birth_date": "17/1/1988",
+  "nation": "Mexico",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "헥 토 르 모 레 노",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35755.png",
+  "name": "Ryder Matos",
+  "birth_date": "27/2/1993",
+  "nation": "Brazil",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "라 이 더 마 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

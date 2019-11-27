@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24742.png",
+  "name": "Darko Churlinov",
+  "birth_date": "11/7/2000",
+  "nation": "Macedonia MKD",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Right",
+  "korean": "다 코 슐 리 노 프",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

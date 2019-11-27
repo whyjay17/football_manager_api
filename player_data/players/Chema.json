@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/680.png",
+  "name": "Chema",
+  "birth_date": "3/3/1992",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "케 마 ( 있 는 )",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

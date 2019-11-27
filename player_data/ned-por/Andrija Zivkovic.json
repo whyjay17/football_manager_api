@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23208.png",
+  "name": "Andrija Zivkovic",
+  "birth_date": "Traits",
+  "nation": "Liga NOS",
+  "position": "AM (RLC)",
+  "foot": "",
+  "korean": "안 드 리 야 지 브 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

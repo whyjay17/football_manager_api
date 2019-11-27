@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19241.png",
+  "name": "Nano",
+  "birth_date": "27/10/1984",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "나 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

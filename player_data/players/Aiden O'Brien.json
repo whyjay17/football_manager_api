@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10302.png",
+  "name": "Aiden O'Brien",
+  "birth_date": "4/10/1993",
+  "nation": "Republic of Ireland",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "에 이 든 오 브 라 이 언",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

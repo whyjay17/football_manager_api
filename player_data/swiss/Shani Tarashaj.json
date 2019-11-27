@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41762.png",
+  "name": "Shani Tarashaj",
+  "birth_date": "7/2/1995",
+  "nation": "Switzerland",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "샤 니 타 라 샤 이",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

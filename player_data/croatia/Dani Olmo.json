@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47895.png",
+  "name": "Dani Olmo",
+  "birth_date": "7/5/1998",
+  "nation": "Spain",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "다 니 올 모",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

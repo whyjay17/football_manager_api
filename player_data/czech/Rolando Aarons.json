@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40921.png",
+  "name": "Rolando Aarons",
+  "birth_date": "16/11/1995",
+  "nation": "England",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "롤 랜 도 애 런 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 6,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57052.png",
+  "name": "Anderson Pico",
+  "birth_date": "4/11/1988",
+  "nation": "Brazil",
+  "position": "D (RL), WB (L)",
+  "foot": "Either",
+  "korean": "안 데 르 손 피 코",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 14,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 6,
+      "Pace": 10,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

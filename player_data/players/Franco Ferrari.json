@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34227.png",
+  "name": "Franco Ferrari",
+  "birth_date": "10/8/1995",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "프 랑 코 페 라 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52445.png",
+  "name": "Diogo Salomao",
+  "birth_date": "14/9/1988",
+  "nation": "Portugal",
+  "position": "M (L), AM (RL)",
+  "foot": "Left",
+  "korean": "디 오 고 살 로 망",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

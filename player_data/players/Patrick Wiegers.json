@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24855.png",
+  "name": "Patrick Wiegers",
+  "birth_date": "19/4/1990",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "패 트 릭 위 거 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 4,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 7,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

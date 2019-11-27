@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24722.png",
+  "name": "Frederik Sørensen",
+  "birth_date": "14/4/1992",
+  "nation": "Denmark",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "프 레 데 릭 쇠 렌 센",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 17,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 7,
+      "Balance": 14,
+      "Jumping Reach": 18,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

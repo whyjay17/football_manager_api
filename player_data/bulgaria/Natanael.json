@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54114.png",
+  "name": "Natanael",
+  "birth_date": "25/12/1990",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "나 타 나 엘",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 9,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

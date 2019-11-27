@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19133.png",
+  "name": "Mathías Olivera",
+  "birth_date": "31/10/1997",
+  "nation": "Uruguay",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "마 티 아 스 올 리 버 라",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

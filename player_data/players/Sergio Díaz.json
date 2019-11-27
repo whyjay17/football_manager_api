@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58067.png",
+  "name": "Sergio Díaz",
+  "birth_date": "5/3/1998",
+  "nation": "Paraguay",
+  "position": "AM (C), ST (C)",
+  "foot": "Right Only",
+  "korean": "세 르 지 오 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

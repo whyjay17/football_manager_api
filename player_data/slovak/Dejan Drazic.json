@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53256.png",
+  "name": "Dejan Drazic",
+  "birth_date": "26/9/1995",
+  "nation": "Serbia",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "데 얀 드 라 지 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35773.png",
+  "name": "Simone Calvano",
+  "birth_date": "11/7/1993",
+  "nation": "Italy",
+  "position": "DM, M (RLC)",
+  "foot": "Right Only",
+  "korean": "시 몬 칼 바 노",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

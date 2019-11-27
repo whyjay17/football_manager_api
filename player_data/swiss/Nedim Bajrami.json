@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41765.png",
+  "name": "Nedim Bajrami",
+  "birth_date": "28/2/1999",
+  "nation": "Switzerland",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "네 딤 바 이 라 미",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

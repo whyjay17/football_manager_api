@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21206.png",
+  "name": "Etrit Berisha",
+  "birth_date": "10/3/1989",
+  "nation": "Albania",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "에 트 리 트 베 리 샤",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 14,
+      "Eccentricity": 15,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 16,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

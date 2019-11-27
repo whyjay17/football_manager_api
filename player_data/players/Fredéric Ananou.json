@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25117.png",
+  "name": "Fredéric Ananou",
+  "birth_date": "20/9/1997",
+  "nation": "Germany",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "프 레 데 릭 아 나 누",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

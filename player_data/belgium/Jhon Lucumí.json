@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20667.png",
+  "name": "Jhon Lucumí",
+  "birth_date": "26/6/1998",
+  "nation": "Colombia",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "혼 루 쿠 미",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

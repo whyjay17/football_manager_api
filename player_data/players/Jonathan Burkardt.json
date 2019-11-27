@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6600.png",
+  "name": "Jonathan Burkardt",
+  "birth_date": "11/7/2000",
+  "nation": "Germany",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "조 선 버 커 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

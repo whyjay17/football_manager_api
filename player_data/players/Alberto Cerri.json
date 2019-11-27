@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22039.png",
+  "name": "Alberto Cerri",
+  "birth_date": "16/4/1996",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "알 베 르 토 세 리",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

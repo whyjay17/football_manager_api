@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49967.png",
+  "name": "Shea Salinas",
+  "birth_date": "24/6/1986",
+  "nation": "United States",
+  "position": "D (L), M/AM (RL)",
+  "foot": "Either",
+  "korean": "시 어 살 리 나 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 6,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 6,
+      "Decisions": 7,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

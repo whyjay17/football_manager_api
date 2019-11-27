@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49933.png",
+  "name": "Tony Beltran",
+  "birth_date": "11/10/1987",
+  "nation": "United States",
+  "position": "D (RL)",
+  "foot": "Either",
+  "korean": "토 니 벨 트 란",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 1,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

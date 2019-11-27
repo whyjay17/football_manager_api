@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7042.png",
+  "name": "Marvin Stefaniak",
+  "birth_date": "3/2/1995",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "마 빈 스 테 파 니 악",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

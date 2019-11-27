@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6026.png",
+  "name": "Aleksandar Dragovic",
+  "birth_date": "6/3/1991",
+  "nation": "Austria",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "알 렉 산 다 르 드 라 고 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 17,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12037.png",
+  "name": "Jamie Walker",
+  "birth_date": "25/6/1993",
+  "nation": "Scotland",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "제 이 미 워 커",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

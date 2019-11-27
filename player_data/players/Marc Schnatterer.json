@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25036.png",
+  "name": "Marc Schnatterer",
+  "birth_date": "18/11/1985",
+  "nation": "Germany",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "마 크 슈 내 터",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 17,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

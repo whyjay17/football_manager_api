@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25054.png",
+  "name": "Kevin Lankford",
+  "birth_date": "16/11/1998",
+  "nation": "Germany",
+  "position": "M (RC), AM (R)",
+  "foot": "Right Only",
+  "korean": "케 빈 랭 크 포 드",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

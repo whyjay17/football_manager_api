@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/633.png",
+  "name": "Dani Ceballos",
+  "birth_date": "7/8/1996",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "다 니 세 발 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

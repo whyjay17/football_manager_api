@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26358.png",
+  "name": "Adama Traoré",
+  "birth_date": "5/6/1995",
+  "nation": "Mali",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "아 다 마 트 라 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 2,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 1,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

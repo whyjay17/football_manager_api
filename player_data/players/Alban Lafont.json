@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21703.png",
+  "name": "Alban Lafont",
+  "birth_date": "23/1/1999",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 반 라 폰 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 2,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 16,
+      "Rushing Out": 14,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

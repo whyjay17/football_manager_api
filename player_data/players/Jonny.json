@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1281.png",
+  "name": "Jonny",
+  "birth_date": "3/3/1994",
+  "nation": "Spain",
+  "position": "D (RLC), WB (RL)",
+  "foot": "Right",
+  "korean": "쟈 니",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

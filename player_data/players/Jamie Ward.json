@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11619.png",
+  "name": "Jamie Ward",
+  "birth_date": "12/5/1986",
+  "nation": "Northern Ireland",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "제 이 미 워 드",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

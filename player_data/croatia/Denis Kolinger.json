@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48168.png",
+  "name": "Denis Kolinger",
+  "birth_date": "14/1/1994",
+  "nation": "Croatia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "데 니 스 콜 링 거",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 15,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 19,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

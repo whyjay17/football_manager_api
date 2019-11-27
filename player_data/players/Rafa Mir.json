@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19794.png",
+  "name": "Rafa Mir",
+  "birth_date": "18/6/1997",
+  "nation": "Spain",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "라 파 미 르",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

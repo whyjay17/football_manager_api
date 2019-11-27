@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26592.png",
+  "name": "Lalaïna Nomenjanahary",
+  "birth_date": "16/1/1986",
+  "nation": "Madagascar",
+  "position": "M (L), AM (RL)",
+  "foot": "Left Only",
+  "korean": "라 라 이 나 노 멘 자 나 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34035.png",
+  "name": "Nahuel Valentini",
+  "birth_date": "19/9/1988",
+  "nation": "Argentina",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "나 우 엘 발 렌 티 니",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

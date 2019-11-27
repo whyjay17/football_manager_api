@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34623.png",
+  "name": "Giampietro Perrulli",
+  "birth_date": "8/6/1985",
+  "nation": "Italy",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "지 암 피 에 트 로 페 룰 리",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

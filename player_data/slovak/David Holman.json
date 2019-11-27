@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53266.png",
+  "name": "David Holman",
+  "birth_date": "17/3/1993",
+  "nation": "Hungary",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "데 이 비 드 홀 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

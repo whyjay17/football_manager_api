@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46414.png",
+  "name": "Choi Young-Jun",
+  "birth_date": "15/12/1991",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "최 영 준",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 12,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 3,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

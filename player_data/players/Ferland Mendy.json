@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7907.png",
+  "name": "Ferland Mendy",
+  "birth_date": "8/6/1995",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "페 를 란 드 멘 디",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

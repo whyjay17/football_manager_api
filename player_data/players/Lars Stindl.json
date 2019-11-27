@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6176.png",
+  "name": "Lars Stindl",
+  "birth_date": "26/8/1988",
+  "nation": "Germany",
+  "position": "M/AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "라 스 스 틴 들",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

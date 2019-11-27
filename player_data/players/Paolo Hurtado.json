@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3066.png",
+  "name": "Paolo Hurtado",
+  "birth_date": "27/7/1990",
+  "nation": "Peru",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "파 올 로 후 르 타 도",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

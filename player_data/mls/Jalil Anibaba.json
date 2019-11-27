@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49750.png",
+  "name": "Jalil Anibaba",
+  "birth_date": "19/10/1988",
+  "nation": "United States",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "잘 릴 아 니 바 바",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 3,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

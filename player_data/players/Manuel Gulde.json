@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6673.png",
+  "name": "Manuel Gulde",
+  "birth_date": "12/2/1991",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 누 엘 굴 데",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

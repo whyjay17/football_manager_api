@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49521.png",
+  "name": "Héctor Jiménez",
+  "birth_date": "3/11/1988",
+  "nation": "United States",
+  "position": "D (RL), WB (R), M (RL)",
+  "foot": "Right",
+  "korean": "헥 터 지 메 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

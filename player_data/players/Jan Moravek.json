@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6282.png",
+  "name": "Jan Moravek",
+  "birth_date": "1/11/1989",
+  "nation": "Czech Republic",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "얀 모 라 벡",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

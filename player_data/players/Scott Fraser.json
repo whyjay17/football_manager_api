@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11564.png",
+  "name": "Scott Fraser",
+  "birth_date": "30/3/1995",
+  "nation": "Scotland",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "스 콧 프 레 이 저",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

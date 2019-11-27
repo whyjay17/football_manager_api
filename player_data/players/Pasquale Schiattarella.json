@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22803.png",
+  "name": "Pasquale Schiattarella",
+  "birth_date": "30/5/1987",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "파 스 칼 레 스 키 아 타 렐 라",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 15,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

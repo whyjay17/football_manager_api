@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46373.png",
+  "name": "Han Kook-Young",
+  "birth_date": "19/4/1990",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "한 국 영",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 6,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24984.png",
+  "name": "Léo Lacroix",
+  "birth_date": "27/2/1992",
+  "nation": "Switzerland",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "레 오 라 크 루 아",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 18,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 17
+    }
+  }
+}

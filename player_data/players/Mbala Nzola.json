@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34327.png",
+  "name": "Mbala Nzola",
+  "birth_date": "18/8/1996",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Left Only",
+  "korean": "음 발 라 은 졸 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 6,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 3,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

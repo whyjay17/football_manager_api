@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35571.png",
+  "name": "Nicolò Manfredini",
+  "birth_date": "1/5/1988",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "니 콜 로 만 프 레 디 니",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 12,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 4,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35361.png",
+  "name": "Andrea Palazzi",
+  "birth_date": "24/2/1996",
+  "nation": "Italy",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "안 드 레 아 팔 라 치",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

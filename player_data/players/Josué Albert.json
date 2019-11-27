@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26031.png",
+  "name": "Josué Albert",
+  "birth_date": "21/1/1992",
+  "nation": "French Guiana",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "조 수 에 알 버 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

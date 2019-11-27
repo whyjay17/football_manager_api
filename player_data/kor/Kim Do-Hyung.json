@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46627.png",
+  "name": "Kim Do-Hyung",
+  "birth_date": "6/10/1990",
+  "nation": "South Korea KOR",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "김 도 형",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

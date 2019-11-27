@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46459.png",
+  "name": "Lee Jeong-Bin",
+  "birth_date": "11/1/1995",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "이 정 빈",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 6,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

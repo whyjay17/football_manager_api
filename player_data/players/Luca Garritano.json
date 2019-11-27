@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34514.png",
+  "name": "Luca Garritano",
+  "birth_date": "11/2/1994",
+  "nation": "Italy",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "루 카 가 리 타 노",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 4,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

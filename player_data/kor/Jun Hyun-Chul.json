@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46332.png",
+  "name": "Jun Hyun-Chul",
+  "birth_date": "3/7/1990",
+  "nation": "South Korea KOR",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "전 현 철",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 5,
+      "Composure": 8,
+      "Concentration": 5,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

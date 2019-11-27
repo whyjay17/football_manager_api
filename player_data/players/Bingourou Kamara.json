@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8355.png",
+  "name": "Bingourou Kamara",
+  "birth_date": "21/10/1996",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "빙 구 루 카 마 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 9,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 9,
+      "Reflexes": 14,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 19,
+      "Flair": 6,
+      "Leadership": 9,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 8,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

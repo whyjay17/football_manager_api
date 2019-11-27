@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19492.png",
+  "name": "Juan Cruz",
+  "birth_date": "28/7/1992",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "후 안 크 루 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

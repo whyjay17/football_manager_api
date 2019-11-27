@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50022.png",
+  "name": "Yohan Croizet",
+  "birth_date": "15/2/1992",
+  "nation": "France",
+  "position": "M/AM (RLC)",
+  "foot": "Left",
+  "korean": "요 한 크 로 이 제",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 15,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35765.png",
+  "name": "Alessandro Crescenzi",
+  "birth_date": "25/9/1991",
+  "nation": "Italy",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 크 레 센 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 14,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

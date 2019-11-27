@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35351.png",
+  "name": "Leonardo Mancuso",
+  "birth_date": "26/5/1992",
+  "nation": "Italy",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "레 오 나 르 도 만 쿠 소",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

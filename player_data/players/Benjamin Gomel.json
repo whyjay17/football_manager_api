@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26232.png",
+  "name": "Benjamin Gomel",
+  "birth_date": "14/5/1998",
+  "nation": "France",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "벤 자 민 고 멜",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 3,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 4,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 1,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 4,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

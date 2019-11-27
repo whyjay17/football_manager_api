@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1279.png",
+  "name": "Filipe Luís",
+  "birth_date": "9/8/1985",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "필 리 페 루 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

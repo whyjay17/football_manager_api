@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20261.png",
+  "name": "Julián Delmás",
+  "birth_date": "20/4/1995",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "줄 리 안 델 마 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25195.png",
+  "name": "Mohamed Dräger",
+  "birth_date": "25/6/1996",
+  "nation": "Tunisia",
+  "position": "D/WB (R), M (RL)",
+  "foot": "Right",
+  "korean": "모 하 메 드 드 레 거",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

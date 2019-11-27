@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26421.png",
+  "name": "Alexis Busin",
+  "birth_date": "7/9/1995",
+  "nation": "France",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "알 렉 시 스 부 신",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

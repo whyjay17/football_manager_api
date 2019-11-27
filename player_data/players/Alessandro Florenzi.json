@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22490.png",
+  "name": "Alessandro Florenzi",
+  "birth_date": "11/3/1991",
+  "nation": "Italy",
+  "position": "D/WB (R), M (RC), AM (R)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 플 로 렌 지",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

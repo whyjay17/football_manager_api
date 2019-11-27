@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6361.png",
+  "name": "Robert Lewandowski",
+  "birth_date": "21/8/1988",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "로 버 트 레 반 도 프 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 17,
+      "First Touch": 18,
+      "Free Kick": 14,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 17,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 15,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 18,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 17,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 20,
+      "Jumping Reach": 13,
+      "Natural Fitness": 19,
+      "Pace": 13,
+      "Stamina": 19,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1245.png",
+  "name": "Borja Bastón",
+  "birth_date": "25/8/1992",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "보 르 자 바 스 톤",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 2,
+      "Passing": 8,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

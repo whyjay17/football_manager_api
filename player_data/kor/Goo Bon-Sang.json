@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46783.png",
+  "name": "Goo Bon-Sang",
+  "birth_date": "4/10/1989",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "구 본 상",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

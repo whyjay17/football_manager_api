@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49985.png",
+  "name": "Raúl Ruidíaz",
+  "birth_date": "25/7/1990",
+  "nation": "Peru",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "라 울 루 이 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 16,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

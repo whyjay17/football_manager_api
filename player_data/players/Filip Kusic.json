@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24890.png",
+  "name": "Filip Kusic",
+  "birth_date": "3/6/1996",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "필 립 쿠 식",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 6,
+      "Dribbling": 1,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 1,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 12,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 15,
+      "Composure": 3,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 7,
+      "Vision": 2,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 6,
+      "Strength": 7
+    }
+  }
+}

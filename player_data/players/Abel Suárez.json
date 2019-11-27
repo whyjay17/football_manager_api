@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59484.png",
+  "name": "Abel Suárez",
+  "birth_date": "11/4/1991",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Left Only",
+  "korean": "아 벨 수 아 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

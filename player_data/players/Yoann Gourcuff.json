@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7504.png",
+  "name": "Yoann Gourcuff",
+  "birth_date": "Unknown",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "",
+  "korean": "요 안 고 커 프",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

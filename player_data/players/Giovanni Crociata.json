@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34709.png",
+  "name": "Giovanni Crociata",
+  "birth_date": "11/8/1997",
+  "nation": "Italy",
+  "position": "M (LC), AM (C)",
+  "foot": "Right",
+  "korean": "조 반 니 크 로 시 아 타",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 4,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

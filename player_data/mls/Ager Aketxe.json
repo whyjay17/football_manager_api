@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50043.png",
+  "name": "Ager Aketxe",
+  "birth_date": "30/12/1993",
+  "nation": "Spain",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Left",
+  "korean": "아 게 르 아 케 트 세",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 18,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

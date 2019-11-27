@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46775.png",
+  "name": "Lee Chang-Yong",
+  "birth_date": "27/8/1990",
+  "nation": "South Korea KOR",
+  "position": "DM",
+  "foot": "Right",
+  "korean": "이 창 용",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24674.png",
+  "name": "Thomas Eisfeld",
+  "birth_date": "18/1/1993",
+  "nation": "Germany",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "토 머 스 이 스 펠 드",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

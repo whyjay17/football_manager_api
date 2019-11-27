@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53901.png",
+  "name": "Kristiyan Malinov",
+  "birth_date": "30/3/1994",
+  "nation": "Bulgaria",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 얀 말 리 노 프",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 11,
+      "Bravery": 19,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

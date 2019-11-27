@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6577.png",
+  "name": "Daniel Brosinski",
+  "birth_date": "17/7/1988",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Either",
+  "korean": "다 니 엘 브 로 신 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 17,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 8
+    }
+  }
+}

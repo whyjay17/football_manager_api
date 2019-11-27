@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8048.png",
+  "name": "Alphonse Areola",
+  "birth_date": "27/2/1993",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 폰 스 아 레 올 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 10,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 14,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

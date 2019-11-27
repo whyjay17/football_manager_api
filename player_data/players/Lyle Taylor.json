@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11623.png",
+  "name": "Lyle Taylor",
+  "birth_date": "29/3/1990",
+  "nation": "Montserrat",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "라 일 테 일 러",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

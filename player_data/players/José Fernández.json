@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19354.png",
+  "name": "José Fernández",
+  "birth_date": "18/11/1989",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "호 세 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 5,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 7
+    }
+  }
+}

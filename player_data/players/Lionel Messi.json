@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1165.png",
+  "name": "Lionel Messi",
+  "birth_date": "24/6/1987",
+  "nation": "Argentina",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "리 오 넬 메 시",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 20,
+      "Finishing": 20,
+      "First Touch": 19,
+      "Free Kick": 19,
+      "Heading": 10,
+      "Long Shots": 17,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 20,
+      "Penalty Taking": 17,
+      "Tackling": 7,
+      "Technique": 20
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 19,
+      "Bravery": 10,
+      "Composure": 18,
+      "Concentration": 13,
+      "Decisions": 20,
+      "Determination": 20,
+      "Flair": 20,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 5,
+      "Teamwork": 14,
+      "Vision": 20,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 20,
+      "Balance": 20,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

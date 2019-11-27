@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34898.png",
+  "name": "Biagio Meccariello",
+  "birth_date": "27/3/1991",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "비 아 지 오 메 카 리 엘 로",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 4,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

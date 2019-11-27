@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25160.png",
+  "name": "Albion Vrenezi",
+  "birth_date": "4/10/1993",
+  "nation": "Kosovo",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "알 비 온 브 레 네 지",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 7,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

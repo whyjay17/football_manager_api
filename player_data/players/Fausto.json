@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19549.png",
+  "name": "Fausto",
+  "birth_date": "8/1/1990",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "파 우 스 토 주",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

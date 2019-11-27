@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8204.png",
+  "name": "Tomas Koubek",
+  "birth_date": "26/8/1992",
+  "nation": "Czech Republic",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "토 마 스 쿠 벡",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 16,
+      "Eccentricity": 11,
+      "First Touch": 7,
+      "Handling": 10,
+      "Kicking": 10,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 16,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 2
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 15
+    }
+  }
+}

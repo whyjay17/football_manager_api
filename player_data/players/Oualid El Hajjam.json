@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7073.png",
+  "name": "Oualid El Hajjam",
+  "birth_date": "19/2/1991",
+  "nation": "Morocco",
+  "position": "D/WB/M (R)",
+  "foot": "Right Only",
+  "korean": "우 알 리 드 엘 하 지 잠",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

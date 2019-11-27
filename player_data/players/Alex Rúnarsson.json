@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7470.png",
+  "name": "Alex Rúnarsson",
+  "birth_date": "18/2/1995",
+  "nation": "Iceland",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 스 루 나 르 손",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 8,
+      "Passing": 16,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 1,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

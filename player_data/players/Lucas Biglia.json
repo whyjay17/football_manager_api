@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22195.png",
+  "name": "Lucas Biglia",
+  "birth_date": "30/1/1986",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 스 비 글 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 16,
+      "Penalty Taking": 15,
+      "Tackling": 15,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 16,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 19,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56881.png",
+  "name": "Kjartan Henry Finnbogason",
+  "birth_date": "9/7/1986",
+  "nation": "Iceland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "캬 르 탄 핀 보 가 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

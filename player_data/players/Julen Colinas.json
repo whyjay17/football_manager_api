@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59741.png",
+  "name": "Julen Colinas",
+  "birth_date": "16/4/1988",
+  "nation": "Spain",
+  "position": "AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "줄 렌 콜 리 나 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34803.png",
+  "name": "Marco Carraro",
+  "birth_date": "9/1/1998",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "마 르 코 카 라 로",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 19,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

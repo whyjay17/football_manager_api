@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22034.png",
+  "name": "Marko Pjaca",
+  "birth_date": "6/5/1995",
+  "nation": "Croatia",
+  "position": "M (L), AM (RLC)",
+  "foot": "Right",
+  "korean": "마 르 코 파 야 카",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 17,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

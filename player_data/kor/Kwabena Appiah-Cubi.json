@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46463.png",
+  "name": "Kwabena Appiah-Cubi",
+  "birth_date": "19/5/1992",
+  "nation": "Australia AUS",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "콰 베 나 아 피 아 쿠 비",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 3,
+      "Passing": 8,
+      "Penalty Taking": 2,
+      "Tackling": 3,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 8,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 4,
+      "Flair": 12,
+      "Leadership": 3,
+      "Off The Ball": 8,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

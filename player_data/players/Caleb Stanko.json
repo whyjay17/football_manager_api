@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6686.png",
+  "name": "Caleb Stanko",
+  "birth_date": "26/7/1993",
+  "nation": "United States",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "케 일 럽 스 탠 코",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

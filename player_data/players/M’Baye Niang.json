@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8273.png",
+  "name": "M’Baye Niang",
+  "birth_date": "19/12/1994",
+  "nation": "Senegal",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "엠 베 이 니 앙",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

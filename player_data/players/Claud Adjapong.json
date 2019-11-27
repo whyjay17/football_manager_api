@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22699.png",
+  "name": "Claud Adjapong",
+  "birth_date": "6/5/1998",
+  "nation": "Italy",
+  "position": "D/WB (RL), M (R)",
+  "foot": "Right",
+  "korean": "클 로 드 아 자 퐁",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

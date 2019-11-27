@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2969.png",
+  "name": "Trezeguet",
+  "birth_date": "1/10/1994",
+  "nation": "Egypt",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "트 레 제 게",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

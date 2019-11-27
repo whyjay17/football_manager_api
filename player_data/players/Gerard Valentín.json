@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19415.png",
+  "name": "Gerard Valentín",
+  "birth_date": "28/7/1993",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "제 라 드 발 렌 틴",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

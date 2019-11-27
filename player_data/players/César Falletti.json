@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35167.png",
+  "name": "César Falletti",
+  "birth_date": "2/12/1992",
+  "nation": "Uruguay",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "세 자 르 팔 레 티",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6129.png",
+  "name": "Alexander Isak",
+  "birth_date": "21/9/1999",
+  "nation": "Sweden",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 더 이 삭",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

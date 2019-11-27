@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2883.png",
+  "name": "Henry Onyekuru",
+  "birth_date": "5/6/1997",
+  "nation": "Nigeria",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "헨 리 오 네 쿠 루",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

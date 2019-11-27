@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23349.png",
+  "name": "Erick",
+  "birth_date": "10/12/1997",
+  "nation": "Brazil",
+  "position": "M (R), AM (RL)",
+  "foot": "Left",
+  "korean": "에 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 6,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

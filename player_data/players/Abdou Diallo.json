@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6075.png",
+  "name": "Abdou Diallo",
+  "birth_date": "4/5/1996",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "압 두 다 이 얼 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

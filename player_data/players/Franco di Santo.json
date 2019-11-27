@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6777.png",
+  "name": "Franco di Santo",
+  "birth_date": "7/4/1989",
+  "nation": "Argentina",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "프 랑 코 디 산 토",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

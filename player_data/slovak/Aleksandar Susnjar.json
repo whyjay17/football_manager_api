@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53367.png",
+  "name": "Aleksandar Susnjar",
+  "birth_date": "19/8/1995",
+  "nation": "Australia AUS",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "알 렉 산 다 르 수 신 야 르",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

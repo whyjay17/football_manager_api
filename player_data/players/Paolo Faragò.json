@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21405.png",
+  "name": "Paolo Faragò",
+  "birth_date": "12/2/1993",
+  "nation": "Italy",
+  "position": "D/WB (R), M (RC)",
+  "foot": "Right",
+  "korean": "파 올 로 파 라 고",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

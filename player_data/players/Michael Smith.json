@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10742.png",
+  "name": "Michael Smith",
+  "birth_date": "17/10/1991",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 이 클 스 미 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

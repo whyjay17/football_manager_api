@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35085.png",
+  "name": "Daniel Cappelletti",
+  "birth_date": "9/10/1991",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "다 니 엘 카 펠 레 티",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

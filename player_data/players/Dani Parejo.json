@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/297.png",
+  "name": "Dani Parejo",
+  "birth_date": "16/4/1989",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "다 니 파 레 호",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 18,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 18,
+      "Penalty Taking": 18,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

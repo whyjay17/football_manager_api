@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34883.png",
+  "name": "Lorenzo Venuti",
+  "birth_date": "12/4/1995",
+  "nation": "Italy",
+  "position": "D (RL), WB (R)",
+  "foot": "Right",
+  "korean": "로 렌 조 베 누 티",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

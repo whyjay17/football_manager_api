@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26618.png",
+  "name": "Idriss Mhirsi",
+  "birth_date": "21/2/1994",
+  "nation": "Tunisia",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "이 드 리 스 미 르 시",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 7,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 4,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

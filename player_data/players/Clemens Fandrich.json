@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24875.png",
+  "name": "Clemens Fandrich",
+  "birth_date": "10/1/1991",
+  "nation": "Germany",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "클 레 멘 스 판 드 리 히",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

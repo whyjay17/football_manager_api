@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22116.png",
+  "name": "Patric",
+  "birth_date": "17/4/1993",
+  "nation": "Spain",
+  "position": "D (RLC), WB (RL)",
+  "foot": "Right",
+  "korean": "패 트 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

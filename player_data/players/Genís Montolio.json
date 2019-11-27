@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59025.png",
+  "name": "Genís Montolio",
+  "birth_date": "23/7/1996",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "제 니 스 몬 텔 리 오",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 3,
+      "Finishing": 1,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 2,
+      "Long Throws": 1,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 4,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 4,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

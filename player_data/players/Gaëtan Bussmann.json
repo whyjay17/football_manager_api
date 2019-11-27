@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6582.png",
+  "name": "Gaëtan Bussmann",
+  "birth_date": "2/2/1991",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "가 에 탄 부 스 만",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

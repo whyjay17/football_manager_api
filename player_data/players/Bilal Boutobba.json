@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7728.png",
+  "name": "Bilal Boutobba",
+  "birth_date": "29/8/1998",
+  "nation": "France",
+  "position": "M (R), AM (RL)",
+  "foot": "Left Only",
+  "korean": "빌 랄 부 토 바",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

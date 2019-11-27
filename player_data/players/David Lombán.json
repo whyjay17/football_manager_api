@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19850.png",
+  "name": "David Lombán",
+  "birth_date": "5/6/1987",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 롬 반",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 7,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

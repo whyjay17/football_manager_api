@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11601.png",
+  "name": "Anfernee Dijksteel",
+  "birth_date": "27/10/1996",
+  "nation": "Netherlands",
+  "position": "D (R), DM",
+  "foot": "Right",
+  "korean": "안 페 르 네 디 크 스 틸",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 4,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

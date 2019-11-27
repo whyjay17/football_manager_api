@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35663.png",
+  "name": "Luca Lezzerini",
+  "birth_date": "24/3/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 카 레 제 리 니",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 12,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

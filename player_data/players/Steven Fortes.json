@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8422.png",
+  "name": "Steven Fortes",
+  "birth_date": "17/4/1992",
+  "nation": "Cape Verde",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "스 티 븐 포 르 테 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

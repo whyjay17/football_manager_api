@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23203.png",
+  "name": "Ljubomir Fejsa",
+  "birth_date": "14/8/1988",
+  "nation": "Serbia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "류 보 미 르 페 이 사",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 18,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 18,
+      "Decisions": 16,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 18,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

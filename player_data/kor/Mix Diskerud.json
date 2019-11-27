@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46762.png",
+  "name": "Mix Diskerud",
+  "birth_date": "5/10/1990",
+  "nation": "United States",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "믹 스 디 스 커 루 드",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

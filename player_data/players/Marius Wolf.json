@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6102.png",
+  "name": "Marius Wolf",
+  "birth_date": "27/5/1995",
+  "nation": "Germany",
+  "position": "WB (R), M/AM (RL)",
+  "foot": "Right",
+  "korean": "마 리 우 스 늑 대",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

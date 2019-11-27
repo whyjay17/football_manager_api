@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21700.png",
+  "name": "Cristiano Biraghi",
+  "birth_date": "1/9/1992",
+  "nation": "Italy",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "크 리 스 티 아 노 비 라 기",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 17,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

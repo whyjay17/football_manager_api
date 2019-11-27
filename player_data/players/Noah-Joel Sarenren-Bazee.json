@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6481.png",
+  "name": "Noah-Joel Sarenren-Bazee",
+  "birth_date": "21/8/1996",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "노 아 조 엘 사 렌 바 지",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

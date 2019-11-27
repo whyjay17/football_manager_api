@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57723.png",
+  "name": "Alex Machuca",
+  "birth_date": "15/1/1998",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Left Only",
+  "korean": "알 렉 스 마 추 카",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

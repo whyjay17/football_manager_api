@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46551.png",
+  "name": "Lee Ju-Yong",
+  "birth_date": "26/9/1992",
+  "nation": "South Korea KOR",
+  "position": "D (R)",
+  "foot": "Right",
+  "korean": "이 주 용",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 8,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

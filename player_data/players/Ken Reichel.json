@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25295.png",
+  "name": "Ken Reichel",
+  "birth_date": "19/12/1986",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "켄 레 이 첼",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 15,
+      "Long Throws": 15,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

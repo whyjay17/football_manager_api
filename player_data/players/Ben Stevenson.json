@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59459.png",
+  "name": "Ben Stevenson",
+  "birth_date": "23/3/1997",
+  "nation": "England",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "벤 스 티 븐 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

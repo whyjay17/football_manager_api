@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49875.png",
+  "name": "Haris Medunjanin",
+  "birth_date": "8/3/1985",
+  "nation": "Bosnia and Herzegovina",
+  "position": "DM, M/AM (C)",
+  "foot": "Left Only",
+  "korean": "하 리 스 메 두 야 닌",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 18,
+      "Free Kick": 15,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 17,
+      "Penalty Taking": 17,
+      "Tackling": 8,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 6,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

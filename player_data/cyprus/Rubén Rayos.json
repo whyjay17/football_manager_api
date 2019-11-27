@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80499.png",
+  "name": "Rubén Rayos",
+  "birth_date": "21/6/1986",
+  "nation": "Spain",
+  "position": "M (C), AM (LC)",
+  "foot": "Left",
+  "korean": "루 벤 라 요 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 16,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 17,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 15,
+      "Bravery": 8,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10421.png",
+  "name": "Saidy Janko",
+  "birth_date": "22/10/1995",
+  "nation": "Switzerland",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "사 이 디 얀 코",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

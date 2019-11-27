@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24922.png",
+  "name": "Nik Omladic",
+  "birth_date": "21/8/1989",
+  "nation": "Slovenia",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "닉 오 믈 라 딕",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 15,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

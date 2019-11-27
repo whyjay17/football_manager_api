@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/768.png",
+  "name": "Recio",
+  "birth_date": "11/1/1991",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "레 시 오 ( 미 국 )",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

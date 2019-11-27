@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35197.png",
+  "name": "Antonino Gallo",
+  "birth_date": "5/1/2000",
+  "nation": "Italy",
+  "position": "D/WB (L), M (LC)",
+  "foot": "Left",
+  "korean": "안 토 니 노 갈 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 5
+    }
+  }
+}

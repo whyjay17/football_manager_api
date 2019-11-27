@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20086.png",
+  "name": "Isaac Carcelén",
+  "birth_date": "23/4/1993",
+  "nation": "Spain",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "아 이 작 카 셀 렌",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

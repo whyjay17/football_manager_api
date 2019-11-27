@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26630.png",
+  "name": "Loïc Lapoussin",
+  "birth_date": "27/3/1996",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "로 이 크 라 푸 신",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 7,
+      "Concentration": 5,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

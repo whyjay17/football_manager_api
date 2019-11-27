@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34701.png",
+  "name": "Adrian Stoian",
+  "birth_date": "11/2/1991",
+  "nation": "Romania",
+  "position": "M (L), AM (RLC)",
+  "foot": "Right",
+  "korean": "아 드 리 안 스 토 이 안",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

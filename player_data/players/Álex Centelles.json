@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59179.png",
+  "name": "Álex Centelles",
+  "birth_date": "30/8/1999",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "엘 렉 스 센 텔 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 4,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 4,
+      "Leadership": 2,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

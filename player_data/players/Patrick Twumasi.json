@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1243.png",
+  "name": "Patrick Twumasi",
+  "birth_date": "9/5/1994",
+  "nation": "Ghana",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 투 마 시",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

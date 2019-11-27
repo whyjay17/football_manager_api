@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8375.png",
+  "name": "Lionel Carole",
+  "birth_date": "12/4/1991",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "라 이 오 넬 캐 롤",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

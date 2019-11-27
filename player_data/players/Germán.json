@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19693.png",
+  "name": "Germán",
+  "birth_date": "31/10/1986",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "게 르 만 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 5,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

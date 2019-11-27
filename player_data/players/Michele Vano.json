@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34336.png",
+  "name": "Michele Vano",
+  "birth_date": "5/10/1991",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "미 셸 바 노",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

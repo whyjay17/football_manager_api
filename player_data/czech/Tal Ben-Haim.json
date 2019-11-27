@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40965.png",
+  "name": "Tal Ben-Haim",
+  "birth_date": "5/8/1989",
+  "nation": "Israel",
+  "position": "AM (RL)",
+  "foot": "Either",
+  "korean": "탈 벤 하 임",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

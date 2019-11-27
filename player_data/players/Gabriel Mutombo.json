@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26540.png",
+  "name": "Gabriel Mutombo",
+  "birth_date": "19/1/1996",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "가 브 리 엘 무 툼 보",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

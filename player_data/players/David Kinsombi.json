@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25062.png",
+  "name": "David Kinsombi",
+  "birth_date": "12/12/1995",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "데 이 비 드 킨 섬 비",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

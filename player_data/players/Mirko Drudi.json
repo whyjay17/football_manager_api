@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34436.png",
+  "name": "Mirko Drudi",
+  "birth_date": "22/2/1987",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "미 르 코 드 루 디",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

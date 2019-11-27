@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9970.png",
+  "name": "Angus MacDonald",
+  "birth_date": "15/10/1992",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "앵 거 스 맥 도 널 드",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

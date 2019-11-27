@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/574.png",
+  "name": "Kiko Casilla",
+  "birth_date": "2/10/1986",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "카 실 라 키 코",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 11,
+      "Handling": 14,
+      "Kicking": 15,
+      "Passing": 13,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

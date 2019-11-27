@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24708.png",
+  "name": "Timo Horn",
+  "birth_date": "12/5/1993",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "티 모 혼",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 10,
+      "First Touch": 11,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

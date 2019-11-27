@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25065.png",
+  "name": "Aaron Seydel",
+  "birth_date": "7/2/1996",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "아 론 세 이 델",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20537.png",
+  "name": "Mats Rits",
+  "birth_date": "18/7/1993",
+  "nation": "Belgium",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 츠 리 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

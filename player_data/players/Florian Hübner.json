@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25299.png",
+  "name": "Florian Hübner",
+  "birth_date": "1/3/1991",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "플 로 리 안 후 브 너",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

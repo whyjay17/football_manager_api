@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34894.png",
+  "name": "Filippo Falco",
+  "birth_date": "11/2/1992",
+  "nation": "Italy",
+  "position": "AM (RC)",
+  "foot": "Left",
+  "korean": "필 리 포 팔 코",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

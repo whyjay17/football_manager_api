@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7250.png",
+  "name": "Jordi Mboula",
+  "birth_date": "16/3/1999",
+  "nation": "Spain",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "조 르 디 움 불 라",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

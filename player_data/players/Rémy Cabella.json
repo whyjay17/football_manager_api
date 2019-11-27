@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7350.png",
+  "name": "Rémy Cabella",
+  "birth_date": "8/3/1990",
+  "nation": "France",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "레 미 카 벨 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

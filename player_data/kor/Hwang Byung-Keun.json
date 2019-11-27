@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46538.png",
+  "name": "Hwang Byung-Keun",
+  "birth_date": "14/6/1994",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "황 병 근",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 1,
+      "First Touch": 2,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 8
+    }
+  }
+}

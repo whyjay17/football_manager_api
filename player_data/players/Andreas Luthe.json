@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6248.png",
+  "name": "Andreas Luthe",
+  "birth_date": "10/3/1987",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 드 레 아 스 루 테",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 3,
+      "Leadership": 15,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

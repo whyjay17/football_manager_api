@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25264.png",
+  "name": "Clemens Schoppenhauer",
+  "birth_date": "23/2/1992",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "클 레 멘 스 스 콥 펜 하 우 어",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35350.png",
+  "name": "Christian Capone",
+  "birth_date": "28/4/1999",
+  "nation": "Italy",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right Only",
+  "korean": "크 리 스 티 안 카 포 네",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

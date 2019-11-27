@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26484.png",
+  "name": "Adrian Dabasse",
+  "birth_date": "27/7/1993",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "아 드 리 안 다 바 세",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 3,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47891.png",
+  "name": "Arijan Ademi",
+  "birth_date": "29/5/1991",
+  "nation": "Macedonia MKD",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "아 리 얀 아 데 미",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 17,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 17,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 18,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

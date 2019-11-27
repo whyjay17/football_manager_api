@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34601.png",
+  "name": "Francesco Migliore",
+  "birth_date": "17/4/1988",
+  "nation": "Italy",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "프 란 체 스 코 미 글 리 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

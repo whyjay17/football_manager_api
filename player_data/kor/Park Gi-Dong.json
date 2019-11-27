@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46724.png",
+  "name": "Park Gi-Dong",
+  "birth_date": "1/11/1988",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "박 기 동",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 16,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

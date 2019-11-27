@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6734.png",
+  "name": "Matija Nastasic",
+  "birth_date": "28/3/1993",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "마 티 야 나 스 타 식",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

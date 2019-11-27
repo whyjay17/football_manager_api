@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25294.png",
+  "name": "Marcel Hartel",
+  "birth_date": "19/1/1996",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "마 르 셀 하 텔",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

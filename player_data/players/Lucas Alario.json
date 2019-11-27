@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6056.png",
+  "name": "Lucas Alario",
+  "birth_date": "8/10/1992",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "루 카 스 알 라 리 오",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 16,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 17,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

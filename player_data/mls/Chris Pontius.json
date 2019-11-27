@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49634.png",
+  "name": "Chris Pontius",
+  "birth_date": "12/5/1987",
+  "nation": "United States",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "크 리 스 폰 티 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

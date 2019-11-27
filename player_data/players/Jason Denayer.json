@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7899.png",
+  "name": "Jason Denayer",
+  "birth_date": "28/6/1995",
+  "nation": "Belgium",
+  "position": "D (RC), DM",
+  "foot": "Right",
+  "korean": "제 이 슨 데 네 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19319.png",
+  "name": "Juan Hernández",
+  "birth_date": "6/12/1994",
+  "nation": "Spain",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "후 안 에 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 2,
+      "Anticipation": 11,
+      "Bravery": 4,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58526.png",
+  "name": "Rúper",
+  "birth_date": "4/6/1987",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 퍼 ( ) 루 퍼 ( ) 루 퍼 (",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

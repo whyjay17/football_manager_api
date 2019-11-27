@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/194.png",
+  "name": "Bébé",
+  "birth_date": "12/7/1990",
+  "nation": "Portugal",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "베 베",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19721.png",
+  "name": "Antonio Puertas",
+  "birth_date": "21/2/1992",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "안 토 니 오 푸 에 르 타 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

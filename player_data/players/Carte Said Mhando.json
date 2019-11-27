@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34051.png",
+  "name": "Carte Said Mhando",
+  "birth_date": "15/4/1997",
+  "nation": "Tanzania",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "카 르 테 사 이 드 만 도",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 4,
+      "Heading": 4,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 6,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 3,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

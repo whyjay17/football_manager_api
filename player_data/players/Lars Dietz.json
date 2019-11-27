@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25314.png",
+  "name": "Lars Dietz",
+  "birth_date": "7/1/1997",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "라 스 디 에 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

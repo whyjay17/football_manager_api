@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34811.png",
+  "name": "Marco Zambelli",
+  "birth_date": "22/8/1985",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "마 르 코 잠 벨 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 11,
+      "Leadership": 19,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

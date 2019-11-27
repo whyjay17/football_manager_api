@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11586.png",
+  "name": "Chris Solly",
+  "birth_date": "20/1/1991",
+  "nation": "England",
+  "position": "D (R)",
+  "foot": "Right",
+  "korean": "크 리 스 솔 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

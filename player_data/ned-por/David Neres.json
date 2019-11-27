@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8603.png",
+  "name": "David Neres",
+  "birth_date": "3/3/1997",
+  "nation": "Brazil",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "다 비 드 네 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 17,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

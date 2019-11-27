@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24977.png",
+  "name": "Bobby Wood",
+  "birth_date": "15/11/1992",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "바 비 우 드",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

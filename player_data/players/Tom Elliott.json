@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10309.png",
+  "name": "Tom Elliott",
+  "birth_date": "9/11/1990",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "톰 엘 리 엇",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 18,
+      "Natural Fitness": 5,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 17
+    }
+  }
+}

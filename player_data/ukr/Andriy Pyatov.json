@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32156.png",
+  "name": "Andriy Pyatov",
+  "birth_date": "28/6/1984",
+  "nation": "Ukraine",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 드 리 피 야 토 프",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 4,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 16,
+      "Reflexes": 15,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 1,
+      "Leadership": 15,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

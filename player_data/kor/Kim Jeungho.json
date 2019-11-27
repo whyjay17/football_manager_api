@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46454.png",
+  "name": "Kim Jeungho",
+  "birth_date": "31/5/1995",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "김 정 호",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

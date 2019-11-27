@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22096.png",
+  "name": "Ciro Immobile",
+  "birth_date": "20/2/1990",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "시 로 임 모 빌 레",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 2,
+      "Dribbling": 12,
+      "Finishing": 18,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 12,
+      "Penalty Taking": 19,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 17,
+      "Bravery": 17,
+      "Composure": 18,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 19,
+      "Flair": 11,
+      "Leadership": 15,
+      "Off The Ball": 19,
+      "Positioning": 4,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

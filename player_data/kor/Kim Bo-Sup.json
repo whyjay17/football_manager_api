@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46467.png",
+  "name": "Kim Bo-Sup",
+  "birth_date": "10/1/1998",
+  "nation": "South Korea KOR",
+  "position": "M (L), AM (RL)",
+  "foot": "Left Only",
+  "korean": "김 보 섭",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

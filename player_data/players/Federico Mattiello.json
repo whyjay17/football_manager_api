@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21304.png",
+  "name": "Federico Mattiello",
+  "birth_date": "14/7/1995",
+  "nation": "Italy",
+  "position": "D/WB/M (RL)",
+  "foot": "Right Only",
+  "korean": "페 데 리 코 마 티 엘 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 5,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

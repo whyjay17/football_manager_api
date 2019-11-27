@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26167.png",
+  "name": "Baba Traoré",
+  "birth_date": "23/6/1993",
+  "nation": "France",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "바 바 트 라 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

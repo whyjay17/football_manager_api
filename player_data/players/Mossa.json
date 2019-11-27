@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20120.png",
+  "name": "Mossa",
+  "birth_date": "24/1/1989",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "모 사 ( 모 사 )",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

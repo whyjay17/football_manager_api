@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49465.png",
+  "name": "Richard Sánchez",
+  "birth_date": "5/4/1994",
+  "nation": "Mexico",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "리 차 드 산 체 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 9,
+      "Eccentricity": 4,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 9,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 7,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

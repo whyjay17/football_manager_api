@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6159.png",
+  "name": "Oscar Wendt",
+  "birth_date": "24/10/1985",
+  "nation": "Sweden",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "오 스 카 웬 트",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 15,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

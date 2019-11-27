@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25992.png",
+  "name": "Kevin Goba",
+  "birth_date": "6/7/1987",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "케 빈 고 바",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

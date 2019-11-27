@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22692.png",
+  "name": "Alfred Duncan",
+  "birth_date": "10/3/1993",
+  "nation": "Ghana",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "알 프 레 드 던 컨",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24794.png",
+  "name": "Serdar Dursun",
+  "birth_date": "19/10/1991",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "세 르 다 르 두 르 순",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

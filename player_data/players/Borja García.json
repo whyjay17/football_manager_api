@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19533.png",
+  "name": "Borja García",
+  "birth_date": "7/1/1990",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "보 르 자 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

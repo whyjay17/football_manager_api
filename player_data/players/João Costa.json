@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59298.png",
+  "name": "João Costa",
+  "birth_date": "2/2/1996",
+  "nation": "Portugal",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "주 앙 코 스 타",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 14,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 11,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

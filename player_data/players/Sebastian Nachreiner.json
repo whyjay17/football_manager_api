@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25152.png",
+  "name": "Sebastian Nachreiner",
+  "birth_date": "23/11/1988",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "세 바 스 찬 나 흐 레 이 너",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

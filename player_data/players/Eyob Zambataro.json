@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35096.png",
+  "name": "Eyob Zambataro",
+  "birth_date": "18/8/1998",
+  "nation": "Ethiopia",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "잠 바 타 로 에 섭",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

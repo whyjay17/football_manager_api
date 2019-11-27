@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7789.png",
+  "name": "Renaud Ripart",
+  "birth_date": "14/3/1993",
+  "nation": "France",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "르 노 리 파 트",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

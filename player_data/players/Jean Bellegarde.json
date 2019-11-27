@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26221.png",
+  "name": "Jean Bellegarde",
+  "birth_date": "27/6/1998",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "장 벨 가 르 드",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6750.png",
+  "name": "Hamza Mendyl",
+  "birth_date": "21/10/1997",
+  "nation": "Morocco",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "함 자 멘 딜",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

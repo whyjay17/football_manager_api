@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58236.png",
+  "name": "Iñigo Vicente",
+  "birth_date": "6/1/1998",
+  "nation": "Spain",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "이 니 고 비 센 테",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

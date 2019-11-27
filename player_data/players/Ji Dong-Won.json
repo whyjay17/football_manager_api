@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6296.png",
+  "name": "Ji Dong-Won",
+  "birth_date": "28/5/1991",
+  "nation": "South Korea KOR",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "지 동 원",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

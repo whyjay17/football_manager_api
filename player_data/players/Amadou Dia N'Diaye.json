@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26367.png",
+  "name": "Amadou Dia N'Diaye",
+  "birth_date": "2/2/2000",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "아 마 두 디 아 은 디 아 예",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 4,
+      "Composure": 12,
+      "Concentration": 6,
+      "Decisions": 11,
+      "Determination": 19,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

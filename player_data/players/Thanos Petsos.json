@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6820.png",
+  "name": "Thanos Petsos",
+  "birth_date": "5/6/1991",
+  "nation": "Greece",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "타 노 스 페 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

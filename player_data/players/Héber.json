@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59601.png",
+  "name": "Héber",
+  "birth_date": "16/1/1990",
+  "nation": "Spain",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "히 버 ( ) 에 버 ( ) 에 버 (",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 7,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 3,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 2,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 3,
+      "Jumping Reach": 4,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

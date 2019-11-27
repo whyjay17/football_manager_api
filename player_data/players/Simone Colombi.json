@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34317.png",
+  "name": "Simone Colombi",
+  "birth_date": "1/7/1991",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "시 몬 콜 롬 비",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 15,
+      "Eccentricity": 6,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 4,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

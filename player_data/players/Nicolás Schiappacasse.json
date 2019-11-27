@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57669.png",
+  "name": "Nicolás Schiappacasse",
+  "birth_date": "12/1/1999",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 스 키 파 파 세",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 14,
+      "Leadership": 2,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 5,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46425.png",
+  "name": "Yu Ji-Hoon",
+  "birth_date": "9/6/1988",
+  "nation": "South Korea KOR",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "유 지 훈",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 5,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 4,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

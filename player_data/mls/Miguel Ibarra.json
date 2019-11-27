@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49691.png",
+  "name": "Miguel Ibarra",
+  "birth_date": "15/3/1990",
+  "nation": "United States",
+  "position": "M (R), AM (RC)",
+  "foot": "Right Only",
+  "korean": "미 겔 이 바 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

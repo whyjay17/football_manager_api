@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19851.png",
+  "name": "Luis Hernández",
+  "birth_date": "14/4/1989",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "루 이 스 에 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 20,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

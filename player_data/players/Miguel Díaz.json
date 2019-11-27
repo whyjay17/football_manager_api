@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58530.png",
+  "name": "Miguel Díaz",
+  "birth_date": "24/10/1994",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "미 겔 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 3,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 5,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

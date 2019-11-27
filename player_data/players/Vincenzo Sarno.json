@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35088.png",
+  "name": "Vincenzo Sarno",
+  "birth_date": "11/3/1988",
+  "nation": "Italy",
+  "position": "AM (RC)",
+  "foot": "Left Only",
+  "korean": "빈 센 초 사 르 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

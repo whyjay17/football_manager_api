@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49428.png",
+  "name": "Chris McCann",
+  "birth_date": "21/7/1987",
+  "nation": "Republic of Ireland",
+  "position": "D/WB (L), DM, M (LC)",
+  "foot": "Left Only",
+  "korean": "크 리 스 맥 캔",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

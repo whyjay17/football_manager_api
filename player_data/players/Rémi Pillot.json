@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25986.png",
+  "name": "Rémi Pillot",
+  "birth_date": "27/7/1990",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "레 미 필 롯",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 10,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

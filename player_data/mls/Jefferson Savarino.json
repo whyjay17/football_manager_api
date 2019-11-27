@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49924.png",
+  "name": "Jefferson Savarino",
+  "birth_date": "11/11/1996",
+  "nation": "Venezuela",
+  "position": "M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "제 퍼 슨 사 바 리 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

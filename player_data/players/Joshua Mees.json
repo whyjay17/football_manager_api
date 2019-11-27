@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25304.png",
+  "name": "Joshua Mees",
+  "birth_date": "15/4/1996",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "조 슈 아 미 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31584.png",
+  "name": "Alexandr Yerokhin",
+  "birth_date": "13/10/1989",
+  "nation": "Russia",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "알 렉 산 드 르 에 로 킨",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 17,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

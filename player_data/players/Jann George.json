@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25148.png",
+  "name": "Jann George",
+  "birth_date": "31/7/1992",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "얀 조 지",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

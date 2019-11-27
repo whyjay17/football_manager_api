@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24848.png",
+  "name": "Erich Berko",
+  "birth_date": "6/9/1994",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "에 리 히 베 르 코",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

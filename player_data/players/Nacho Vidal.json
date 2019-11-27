@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20040.png",
+  "name": "Nacho Vidal",
+  "birth_date": "24/1/1995",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "나 초 비 달",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 6,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

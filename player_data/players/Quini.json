@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19690.png",
+  "name": "Quini",
+  "birth_date": "24/9/1989",
+  "nation": "Spain",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "퀴 니 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24978.png",
+  "name": "Hwang Hee-Chan",
+  "birth_date": "26/1/1996",
+  "nation": "South Korea KOR",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "황 희 찬",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

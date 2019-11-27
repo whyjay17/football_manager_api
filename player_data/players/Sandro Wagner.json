@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6363.png",
+  "name": "Sandro Wagner",
+  "birth_date": "29/11/1987",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "산 드 로 바 그 너",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 17,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 18
+    }
+  }
+}

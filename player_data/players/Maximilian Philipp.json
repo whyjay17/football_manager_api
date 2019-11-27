@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6120.png",
+  "name": "Maximilian Philipp",
+  "birth_date": "1/3/1994",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "막 시 밀 리 안 필 립",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 17,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

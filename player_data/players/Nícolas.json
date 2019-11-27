@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35761.png",
+  "name": "Nícolas",
+  "birth_date": "12/4/1988",
+  "nation": "Brazil",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "니 콜 라 스 주",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 4,
+      "First Touch": 7,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 16,
+      "Rushing Out": 14,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 4,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

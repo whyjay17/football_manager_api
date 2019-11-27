@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35192.png",
+  "name": "Accursio Bentivegna",
+  "birth_date": "21/6/1996",
+  "nation": "Italy",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "아 쿠 시 오 벤 티 브 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

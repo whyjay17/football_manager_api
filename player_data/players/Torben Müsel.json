@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6192.png",
+  "name": "Torben Müsel",
+  "birth_date": "25/7/1999",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "토 르 벤 뮈 셀",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

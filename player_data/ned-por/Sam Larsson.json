@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9002.png",
+  "name": "Sam Larsson",
+  "birth_date": "10/4/1993",
+  "nation": "Sweden",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "샘 라 르 손",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

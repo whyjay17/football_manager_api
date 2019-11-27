@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31119.png",
+  "name": "Grzegorz Krychowiak",
+  "birth_date": "29/1/1990",
+  "nation": "Poland",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "그 제 고 시 크 리 초 비 악",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 17,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

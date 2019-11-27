@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19599.png",
+  "name": "Roberto Canella",
+  "birth_date": "7/2/1988",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "로 베 르 토 카 넬 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

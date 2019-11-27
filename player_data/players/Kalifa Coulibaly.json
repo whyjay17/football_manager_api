@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7672.png",
+  "name": "Kalifa Coulibaly",
+  "birth_date": "21/8/1991",
+  "nation": "Mali",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "칼 리 파 쿨 리 발 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 2,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 18,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

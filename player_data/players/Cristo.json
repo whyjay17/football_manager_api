@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58068.png",
+  "name": "Cristo",
+  "birth_date": "24/10/1997",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "크 리 스 토",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 2,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 5,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

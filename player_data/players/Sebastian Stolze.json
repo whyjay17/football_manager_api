@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25151.png",
+  "name": "Sebastian Stolze",
+  "birth_date": "29/1/1995",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 스 톨 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

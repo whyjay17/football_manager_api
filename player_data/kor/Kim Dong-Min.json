@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46477.png",
+  "name": "Kim Dong-Min",
+  "birth_date": "16/8/1994",
+  "nation": "South Korea KOR",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "김 동 민",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

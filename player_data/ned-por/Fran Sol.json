@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9463.png",
+  "name": "Fran Sol",
+  "birth_date": "13/3/1992",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "프 란 솔",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 16,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

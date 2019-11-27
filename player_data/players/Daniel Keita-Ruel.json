@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24924.png",
+  "name": "Daniel Keita-Ruel",
+  "birth_date": "21/9/1989",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 니 엘 케 이 타 루 엘",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

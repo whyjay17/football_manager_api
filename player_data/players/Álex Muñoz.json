@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20265.png",
+  "name": "Álex Muñoz",
+  "birth_date": "30/7/1994",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "알 렉 스 무 뇨 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

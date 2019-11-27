@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58226.png",
+  "name": "Jacobo",
+  "birth_date": "25/3/1997",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "야 코 보 ( 자 코 보 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 6,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

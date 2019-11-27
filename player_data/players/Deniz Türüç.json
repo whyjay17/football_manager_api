@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3013.png",
+  "name": "Deniz Türüç",
+  "birth_date": "29/1/1993",
+  "nation": "Turkey",
+  "position": "M/AM (RLC)",
+  "foot": "Left",
+  "korean": "데 니 즈 튜 루 크",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 5,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

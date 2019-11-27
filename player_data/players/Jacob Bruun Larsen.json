@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6115.png",
+  "name": "Jacob Bruun Larsen",
+  "birth_date": "19/9/1998",
+  "nation": "Denmark",
+  "position": "M/AM (RL)",
+  "foot": "Either",
+  "korean": "제 이 콥 브 룬 라 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

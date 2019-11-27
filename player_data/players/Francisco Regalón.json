@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58843.png",
+  "name": "Francisco Regalón",
+  "birth_date": "19/2/1987",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "프 란 시 스 코 리 갈 론",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 7,
+      "Dribbling": 4,
+      "Finishing": 3,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

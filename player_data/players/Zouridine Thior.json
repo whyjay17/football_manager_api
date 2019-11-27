@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58656.png",
+  "name": "Zouridine Thior",
+  "birth_date": "9/7/1997",
+  "nation": "Senegal",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "주 리 딘 티 어",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 2,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 5,
+      "Bravery": 7,
+      "Composure": 5,
+      "Concentration": 3,
+      "Decisions": 9,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35476.png",
+  "name": "Raffaele Schiavi",
+  "birth_date": "15/3/1986",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "라 파 엘 레 스 키 아 비",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

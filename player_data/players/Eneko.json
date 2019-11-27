@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57730.png",
+  "name": "Eneko",
+  "birth_date": "10/3/1993",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 네 코 ( ) 에 네 코",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

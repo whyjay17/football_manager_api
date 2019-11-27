@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20214.png",
+  "name": "Aitor Sanz",
+  "birth_date": "18/9/1984",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "아 이 토 르 산 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 18,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

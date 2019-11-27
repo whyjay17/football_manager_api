@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2762.png",
+  "name": "Jirès Kembo-Ekoko",
+  "birth_date": "8/1/1988",
+  "nation": "Congo DR",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "지 레 스 켐 보 에 코 코",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 3,
+      "Teamwork": 7,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

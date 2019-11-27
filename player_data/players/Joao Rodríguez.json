@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20238.png",
+  "name": "Joao Rodríguez",
+  "birth_date": "Unknown",
+  "nation": "Colombia",
+  "position": "AM (RLC), ST (C)",
+  "foot": "",
+  "korean": "조 아 오 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

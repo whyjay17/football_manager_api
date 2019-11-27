@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46684.png",
+  "name": "Kim Dong-Woo",
+  "birth_date": "5/2/1988",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "김 동 우",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 13,
+      "Long Shots": 4,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

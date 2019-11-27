@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6659.png",
+  "name": "Marcel Sabitzer",
+  "birth_date": "17/3/1994",
+  "nation": "Austria",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "마 르 셀 사 비 처",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22915.png",
+  "name": "Simone Edera",
+  "birth_date": "9/1/1997",
+  "nation": "Italy",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "시 몬 에 데 라",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

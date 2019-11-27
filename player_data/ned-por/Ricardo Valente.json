@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23616.png",
+  "name": "Ricardo Valente",
+  "birth_date": "3/4/1991",
+  "nation": "Portugal",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "히 카 르 두 발 렌 테",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 17,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

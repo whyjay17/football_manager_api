@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19735.png",
+  "name": "Nauzet",
+  "birth_date": "1/3/1985",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "나 우 제 트 주",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 7,
+      "First Touch": 3,
+      "Handling": 10,
+      "Kicking": 11,
+      "Passing": 15,
+      "Reflexes": 12,
+      "Rushing Out": 13,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58484.png",
+  "name": "Rayco",
+  "birth_date": "27/8/1986",
+  "nation": "Spain",
+  "position": "AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "레 이 코 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 2,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 16,
+      "Positioning": 5,
+      "Teamwork": 6,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

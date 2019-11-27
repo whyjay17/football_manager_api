@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9604.png",
+  "name": "Omar Bogle",
+  "birth_date": "26/7/1993",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "오 마 르 보 글",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

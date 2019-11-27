@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8315.png",
+  "name": "Chaker Alhadhur",
+  "birth_date": "4/12/1991",
+  "nation": "Comoros",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "차 커 알 하 두 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

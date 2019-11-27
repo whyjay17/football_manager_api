@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6266.png",
+  "name": "Felix Götze",
+  "birth_date": "11/2/1998",
+  "nation": "Germany",
+  "position": "D (RC), DM, M (C)",
+  "foot": "Right",
+  "korean": "펠 릭 스 괴 체",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

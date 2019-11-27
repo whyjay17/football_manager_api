@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31813.png",
+  "name": "Benjamin Verbic",
+  "birth_date": "27/11/1993",
+  "nation": "Slovenia",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "벤 자 민 베 르 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

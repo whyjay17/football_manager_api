@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56880.png",
+  "name": "Lukács Bőle",
+  "birth_date": "27/3/1990",
+  "nation": "Hungary",
+  "position": "M (L), AM (LC)",
+  "foot": "Left Only",
+  "korean": "루 카 크 스 텔 레",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

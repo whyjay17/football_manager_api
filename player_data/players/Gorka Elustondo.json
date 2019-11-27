@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/174.png",
+  "name": "Gorka Elustondo",
+  "birth_date": "18/3/1987",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "고 르 카 엘 루 톤 도",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 4,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

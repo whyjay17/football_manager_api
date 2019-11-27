@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26341.png",
+  "name": "Victorien Angban",
+  "birth_date": "29/9/1996",
+  "nation": "Côte d'Ivoire",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "빅 토 리 엔 앙 반",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

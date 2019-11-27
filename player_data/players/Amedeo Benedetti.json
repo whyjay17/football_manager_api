@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34421.png",
+  "name": "Amedeo Benedetti",
+  "birth_date": "25/10/1991",
+  "nation": "Italy",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "아 메 데 오 베 네 데 티",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49749.png",
+  "name": "Brandon Bye",
+  "birth_date": "29/11/1995",
+  "nation": "United States",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "브 랜 든 바 이",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 3,
+      "Flair": 6,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 1,
+      "Pace": 12,
+      "Stamina": 5,
+      "Strength": 8
+    }
+  }
+}

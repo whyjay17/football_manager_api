@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6300.png",
+  "name": "Julian Schieber",
+  "birth_date": "13/2/1989",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "줄 리 안 스 키 버",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

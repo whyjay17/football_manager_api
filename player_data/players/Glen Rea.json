@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11897.png",
+  "name": "Glen Rea",
+  "birth_date": "3/9/1994",
+  "nation": "Republic of Ireland",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "글 렌 레 아",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

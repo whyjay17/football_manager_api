@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25991.png",
+  "name": "Valentin Vanbaleghem",
+  "birth_date": "9/10/1996",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "발 렌 틴 반 발 레 헴",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 5,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

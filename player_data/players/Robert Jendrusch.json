@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24883.png",
+  "name": "Robert Jendrusch",
+  "birth_date": "28/5/1996",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 버 트 젠 드 루 쉬",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 8,
+      "Communication": 11,
+      "Eccentricity": 1,
+      "First Touch": 11,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 11,
+      "Reflexes": 12,
+      "Rushing Out": 8,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 14,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

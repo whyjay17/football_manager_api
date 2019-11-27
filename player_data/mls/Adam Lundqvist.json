@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49600.png",
+  "name": "Adam Lundqvist",
+  "birth_date": "20/3/1994",
+  "nation": "Sweden",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "애 덤 룬 드 크 비 스 트",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

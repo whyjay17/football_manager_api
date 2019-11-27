@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7142.png",
+  "name": "Thomas Mangani",
+  "birth_date": "29/4/1987",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Left",
+  "korean": "토 마 스 망 가 니",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

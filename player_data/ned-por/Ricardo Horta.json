@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23332.png",
+  "name": "Ricardo Horta",
+  "birth_date": "15/9/1994",
+  "nation": "Portugal",
+  "position": "M (L), AM (RL)",
+  "foot": "Right",
+  "korean": "히 카 르 두 호 르 타",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

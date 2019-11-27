@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22800.png",
+  "name": "Everton Luiz",
+  "birth_date": "24/5/1988",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 버 튼 루 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

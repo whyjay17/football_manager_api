@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25167.png",
+  "name": "Markus Palionis",
+  "birth_date": "12/5/1987",
+  "nation": "Lithuania",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left Only",
+  "korean": "마 르 쿠 스 팔 리 오 니 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

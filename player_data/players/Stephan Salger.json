@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24657.png",
+  "name": "Stephan Salger",
+  "birth_date": "30/1/1990",
+  "nation": "Germany",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "스 테 판 살 거",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

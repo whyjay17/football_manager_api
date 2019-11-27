@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34320.png",
+  "name": "Lorenzo Pasciuti",
+  "birth_date": "24/9/1989",
+  "nation": "Italy",
+  "position": "M (RLC), AM (R)",
+  "foot": "Right",
+  "korean": "로 렌 조 파 시 우 티",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

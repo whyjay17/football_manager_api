@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6708.png",
+  "name": "Mike Frantz",
+  "birth_date": "14/10/1986",
+  "nation": "Germany",
+  "position": "M (RLC), AM (RL)",
+  "foot": "Left",
+  "korean": "마 이 크 프 란 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

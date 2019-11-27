@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20210.png",
+  "name": "Samuel Camille",
+  "birth_date": "2/2/1986",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "새 뮤 얼 카 밀",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

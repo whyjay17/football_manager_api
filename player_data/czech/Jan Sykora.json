@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40855.png",
+  "name": "Jan Sykora",
+  "birth_date": "29/12/1993",
+  "nation": "Czech Republic",
+  "position": "M/AM (RLC)",
+  "foot": "Either",
+  "korean": "얀 시 코 라",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 6,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

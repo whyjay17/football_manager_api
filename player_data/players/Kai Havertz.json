@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6047.png",
+  "name": "Kai Havertz",
+  "birth_date": "11/6/1999",
+  "nation": "Germany",
+  "position": "M/AM (RC)",
+  "foot": "Left",
+  "korean": "카 이 하 베 르 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 17,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

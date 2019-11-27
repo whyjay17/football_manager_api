@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7424.png",
+  "name": "Younousse Sankharé",
+  "birth_date": "10/9/1989",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Left Only",
+  "korean": "유 누 스 산 카 레",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6638.png",
+  "name": "Lukas Klostermann",
+  "birth_date": "3/6/1996",
+  "nation": "Germany",
+  "position": "D (RLC), WB (R)",
+  "foot": "Right",
+  "korean": "루 카 스 클 로 스 터 만",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 18,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

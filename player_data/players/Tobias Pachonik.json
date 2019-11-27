@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34328.png",
+  "name": "Tobias Pachonik",
+  "birth_date": "4/1/1995",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right Only",
+  "korean": "토 비 아 스 파 코 닉",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

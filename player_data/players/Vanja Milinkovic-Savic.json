@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22916.png",
+  "name": "Vanja Milinkovic-Savic",
+  "birth_date": "20/2/1997",
+  "nation": "Serbia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "반 야 밀 린 코 비 치 사 비 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 17,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 15,
+      "Passing": 9,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 17,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

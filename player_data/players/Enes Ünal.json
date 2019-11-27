@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/259.png",
+  "name": "Enes Ünal",
+  "birth_date": "10/5/1997",
+  "nation": "Turkey",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "에 네 스 우 날",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 3,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

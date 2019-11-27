@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24925.png",
+  "name": "Mario Maloca",
+  "birth_date": "4/5/1989",
+  "nation": "Croatia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 리 오 말 로 카",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 16,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

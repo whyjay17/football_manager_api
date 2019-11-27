@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19864.png",
+  "name": "Miguel Ángel Cifuentes",
+  "birth_date": "5/10/1990",
+  "nation": "Spain",
+  "position": "D/WB/AM (R)",
+  "foot": "Right",
+  "korean": "미 겔 안 겔 시 푸 엔 테 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

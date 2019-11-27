@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6271.png",
+  "name": "Killian Jakob",
+  "birth_date": "25/1/1998",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "킬 리 안 야 콥",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

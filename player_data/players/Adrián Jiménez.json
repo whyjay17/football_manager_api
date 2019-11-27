@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58987.png",
+  "name": "Adrián Jiménez",
+  "birth_date": "1/12/1992",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "아 드 리 안 지 메 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 1,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

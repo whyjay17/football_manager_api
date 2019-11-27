@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10560.png",
+  "name": "Jordan Cousins",
+  "birth_date": "6/3/1994",
+  "nation": "England",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "조 던 사 촌",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 18,
+      "Strength": 11
+    }
+  }
+}

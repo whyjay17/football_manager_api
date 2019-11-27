@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6414.png",
+  "name": "Kevin Stöger",
+  "birth_date": "27/8/1993",
+  "nation": "Austria",
+  "position": "M/AM (LC)",
+  "foot": "Left",
+  "korean": "케 빈 스 토 거",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

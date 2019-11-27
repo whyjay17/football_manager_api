@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2593.png",
+  "name": "Gaël Clichy",
+  "birth_date": "26/7/1985",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "가 엘 클 리 시",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 15,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

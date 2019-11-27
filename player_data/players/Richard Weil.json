@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24905.png",
+  "name": "Richard Weil",
+  "birth_date": "6/2/1988",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "리 처 드 웨 일",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

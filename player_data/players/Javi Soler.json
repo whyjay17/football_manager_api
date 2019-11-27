@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59023.png",
+  "name": "Javi Soler",
+  "birth_date": "20/2/1997",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "하 비 솔 러",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24797.png",
+  "name": "Patrick Banggaard",
+  "birth_date": "4/4/1994",
+  "nation": "Denmark",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 방 가 드",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

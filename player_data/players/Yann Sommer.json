@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6136.png",
+  "name": "Yann Sommer",
+  "birth_date": "17/12/1988",
+  "nation": "Switzerland",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "얀 소 머",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 14,
+      "First Touch": 11,
+      "Handling": 12,
+      "Kicking": 16,
+      "Passing": 12,
+      "Reflexes": 15,
+      "Rushing Out": 18,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 11,
+      "Composure": 18,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

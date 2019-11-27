@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49506.png",
+  "name": "Pedro Santos",
+  "birth_date": "22/4/1988",
+  "nation": "Portugal",
+  "position": "M (L), AM (RL)",
+  "foot": "Left",
+  "korean": "페 드 로 산 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34121.png",
+  "name": "Gaetano Letizia",
+  "birth_date": "29/6/1990",
+  "nation": "Italy",
+  "position": "D/WB/M (RL)",
+  "foot": "Right",
+  "korean": "가 에 타 노 레 티 치 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

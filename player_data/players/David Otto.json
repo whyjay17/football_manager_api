@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6914.png",
+  "name": "David Otto",
+  "birth_date": "3/3/1999",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 비 드 오 토",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

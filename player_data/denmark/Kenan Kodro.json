@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41317.png",
+  "name": "Kenan Kodro",
+  "birth_date": "19/8/1993",
+  "nation": "Bosnia and Herzegovina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "케 난 코 드 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

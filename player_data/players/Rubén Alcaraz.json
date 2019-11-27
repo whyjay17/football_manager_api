@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/232.png",
+  "name": "Rubén Alcaraz",
+  "birth_date": "1/5/1991",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 벤 알 카 라 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

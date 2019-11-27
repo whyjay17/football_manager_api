@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25013.png",
+  "name": "Henrik Giese",
+  "birth_date": "25/3/1989",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "헨 릭 기 세",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 7,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

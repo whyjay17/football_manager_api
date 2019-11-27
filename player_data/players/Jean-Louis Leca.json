@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26205.png",
+  "name": "Jean-Louis Leca",
+  "birth_date": "21/9/1985",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "장 루 이 레 카",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 14,
+      "Eccentricity": 8,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 7,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

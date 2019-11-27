@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46337.png",
+  "name": "Hong Seung-Hyun",
+  "birth_date": "28/12/1996",
+  "nation": "South Korea KOR",
+  "position": "WB/M (R)",
+  "foot": "Right Only",
+  "korean": "홍 승 현",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

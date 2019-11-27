@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25851.png",
+  "name": "Kenji-Van Boto",
+  "birth_date": "7/3/1996",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "겐 지 반 보 토",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

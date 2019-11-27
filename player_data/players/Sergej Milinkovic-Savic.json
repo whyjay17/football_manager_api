@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22095.png",
+  "name": "Sergej Milinkovic-Savic",
+  "birth_date": "27/2/1995",
+  "nation": "Serbia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "세 르 게 이 밀 린 코 비 치 - 사 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 18,
+      "Long Shots": 15,
+      "Long Throws": 2,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 20,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 18,
+      "Leadership": 12,
+      "Off The Ball": 18,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 19,
+      "Jumping Reach": 17,
+      "Natural Fitness": 20,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 19
+    }
+  }
+}

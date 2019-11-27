@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1186.png",
+  "name": "Adrián Diéguez",
+  "birth_date": "4/2/1996",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "아 드 리 안 디 에 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 4,
+      "Finishing": 1,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 15,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 15,
+      "Determination": 2,
+      "Flair": 3,
+      "Leadership": 3,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

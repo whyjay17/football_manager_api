@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7650.png",
+  "name": "Alexander Kacaniklic",
+  "birth_date": "13/8/1991",
+  "nation": "Sweden",
+  "position": "M (L), AM (RL)",
+  "foot": "Left",
+  "korean": "알 렉 산 더 카 카 니 클",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

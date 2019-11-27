@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19546.png",
+  "name": "Carlos Pomares",
+  "birth_date": "5/12/1992",
+  "nation": "Spain",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "카 를 로 스 포 마 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 4,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

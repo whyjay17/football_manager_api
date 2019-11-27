@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50075.png",
+  "name": "Doneil Henry",
+  "birth_date": "20/4/1993",
+  "nation": "Canada",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "도 닐 헨 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

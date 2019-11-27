@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2632.png",
+  "name": "Loris Karius",
+  "birth_date": "22/6/1993",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 리 스 카 리 우 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 11,
+      "First Touch": 13,
+      "Handling": 14,
+      "Kicking": 14,
+      "Passing": 12,
+      "Reflexes": 16,
+      "Rushing Out": 17,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

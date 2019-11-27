@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22507.png",
+  "name": "Bruno Peres",
+  "birth_date": "1/3/1990",
+  "nation": "Brazil",
+  "position": "D/WB (RL), M (R)",
+  "foot": "Right",
+  "korean": "브 루 노 페 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

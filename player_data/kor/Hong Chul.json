@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46713.png",
+  "name": "Hong Chul",
+  "birth_date": "17/9/1990",
+  "nation": "South Korea KOR",
+  "position": "D/WB/AM (L)",
+  "foot": "Left Only",
+  "korean": "홍 철",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11554.png",
+  "name": "Stephen Quinn",
+  "birth_date": "4/4/1986",
+  "nation": "Republic of Ireland",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "스 티 븐 퀸",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6059.png",
+  "name": "Joel Pohjanpalo",
+  "birth_date": "13/9/1994",
+  "nation": "Finland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 엘 포 잔 팔 로",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

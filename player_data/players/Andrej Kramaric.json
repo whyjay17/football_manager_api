@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6899.png",
+  "name": "Andrej Kramaric",
+  "birth_date": "19/6/1991",
+  "nation": "Croatia",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Either",
+  "korean": "안 드 레 이 크 라 마 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 16,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

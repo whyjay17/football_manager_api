@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24655.png",
+  "name": "Nils Seufert",
+  "birth_date": "3/2/1997",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "닐 스 수 퍼 트",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

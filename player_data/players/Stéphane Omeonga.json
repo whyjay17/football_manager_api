@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21880.png",
+  "name": "Stéphane Omeonga",
+  "birth_date": "27/3/1996",
+  "nation": "Belgium",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "스 테 판 오 메 오 롱 가",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

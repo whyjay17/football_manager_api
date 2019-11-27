@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19463.png",
+  "name": "Quique",
+  "birth_date": "16/5/1990",
+  "nation": "Spain",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "퀴 크 ( 것 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 19,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

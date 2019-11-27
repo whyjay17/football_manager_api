@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9718.png",
+  "name": "Jason Lowe",
+  "birth_date": "2/9/1991",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "제 이 슨 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

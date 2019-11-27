@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25901.png",
+  "name": "Cidinho",
+  "birth_date": "28/1/1993",
+  "nation": "Brazil",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "시 디 뉴 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 5,
+      "Jumping Reach": 5,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

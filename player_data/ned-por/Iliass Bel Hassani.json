@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8685.png",
+  "name": "Iliass Bel Hassani",
+  "birth_date": "16/9/1992",
+  "nation": "Netherlands",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "일 리 아 스 벨 하 사 니",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53254.png",
+  "name": "Moha",
+  "birth_date": "15/9/1993",
+  "nation": "Morocco",
+  "position": "M/AM (L)",
+  "foot": "Right",
+  "korean": "모 하",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 16,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 3,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

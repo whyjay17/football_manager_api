@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58829.png",
+  "name": "Mateu Morey",
+  "birth_date": "2/3/2000",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "마 테 우 모 리",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

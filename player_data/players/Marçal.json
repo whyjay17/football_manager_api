@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7906.png",
+  "name": "Marçal",
+  "birth_date": "19/2/1989",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "마 르 살 ( 것 ) 과 함 께",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

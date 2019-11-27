@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20001.png",
+  "name": "Adrián Ripa",
+  "birth_date": "12/7/1985",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "아 드 리 안 리 파",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 15,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 6,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

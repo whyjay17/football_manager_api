@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6050.png",
+  "name": "Kevin Volland",
+  "birth_date": "30/7/1992",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "케 빈 볼 랜 드",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24552.png",
+  "name": "Amr Warda",
+  "birth_date": "17/9/1993",
+  "nation": "Egypt",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "암 르 와 르 다",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

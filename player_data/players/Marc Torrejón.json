@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25310.png",
+  "name": "Marc Torrejón",
+  "birth_date": "18/2/1986",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 크 토 레 욘",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

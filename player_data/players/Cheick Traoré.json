@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7541.png",
+  "name": "Cheick Traoré",
+  "birth_date": "31/3/1995",
+  "nation": "France",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "치 크 트 라 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

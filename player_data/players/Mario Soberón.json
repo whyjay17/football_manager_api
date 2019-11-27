@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58583.png",
+  "name": "Mario Soberón",
+  "birth_date": "18/5/1997",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 리 오 소 베 론",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 4,
+      "Jumping Reach": 4,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

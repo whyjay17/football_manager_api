@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34036.png",
+  "name": "Filippo Perucchini",
+  "birth_date": "6/10/1991",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "필 리 포 페 루 치 니",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 10,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 7,
+      "Vision": 4,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

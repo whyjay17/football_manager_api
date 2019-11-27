@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25246.png",
+  "name": "Johannes Flum",
+  "birth_date": "14/12/1987",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "요 하 네 스 플 럼",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

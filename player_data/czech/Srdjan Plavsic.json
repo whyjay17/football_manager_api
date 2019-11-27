@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40963.png",
+  "name": "Srdjan Plavsic",
+  "birth_date": "1/12/1995",
+  "nation": "Serbia",
+  "position": "M/AM (RLC)",
+  "foot": "Left",
+  "korean": "스 르 잔 플 라 브 시 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 5,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 6,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

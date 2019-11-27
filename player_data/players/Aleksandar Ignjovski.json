@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24892.png",
+  "name": "Aleksandar Ignjovski",
+  "birth_date": "27/1/1991",
+  "nation": "Serbia",
+  "position": "D/WB (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 이 그 조 프 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 8
+    }
+  }
+}

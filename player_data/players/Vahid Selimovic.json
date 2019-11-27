@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26366.png",
+  "name": "Vahid Selimovic",
+  "birth_date": "3/4/1997",
+  "nation": "Luxembourg",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "바 히 드 셀 리 모 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 7,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 6,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

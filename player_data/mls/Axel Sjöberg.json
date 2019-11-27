@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49482.png",
+  "name": "Axel Sjöberg",
+  "birth_date": "8/3/1991",
+  "nation": "Sweden",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "악 셀 셰 베 리",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 1,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 19,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20234.png",
+  "name": "Filip Malbasic",
+  "birth_date": "18/11/1992",
+  "nation": "Serbia",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "필 립 말 베 이 직",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

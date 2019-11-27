@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/271.png",
+  "name": "Aderllan Santos",
+  "birth_date": "9/4/1989",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "아 데 렐 란 산 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

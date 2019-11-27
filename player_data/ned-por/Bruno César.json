@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23919.png",
+  "name": "Bruno César",
+  "birth_date": "3/11/1988",
+  "nation": "Brazil",
+  "position": "D/M (L), AM (LC)",
+  "foot": "Left Only",
+  "korean": "브 루 노 세 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20205.png",
+  "name": "Alberto",
+  "birth_date": "15/11/1992",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "알 베 르 토",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

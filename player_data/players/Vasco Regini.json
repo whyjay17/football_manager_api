@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22603.png",
+  "name": "Vasco Regini",
+  "birth_date": "9/9/1990",
+  "nation": "Italy",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "바 스 코 레 지 니",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

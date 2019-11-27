@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2908.png",
+  "name": "André Poko",
+  "birth_date": "1/1/1993",
+  "nation": "Gabon",
+  "position": "DM, M (RC)",
+  "foot": "Right Only",
+  "korean": "안 드 레 포 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

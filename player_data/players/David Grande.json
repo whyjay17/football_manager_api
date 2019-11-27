@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57976.png",
+  "name": "David Grande",
+  "birth_date": "8/2/1991",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 비 드 그 란 데",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 5,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

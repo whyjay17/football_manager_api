@@ -1,0 +1,21 @@
+export const key_attributes = {
+    'AttackingMidCentral': ['Dribbling', 'Passing', 'Vision', 'Decisions', 'Teamwork', 'Technique', 'Off The Ball'],
+    'AttackingMidLeft': ['Dribbling', 'Crossing', 'Technique', 'Off The Ball', 'Pace'],
+    'AttackingMidRight': ['Dribbling', 'Crossing', 'Technique', 'Off The Ball', 'Pace'],
+    'AttackingMidfielder': ['Dribbling', 'Passing', 'Vision', 'Decisions', 'Teamwork', 'Technique', 'Off The Ball'],
+    'Defender': ['Tackling', 'Stamina', 'Jumping Reach', 'Passing', 'Decisions', 'Off The Ball', 'Positioning', 'Strength', 'Aggression', 'Teamwork'],
+    'DefenderCentral': ['Jumping Reach', 'Tackling', 'Decisions', 'Positioning', 'Strength', 'Aggression', 'Teamwork'],
+    'DefenderLeft': ['Tackling', 'Stamina', 'Jumping Reach', 'Passing', 'Decisions', 'Off The Ball', 'Positioning'],
+    'DefenderRight': ['Tackling', 'Stamina', 'Jumping Reach', 'Passing', 'Decisions', 'Off The Ball', 'Positioning'],
+    'DefensiveMidfielder': ['Tackling', 'Aggression', 'Strength', 'Decisions', 'Positioning', 'Teamwork', 'Stamina'],
+    'Goalkeeper': ['Aerial Reach', 'Agility', 'Handling', 'Reflexes'],
+    'Midfielder': ['Dribbling', 'Passing', 'Teamwork', 'Technique', 'Off The Ball', 'Positioning', 'Decisions'],
+    'MidfielderCentral': ['Passing', 'Decisions', 'Teamwork', 'Technique', 'Off The Ball', 'Positioning'],
+    'MidfielderLeft': ['Dribbling', 'Passing', 'Teamwork', 'Technique', 'Off The Ball', 'Positioning'],
+    'MidfielderRight': ['Dribbling', 'Passing', 'Teamwork', 'Technique', 'Off The Ball', 'Positioning'],
+    'Striker': ['Finishing', 'Decisions', 'Off The Ball', 'Dribbling', 'Jumping Reach', 'Technique', 'Teamwork', 'Pace', 'Strength'],
+    'Sweeper': ['Heading', 'Marking', 'Passing', 'Tackling', 'Anticipation', 'Composure', 'Concentration', 'Decisions', 'Positioning', 'Acceleration', 'Balance', 'Jumping Reach'],
+    'WingBack': ['Crossing', 'Dribbling', 'Tackling', 'Decisions', 'Stamina', 'Technique', 'Off The Ball', 'Positioning', 'Teamwork', 'Pace'],
+    'WingBackLeft': ['Crossing', 'Dribbling', 'Tackling', 'Decisions', 'Stamina', 'Technique', 'Off The Ball', 'Positioning', 'Teamwork', 'Pace'],
+    'WingBackRight': ['Crossing', 'Dribbling', 'Tackling', 'Decisions', 'Stamina', 'Technique', 'Off The Ball', 'Positioning', 'Teamwork', 'Pace']
+}

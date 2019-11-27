@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54011.png",
+  "name": "David Jablonsky",
+  "birth_date": "8/10/1991",
+  "nation": "Czech Republic",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "다 비 드 야 블 론 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

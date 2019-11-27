@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22619.png",
+  "name": "Fabio Quagliarella",
+  "birth_date": "31/1/1983",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "파 비 오 콰 글 리 아 렐 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 16,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 17,
+      "Long Throws": 1,
+      "Marking": 2,
+      "Passing": 15,
+      "Penalty Taking": 16,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 17,
+      "Determination": 20,
+      "Flair": 16,
+      "Leadership": 20,
+      "Off The Ball": 17,
+      "Positioning": 6,
+      "Teamwork": 16,
+      "Vision": 15,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

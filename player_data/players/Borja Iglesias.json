@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1015.png",
+  "name": "Borja Iglesias",
+  "birth_date": "17/1/1993",
+  "nation": "Spain",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "보 르 자 이 글 레 시 아 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

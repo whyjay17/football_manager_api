@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19382.png",
+  "name": "Alejandro Alfaro",
+  "birth_date": "23/11/1986",
+  "nation": "Spain",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "알 레 한 드 로 알 파 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

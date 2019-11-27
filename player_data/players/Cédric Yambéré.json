@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7480.png",
+  "name": "Cédric Yambéré",
+  "birth_date": "6/11/1990",
+  "nation": "Central African Republic",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "세 드 릭 얌 베 레",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

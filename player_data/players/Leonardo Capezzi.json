@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22607.png",
+  "name": "Leonardo Capezzi",
+  "birth_date": "28/3/1995",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "레 오 나 르 도 카 페 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

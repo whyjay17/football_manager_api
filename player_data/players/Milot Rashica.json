@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6832.png",
+  "name": "Milot Rashica",
+  "birth_date": "28/6/1996",
+  "nation": "Kosovo",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "밀 롯 라 시 카",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

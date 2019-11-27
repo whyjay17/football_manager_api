@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7779.png",
+  "name": "Moustapha Diallo",
+  "birth_date": "14/5/1986",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "무 스 타 파 다 이 얼 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 18,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 16
+    }
+  }
+}

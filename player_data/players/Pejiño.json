@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59697.png",
+  "name": "Pejiño",
+  "birth_date": "29/7/1996",
+  "nation": "Spain",
+  "position": "M (L), AM (RL)",
+  "foot": "Left",
+  "korean": "페 지 뇨 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 4,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

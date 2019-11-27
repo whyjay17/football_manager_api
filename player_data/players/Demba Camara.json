@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26721.png",
+  "name": "Demba Camara",
+  "birth_date": "7/11/1994",
+  "nation": "Guinea",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "뎀 바 카 마 라",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

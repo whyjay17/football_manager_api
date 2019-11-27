@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6340.png",
+  "name": "Renato Sanches",
+  "birth_date": "18/8/1997",
+  "nation": "Portugal",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "레 나 토 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 10,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 18,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 14
+    }
+  }
+}

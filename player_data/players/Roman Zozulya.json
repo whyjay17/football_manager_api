@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19155.png",
+  "name": "Roman Zozulya",
+  "birth_date": "17/11/1989",
+  "nation": "Ukraine",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "로 마 조 줄 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 12,
+      "Bravery": 18,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

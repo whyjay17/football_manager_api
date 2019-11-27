@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19984.png",
+  "name": "Carlos Castro",
+  "birth_date": "1/6/1995",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "카 를 로 스 카 스 트 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 16,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6048.png",
+  "name": "Sam Schreck",
+  "birth_date": "29/1/1999",
+  "nation": "Germany",
+  "position": "M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "샘 슈 렉",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

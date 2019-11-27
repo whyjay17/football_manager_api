@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24646.png",
+  "name": "Fabian Klos",
+  "birth_date": "2/12/1987",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "파 비 안 클 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

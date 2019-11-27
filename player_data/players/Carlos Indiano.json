@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58113.png",
+  "name": "Carlos Indiano",
+  "birth_date": "14/9/1988",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "카 를 로 스 인 디 아 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

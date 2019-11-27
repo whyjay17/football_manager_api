@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19925.png",
+  "name": "Gustavo Blanco Leschuk",
+  "birth_date": "5/11/1991",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "구 스 타 보 블 랑 코 레 슈 크",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

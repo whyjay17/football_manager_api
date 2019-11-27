@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24757.png",
+  "name": "Marius Laux",
+  "birth_date": "7/2/1986",
+  "nation": "Germany",
+  "position": "D/WB (L), DM, M (C)",
+  "foot": "Left",
+  "korean": "마 리 우 스 라 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

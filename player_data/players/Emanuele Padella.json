@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34033.png",
+  "name": "Emanuele Padella",
+  "birth_date": "24/9/1988",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "에 마 누 엘 레 파 델 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

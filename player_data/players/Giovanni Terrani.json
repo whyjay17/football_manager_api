@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35279.png",
+  "name": "Giovanni Terrani",
+  "birth_date": "12/10/1994",
+  "nation": "Italy",
+  "position": "M/AM (RL)",
+  "foot": "Right Only",
+  "korean": "조 반 니 테 라 니",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

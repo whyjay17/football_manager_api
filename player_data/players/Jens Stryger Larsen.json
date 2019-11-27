@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23009.png",
+  "name": "Jens Stryger Larsen",
+  "birth_date": "21/2/1991",
+  "nation": "Denmark",
+  "position": "D (RLC), WB (R)",
+  "foot": "Right",
+  "korean": "젠 스 스 트 리 거 라 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

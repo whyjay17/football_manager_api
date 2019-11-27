@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/816.png",
+  "name": "Rúben Semedo",
+  "birth_date": "4/4/1994",
+  "nation": "Portugal",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "루 벤 세 메 도",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 7,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 18,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

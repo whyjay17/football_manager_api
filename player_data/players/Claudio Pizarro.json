@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6845.png",
+  "name": "Claudio Pizarro",
+  "birth_date": "3/10/1978",
+  "nation": "Peru",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "클 라 우 디 오 피 사 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 17,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 18,
+      "Bravery": 13,
+      "Composure": 18,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 16,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 8,
+      "Strength": 13
+    }
+  }
+}

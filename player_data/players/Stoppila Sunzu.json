@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26339.png",
+  "name": "Stoppila Sunzu",
+  "birth_date": "22/6/1989",
+  "nation": "Zambia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "스 톱 필 라 순 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 2,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

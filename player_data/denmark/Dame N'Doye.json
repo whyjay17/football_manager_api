@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41324.png",
+  "name": "Dame N'Doye",
+  "birth_date": "21/2/1985",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "데 임 은 도 예",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

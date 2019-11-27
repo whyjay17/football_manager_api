@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46693.png",
+  "name": "Yoon Seung-Won",
+  "birth_date": "11/2/1995",
+  "nation": "South Korea KOR",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "윤 승 원",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 6,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

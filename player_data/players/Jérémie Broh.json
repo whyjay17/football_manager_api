@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35089.png",
+  "name": "Jérémie Broh",
+  "birth_date": "21/3/1997",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "제 레 미 브 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1183.png",
+  "name": "Antonio Sivera",
+  "birth_date": "11/8/1996",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 토 니 오 시 베 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 9,
+      "Eccentricity": 1,
+      "First Touch": 3,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 20,
+      "Flair": 3,
+      "Leadership": 13,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

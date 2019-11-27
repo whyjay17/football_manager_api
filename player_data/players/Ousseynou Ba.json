@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26095.png",
+  "name": "Ousseynou Ba",
+  "birth_date": "11/11/1995",
+  "nation": "Senegal",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "오 세 이 누 바",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8475.png",
+  "name": "Corentin Jean",
+  "birth_date": "15/7/1995",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "코 렌 틴 진",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

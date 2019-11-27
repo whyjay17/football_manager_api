@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/322.png",
+  "name": "Michy Batshuayi",
+  "birth_date": "2/10/1993",
+  "nation": "Belgium",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "미 시 바 추 아 이",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

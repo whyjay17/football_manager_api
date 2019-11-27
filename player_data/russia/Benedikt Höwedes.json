@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31120.png",
+  "name": "Benedikt Höwedes",
+  "birth_date": "29/2/1988",
+  "nation": "Germany",
+  "position": "D (LC)",
+  "foot": "Right",
+  "korean": "베 네 딕 트 회 베 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 17,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 18,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 3,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

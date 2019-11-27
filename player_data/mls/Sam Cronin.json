@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49695.png",
+  "name": "Sam Cronin",
+  "birth_date": "12/12/1986",
+  "nation": "United States",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "샘 크 로 닌",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

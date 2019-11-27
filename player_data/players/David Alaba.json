@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6326.png",
+  "name": "David Alaba",
+  "birth_date": "24/6/1992",
+  "nation": "Austria",
+  "position": "D (LC), WB (L), M (C)",
+  "foot": "Left",
+  "korean": "다 비 드 알 라 바",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 18,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 19,
+      "Pace": 16,
+      "Stamina": 18,
+      "Strength": 11
+    }
+  }
+}

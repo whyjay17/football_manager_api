@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34994.png",
+  "name": "Michelangelo Albertazzi",
+  "birth_date": "7/1/1991",
+  "nation": "Italy",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "미 켈 란 젤 로 알 버 타 치",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 2,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

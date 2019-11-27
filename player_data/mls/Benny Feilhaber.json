@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49662.png",
+  "name": "Benny Feilhaber",
+  "birth_date": "19/1/1985",
+  "nation": "United States",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "베 니 페 일 하 버",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 20,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

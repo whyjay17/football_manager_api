@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34050.png",
+  "name": "Lorenzo Valeau",
+  "birth_date": "5/3/1999",
+  "nation": "Italy",
+  "position": "D/WB (L), M (LC)",
+  "foot": "Left",
+  "korean": "로 렌 조 발 레 우",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

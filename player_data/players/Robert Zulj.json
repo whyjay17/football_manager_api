@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25292.png",
+  "name": "Robert Zulj",
+  "birth_date": "5/2/1992",
+  "nation": "Austria",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "로 버 트 줄 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

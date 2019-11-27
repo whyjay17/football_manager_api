@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22097.png",
+  "name": "Luis Alberto",
+  "birth_date": "28/9/1992",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "루 이 스 알 베 르 토",
+  "abilities": {
+    "technical": {
+      "Corners": 19,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 17,
+      "Free Kick": 16,
+      "Heading": 3,
+      "Long Shots": 13,
+      "Long Throws": 1,
+      "Marking": 4,
+      "Passing": 18,
+      "Penalty Taking": 14,
+      "Tackling": 3,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 20,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

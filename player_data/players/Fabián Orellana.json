@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1080.png",
+  "name": "Fabián Orellana",
+  "birth_date": "27/1/1986",
+  "nation": "Chile",
+  "position": "M (R), AM (RLC)",
+  "foot": "Right",
+  "korean": "파 비 안 오 렐 라 나",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 17,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

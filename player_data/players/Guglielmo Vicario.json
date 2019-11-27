@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35671.png",
+  "name": "Guglielmo Vicario",
+  "birth_date": "7/10/1996",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "굴 리 엘 모 비 카 리 오",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 4,
+      "First Touch": 4,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 16,
+      "Reflexes": 12,
+      "Rushing Out": 11,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

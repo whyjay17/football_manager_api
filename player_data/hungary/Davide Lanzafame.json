@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56874.png",
+  "name": "Davide Lanzafame",
+  "birth_date": "9/2/1987",
+  "nation": "Italy",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "다 비 데 란 자 파 메",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

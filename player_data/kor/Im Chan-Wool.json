@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46387.png",
+  "name": "Im Chan-Wool",
+  "birth_date": "14/7/1994",
+  "nation": "South Korea KOR",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "임 찬 울",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 7,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

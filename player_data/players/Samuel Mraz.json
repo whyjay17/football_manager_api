@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21612.png",
+  "name": "Samuel Mraz",
+  "birth_date": "13/5/1997",
+  "nation": "Slovakia",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "새 뮤 얼 미 라 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 19,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

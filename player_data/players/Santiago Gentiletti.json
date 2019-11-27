@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19127.png",
+  "name": "Santiago Gentiletti",
+  "birth_date": "9/1/1985",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "산 티 아 고 겐 틸 레 티",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

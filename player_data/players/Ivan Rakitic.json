@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1140.png",
+  "name": "Ivan Rakitic",
+  "birth_date": "10/3/1988",
+  "nation": "Croatia",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "이 반 라 키 티 치",
+  "abilities": {
+    "technical": {
+      "Corners": 18,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 16,
+      "Heading": 8,
+      "Long Shots": 18,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 17,
+      "Penalty Taking": 16,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

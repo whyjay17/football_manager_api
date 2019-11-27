@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80406.png",
+  "name": "Chris Oikonomidis",
+  "birth_date": "4/5/1995",
+  "nation": "Australia AUS",
+  "position": "M (L), AM (RLC)",
+  "foot": "Right",
+  "korean": "크 리 스 오 이 코 노 미 디 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

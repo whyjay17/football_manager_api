@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25245.png",
+  "name": "Christopher Buchtmann",
+  "birth_date": "25/4/1992",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "크 리 스 토 퍼 부 흐 트 만",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

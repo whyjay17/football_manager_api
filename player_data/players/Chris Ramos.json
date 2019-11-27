@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/401.png",
+  "name": "Chris Ramos",
+  "birth_date": "18/1/1997",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "크 리 스 라 모 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 3,
+      "Composure": 10,
+      "Concentration": 6,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53904.png",
+  "name": "Bozhidar Chorbadzhiyski",
+  "birth_date": "8/8/1995",
+  "nation": "Bulgaria",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "보 이 다 르 초 르 바 이 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 18,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

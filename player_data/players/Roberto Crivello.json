@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35558.png",
+  "name": "Roberto Crivello",
+  "birth_date": "14/9/1991",
+  "nation": "Italy",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "로 베 르 토 크 리 벨 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

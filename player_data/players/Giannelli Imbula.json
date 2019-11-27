@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/183.png",
+  "name": "Giannelli Imbula",
+  "birth_date": "12/9/1992",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "지 안 넬 리 임 불 라",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

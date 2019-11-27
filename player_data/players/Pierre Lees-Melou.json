@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7851.png",
+  "name": "Pierre Lees-Melou",
+  "birth_date": "25/5/1993",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "피 에 르 리 스 멜 루",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

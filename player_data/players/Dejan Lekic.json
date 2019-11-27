@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19335.png",
+  "name": "Dejan Lekic",
+  "birth_date": "7/6/1985",
+  "nation": "Serbia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "데 얀 레 키 치",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 17,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 7,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

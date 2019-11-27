@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46416.png",
+  "name": "Oh Min-Seok",
+  "birth_date": "24/4/1994",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "오 민 석",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 2,
+      "Finishing": 4,
+      "First Touch": 7,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 4,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

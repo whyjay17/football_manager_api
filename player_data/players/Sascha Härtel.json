@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24885.png",
+  "name": "Sascha Härtel",
+  "birth_date": "9/3/1999",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "사 샤 헤 르 텔",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 3,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 7,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 1,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

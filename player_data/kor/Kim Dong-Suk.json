@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46476.png",
+  "name": "Kim Dong-Suk",
+  "birth_date": "26/3/1987",
+  "nation": "South Korea KOR",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "김 동 석",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

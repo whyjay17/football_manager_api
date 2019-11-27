@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26344.png",
+  "name": "Laurent Jans",
+  "birth_date": "5/8/1992",
+  "nation": "Luxembourg",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "로 랑 얀 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

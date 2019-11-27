@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24709.png",
+  "name": "Marcel Risse",
+  "birth_date": "17/12/1989",
+  "nation": "Germany",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "마 르 셀 리 세",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

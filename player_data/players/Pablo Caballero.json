@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19275.png",
+  "name": "Pablo Caballero",
+  "birth_date": "21/7/1986",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "파 블 로 카 바 예 로",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

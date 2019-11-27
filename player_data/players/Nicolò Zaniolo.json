@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22517.png",
+  "name": "Nicolò Zaniolo",
+  "birth_date": "2/7/1999",
+  "nation": "Italy",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "니 콜 로 자 니 올 로",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

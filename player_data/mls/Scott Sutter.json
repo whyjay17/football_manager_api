@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49841.png",
+  "name": "Scott Sutter",
+  "birth_date": "13/5/1986",
+  "nation": "Switzerland",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "스 콧 서 터",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

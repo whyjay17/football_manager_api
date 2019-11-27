@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21418.png",
+  "name": "Filip Bradaric",
+  "birth_date": "11/1/1992",
+  "nation": "Croatia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "필 립 브 래 다 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 16,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

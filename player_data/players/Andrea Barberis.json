@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34702.png",
+  "name": "Andrea Barberis",
+  "birth_date": "11/12/1993",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "안 드 레 아 바 베 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

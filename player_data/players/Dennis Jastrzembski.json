@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6542.png",
+  "name": "Dennis Jastrzembski",
+  "birth_date": "20/2/2000",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "데 니 스 자 스 트 렘 브 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

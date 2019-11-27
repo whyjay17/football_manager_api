@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19405.png",
+  "name": "Michele Somma",
+  "birth_date": "16/3/1995",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "미 셸 소 마",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

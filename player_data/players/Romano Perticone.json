@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35465.png",
+  "name": "Romano Perticone",
+  "birth_date": "13/8/1986",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "로 마 노 페 르 티 콘",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

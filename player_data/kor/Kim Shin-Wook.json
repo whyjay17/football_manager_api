@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46539.png",
+  "name": "Kim Shin-Wook",
+  "birth_date": "14/4/1988",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "김 신 욱",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 17,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 18,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

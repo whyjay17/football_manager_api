@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/531.png",
+  "name": "Júnior Firpo",
+  "birth_date": "22/8/1996",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "주 니 어 피 르 포",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26544.png",
+  "name": "Fahd El Khoumisti",
+  "birth_date": "1/6/1993",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "파 드 엘 쿠 미 티",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 2,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 3,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

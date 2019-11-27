@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59069.png",
+  "name": "Carles Mas",
+  "birth_date": "27/2/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "칼 스 마 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 3,
+      "Dribbling": 3,
+      "Finishing": 1,
+      "First Touch": 4,
+      "Free Kick": 2,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 2,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

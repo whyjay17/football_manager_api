@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49426.png",
+  "name": "Julian Gressel",
+  "birth_date": "25/12/1993",
+  "nation": "Germany",
+  "position": "WB (R), M (RC), AM (R)",
+  "foot": "Right",
+  "korean": "줄 리 안 그 레 셀",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

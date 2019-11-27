@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35561.png",
+  "name": "Nicolas Giani",
+  "birth_date": "13/3/1986",
+  "nation": "Italy",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "니 콜 라 스 지 아 니",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 13,
+      "First Touch": 8,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 3,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 4,
+      "Leadership": 18,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25043.png",
+  "name": "Denis Thomalla",
+  "birth_date": "16/8/1992",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "데 니 스 토 말 라",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

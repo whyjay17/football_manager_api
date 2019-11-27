@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19665.png",
+  "name": "Elvir Maloku",
+  "birth_date": "14/5/1996",
+  "nation": "Albania",
+  "position": "M (L), AM (RL)",
+  "foot": "Right",
+  "korean": "엘 비 르 말 로 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 9,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 7,
+      "Flair": 17,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 6,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

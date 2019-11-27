@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25237.png",
+  "name": "Marcel Seegert",
+  "birth_date": "29/4/1994",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "마 르 셀 시 거 트",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 2,
+      "Finishing": 4,
+      "First Touch": 5,
+      "Free Kick": 2,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 12,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

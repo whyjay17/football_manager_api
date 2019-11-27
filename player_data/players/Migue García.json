@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59738.png",
+  "name": "Migue García",
+  "birth_date": "17/4/1991",
+  "nation": "Spain",
+  "position": "D/WB (L), M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "미 그 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

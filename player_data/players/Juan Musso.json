@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23011.png",
+  "name": "Juan Musso",
+  "birth_date": "6/5/1994",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "후 안 무 소",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 6,
+      "Handling": 14,
+      "Kicking": 8,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

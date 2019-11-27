@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34027.png",
+  "name": "Salvatore D'Elia",
+  "birth_date": "10/2/1989",
+  "nation": "Italy",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "살 바 토 레 디 엘 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

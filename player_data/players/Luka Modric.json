@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/637.png",
+  "name": "Luka Modric",
+  "birth_date": "9/9/1985",
+  "nation": "Croatia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "루 카 모 드 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 17,
+      "Finishing": 9,
+      "First Touch": 19,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 19,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 17,
+      "Bravery": 13,
+      "Composure": 18,
+      "Concentration": 16,
+      "Decisions": 18,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 18,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

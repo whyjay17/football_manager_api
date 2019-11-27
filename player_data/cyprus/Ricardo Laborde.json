@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80503.png",
+  "name": "Ricardo Laborde",
+  "birth_date": "16/2/1988",
+  "nation": "Colombia",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "리 카 르 도 라 보 르 드",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 5
+    }
+  }
+}

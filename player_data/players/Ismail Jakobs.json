@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24739.png",
+  "name": "Ismail Jakobs",
+  "birth_date": "17/8/1999",
+  "nation": "Germany",
+  "position": "M/AM (R)",
+  "foot": "Either",
+  "korean": "이 스 마 일 야 콥 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

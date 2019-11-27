@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8695.png",
+  "name": "Bjørn Johnsen",
+  "birth_date": "6/11/1991",
+  "nation": "Norway",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "비 욘 존 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 15,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24844.png",
+  "name": "Baris Atik",
+  "birth_date": "9/1/1995",
+  "nation": "Turkey",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "바 리 스 아 틱",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

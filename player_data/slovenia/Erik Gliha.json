@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53428.png",
+  "name": "Erik Gliha",
+  "birth_date": "13/2/1997",
+  "nation": "Slovenia",
+  "position": "D/WB/AM (L)",
+  "foot": "Left",
+  "korean": "에 릭 글 리 하",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 2,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

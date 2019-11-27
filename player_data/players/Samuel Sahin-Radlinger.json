@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6428.png",
+  "name": "Samuel Sahin-Radlinger",
+  "birth_date": "7/11/1992",
+  "nation": "Austria",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "새 뮤 얼 사 힌 래 들 링 거",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 10,
+      "Eccentricity": 14,
+      "First Touch": 12,
+      "Handling": 10,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 16,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

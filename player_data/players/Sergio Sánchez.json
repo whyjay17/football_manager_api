@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19287.png",
+  "name": "Sergio Sánchez",
+  "birth_date": "3/4/1986",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 르 지 오 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

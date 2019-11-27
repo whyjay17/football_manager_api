@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8088.png",
+  "name": "Lassana Diarra",
+  "birth_date": "10/3/1985",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "라 사 나 디 아 라",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 19,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

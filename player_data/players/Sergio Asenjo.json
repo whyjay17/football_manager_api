@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1.png",
+  "name": "Sergio Asenjo",
+  "birth_date": "28/6/1989",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "세 르 지 오 아 센 호",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 7,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 18,
+      "Rushing Out": 12,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 17,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

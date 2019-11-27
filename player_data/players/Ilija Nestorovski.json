@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35164.png",
+  "name": "Ilija Nestorovski",
+  "birth_date": "12/3/1990",
+  "nation": "Macedonia MKD",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "일 리 야 네 스 토 로 프 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 20,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

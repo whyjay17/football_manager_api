@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41269.png",
+  "name": "Adnane Tighadouini",
+  "birth_date": "30/11/1992",
+  "nation": "Morocco",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "아 드 나 네 티 가 두 이 니",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 3,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

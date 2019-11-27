@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/158.png",
+  "name": "Alberto García",
+  "birth_date": "9/2/1985",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 베 르 토 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 9,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 8,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

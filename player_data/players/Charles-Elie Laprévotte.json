@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24910.png",
+  "name": "Charles-Elie Laprévotte",
+  "birth_date": "4/10/1992",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "찰 스 엘 리 라 프 레 보 트",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

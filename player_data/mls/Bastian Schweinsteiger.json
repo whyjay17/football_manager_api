@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49450.png",
+  "name": "Bastian Schweinsteiger",
+  "birth_date": "1/8/1984",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "바 스 티 안 슈 바 인 슈 타 이 거",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 8,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 13,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 18,
+      "Concentration": 17,
+      "Decisions": 17,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 18,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 9,
+      "Strength": 14
+    }
+  }
+}

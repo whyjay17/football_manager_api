@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/663.png",
+  "name": "Vinícius Júnior",
+  "birth_date": "12/7/2000",
+  "nation": "Brazil",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "비 니 시 우 스 주 니 어",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

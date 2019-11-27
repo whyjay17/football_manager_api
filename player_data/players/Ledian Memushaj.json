@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35353.png",
+  "name": "Ledian Memushaj",
+  "birth_date": "7/12/1986",
+  "nation": "Albania",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "레 디 안 메 무 샤 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 18,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

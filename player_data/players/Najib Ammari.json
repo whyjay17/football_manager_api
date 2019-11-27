@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35566.png",
+  "name": "Najib Ammari",
+  "birth_date": "10/4/1992",
+  "nation": "Algeria",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "나 집 암 마 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8833.png",
+  "name": "Sergio Padt",
+  "birth_date": "6/6/1990",
+  "nation": "Netherlands",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "세 르 지 오 파 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 9,
+      "First Touch": 13,
+      "Handling": 14,
+      "Kicking": 14,
+      "Passing": 15,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

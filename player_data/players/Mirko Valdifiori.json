@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22806.png",
+  "name": "Mirko Valdifiori",
+  "birth_date": "21/4/1986",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "미 르 코 발 디 피 오 리",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 16,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

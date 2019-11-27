@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7860.png",
+  "name": "Ihsan Sacko",
+  "birth_date": "19/7/1997",
+  "nation": "France",
+  "position": "AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "이 산 사 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

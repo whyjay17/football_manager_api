@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46728.png",
+  "name": "Koo Ja-Ryong",
+  "birth_date": "6/4/1992",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "구 자 룡",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49511.png",
+  "name": "Justin Meram",
+  "birth_date": "4/12/1988",
+  "nation": "Iraq",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "저 스 틴 메 람",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

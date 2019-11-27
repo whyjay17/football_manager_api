@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8156.png",
+  "name": "Thomas Foket",
+  "birth_date": "25/9/1994",
+  "nation": "Belgium",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "토 머 스 포 켓",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

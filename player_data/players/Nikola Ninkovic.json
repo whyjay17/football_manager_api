@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34019.png",
+  "name": "Nikola Ninkovic",
+  "birth_date": "19/12/1994",
+  "nation": "Serbia",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "니 콜 라 닌 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

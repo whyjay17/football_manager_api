@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49937.png",
+  "name": "Nick Besler",
+  "birth_date": "7/5/1993",
+  "nation": "United States",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "닉 베 슬 러",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

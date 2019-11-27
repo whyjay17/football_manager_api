@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58065.png",
+  "name": "Federico Valverde",
+  "birth_date": "22/7/1998",
+  "nation": "Uruguay",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "페 데 리 코 발 베 르 데",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31287.png",
+  "name": "Dmitry Poloz",
+  "birth_date": "12/7/1991",
+  "nation": "Russia",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "드 미 트 리 폴 로 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

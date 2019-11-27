@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56928.png",
+  "name": "Murtaz Daushvili",
+  "birth_date": "1/5/1989",
+  "nation": "Georgia",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "무 르 타 즈 다 우 쉬 빌 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

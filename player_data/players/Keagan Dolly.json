@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7729.png",
+  "name": "Keagan Dolly",
+  "birth_date": "22/1/1993",
+  "nation": "South Africa",
+  "position": "M (L), AM (RLC)",
+  "foot": "Either",
+  "korean": "키 건 돌 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 16,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

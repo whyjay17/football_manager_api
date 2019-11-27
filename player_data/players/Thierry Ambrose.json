@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26208.png",
+  "name": "Thierry Ambrose",
+  "birth_date": "28/3/1997",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "티 에 리 암 브 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 2,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26654.png",
+  "name": "Jeando Fuchs",
+  "birth_date": "11/10/1997",
+  "nation": "Cameroon",
+  "position": "D (R), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "장 도 푹 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/309.png",
+  "name": "Denis Cheryshev",
+  "birth_date": "26/12/1990",
+  "nation": "Russia",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "데 니 스 체 리 셰 프",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 16,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

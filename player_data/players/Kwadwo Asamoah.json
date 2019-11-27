@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21950.png",
+  "name": "Kwadwo Asamoah",
+  "birth_date": "9/12/1988",
+  "nation": "Ghana",
+  "position": "D/WB (L), M (LC)",
+  "foot": "Left",
+  "korean": "콰 드 와 아 사 모 아",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

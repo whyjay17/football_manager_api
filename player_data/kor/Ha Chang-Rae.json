@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46629.png",
+  "name": "Ha Chang-Rae",
+  "birth_date": "16/10/1994",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "하 창 래",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

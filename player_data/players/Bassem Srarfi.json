@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7858.png",
+  "name": "Bassem Srarfi",
+  "birth_date": "25/6/1997",
+  "nation": "Tunisia",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "바 셈 스 라 르 피",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

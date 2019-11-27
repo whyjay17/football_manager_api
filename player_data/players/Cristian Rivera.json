@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19770.png",
+  "name": "Cristian Rivera",
+  "birth_date": "9/7/1997",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 리 베 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11893.png",
+  "name": "Matty Pearson",
+  "birth_date": "3/8/1993",
+  "nation": "England",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "매 티 피 어 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 4,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25115.png",
+  "name": "Marvin Matip",
+  "birth_date": "25/9/1985",
+  "nation": "Cameroon",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 빈 마 팁",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42127.png",
+  "name": "Christian Fassnacht",
+  "birth_date": "11/11/1993",
+  "nation": "Switzerland",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 파 스 나 흐 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

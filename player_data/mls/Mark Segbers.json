@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49751.png",
+  "name": "Mark Segbers",
+  "birth_date": "8/4/1996",
+  "nation": "United States",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "마 크 세 크 버 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 7,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 6,
+      "Decisions": 9,
+      "Determination": 4,
+      "Flair": 5,
+      "Leadership": 1,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 6,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

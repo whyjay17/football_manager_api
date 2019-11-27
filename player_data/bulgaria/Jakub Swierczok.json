@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54122.png",
+  "name": "Jakub Swierczok",
+  "birth_date": "28/12/1992",
+  "nation": "Poland",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "야 쿱 스 비 에 르 초 크",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

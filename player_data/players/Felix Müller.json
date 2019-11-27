@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25230.png",
+  "name": "Felix Müller",
+  "birth_date": "27/1/1993",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "펠 릭 스 뮐 러",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

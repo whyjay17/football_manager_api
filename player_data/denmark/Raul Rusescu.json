@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52811.png",
+  "name": "Raul Rusescu",
+  "birth_date": "9/7/1988",
+  "nation": "Romania",
+  "position": "AM (C), ST (C)",
+  "foot": "Right Only",
+  "korean": "라 울 루 세 스 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 16,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

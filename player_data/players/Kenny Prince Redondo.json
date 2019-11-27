@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25302.png",
+  "name": "Kenny Prince Redondo",
+  "birth_date": "29/8/1994",
+  "nation": "Germany",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "케 니 프 린 스 레 돈 도",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

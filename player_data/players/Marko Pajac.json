@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21410.png",
+  "name": "Marko Pajac",
+  "birth_date": "11/5/1993",
+  "nation": "Croatia",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "마 르 코 파 작",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23928.png",
+  "name": "Domingos Duarte",
+  "birth_date": "10/3/1995",
+  "nation": "Portugal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "도 밍 고 두 아 르 테",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

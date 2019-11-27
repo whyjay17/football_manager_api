@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54117.png",
+  "name": "Cicinho",
+  "birth_date": "26/12/1988",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "시 싱 요",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

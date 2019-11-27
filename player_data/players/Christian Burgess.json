@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12113.png",
+  "name": "Christian Burgess",
+  "birth_date": "7/10/1991",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 버 지 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 7,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

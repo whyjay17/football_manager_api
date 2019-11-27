@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19603.png",
+  "name": "André Sousa",
+  "birth_date": "9/7/1990",
+  "nation": "Portugal",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "안 드 레 소 사",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26485.png",
+  "name": "Louis Ameka Autchanga",
+  "birth_date": "3/10/1996",
+  "nation": "Gabon",
+  "position": "AM (R)",
+  "foot": "Right",
+  "korean": "루 이 아 메 카 오 트 창 가",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 5,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 1,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 17,
+      "Stamina": 5,
+      "Strength": 3
+    }
+  }
+}

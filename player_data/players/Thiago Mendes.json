@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61483.png",
+  "name": "Thiago Mendes",
+  "birth_date": "15/3/1992",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "티 아 고 멘 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47993.png",
+  "name": "Dino Besirovic",
+  "birth_date": "31/1/1994",
+  "nation": "Bosnia and Herzegovina",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "디 노 베 시 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6591.png",
+  "name": "Danny Latza",
+  "birth_date": "7/12/1989",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "대 니 라 차",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6412.png",
+  "name": "Håvard Nielsen",
+  "birth_date": "15/7/1993",
+  "nation": "Norway",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "호 바 드 닐 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

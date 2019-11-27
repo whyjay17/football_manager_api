@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6004.png",
+  "name": "Sebastian Kerk",
+  "birth_date": "17/4/1994",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "세 바 스 찬 커 크",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

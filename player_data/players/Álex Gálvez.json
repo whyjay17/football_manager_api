@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/175.png",
+  "name": "Álex Gálvez",
+  "birth_date": "6/6/1989",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "알 렉 스 갈 베 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

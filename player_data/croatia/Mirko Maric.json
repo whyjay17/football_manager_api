@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48226.png",
+  "name": "Mirko Maric",
+  "birth_date": "16/5/1995",
+  "nation": "Croatia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "미 르 코 마 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

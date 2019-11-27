@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24997.png",
+  "name": "Jonas David",
+  "birth_date": "8/3/2000",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "조 나 스 데 이 비 드",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

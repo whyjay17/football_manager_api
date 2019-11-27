@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53337.png",
+  "name": "Andrej Kadlec",
+  "birth_date": "2/2/1996",
+  "nation": "Slovakia",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "안 드 레 이 카 들 렉",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

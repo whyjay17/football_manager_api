@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57894.png",
+  "name": "Unai Albizua",
+  "birth_date": "18/1/1989",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Right",
+  "korean": "우 나 이 알 비 즈 아",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 3,
+      "First Touch": 7,
+      "Free Kick": 2,
+      "Heading": 12,
+      "Long Shots": 2,
+      "Long Throws": 2,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

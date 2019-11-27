@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23614.png",
+  "name": "Lucas Áfrico",
+  "birth_date": "5/2/1995",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "루 카 스 아 프 리 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

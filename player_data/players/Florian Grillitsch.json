@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6882.png",
+  "name": "Florian Grillitsch",
+  "birth_date": "7/8/1995",
+  "nation": "Austria",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "플 로 리 안 그 릴 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

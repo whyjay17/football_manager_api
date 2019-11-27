@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6636.png",
+  "name": "Marcel Halstenberg",
+  "birth_date": "27/9/1991",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "마 르 셀 할 스 텐 베 르 크",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 14,
+      "Long Shots": 15,
+      "Long Throws": 15,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

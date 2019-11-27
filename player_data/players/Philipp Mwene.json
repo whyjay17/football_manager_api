@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6584.png",
+  "name": "Philipp Mwene",
+  "birth_date": "29/1/1994",
+  "nation": "Austria",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "필 립 엠 웨 네",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

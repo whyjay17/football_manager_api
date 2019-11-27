@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25078.png",
+  "name": "Dominik Reimann",
+  "birth_date": "18/6/1997",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "도 미 닉 레 이 만",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 9,
+      "Communication": 11,
+      "Eccentricity": 14,
+      "First Touch": 11,
+      "Handling": 10,
+      "Kicking": 15,
+      "Passing": 12,
+      "Reflexes": 11,
+      "Rushing Out": 18,
+      "Throwing": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 9,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

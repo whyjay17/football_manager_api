@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11668.png",
+  "name": "Abu Ogogo",
+  "birth_date": "3/11/1989",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "아 부 오 고 고",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 2,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 17,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 14
+    }
+  }
+}

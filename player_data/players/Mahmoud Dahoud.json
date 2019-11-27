@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6092.png",
+  "name": "Mahmoud Dahoud",
+  "birth_date": "1/1/1996",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 흐 무 드 다 후 드",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 16,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

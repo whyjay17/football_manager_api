@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26594.png",
+  "name": "Souleymane Karamoko",
+  "birth_date": "29/7/1992",
+  "nation": "France",
+  "position": "D (RL), WB (R)",
+  "foot": "Right Only",
+  "korean": "소 울 리 마 네 카 라 모 코",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 1,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6373.png",
+  "name": "Robin Bormuth",
+  "birth_date": "19/9/1995",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "로 빈 보 머 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

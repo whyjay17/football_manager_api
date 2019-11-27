@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6929.png",
+  "name": "Marcin Kaminski",
+  "birth_date": "15/1/1992",
+  "nation": "Poland",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "마 르 신 카 민 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

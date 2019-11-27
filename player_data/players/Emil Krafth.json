@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7074.png",
+  "name": "Emil Krafth",
+  "birth_date": "2/8/1994",
+  "nation": "Sweden",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "에 밀 크 라 프 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

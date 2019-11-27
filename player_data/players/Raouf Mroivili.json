@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26369.png",
+  "name": "Raouf Mroivili",
+  "birth_date": "14/1/1999",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "라 우 프 미 로 이 빌 리",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 3,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 13,
+      "Determination": 1,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

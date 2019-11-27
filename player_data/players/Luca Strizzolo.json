@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34417.png",
+  "name": "Luca Strizzolo",
+  "birth_date": "29/4/1992",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "루 카 스 트 리 졸 로",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

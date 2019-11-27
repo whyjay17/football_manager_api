@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/594.png",
+  "name": "Raphaël Varane",
+  "birth_date": "25/4/1993",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "라 파 엘 바 라 네",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 17,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 17,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 17,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49419.png",
+  "name": "Ezequiel Barco",
+  "birth_date": "29/3/1999",
+  "nation": "Argentina",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "에 제 키 엘 바 르 코",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 18,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

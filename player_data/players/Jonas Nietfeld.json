@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25163.png",
+  "name": "Jonas Nietfeld",
+  "birth_date": "15/1/1994",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 나 스 니 트 펠 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

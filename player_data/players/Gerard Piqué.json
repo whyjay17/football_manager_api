@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1112.png",
+  "name": "Gerard Piqué",
+  "birth_date": "2/2/1987",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "제 라 드 피 케",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 16,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 15,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 18,
+      "Concentration": 15,
+      "Decisions": 17,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 16,
+      "Off The Ball": 9,
+      "Positioning": 18,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

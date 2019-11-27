@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8433.png",
+  "name": "Steeve Yago",
+  "birth_date": "16/12/1992",
+  "nation": "Burkina Faso",
+  "position": "D (RC), WB (R)",
+  "foot": "Right Only",
+  "korean": "스 티 브 야 고",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 5,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

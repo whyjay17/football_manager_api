@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20327.png",
+  "name": "Andy Najar",
+  "birth_date": "16/3/1993",
+  "nation": "Honduras",
+  "position": "D/WB (R), DM, M (RC), AM (R)",
+  "foot": "Right Only",
+  "korean": "앤 디 나 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 8,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

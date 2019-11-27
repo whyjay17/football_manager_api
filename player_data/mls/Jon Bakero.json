@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50052.png",
+  "name": "Jon Bakero",
+  "birth_date": "5/11/1996",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "존 바 케 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 11
+    }
+  }
+}

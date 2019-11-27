@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19657.png",
+  "name": "David Rocha",
+  "birth_date": "7/2/1985",
+  "nation": "Spain",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "데 이 비 드 로 차",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

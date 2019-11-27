@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46609.png",
+  "name": "Leo Gamalho",
+  "birth_date": "31/1/1986",
+  "nation": "Brazil",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "레 오 가 말 류",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

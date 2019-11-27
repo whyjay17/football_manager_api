@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31344.png",
+  "name": "Georgy Djikia",
+  "birth_date": "21/11/1993",
+  "nation": "Russia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "게 오 르 기 지 키 야",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

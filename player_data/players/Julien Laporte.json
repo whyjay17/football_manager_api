@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26021.png",
+  "name": "Julien Laporte",
+  "birth_date": "4/11/1993",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "줄 리 앙 라 포 르 테",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

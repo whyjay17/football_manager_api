@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7262.png",
+  "name": "Rony Lopes",
+  "birth_date": "28/12/1995",
+  "nation": "Portugal",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "로 니 로 페 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

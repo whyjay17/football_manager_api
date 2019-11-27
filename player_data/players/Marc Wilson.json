@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9711.png",
+  "name": "Marc Wilson",
+  "birth_date": "17/8/1987",
+  "nation": "Republic of Ireland",
+  "position": "D (RLC), DM",
+  "foot": "Either",
+  "korean": "마 크 윌 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

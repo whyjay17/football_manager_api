@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/299.png",
+  "name": "Uros Racic",
+  "birth_date": "17/3/1998",
+  "nation": "Serbia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "우 로 스 라 식",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

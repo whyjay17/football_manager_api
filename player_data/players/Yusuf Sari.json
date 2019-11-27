@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26030.png",
+  "name": "Yusuf Sari",
+  "birth_date": "20/11/1998",
+  "nation": "Turkey",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "유 수 프 사 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

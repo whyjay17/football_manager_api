@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22104.png",
+  "name": "Marco Parolo",
+  "birth_date": "25/1/1985",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "마 르 코 파 롤 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 16,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 16,
+      "Off The Ball": 17,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 18,
+      "Pace": 10,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

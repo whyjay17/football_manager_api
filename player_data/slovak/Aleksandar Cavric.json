@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53257.png",
+  "name": "Aleksandar Cavric",
+  "birth_date": "18/5/1994",
+  "nation": "Serbia",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "알 렉 산 다 르 카 브 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 6,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 11
+    }
+  }
+}

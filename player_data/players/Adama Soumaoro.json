@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61493.png",
+  "name": "Adama Soumaoro",
+  "birth_date": "18/6/1992",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "아 다 마 수 마 오 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 18,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 18
+    }
+  }
+}

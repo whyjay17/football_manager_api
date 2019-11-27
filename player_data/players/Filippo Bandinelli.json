@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34125.png",
+  "name": "Filippo Bandinelli",
+  "birth_date": "29/3/1995",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "필 리 포 반 디 넬 리",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

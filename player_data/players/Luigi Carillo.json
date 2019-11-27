@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34235.png",
+  "name": "Luigi Carillo",
+  "birth_date": "8/8/1996",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "루 이 지 카 리 요",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

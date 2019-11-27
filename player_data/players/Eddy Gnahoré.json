@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7084.png",
+  "name": "Eddy Gnahoré",
+  "birth_date": "14/11/1993",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 디 그 나 호 레",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

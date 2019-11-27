@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6232.png",
+  "name": "Danny Blum",
+  "birth_date": "7/1/1991",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "대 니 블 룸",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

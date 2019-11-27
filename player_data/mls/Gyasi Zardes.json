@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49507.png",
+  "name": "Gyasi Zardes",
+  "birth_date": "2/9/1991",
+  "nation": "United States",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "기 야 시 자 르 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

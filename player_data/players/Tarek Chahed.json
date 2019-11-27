@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24914.png",
+  "name": "Tarek Chahed",
+  "birth_date": "23/6/1996",
+  "nation": "Germany",
+  "position": "WB (R), M (RL), AM (RLC)",
+  "foot": "Right Only",
+  "korean": "타 렉 차 히 드",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

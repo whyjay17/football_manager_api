@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46574.png",
+  "name": "Lee Ho-Seung",
+  "birth_date": "21/12/1989",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 호 승",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 9,
+      "Eccentricity": 1,
+      "First Touch": 5,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 10,
+      "Reflexes": 11,
+      "Rushing Out": 7,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 7,
+      "Strength": 11
+    }
+  }
+}

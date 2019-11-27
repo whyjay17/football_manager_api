@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23850.png",
+  "name": "Joel Pereira",
+  "birth_date": "28/6/1996",
+  "nation": "Portugal",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 엘 페 레 이 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 11,
+      "Eccentricity": 8,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 9,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26213.png",
+  "name": "Aleksandar Radovanovic",
+  "birth_date": "11/11/1993",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 라 도 바 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

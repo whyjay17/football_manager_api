@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59043.png",
+  "name": "Mink Peeters",
+  "birth_date": "28/5/1998",
+  "nation": "Netherlands",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "밍 크 피 터 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

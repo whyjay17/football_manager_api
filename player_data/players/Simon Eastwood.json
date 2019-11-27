@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11934.png",
+  "name": "Simon Eastwood",
+  "birth_date": "26/6/1989",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "사 이 먼 이 스 트 우 드",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 4,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

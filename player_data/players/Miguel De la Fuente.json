@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58187.png",
+  "name": "Miguel De la Fuente",
+  "birth_date": "3/9/1999",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "미 겔 드 라 푸 엔 테",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 5,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

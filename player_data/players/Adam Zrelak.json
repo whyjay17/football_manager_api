@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6018.png",
+  "name": "Adam Zrelak",
+  "birth_date": "5/5/1994",
+  "nation": "Slovakia",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "아 담 즈 렐 락",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

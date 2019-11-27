@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58712.png",
+  "name": "Ibrahima Dieng",
+  "birth_date": "18/9/1997",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "이 브 라 히 마 디 옹",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 7,
+      "Penalty Taking": 9,
+      "Tackling": 1,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 3,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 1,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

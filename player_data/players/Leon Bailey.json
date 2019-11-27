@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6051.png",
+  "name": "Leon Bailey",
+  "birth_date": "9/8/1997",
+  "nation": "Jamaica",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "레 온 베 일 리",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 13,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 18,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

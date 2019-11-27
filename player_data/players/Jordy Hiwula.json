@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11692.png",
+  "name": "Jordy Hiwula",
+  "birth_date": "15/3/1996",
+  "nation": "England",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "조 디 히 울 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 6,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

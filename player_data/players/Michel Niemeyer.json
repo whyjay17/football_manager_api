@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24902.png",
+  "name": "Michel Niemeyer",
+  "birth_date": "19/11/1995",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Right",
+  "korean": "미 셸 니 마 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1379.png",
+  "name": "Mikel Balenziaga",
+  "birth_date": "29/2/1988",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "미 켈 발 렌 시 아 가",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

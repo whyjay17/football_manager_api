@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7328.png",
+  "name": "Pierre-Yves Polomat",
+  "birth_date": "27/12/1993",
+  "nation": "France",
+  "position": "D (L)",
+  "foot": "Left",
+  "korean": "피 에 르 이 브 폴 로 마 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

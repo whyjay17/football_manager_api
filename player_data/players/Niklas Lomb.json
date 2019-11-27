@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25229.png",
+  "name": "Niklas Lomb",
+  "birth_date": "28/7/1993",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "니 클 라 스 롬",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 13,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 13,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 7,
+      "Strength": 14
+    }
+  }
+}

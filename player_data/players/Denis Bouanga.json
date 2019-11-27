@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7787.png",
+  "name": "Denis Bouanga",
+  "birth_date": "11/11/1994",
+  "nation": "Gabon",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "데 니 스 부 앙 가",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

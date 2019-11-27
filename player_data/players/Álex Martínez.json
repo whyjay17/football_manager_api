@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19698.png",
+  "name": "Álex Martínez",
+  "birth_date": "12/8/1990",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "알 렉 스 마 르 티 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

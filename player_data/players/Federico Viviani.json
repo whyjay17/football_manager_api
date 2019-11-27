@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22797.png",
+  "name": "Federico Viviani",
+  "birth_date": "24/3/1992",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "페 데 리 코 비 비 아 니",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 17,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

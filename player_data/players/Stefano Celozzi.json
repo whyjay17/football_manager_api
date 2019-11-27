@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24677.png",
+  "name": "Stefano Celozzi",
+  "birth_date": "2/11/1988",
+  "nation": "Germany",
+  "position": "D/WB (R), DM",
+  "foot": "Right",
+  "korean": "스 테 파 노 셀 로 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

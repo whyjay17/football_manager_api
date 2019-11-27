@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57287.png",
+  "name": "Attila Fiola",
+  "birth_date": "17/2/1990",
+  "nation": "Hungary",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "아 틸 라 피 올 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 11,
+      "Long Shots": 4,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

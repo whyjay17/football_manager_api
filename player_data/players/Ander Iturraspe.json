@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1391.png",
+  "name": "Ander Iturraspe",
+  "birth_date": "8/3/1989",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "안 데 르 이 투 라 스 페",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

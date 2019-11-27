@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8474.png",
+  "name": "Andy Delort",
+  "birth_date": "9/10/1991",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "앤 디 델 로 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

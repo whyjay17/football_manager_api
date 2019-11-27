@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23233.png",
+  "name": "Marcelo Hermes",
+  "birth_date": "1/2/1995",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "마 르 셀 로 에 르 메 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

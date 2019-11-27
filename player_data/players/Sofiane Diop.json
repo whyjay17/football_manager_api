@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7269.png",
+  "name": "Sofiane Diop",
+  "birth_date": "9/6/2000",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "소 피 아 네 디 옵",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 2,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

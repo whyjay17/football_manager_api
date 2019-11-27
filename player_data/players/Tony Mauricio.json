@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26803.png",
+  "name": "Tony Mauricio",
+  "birth_date": "22/3/1994",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "토 니 마 우 리 시 오",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

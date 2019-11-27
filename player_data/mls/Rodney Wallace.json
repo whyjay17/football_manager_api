@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49814.png",
+  "name": "Rodney Wallace",
+  "birth_date": "17/6/1988",
+  "nation": "Costa Rica",
+  "position": "M/AM (L)",
+  "foot": "Left Only",
+  "korean": "로 드 니 월 러 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

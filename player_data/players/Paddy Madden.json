@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11820.png",
+  "name": "Paddy Madden",
+  "birth_date": "4/3/1990",
+  "nation": "Republic of Ireland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "패 디 매 든",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 15,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

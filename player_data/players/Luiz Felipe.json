@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22110.png",
+  "name": "Luiz Felipe",
+  "birth_date": "22/3/1997",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 이 스 펠 리 페",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 2,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 3,
+      "Long Throws": 3,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 17,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

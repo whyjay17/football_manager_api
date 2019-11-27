@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22697.png",
+  "name": "Federico Di Francesco",
+  "birth_date": "14/6/1994",
+  "nation": "Italy",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "페 데 리 코 디 프 란 체 스 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

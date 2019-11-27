@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10678.png",
+  "name": "Andrija Novakovich",
+  "birth_date": "21/9/1996",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "안 드 리 야 노 바 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

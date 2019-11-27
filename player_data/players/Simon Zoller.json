@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24725.png",
+  "name": "Simon Zoller",
+  "birth_date": "26/6/1991",
+  "nation": "Germany",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "사 이 먼 졸 러",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

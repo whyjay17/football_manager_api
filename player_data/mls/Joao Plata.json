@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49926.png",
+  "name": "Joao Plata",
+  "birth_date": "1/3/1992",
+  "nation": "Ecuador",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "주 앙 플 라 타",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 1,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 2,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 2,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 1,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 3
+    }
+  }
+}

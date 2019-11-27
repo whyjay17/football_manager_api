@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21712.png",
+  "name": "Rafik Zekhnini",
+  "birth_date": "12/1/1998",
+  "nation": "Norway",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "라 피 크 제 크 니 니",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 5,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

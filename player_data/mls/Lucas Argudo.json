@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49515.png",
+  "name": "Lucas Argudo",
+  "birth_date": "13/12/1995",
+  "nation": "United States",
+  "position": "M/AM (R)",
+  "foot": "Right Only",
+  "korean": "루 카 스 아 르 구 도",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 3,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

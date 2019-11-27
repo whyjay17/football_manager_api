@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31818.png",
+  "name": "Sergiy Sydorchuk",
+  "birth_date": "2/5/1991",
+  "nation": "Ukraine",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 르 게 이 시 도 르 추 크",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 15,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

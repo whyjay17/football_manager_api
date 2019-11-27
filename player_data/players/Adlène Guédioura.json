@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10429.png",
+  "name": "Adlène Guédioura",
+  "birth_date": "12/11/1985",
+  "nation": "Algeria",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "아 델 렌 게 디 우 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12253.png",
+  "name": "George Thomas",
+  "birth_date": "24/3/1997",
+  "nation": "Wales",
+  "position": "AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "조 지 토 머 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

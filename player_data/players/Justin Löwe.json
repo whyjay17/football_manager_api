@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24858.png",
+  "name": "Justin Löwe",
+  "birth_date": "30/12/1998",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "저 스 틴 뢰 웨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

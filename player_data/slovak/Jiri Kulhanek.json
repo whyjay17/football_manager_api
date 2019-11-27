@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53326.png",
+  "name": "Jiri Kulhanek",
+  "birth_date": "8/3/1996",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "이 리 쿨 하 네 크",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 4,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 6,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6054.png",
+  "name": "Julian Brandt",
+  "birth_date": "2/5/1996",
+  "nation": "Germany",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "줄 리 안 브 랜 트",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 18,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

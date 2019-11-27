@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59199.png",
+  "name": "Chuca",
+  "birth_date": "10/6/1997",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "추 카 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 5,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

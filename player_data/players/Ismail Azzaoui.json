@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7030.png",
+  "name": "Ismail Azzaoui",
+  "birth_date": "6/1/1998",
+  "nation": "Belgium",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "이 스 마 일 아 자 우 이",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

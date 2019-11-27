@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40709.png",
+  "name": "Nikolay Komlichenko",
+  "birth_date": "29/6/1995",
+  "nation": "Russia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 이 콤 리 첸 코",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 16,
+      "First Touch": 8,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

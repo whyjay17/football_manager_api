@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25805.png",
+  "name": "Kévin Lejeune",
+  "birth_date": "22/1/1985",
+  "nation": "France",
+  "position": "D/WB (L), M (LC), AM (L)",
+  "foot": "Left",
+  "korean": "케 빈 르 주 네",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

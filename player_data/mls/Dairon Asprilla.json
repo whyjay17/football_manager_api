@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49903.png",
+  "name": "Dairon Asprilla",
+  "birth_date": "25/5/1992",
+  "nation": "Colombia",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "다 이 론 아 스 프 리 야",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

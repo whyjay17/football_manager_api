@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20203.png",
+  "name": "Luis Pérez",
+  "birth_date": "4/2/1995",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "루 이 스 페 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 6,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

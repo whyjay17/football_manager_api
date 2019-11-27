@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24898.png",
+  "name": "Manfred Osei-Kwadwo",
+  "birth_date": "30/5/1995",
+  "nation": "Ghana",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "만 프 레 드 오 세 이 콰 드 와",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

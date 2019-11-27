@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7327.png",
+  "name": "Cheik M'Bengue",
+  "birth_date": "23/7/1988",
+  "nation": "Senegal",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "치 크 엠 벵 그",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

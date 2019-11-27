@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53669.png",
+  "name": "Aljaz Ivacic",
+  "birth_date": "29/12/1993",
+  "nation": "Slovenia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 리 야 즈 이 바 치 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 10,
+      "First Touch": 5,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

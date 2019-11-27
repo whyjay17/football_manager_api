@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25852.png",
+  "name": "Abdoul Ba",
+  "birth_date": "8/2/1994",
+  "nation": "Mauritania",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "압 둘 바",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 19,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46734.png",
+  "name": "No Dong-Gun",
+  "birth_date": "4/10/1991",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "노 동 건",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 10,
+      "Eccentricity": 1,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 15,
+      "Passing": 12,
+      "Reflexes": 11,
+      "Rushing Out": 7,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

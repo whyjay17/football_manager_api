@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21956.png",
+  "name": "Jeison Murillo",
+  "birth_date": "27/5/1992",
+  "nation": "Colombia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "제 시 온 무 리 요",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 16,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

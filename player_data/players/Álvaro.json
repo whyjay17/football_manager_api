@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/614.png",
+  "name": "Álvaro",
+  "birth_date": "8/1/1990",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "알 바 로",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

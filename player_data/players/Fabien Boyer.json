@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26129.png",
+  "name": "Fabien Boyer",
+  "birth_date": "12/4/1991",
+  "nation": "Madagascar",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "파 비 엔 보 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

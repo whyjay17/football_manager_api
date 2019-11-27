@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49715.png",
+  "name": "Samuel Piette",
+  "birth_date": "12/11/1994",
+  "nation": "Canada",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "사 무 엘 피 에 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

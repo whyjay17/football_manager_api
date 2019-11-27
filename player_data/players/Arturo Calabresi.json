@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21319.png",
+  "name": "Arturo Calabresi",
+  "birth_date": "17/3/1996",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "아 르 투 로 칼 라 브 레 시",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

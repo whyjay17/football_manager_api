@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6853.png",
+  "name": "Marko Maric",
+  "birth_date": "3/1/1996",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "마 르 코 마 리 크",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 12,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

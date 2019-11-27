@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49775.png",
+  "name": "Daniel Royer",
+  "birth_date": "22/5/1990",
+  "nation": "Austria",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "다 니 엘 로 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

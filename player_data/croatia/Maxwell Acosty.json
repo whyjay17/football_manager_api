@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48282.png",
+  "name": "Maxwell Acosty",
+  "birth_date": "10/9/1991",
+  "nation": "Ghana",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "맥 스 웰 아 코 스 티",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 2,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 2,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 3,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

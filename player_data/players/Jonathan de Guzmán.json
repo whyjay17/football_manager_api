@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6226.png",
+  "name": "Jonathan de Guzmán",
+  "birth_date": "13/9/1987",
+  "nation": "Netherlands",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "조 나 단 드 구 즈 만",
+  "abilities": {
+    "technical": {
+      "Corners": 17,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 16,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

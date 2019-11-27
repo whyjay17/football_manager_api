@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46608.png",
+  "name": "Alemao",
+  "birth_date": "14/7/1986",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "알 레 망",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 5,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

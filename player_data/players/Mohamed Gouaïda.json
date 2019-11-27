@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25216.png",
+  "name": "Mohamed Gouaïda",
+  "birth_date": "15/5/1993",
+  "nation": "Tunisia",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "모 하 메 드 구 아 이 다",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

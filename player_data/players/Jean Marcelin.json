@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25858.png",
+  "name": "Jean Marcelin",
+  "birth_date": "12/2/2000",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "장 마 르 셀 린",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 2,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 7,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 5,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 6,
+      "Strength": 12
+    }
+  }
+}

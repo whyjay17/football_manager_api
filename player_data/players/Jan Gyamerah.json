@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24681.png",
+  "name": "Jan Gyamerah",
+  "birth_date": "18/6/1995",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "얀 자 메 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

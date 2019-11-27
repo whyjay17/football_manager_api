@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6200.png",
+  "name": "David Abraham",
+  "birth_date": "16/7/1986",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 아 브 라 함",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 18,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7020.png",
+  "name": "Ignacio Camacho",
+  "birth_date": "4/5/1990",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "이 그 나 시 오 카 마 초",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 18,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 17,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

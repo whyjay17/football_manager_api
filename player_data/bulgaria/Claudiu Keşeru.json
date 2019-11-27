@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54109.png",
+  "name": "Claudiu Keşeru",
+  "birth_date": "2/12/1986",
+  "nation": "Romania",
+  "position": "AM (C), ST (C)",
+  "foot": "Left",
+  "korean": "클 라 우 디 우 케 세 루",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 14,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

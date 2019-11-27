@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47907.png",
+  "name": "Luka Menalo",
+  "birth_date": "22/7/1996",
+  "nation": "Bosnia and Herzegovina",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "루 카 메 날 로",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

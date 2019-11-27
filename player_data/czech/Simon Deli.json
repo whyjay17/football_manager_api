@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40848.png",
+  "name": "Simon Deli",
+  "birth_date": "27/10/1991",
+  "nation": "Côte d'Ivoire",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "시 몬 델 리",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 6,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 19,
+      "Jumping Reach": 19,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 19
+    }
+  }
+}

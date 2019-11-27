@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20721.png",
+  "name": "Lovre Kalinic",
+  "birth_date": "3/4/1990",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "로 브 레 칼 리 니 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 17,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 6,
+      "Handling": 17,
+      "Kicking": 10,
+      "Passing": 6,
+      "Reflexes": 16,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 18,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 7,
+      "Determination": 16,
+      "Flair": 1,
+      "Leadership": 15,
+      "Off The Ball": 1,
+      "Positioning": 17,
+      "Teamwork": 12,
+      "Vision": 4,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 17,
+      "Jumping Reach": 19,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

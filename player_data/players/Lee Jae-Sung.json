@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25061.png",
+  "name": "Lee Jae-Sung",
+  "birth_date": "10/8/1992",
+  "nation": "South Korea KOR",
+  "position": "M/AM (LC)",
+  "foot": "Left",
+  "korean": "이 재 성",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

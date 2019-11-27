@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25153.png",
+  "name": "Jonas Föhrenbach",
+  "birth_date": "26/1/1996",
+  "nation": "Germany",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "요 나 스 퓌 렌 바 흐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

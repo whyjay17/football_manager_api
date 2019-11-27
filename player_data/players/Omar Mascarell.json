@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6757.png",
+  "name": "Omar Mascarell",
+  "birth_date": "2/2/1993",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "오 마 르 마 스 카 렐",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 17,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

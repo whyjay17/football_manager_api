@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47894.png",
+  "name": "Lovro Majer",
+  "birth_date": "17/1/1998",
+  "nation": "Croatia",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "로 브 로 마 제 르",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 16,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

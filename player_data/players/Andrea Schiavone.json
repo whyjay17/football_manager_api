@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35654.png",
+  "name": "Andrea Schiavone",
+  "birth_date": "25/2/1993",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "안 드 레 아 스 키 아 본",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

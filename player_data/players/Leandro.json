@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19932.png",
+  "name": "Leandro",
+  "birth_date": "28/2/1989",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "레 안 드 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 9,
+      "Eccentricity": 8,
+      "First Touch": 6,
+      "Handling": 11,
+      "Kicking": 12,
+      "Passing": 13,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 5,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 4,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

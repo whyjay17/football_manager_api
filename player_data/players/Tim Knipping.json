@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25217.png",
+  "name": "Tim Knipping",
+  "birth_date": "24/11/1992",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "팀 나 이 핑",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

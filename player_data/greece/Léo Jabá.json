@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24551.png",
+  "name": "Léo Jabá",
+  "birth_date": "9/8/1998",
+  "nation": "Brazil",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "레 오 자 바",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

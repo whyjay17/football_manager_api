@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49688.png",
+  "name": "Ethan Finlay",
+  "birth_date": "6/8/1990",
+  "nation": "United States",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "에 단 핀 레 이",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

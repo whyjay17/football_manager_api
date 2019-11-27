@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58818.png",
+  "name": "Ferrán Sarsanedas",
+  "birth_date": "11/2/1997",
+  "nation": "Spain",
+  "position": "D (L), DM, M (C)",
+  "foot": "Left",
+  "korean": "페 란 사 르 사 네 가 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

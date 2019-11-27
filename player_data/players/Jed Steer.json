@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11584.png",
+  "name": "Jed Steer",
+  "birth_date": "23/9/1992",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "제 드 스 티 어",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 5,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 13,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 4,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

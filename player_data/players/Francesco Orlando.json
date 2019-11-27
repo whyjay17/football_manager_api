@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35468.png",
+  "name": "Francesco Orlando",
+  "birth_date": "1/10/1996",
+  "nation": "Italy",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "프 란 체 스 코 올 랜 도",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

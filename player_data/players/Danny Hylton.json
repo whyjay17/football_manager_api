@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11929.png",
+  "name": "Danny Hylton",
+  "birth_date": "25/2/1989",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "대 니 힐 튼",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24851.png",
+  "name": "Niklas Kreuzer",
+  "birth_date": "20/2/1993",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "니 클 라 스 크 로 이 저",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

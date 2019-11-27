@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24357.png",
+  "name": "Bibars Natcho",
+  "birth_date": "18/2/1988",
+  "nation": "Israel",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "비 브 라 스 나 트 호",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

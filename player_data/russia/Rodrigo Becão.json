@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/30912.png",
+  "name": "Rodrigo Becão",
+  "birth_date": "19/1/1996",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "호 드 리 구 베 캉",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

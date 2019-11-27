@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35473.png",
+  "name": "Andrea Mazzarani",
+  "birth_date": "6/11/1989",
+  "nation": "Italy",
+  "position": "M (C), AM (RC)",
+  "foot": "Right",
+  "korean": "안 드 레 아 마 자 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

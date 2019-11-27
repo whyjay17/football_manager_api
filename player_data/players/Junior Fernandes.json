@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2457.png",
+  "name": "Junior Fernandes",
+  "birth_date": "4/10/1988",
+  "nation": "Chile",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "주 니 어 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 14,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 3,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

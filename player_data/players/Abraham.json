@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19653.png",
+  "name": "Abraham",
+  "birth_date": "22/2/1986",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "아 브 라 함",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

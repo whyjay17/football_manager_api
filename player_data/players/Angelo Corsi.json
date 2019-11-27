@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34529.png",
+  "name": "Angelo Corsi",
+  "birth_date": "18/5/1989",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "안 젤 로 코 르 시",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 6,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

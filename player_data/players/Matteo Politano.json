@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22689.png",
+  "name": "Matteo Politano",
+  "birth_date": "3/8/1993",
+  "nation": "Italy",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "마 테 오 폴 리 타 노",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 16,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40.png",
+  "name": "Santiago Cáseres",
+  "birth_date": "25/2/1997",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "산 티 아 고 카 세 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

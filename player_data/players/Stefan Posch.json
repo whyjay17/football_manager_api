@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6863.png",
+  "name": "Stefan Posch",
+  "birth_date": "14/5/1997",
+  "nation": "Austria",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "스 테 판 포 쉬",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

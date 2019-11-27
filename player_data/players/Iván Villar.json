@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58212.png",
+  "name": "Iván Villar",
+  "birth_date": "9/7/1997",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 반 비 야 르",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 13,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

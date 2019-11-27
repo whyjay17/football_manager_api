@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25165.png",
+  "name": "Sebastian Freis",
+  "birth_date": "23/4/1985",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "세 바 스 찬 프 레 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 7,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/513.png",
+  "name": "Marc Bartra",
+  "birth_date": "15/1/1991",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 크 바 르 트 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 18,
+      "Bravery": 14,
+      "Composure": 18,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

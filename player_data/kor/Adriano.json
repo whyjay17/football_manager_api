@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46537.png",
+  "name": "Adriano",
+  "birth_date": "28/9/1987",
+  "nation": "Brazil",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 드 리 아 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

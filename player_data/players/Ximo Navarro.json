@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1203.png",
+  "name": "Ximo Navarro",
+  "birth_date": "23/1/1990",
+  "nation": "Spain",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "시 모 나 바 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

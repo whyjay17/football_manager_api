@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49547.png",
+  "name": "Ulises Segura",
+  "birth_date": "23/6/1993",
+  "nation": "Costa Rica",
+  "position": "M (RC), AM (R)",
+  "foot": "Right",
+  "korean": "울 리 세 세 구 라",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 1,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

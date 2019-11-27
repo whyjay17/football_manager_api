@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/776.png",
+  "name": "Nabil El Zhar",
+  "birth_date": "27/8/1986",
+  "nation": "Morocco",
+  "position": "M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "나 빌 엘 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

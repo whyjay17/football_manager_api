@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49923.png",
+  "name": "Albert Rusnák",
+  "birth_date": "7/7/1994",
+  "nation": "Slovakia",
+  "position": "AM (LC)",
+  "foot": "Right",
+  "korean": "알 버 트 루 스 나 크",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21091.png",
+  "name": "Christian Luyindama",
+  "birth_date": "8/1/1994",
+  "nation": "Congo DR",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 루 인 다 마",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 18,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 19
+    }
+  }
+}

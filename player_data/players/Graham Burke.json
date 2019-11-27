@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10511.png",
+  "name": "Graham Burke",
+  "birth_date": "21/9/1993",
+  "nation": "Republic of Ireland",
+  "position": "M/AM (RLC), ST (C)",
+  "foot": "Left Only",
+  "korean": "그 레 이 엄 버 크",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

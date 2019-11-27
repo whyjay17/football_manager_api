@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26176.png",
+  "name": "Bevic Moussiti-Oko",
+  "birth_date": "28/1/1995",
+  "nation": "Congo",
+  "position": "AM (C), ST (C)",
+  "foot": "Right Only",
+  "korean": "베 비 치 무 시 티 오 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 3,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

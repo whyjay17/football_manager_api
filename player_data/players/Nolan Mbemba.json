@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8165.png",
+  "name": "Nolan Mbemba",
+  "birth_date": "19/2/1995",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "놀 란 음 베 바",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

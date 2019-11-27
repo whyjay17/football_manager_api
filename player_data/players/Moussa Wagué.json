@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1131.png",
+  "name": "Moussa Wagué",
+  "birth_date": "4/10/1998",
+  "nation": "Senegal",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "무 사 와 구 에",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

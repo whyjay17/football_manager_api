@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25074.png",
+  "name": "Jannik Dehm",
+  "birth_date": "2/5/1996",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "자 니 크 뎀",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

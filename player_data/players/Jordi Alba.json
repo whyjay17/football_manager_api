@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1125.png",
+  "name": "Jordi Alba",
+  "birth_date": "21/3/1989",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "조 르 디 알 바",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 18,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

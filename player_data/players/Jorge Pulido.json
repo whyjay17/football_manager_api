@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/810.png",
+  "name": "Jorge Pulido",
+  "birth_date": "8/4/1991",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "호 르 헤 풀 리 도",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

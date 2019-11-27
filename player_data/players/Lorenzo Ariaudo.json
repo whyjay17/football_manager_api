@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21778.png",
+  "name": "Lorenzo Ariaudo",
+  "birth_date": "11/6/1989",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "로 렌 조 아 리 아 우 도",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 3,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

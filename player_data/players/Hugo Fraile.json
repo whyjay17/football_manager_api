@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57807.png",
+  "name": "Hugo Fraile",
+  "birth_date": "16/3/1987",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "휴 고 플 레 일",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

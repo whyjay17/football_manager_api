@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6260.png",
+  "name": "Martin Hinteregger",
+  "birth_date": "7/9/1992",
+  "nation": "Austria",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "마 틴 힌 터 네 거",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 16,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

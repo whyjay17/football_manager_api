@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53332.png",
+  "name": "Erik Jirka",
+  "birth_date": "19/9/1997",
+  "nation": "Slovakia",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "에 릭 지 르 카",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 8
+    }
+  }
+}

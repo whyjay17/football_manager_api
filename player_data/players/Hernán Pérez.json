@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1009.png",
+  "name": "Hernán Pérez",
+  "birth_date": "25/2/1989",
+  "nation": "Paraguay",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "에 르 난 페 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

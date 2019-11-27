@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34705.png",
+  "name": "Vladimir Golemic",
+  "birth_date": "28/6/1991",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "블 라 디 미 르 골 레 믹",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 16,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

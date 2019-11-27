@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24724.png",
+  "name": "Niklas Hauptmann",
+  "birth_date": "27/6/1996",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "니 클 라 스 하 우 트 만",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 5
+    }
+  }
+}

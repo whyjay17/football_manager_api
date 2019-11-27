@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34609.png",
+  "name": "Ivan Marconi",
+  "birth_date": "25/10/1989",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "이 반 마 르 코 니",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/739.png",
+  "name": "Iván Cuéllar",
+  "birth_date": "25/5/1984",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "이 반 쿠 엘 라 르",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 15,
+      "First Touch": 12,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 14,
+      "Rushing Out": 15,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 17,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

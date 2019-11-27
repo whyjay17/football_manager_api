@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35269.png",
+  "name": "Mattia Mustacchio",
+  "birth_date": "17/5/1989",
+  "nation": "Italy",
+  "position": "WB/M/AM (R)",
+  "foot": "Right Only",
+  "korean": "마 티 아 무 스 타 키 오",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 16,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 9,
+      "Determination": 6,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

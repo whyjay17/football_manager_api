@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26481.png",
+  "name": "Thibaut Vion",
+  "birth_date": "11/12/1993",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "티 보 비 온",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

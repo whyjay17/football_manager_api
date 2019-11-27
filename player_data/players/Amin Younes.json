@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22310.png",
+  "name": "Amin Younes",
+  "birth_date": "6/8/1993",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "아 민 유 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 8,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 18,
+      "Balance": 13,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

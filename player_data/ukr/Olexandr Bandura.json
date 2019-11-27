@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31960.png",
+  "name": "Olexandr Bandura",
+  "birth_date": "30/5/1986",
+  "nation": "Ukraine",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "올 렉 스 산 드 르 반 두 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 5,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 14,
+      "Passing": 16,
+      "Reflexes": 16,
+      "Rushing Out": 6,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 4,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 18,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 16,
+      "Strength": 7
+    }
+  }
+}

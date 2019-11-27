@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49831.png",
+  "name": "Oriol Rosell",
+  "birth_date": "7/7/1992",
+  "nation": "Spain",
+  "position": "DM",
+  "foot": "Right",
+  "korean": "오 리 올 로 셀",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

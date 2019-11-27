@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58492.png",
+  "name": "Antxon Muneta",
+  "birth_date": "1/6/1986",
+  "nation": "Spain",
+  "position": "M (C), AM (RLC)",
+  "foot": "Left Only",
+  "korean": "앤 트 슨 무 네 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 13,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

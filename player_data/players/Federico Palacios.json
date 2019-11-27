@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6012.png",
+  "name": "Federico Palacios",
+  "birth_date": "9/4/1995",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "페 데 리 코 팔 라 시 오 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 16,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11334.png",
+  "name": "George Moncur",
+  "birth_date": "18/8/1993",
+  "nation": "England",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "조 지 몬 커",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

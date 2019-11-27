@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20097.png",
+  "name": "Álvaro Bustos",
+  "birth_date": "26/6/1995",
+  "nation": "Spain",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "알 바 로 부 스 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 3,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22309.png",
+  "name": "Kévin Malcuit",
+  "birth_date": "31/7/1991",
+  "nation": "France",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right Only",
+  "korean": "케 빈 말 쿠 이 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

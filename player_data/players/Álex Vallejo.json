@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19358.png",
+  "name": "Álex Vallejo",
+  "birth_date": "16/1/1992",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "알 렉 스 발 레 호",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 4,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 6,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

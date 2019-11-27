@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6222.png",
+  "name": "Lucas Torró",
+  "birth_date": "19/7/1994",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 스 토 로",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

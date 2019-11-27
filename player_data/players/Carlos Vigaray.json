@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1200.png",
+  "name": "Carlos Vigaray",
+  "birth_date": "7/9/1994",
+  "nation": "Spain",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "카 를 로 스 비 가 레 이",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

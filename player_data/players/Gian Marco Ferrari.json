@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22694.png",
+  "name": "Gian Marco Ferrari",
+  "birth_date": "15/5/1992",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "지 안 마 르 코 페 라 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

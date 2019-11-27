@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59045.png",
+  "name": "Álex Albistegi",
+  "birth_date": "1/7/1987",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "알 렉 스 알 비 스 테 기",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7903.png",
+  "name": "Oumar Solet",
+  "birth_date": "7/2/2000",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "오 마 르 솔 렛",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 7,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

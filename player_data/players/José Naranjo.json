@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20235.png",
+  "name": "José Naranjo",
+  "birth_date": "28/7/1994",
+  "nation": "Spain",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "호 세 나 란 조",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

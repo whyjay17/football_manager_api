@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49927.png",
+  "name": "Marcelo Silva",
+  "birth_date": "21/3/1989",
+  "nation": "Uruguay",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 르 셀 로 실 바",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

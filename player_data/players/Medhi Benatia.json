@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22026.png",
+  "name": "Medhi Benatia",
+  "birth_date": "17/4/1987",
+  "nation": "Morocco",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "메 디 베 나 티 아",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 17,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 16,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 18,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

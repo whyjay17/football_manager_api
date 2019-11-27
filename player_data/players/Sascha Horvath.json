@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24843.png",
+  "name": "Sascha Horvath",
+  "birth_date": "22/8/1996",
+  "nation": "Austria",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "사 샤 호 르 바 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 7,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

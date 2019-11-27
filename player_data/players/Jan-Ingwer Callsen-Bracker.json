@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6252.png",
+  "name": "Jan-Ingwer Callsen-Bracker",
+  "birth_date": "23/9/1984",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "얀 잉 워 콜 센 - 브 래 커",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

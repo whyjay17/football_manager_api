@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7016.png",
+  "name": "Jérôme Roussillon",
+  "birth_date": "6/1/1993",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "제 롬 루 시 용",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

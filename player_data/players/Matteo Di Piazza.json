@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34522.png",
+  "name": "Matteo Di Piazza",
+  "birth_date": "1/1/1988",
+  "nation": "Italy",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "마 테 오 디 피 아 자",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

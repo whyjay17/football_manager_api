@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20533.png",
+  "name": "Marvelous Nakamba",
+  "birth_date": "19/1/1994",
+  "nation": "Zimbabwe",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 블 러 스 나 캄 바",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

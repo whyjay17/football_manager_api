@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24820.png",
+  "name": "Stanislav Iljutcenko",
+  "birth_date": "13/8/1990",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "스 타 니 슬 라 프 일 주 첸 코",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

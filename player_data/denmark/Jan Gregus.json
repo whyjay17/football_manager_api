@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41326.png",
+  "name": "Jan Gregus",
+  "birth_date": "29/1/1991",
+  "nation": "Slovakia",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "얀 그 레 구 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 4,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

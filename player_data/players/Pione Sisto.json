@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/146.png",
+  "name": "Pione Sisto",
+  "birth_date": "4/2/1995",
+  "nation": "Denmark",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "피 오 네 시 스 토",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

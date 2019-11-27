@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57228.png",
+  "name": "Giorgi Beridze",
+  "birth_date": "12/5/1997",
+  "nation": "Georgia",
+  "position": "WB/M/AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "기 오 르 기 베 리 제",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 5,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 5,
+      "Strength": 5
+    }
+  }
+}

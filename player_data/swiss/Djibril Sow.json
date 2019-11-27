@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42130.png",
+  "name": "Djibril Sow",
+  "birth_date": "6/2/1997",
+  "nation": "Switzerland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "지 브 릴 소 우",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

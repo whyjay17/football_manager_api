@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21961.png",
+  "name": "Miranda",
+  "birth_date": "7/9/1984",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "미 란 다",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 17,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

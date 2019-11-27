@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12416.png",
+  "name": "George Honeyman",
+  "birth_date": "8/9/1994",
+  "nation": "England",
+  "position": "M (RL), AM (C)",
+  "foot": "Right",
+  "korean": "조 지 허 니 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

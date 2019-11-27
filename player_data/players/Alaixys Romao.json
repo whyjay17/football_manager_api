@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8167.png",
+  "name": "Alaixys Romao",
+  "birth_date": "18/1/1984",
+  "nation": "Togo",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "알 렉 시 스 로 마 오",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

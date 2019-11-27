@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59271.png",
+  "name": "Isaac Aketxe",
+  "birth_date": "3/6/1989",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "아 이 작 아 케 케 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 7,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

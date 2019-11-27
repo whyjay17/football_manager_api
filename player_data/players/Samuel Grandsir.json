@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7271.png",
+  "name": "Samuel Grandsir",
+  "birth_date": "14/8/1996",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "새 뮤 얼 그 랑 시 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

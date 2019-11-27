@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49686.png",
+  "name": "Francisco Calvo",
+  "birth_date": "8/7/1992",
+  "nation": "Costa Rica",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "프 란 시 스 코 칼 보",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

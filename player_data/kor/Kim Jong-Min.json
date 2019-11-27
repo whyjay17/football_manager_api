@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46735.png",
+  "name": "Kim Jong-Min",
+  "birth_date": "11/8/1992",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "김 종 민",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

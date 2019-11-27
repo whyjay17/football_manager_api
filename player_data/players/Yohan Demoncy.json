@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26531.png",
+  "name": "Yohan Demoncy",
+  "birth_date": "7/4/1996",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "요 한 악 마",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

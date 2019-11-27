@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/553.png",
+  "name": "Takashi Inui",
+  "birth_date": "2/6/1988",
+  "nation": "Japan",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "이 누 이 다 카 시",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 19,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53899.png",
+  "name": "Henrique",
+  "birth_date": "23/8/1993",
+  "nation": "Brazil",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "엔 리 케",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 3,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 16,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

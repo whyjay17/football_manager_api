@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24729.png",
+  "name": "Thomas Kessler",
+  "birth_date": "20/1/1986",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "토 머 스 케 슬 러",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 13,
+      "Eccentricity": 5,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 14,
+      "Passing": 7,
+      "Reflexes": 16,
+      "Rushing Out": 12,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

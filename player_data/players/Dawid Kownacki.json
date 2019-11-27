@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22601.png",
+  "name": "Dawid Kownacki",
+  "birth_date": "14/3/1997",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 위 드 코 나 키",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

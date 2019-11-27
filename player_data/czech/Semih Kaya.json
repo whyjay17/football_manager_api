@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40960.png",
+  "name": "Semih Kaya",
+  "birth_date": "24/2/1991",
+  "nation": "Turkey",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 미 카 야",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 3,
+      "First Touch": 9,
+      "Free Kick": 2,
+      "Heading": 12,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

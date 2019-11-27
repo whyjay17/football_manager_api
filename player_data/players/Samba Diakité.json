@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26624.png",
+  "name": "Samba Diakité",
+  "birth_date": "24/1/1989",
+  "nation": "Mali",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "삼 바 디 아 키 테",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 14
+    }
+  }
+}

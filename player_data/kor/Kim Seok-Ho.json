@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46451.png",
+  "name": "Kim Seok-Ho",
+  "birth_date": "1/11/1994",
+  "nation": "South Korea KOR",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "김 석 호",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 2,
+      "Dribbling": 4,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 2,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 4,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

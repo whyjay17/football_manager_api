@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53894.png",
+  "name": "Kiril Despodov",
+  "birth_date": "11/11/1996",
+  "nation": "Bulgaria",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "키 릴 데 스 포 도 프",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 2,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

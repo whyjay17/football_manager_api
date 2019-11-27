@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49995.png",
+  "name": "Kim Ki-Hee",
+  "birth_date": "13/7/1989",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "김 기 희",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 15,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/446.png",
+  "name": "Kévin Rodrigues",
+  "birth_date": "5/3/1994",
+  "nation": "Portugal",
+  "position": "D (L)",
+  "foot": "Left Only",
+  "korean": "케 빈 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 16,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

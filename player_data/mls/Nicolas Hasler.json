@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49464.png",
+  "name": "Nicolas Hasler",
+  "birth_date": "4/5/1991",
+  "nation": "Liechtenstein",
+  "position": "D/WB (R), M (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 하 슬 러",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

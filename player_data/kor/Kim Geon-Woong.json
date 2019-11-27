@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46778.png",
+  "name": "Kim Geon-Woong",
+  "birth_date": "29/8/1997",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "김 건 웅",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 7,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

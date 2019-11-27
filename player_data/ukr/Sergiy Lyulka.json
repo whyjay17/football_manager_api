@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31770.png",
+  "name": "Sergiy Lyulka",
+  "birth_date": "22/2/1990",
+  "nation": "Ukraine",
+  "position": "D/WB (RL)",
+  "foot": "Right Only",
+  "korean": "세 르 기 율 카",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 4,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

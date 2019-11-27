@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1154.png",
+  "name": "Philippe Coutinho",
+  "birth_date": "12/6/1992",
+  "nation": "Brazil",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "필 리 페 쿠 티 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 18,
+      "Finishing": 14,
+      "First Touch": 17,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 17,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 17,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 18,
+      "Leadership": 13,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 16,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

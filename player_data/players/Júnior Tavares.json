@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22618.png",
+  "name": "Júnior Tavares",
+  "birth_date": "7/8/1996",
+  "nation": "Brazil",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "주 니 어 타 바 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

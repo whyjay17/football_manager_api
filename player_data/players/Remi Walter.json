@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7844.png",
+  "name": "Remi Walter",
+  "birth_date": "26/4/1995",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "레 미 월 터",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

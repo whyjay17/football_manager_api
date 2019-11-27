@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59224.png",
+  "name": "Chema Núñez",
+  "birth_date": "16/9/1997",
+  "nation": "Spain",
+  "position": "AM (LC)",
+  "foot": "Left Only",
+  "korean": "케 마 누 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

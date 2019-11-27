@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11336.png",
+  "name": "Brad Potts",
+  "birth_date": "3/7/1994",
+  "nation": "England",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "브 래 드 포 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20075.png",
+  "name": "David Rodríguez",
+  "birth_date": "14/2/1986",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

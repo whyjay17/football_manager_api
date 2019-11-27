@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49460.png",
+  "name": "Jonathan Campbell",
+  "birth_date": "27/6/1993",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "조 나 단 캠 벨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

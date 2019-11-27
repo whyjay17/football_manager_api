@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57828.png",
+  "name": "Razvan Ochirosii",
+  "birth_date": "13/3/1989",
+  "nation": "Romania",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "라 즈 반 오 치 로 시",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

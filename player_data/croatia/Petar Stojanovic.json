@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47915.png",
+  "name": "Petar Stojanovic",
+  "birth_date": "7/10/1995",
+  "nation": "Slovenia",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "페 타 르 스 토 야 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

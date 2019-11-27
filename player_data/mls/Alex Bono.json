@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50048.png",
+  "name": "Alex Bono",
+  "birth_date": "1/4/1994",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 스 보 노",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 3,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

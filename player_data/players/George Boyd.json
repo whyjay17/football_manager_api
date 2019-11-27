@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10857.png",
+  "name": "George Boyd",
+  "birth_date": "2/10/1985",
+  "nation": "Scotland",
+  "position": "WB (L), M/AM (RL)",
+  "foot": "Either",
+  "korean": "조 지 보 이 드",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 17,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7664.png",
+  "name": "Queensy Menig",
+  "birth_date": "19/8/1995",
+  "nation": "Netherlands",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "퀸 시 메 니 그",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

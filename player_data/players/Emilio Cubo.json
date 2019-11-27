@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59335.png",
+  "name": "Emilio Cubo",
+  "birth_date": "4/1/1992",
+  "nation": "Spain",
+  "position": "D/WB (R), M/AM (RC)",
+  "foot": "Right Only",
+  "korean": "에 밀 리 오 쿠 보",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 13,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

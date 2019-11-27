@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46456.png",
+  "name": "Gordan Bunoza",
+  "birth_date": "5/2/1988",
+  "nation": "Bosnia and Herzegovina",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "고 르 단 부 노 자",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

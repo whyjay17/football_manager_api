@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19451.png",
+  "name": "Javi Cobo",
+  "birth_date": "7/10/1997",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "하 비 코 보",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 1,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 4,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 3,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

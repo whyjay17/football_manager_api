@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23222.png",
+  "name": "Germán Conti",
+  "birth_date": "3/6/1994",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "헤 르 만 콘 티",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 16,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

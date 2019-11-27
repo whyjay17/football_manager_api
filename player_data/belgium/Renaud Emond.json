@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21089.png",
+  "name": "Renaud Emond",
+  "birth_date": "5/12/1991",
+  "nation": "Belgium",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "르 노 에 몬 드",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

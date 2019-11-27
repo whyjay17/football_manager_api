@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2566.png",
+  "name": "Maicon",
+  "birth_date": "14/9/1985",
+  "nation": "Brazil",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "마 이 콘 ( 미 국 )",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 16,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

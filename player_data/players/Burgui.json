@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1229.png",
+  "name": "Burgui",
+  "birth_date": "29/10/1993",
+  "nation": "Spain",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "부 르 기 ( ) 와 부 르 기 (",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

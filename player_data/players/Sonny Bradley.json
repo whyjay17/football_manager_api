@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11880.png",
+  "name": "Sonny Bradley",
+  "birth_date": "13/9/1991",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "소 니 브 래 들 리",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 16,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 6,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 18,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

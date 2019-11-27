@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25049.png",
+  "name": "Vitus Eicher",
+  "birth_date": "5/11/1990",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "비 투 스 아 이 셔",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 11,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 9,
+      "Pace": 9,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

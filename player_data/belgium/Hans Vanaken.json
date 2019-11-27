@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20529.png",
+  "name": "Hans Vanaken",
+  "birth_date": "24/8/1992",
+  "nation": "Belgium",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "한 스 바 나 켄",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

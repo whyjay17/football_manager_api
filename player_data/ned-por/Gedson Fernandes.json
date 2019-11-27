@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23218.png",
+  "name": "Gedson Fernandes",
+  "birth_date": "9/1/1999",
+  "nation": "Portugal",
+  "position": "M (C)",
+  "foot": "Right Only",
+  "korean": "제 드 슨 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 18,
+      "Pace": 15,
+      "Stamina": 18,
+      "Strength": 10
+    }
+  }
+}

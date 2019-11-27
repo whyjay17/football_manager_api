@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25154.png",
+  "name": "Marco Grüttner",
+  "birth_date": "17/10/1985",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 르 코 그 뤼 트 너",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

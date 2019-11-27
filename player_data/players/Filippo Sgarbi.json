@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35290.png",
+  "name": "Filippo Sgarbi",
+  "birth_date": "29/12/1997",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "필 리 포 스 가 르 비",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 3,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/92.png",
+  "name": "Rubén Blanco",
+  "birth_date": "25/7/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 벤 블 랑 코",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 14,
+      "Eccentricity": 7,
+      "First Touch": 11,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 13,
+      "Reflexes": 16,
+      "Rushing Out": 14,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

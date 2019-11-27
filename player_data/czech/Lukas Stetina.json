@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40968.png",
+  "name": "Lukas Stetina",
+  "birth_date": "28/7/1991",
+  "nation": "Slovakia",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "루 카 스 스 테 티 나",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

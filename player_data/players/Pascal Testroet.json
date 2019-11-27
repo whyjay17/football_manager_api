@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24871.png",
+  "name": "Pascal Testroet",
+  "birth_date": "26/9/1990",
+  "nation": "Germany",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "파 스 칼 테 스 로 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

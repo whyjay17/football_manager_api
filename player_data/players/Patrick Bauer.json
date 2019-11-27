@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11587.png",
+  "name": "Patrick Bauer",
+  "birth_date": "28/10/1992",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 바 우 어",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

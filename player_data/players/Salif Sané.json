@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6745.png",
+  "name": "Salif Sané",
+  "birth_date": "25/8/1990",
+  "nation": "Senegal",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "살 리 프 사 네",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 16,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 17,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 19,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22188.png",
+  "name": "Hakan Çalhanoglu",
+  "birth_date": "8/2/1994",
+  "nation": "Turkey",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Right",
+  "korean": "하 칸 찰 하 노 글 루",
+  "abilities": {
+    "technical": {
+      "Corners": 17,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

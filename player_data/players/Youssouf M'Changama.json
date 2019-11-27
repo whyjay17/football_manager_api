@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26120.png",
+  "name": "Youssouf M'Changama",
+  "birth_date": "29/8/1990",
+  "nation": "Comoros",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "유 수 프 엠 창 가 마",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

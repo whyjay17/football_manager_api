@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49476.png",
+  "name": "Kellyn Acosta",
+  "birth_date": "24/7/1995",
+  "nation": "United States",
+  "position": "D (RL), DM, M (C)",
+  "foot": "Either",
+  "korean": "켈 린 아 코 스 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

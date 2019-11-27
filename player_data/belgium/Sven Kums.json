@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20319.png",
+  "name": "Sven Kums",
+  "birth_date": "26/2/1988",
+  "nation": "Belgium",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "스 벤 쿰 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 7,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

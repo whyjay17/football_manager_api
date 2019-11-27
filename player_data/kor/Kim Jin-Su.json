@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46534.png",
+  "name": "Kim Jin-Su",
+  "birth_date": "13/6/1992",
+  "nation": "South Korea KOR",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "김 진 수",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 16,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

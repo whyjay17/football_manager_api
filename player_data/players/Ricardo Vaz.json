@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20179.png",
+  "name": "Ricardo Vaz",
+  "birth_date": "26/11/1994",
+  "nation": "Portugal",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "리 카 르 도 바 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

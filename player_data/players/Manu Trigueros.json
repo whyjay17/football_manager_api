@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50.png",
+  "name": "Manu Trigueros",
+  "birth_date": "17/10/1991",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "마 누 트 리 게 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

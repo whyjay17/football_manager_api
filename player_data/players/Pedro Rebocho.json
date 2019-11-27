@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7545.png",
+  "name": "Pedro Rebocho",
+  "birth_date": "23/1/1995",
+  "nation": "Portugal",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "페 드 로 레 보 초",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

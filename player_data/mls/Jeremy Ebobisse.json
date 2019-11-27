@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49906.png",
+  "name": "Jeremy Ebobisse",
+  "birth_date": "13/2/1997",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "제 레 미 에 보 비 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

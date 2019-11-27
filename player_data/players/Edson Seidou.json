@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26623.png",
+  "name": "Edson Seidou",
+  "birth_date": "7/10/1991",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "에 드 슨 세 이 두",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

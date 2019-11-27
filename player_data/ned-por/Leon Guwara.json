@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8915.png",
+  "name": "Leon Guwara",
+  "birth_date": "28/6/1996",
+  "nation": "Germany",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "레 온 구 와 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

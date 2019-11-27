@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35358.png",
+  "name": "Vincenzo Fiorillo",
+  "birth_date": "13/1/1990",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "빈 센 초 피 오 릴 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 7,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 5,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 2,
+      "Leadership": 15,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

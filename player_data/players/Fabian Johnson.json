@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6155.png",
+  "name": "Fabian Johnson",
+  "birth_date": "11/12/1987",
+  "nation": "United States",
+  "position": "D/WB (RL), M/AM (L)",
+  "foot": "Either",
+  "korean": "파 비 안 존 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 16,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

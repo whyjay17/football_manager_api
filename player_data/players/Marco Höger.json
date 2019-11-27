@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24711.png",
+  "name": "Marco Höger",
+  "birth_date": "16/9/1989",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "마 르 코 회 거",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

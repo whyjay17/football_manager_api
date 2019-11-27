@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6078.png",
+  "name": "Lukasz Piszczek",
+  "birth_date": "3/6/1985",
+  "nation": "Poland",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "루 카 스 피 슈 체 크",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 17,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

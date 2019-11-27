@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7794.png",
+  "name": "Baptiste Guillaume",
+  "birth_date": "16/6/1995",
+  "nation": "Belgium",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "바 티 스 트 기 요 메",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

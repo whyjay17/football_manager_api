@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7677.png",
+  "name": "Emiliano Sala",
+  "birth_date": "31/10/1990",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "에 밀 리 아 노 살 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

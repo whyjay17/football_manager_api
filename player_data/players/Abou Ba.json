@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26425.png",
+  "name": "Abou Ba",
+  "birth_date": "29/7/1998",
+  "nation": "France",
+  "position": "DM, M (RC)",
+  "foot": "Right Only",
+  "korean": "아 부 바",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56873.png",
+  "name": "Ivan Petryak",
+  "birth_date": "13/3/1994",
+  "nation": "Ukraine",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "이 반 페 트 리 아 크",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

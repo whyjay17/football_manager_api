@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8562.png",
+  "name": "Joël Veltman",
+  "birth_date": "15/1/1992",
+  "nation": "Netherlands",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "조 엘 벨 트 만",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

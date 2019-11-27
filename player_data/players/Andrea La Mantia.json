@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34885.png",
+  "name": "Andrea La Mantia",
+  "birth_date": "6/5/1991",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "안 드 레 아 라 만 티 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

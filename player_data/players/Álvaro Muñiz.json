@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57850.png",
+  "name": "Álvaro Muñiz",
+  "birth_date": "7/9/1988",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "알 바 로 무 니 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 4,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

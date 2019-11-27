@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53296.png",
+  "name": "Jakub Paur",
+  "birth_date": "4/7/1992",
+  "nation": "Slovakia",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "야 쿱 파 우 르",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 1,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

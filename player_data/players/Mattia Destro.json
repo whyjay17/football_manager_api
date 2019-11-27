@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21299.png",
+  "name": "Mattia Destro",
+  "birth_date": "20/3/1991",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 티 아 데 스 트 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 5,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12124.png",
+  "name": "Tom Naylor",
+  "birth_date": "28/6/1991",
+  "nation": "England",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "톰 네 이 러",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

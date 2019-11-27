@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34991.png",
+  "name": "Luka Bogdan",
+  "birth_date": "26/3/1996",
+  "nation": "Croatia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 카 보 그 단",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 9,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

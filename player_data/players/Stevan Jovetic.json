@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7276.png",
+  "name": "Stevan Jovetic",
+  "birth_date": "2/11/1989",
+  "nation": "Montenegro",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "스 테 반 요 베 티 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 17,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 16,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

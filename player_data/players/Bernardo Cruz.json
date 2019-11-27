@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19808.png",
+  "name": "Bernardo Cruz",
+  "birth_date": "17/7/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "베 르 나 르 도 크 루 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

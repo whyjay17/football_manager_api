@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46736.png",
+  "name": "Lee Jong-Seong",
+  "birth_date": "5/8/1992",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "이 종 성",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 17,
+      "Strength": 14
+    }
+  }
+}

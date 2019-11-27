@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58736.png",
+  "name": "Samuel Shashoua",
+  "birth_date": "13/5/1999",
+  "nation": "England",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "사 무 엘 샤 쇼 우 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 5,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

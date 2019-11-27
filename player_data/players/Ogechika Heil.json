@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25020.png",
+  "name": "Ogechika Heil",
+  "birth_date": "27/11/2000",
+  "nation": "Germany",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "오 게 치 카 하 일",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 4,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 5,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 2,
+      "Off The Ball": 6,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 7,
+      "Strength": 5
+    }
+  }
+}

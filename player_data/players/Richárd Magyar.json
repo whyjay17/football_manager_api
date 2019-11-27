@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24944.png",
+  "name": "Richárd Magyar",
+  "birth_date": "3/5/1991",
+  "nation": "Sweden",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "리 카 르 드 마 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 10,
+      "Dribbling": 4,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

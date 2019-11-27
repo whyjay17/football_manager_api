@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23774.png",
+  "name": "Galeno",
+  "birth_date": "21/10/1997",
+  "nation": "Brazil",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "갈 레 노",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 16,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

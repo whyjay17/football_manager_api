@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26812.png",
+  "name": "Julien Masson",
+  "birth_date": "18/6/1998",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "줄 리 언 매 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 7,
+      "Strength": 12
+    }
+  }
+}

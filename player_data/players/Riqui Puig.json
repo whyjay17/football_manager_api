@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58811.png",
+  "name": "Riqui Puig",
+  "birth_date": "13/8/1999",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "리 키 푸 이 그",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 5,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

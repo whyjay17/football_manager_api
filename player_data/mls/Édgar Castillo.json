@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49485.png",
+  "name": "Édgar Castillo",
+  "birth_date": "8/10/1986",
+  "nation": "United States",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "에 드 가 카 스 티 요",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

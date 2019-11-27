@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26419.png",
+  "name": "Tobias Badila",
+  "birth_date": "12/5/1993",
+  "nation": "Congo DR",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "토 비 아 스 바 딜 라",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 8,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

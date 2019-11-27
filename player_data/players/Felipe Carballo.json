@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59692.png",
+  "name": "Felipe Carballo",
+  "birth_date": "4/10/1996",
+  "nation": "Uruguay",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "펠 리 페 카 르 발 로",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

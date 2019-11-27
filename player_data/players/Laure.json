@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19175.png",
+  "name": "Laure",
+  "birth_date": "22/3/1985",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "로 어 ( 로 어 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

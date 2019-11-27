@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34695.png",
+  "name": "Ahmad Benali",
+  "birth_date": "7/2/1992",
+  "nation": "Libya",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "아 마 드 베 날 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

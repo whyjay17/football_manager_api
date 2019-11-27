@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6201.png",
+  "name": "Evan N'Dicka",
+  "birth_date": "20/8/1999",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "에 반 은 디 카",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 18,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

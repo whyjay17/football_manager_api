@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6599.png",
+  "name": "Jean-Paul Boëtius",
+  "birth_date": "22/3/1994",
+  "nation": "Netherlands",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "장 폴 보 에 티 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 7,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7936.png",
+  "name": "Bertrand Traoré",
+  "birth_date": "6/9/1995",
+  "nation": "Burkina Faso",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Left Only",
+  "korean": "베 르 트 랑 트 라 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

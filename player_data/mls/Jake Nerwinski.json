@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50084.png",
+  "name": "Jake Nerwinski",
+  "birth_date": "16/10/1994",
+  "nation": "United States",
+  "position": "D (R)",
+  "foot": "Right",
+  "korean": "제 이 크 네 르 윈 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 8,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

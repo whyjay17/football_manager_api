@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32283.png",
+  "name": "Olexandr Karavaev",
+  "birth_date": "2/6/1992",
+  "nation": "Ukraine",
+  "position": "D/WB (R), M/AM (RL)",
+  "foot": "Right",
+  "korean": "올 렉 스 산 드 르 카 라 바 예 프",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 7,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 6,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

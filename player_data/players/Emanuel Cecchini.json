@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19882.png",
+  "name": "Emanuel Cecchini",
+  "birth_date": "24/12/1996",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 마 누 엘 세 키 니",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

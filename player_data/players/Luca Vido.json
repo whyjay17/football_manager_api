@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35272.png",
+  "name": "Luca Vido",
+  "birth_date": "3/2/1997",
+  "nation": "Italy",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "루 카 비 도",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 4,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

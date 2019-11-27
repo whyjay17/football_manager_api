@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8037.png",
+  "name": "Nemanja Radonjic",
+  "birth_date": "15/2/1996",
+  "nation": "Serbia",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "네 마 냐 라 돈 지 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7839.png",
+  "name": "Arnaud Lusamba",
+  "birth_date": "4/1/1997",
+  "nation": "France",
+  "position": "DM, M/AM (C)",
+  "foot": "Right Only",
+  "korean": "아 르 노 루 삼 바",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

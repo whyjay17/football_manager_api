@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26212.png",
+  "name": "Mehdi Tahrat",
+  "birth_date": "24/1/1990",
+  "nation": "Algeria",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "메 디 타 랏",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

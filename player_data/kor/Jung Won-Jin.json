@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46675.png",
+  "name": "Jung Won-Jin",
+  "birth_date": "10/8/1994",
+  "nation": "South Korea KOR",
+  "position": "M (C), AM (L)",
+  "foot": "Right",
+  "korean": "정 원 진",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

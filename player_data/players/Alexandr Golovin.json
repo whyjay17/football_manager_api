@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7260.png",
+  "name": "Alexandr Golovin",
+  "birth_date": "30/5/1996",
+  "nation": "Russia",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "알 렉 산 드 르 골 로 빈",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

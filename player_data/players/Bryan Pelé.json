@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26718.png",
+  "name": "Bryan Pelé",
+  "birth_date": "25/3/1992",
+  "nation": "France",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "브 라 이 언 펠 레",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

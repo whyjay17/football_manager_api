@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24947.png",
+  "name": "Timo Königsmann",
+  "birth_date": "5/4/1997",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "티 모 쾨 니 그 만",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 9,
+      "Communication": 11,
+      "Eccentricity": 8,
+      "First Touch": 8,
+      "Handling": 10,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 16,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

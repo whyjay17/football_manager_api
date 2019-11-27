@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46718.png",
+  "name": "Cho Sung-Jin",
+  "birth_date": "14/12/1990",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "조 성 진",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 2,
+      "Heading": 14,
+      "Long Shots": 3,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11217.png",
+  "name": "Daniel Barlaser",
+  "birth_date": "18/1/1997",
+  "nation": "England",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "다 니 엘 바 레 이 저",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

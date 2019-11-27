@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41367.png",
+  "name": "Erik Sviatchenko",
+  "birth_date": "4/10/1991",
+  "nation": "Denmark",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "에 릭 스 비 아 첸 코",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

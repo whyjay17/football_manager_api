@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58831.png",
+  "name": "Kike Delgado",
+  "birth_date": "19/6/1999",
+  "nation": "Ecuador",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "키 케 델 가 도",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

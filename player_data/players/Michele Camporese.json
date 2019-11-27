@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34792.png",
+  "name": "Michele Camporese",
+  "birth_date": "19/5/1992",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "미 셸 캄 포 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

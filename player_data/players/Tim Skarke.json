@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25048.png",
+  "name": "Tim Skarke",
+  "birth_date": "7/9/1996",
+  "nation": "Germany",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "팀 스 카 케",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

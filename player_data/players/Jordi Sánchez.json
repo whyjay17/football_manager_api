@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20023.png",
+  "name": "Jordi Sánchez",
+  "birth_date": "11/11/1994",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 르 디 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 10,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 5,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 7,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6855.png",
+  "name": "Ermin Bicakcic",
+  "birth_date": "24/1/1990",
+  "nation": "Bosnia and Herzegovina",
+  "position": "D (RC)",
+  "foot": "Either",
+  "korean": "에 르 민 비 카 치 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 4,
+      "Long Throws": 14,
+      "Marking": 16,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 16,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

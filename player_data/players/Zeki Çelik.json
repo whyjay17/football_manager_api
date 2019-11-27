@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61498.png",
+  "name": "Zeki Çelik",
+  "birth_date": "17/2/1997",
+  "nation": "Turkey",
+  "position": "D (RL), WB (R)",
+  "foot": "Right",
+  "korean": "제 키 셀 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 5,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

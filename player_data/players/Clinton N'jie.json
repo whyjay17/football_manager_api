@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8035.png",
+  "name": "Clinton N'jie",
+  "birth_date": "15/8/1993",
+  "nation": "Cameroon",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "클 린 턴 은 지",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

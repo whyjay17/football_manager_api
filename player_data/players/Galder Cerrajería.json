@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58531.png",
+  "name": "Galder Cerrajería",
+  "birth_date": "5/4/1989",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "갈 더 세 라 제 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 10,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25931.png",
+  "name": "Anthony Weber",
+  "birth_date": "11/6/1987",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "앤 서 니 웨 버",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

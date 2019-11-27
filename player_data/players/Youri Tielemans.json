@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7254.png",
+  "name": "Youri Tielemans",
+  "birth_date": "7/5/1997",
+  "nation": "Belgium",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "유 이 틸 레 만 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

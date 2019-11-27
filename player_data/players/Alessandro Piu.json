@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34312.png",
+  "name": "Alessandro Piu",
+  "birth_date": "30/7/1996",
+  "nation": "Italy",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 피 우",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

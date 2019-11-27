@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8200.png",
+  "name": "Abdoulaye Diallo",
+  "birth_date": "30/3/1992",
+  "nation": "Senegal",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "압 둘 라 예 디 알 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 9,
+      "Eccentricity": 7,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 17,
+      "Rushing Out": 6,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

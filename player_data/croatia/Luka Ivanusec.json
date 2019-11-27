@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48167.png",
+  "name": "Luka Ivanusec",
+  "birth_date": "26/11/1998",
+  "nation": "Croatia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "루 카 이 바 누 셰 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

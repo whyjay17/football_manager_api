@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8146.png",
+  "name": "Axel Disasi",
+  "birth_date": "11/3/1998",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "악 셀 디 사 시",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

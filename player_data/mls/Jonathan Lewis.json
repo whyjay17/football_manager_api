@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49817.png",
+  "name": "Jonathan Lewis",
+  "birth_date": "4/6/1997",
+  "nation": "United States",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "조 나 단 루 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

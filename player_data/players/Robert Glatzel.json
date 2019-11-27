@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25037.png",
+  "name": "Robert Glatzel",
+  "birth_date": "8/1/1994",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "로 버 트 글 라 첼",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

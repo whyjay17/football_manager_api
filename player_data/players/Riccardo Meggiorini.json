@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21518.png",
+  "name": "Riccardo Meggiorini",
+  "birth_date": "4/9/1985",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "리 카 르 도 메 기 오 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 16,
+      "Positioning": 6,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

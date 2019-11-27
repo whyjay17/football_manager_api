@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20170.png",
+  "name": "Mario Ortiz",
+  "birth_date": "24/3/1989",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "마 리 오 오 티 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

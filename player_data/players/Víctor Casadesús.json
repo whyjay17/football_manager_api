@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19204.png",
+  "name": "Víctor Casadesús",
+  "birth_date": "28/2/1985",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "비 토 르 카 사 데 수 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

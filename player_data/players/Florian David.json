@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26133.png",
+  "name": "Florian David",
+  "birth_date": "16/11/1992",
+  "nation": "France",
+  "position": "AM (C), ST (C)",
+  "foot": "Right Only",
+  "korean": "플 로 리 안 데 이 비 드",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25909.png",
+  "name": "Mickaël Diakota",
+  "birth_date": "6/10/1990",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "미 카 엘 디 아 코 타",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

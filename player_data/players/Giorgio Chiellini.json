@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22029.png",
+  "name": "Giorgio Chiellini",
+  "birth_date": "14/8/1984",
+  "nation": "Italy",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "조 르 지 오 키 엘 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 1,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 19,
+      "Marking": 18,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 19,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 16,
+      "Bravery": 20,
+      "Composure": 16,
+      "Concentration": 17,
+      "Decisions": 16,
+      "Determination": 19,
+      "Flair": 8,
+      "Leadership": 18,
+      "Off The Ball": 12,
+      "Positioning": 18,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 18
+    }
+  }
+}

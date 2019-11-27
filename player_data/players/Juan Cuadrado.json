@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22017.png",
+  "name": "Juan Cuadrado",
+  "birth_date": "26/5/1988",
+  "nation": "Colombia",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "후 안 쿠 아 드 라 도",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 18,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

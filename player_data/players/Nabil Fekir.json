@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7944.png",
+  "name": "Nabil Fekir",
+  "birth_date": "18/7/1993",
+  "nation": "France",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left Only",
+  "korean": "나 빌 페 키 르",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 16,
+      "Finishing": 15,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 16,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 16,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 16,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

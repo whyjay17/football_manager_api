@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1160.png",
+  "name": "Malcom",
+  "birth_date": "26/2/1997",
+  "nation": "Brazil",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "말 콤",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

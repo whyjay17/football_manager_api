@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19978.png",
+  "name": "Abdón Prats",
+  "birth_date": "17/12/1992",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "압 돈 프 라 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

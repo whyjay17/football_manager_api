@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34806.png",
+  "name": "Andries Noppert",
+  "birth_date": "7/4/1994",
+  "nation": "Netherlands",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 드 리 스 노 퍼 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 18,
+      "Communication": 10,
+      "Eccentricity": 8,
+      "First Touch": 6,
+      "Handling": 11,
+      "Kicking": 10,
+      "Passing": 6,
+      "Reflexes": 13,
+      "Rushing Out": 14,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 19,
+      "Natural Fitness": 15,
+      "Pace": 8,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

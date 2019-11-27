@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20144.png",
+  "name": "Joselu",
+  "birth_date": "3/3/1991",
+  "nation": "Spain",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "호 셀 루 주",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 16,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 14,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

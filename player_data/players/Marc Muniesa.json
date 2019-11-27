@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/869.png",
+  "name": "Marc Muniesa",
+  "birth_date": "27/3/1992",
+  "nation": "Spain",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "마 크 무 니 에 사",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

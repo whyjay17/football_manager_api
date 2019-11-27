@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53362.png",
+  "name": "Jaroslav Mihalik",
+  "birth_date": "27/7/1994",
+  "nation": "Slovakia",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Either",
+  "korean": "야 로 슬 라 프 미 할 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

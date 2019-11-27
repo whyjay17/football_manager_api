@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25177.png",
+  "name": "Uwe Hünemeier",
+  "birth_date": "9/1/1986",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "우 베 후 네 마 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -49,6 +49,7 @@ const summarize_abiltiy = (abilities) => {
 // Retrieve player data and display
 window.onload = () => {
     chrome.storage.sync.get(['selected_player_info'], (data) => {
+        console.log(data)
         document.getElementById("player_age").innerHTML = `${data.selected_player_info.age} (${format_birthdate(data.selected_player_info.birth_date)})`;
         document.getElementById("player_foot").innerHTML = dict[data.selected_player_info.foot];
         document.getElementById("player_nation").innerHTML = data.selected_player_info.nationality;
@@ -65,7 +66,7 @@ window.onload = () => {
                 `<span class="label label-danger"> ${summary.weakness[i][0]}: ${summary.weakness[i][1]} </span>`;
         }
 
-        url = 'http://localhost:5000/api/v1/alternatives/' + fixedEncodeURI(data.selected_player_info.name)
+        url = 'https://fm-api-heroku.herokuapp.com/api/v1/alternatives/' + fixedEncodeURI(data.selected_player_info.name)
         return new Promise((reslove, reject) => {
             fetch(url, myInit)
                 .then(response => response.json())

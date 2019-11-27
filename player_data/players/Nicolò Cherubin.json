@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35778.png",
+  "name": "Nicolò Cherubin",
+  "birth_date": "2/12/1986",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "니 콜 로 체 루 빈",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

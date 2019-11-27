@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52635.png",
+  "name": "Ionuţ Vînă",
+  "birth_date": "20/2/1995",
+  "nation": "Romania",
+  "position": "M (C), AM (LC)",
+  "foot": "Left",
+  "korean": "이 오 누 트 비 나",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

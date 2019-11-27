@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/982.png",
+  "name": "Víctor Sánchez",
+  "birth_date": "8/8/1987",
+  "nation": "Spain",
+  "position": "D/WB (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "빅 토 르 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 18,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

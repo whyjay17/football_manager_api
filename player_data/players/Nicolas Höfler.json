@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6695.png",
+  "name": "Nicolas Höfler",
+  "birth_date": "9/3/1990",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 회 플 러",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 16,
+      "Concentration": 17,
+      "Decisions": 16,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

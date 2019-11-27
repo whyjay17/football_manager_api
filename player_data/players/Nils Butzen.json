@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24895.png",
+  "name": "Nils Butzen",
+  "birth_date": "2/4/1993",
+  "nation": "Germany",
+  "position": "D (RL), WB/M (R)",
+  "foot": "Right",
+  "korean": "닐 스 부 젠",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 17,
+      "Strength": 10
+    }
+  }
+}

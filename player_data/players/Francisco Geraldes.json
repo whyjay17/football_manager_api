@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6227.png",
+  "name": "Francisco Geraldes",
+  "birth_date": "18/4/1995",
+  "nation": "Portugal",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "프 란 시 스 코 제 랄 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

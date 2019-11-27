@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/355.png",
+  "name": "Daniel Carriço",
+  "birth_date": "4/8/1988",
+  "nation": "Portugal",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "다 니 엘 카 리 소",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 19,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

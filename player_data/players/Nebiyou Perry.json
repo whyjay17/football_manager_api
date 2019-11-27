@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24746.png",
+  "name": "Nebiyou Perry",
+  "birth_date": "2/10/1999",
+  "nation": "Sweden",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "네 비 유 페 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 4,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

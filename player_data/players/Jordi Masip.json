@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/208.png",
+  "name": "Jordi Masip",
+  "birth_date": "3/1/1989",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 르 디 마 시 프",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 10,
+      "Eccentricity": 13,
+      "First Touch": 16,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 15,
+      "Reflexes": 15,
+      "Rushing Out": 16,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

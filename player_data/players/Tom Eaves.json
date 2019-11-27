@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11869.png",
+  "name": "Tom Eaves",
+  "birth_date": "14/1/1992",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "톰 이 브 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 17,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

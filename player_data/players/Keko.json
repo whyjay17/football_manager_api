@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19903.png",
+  "name": "Keko",
+  "birth_date": "27/12/1991",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "케 코 ( 있 는 )",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

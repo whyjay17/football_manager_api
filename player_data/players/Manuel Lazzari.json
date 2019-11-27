@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22790.png",
+  "name": "Manuel Lazzari",
+  "birth_date": "29/11/1993",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right Only",
+  "korean": "마 누 엘 라 자 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 4,
+      "Long Shots": 8,
+      "Long Throws": 1,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 17,
+      "Strength": 9
+    }
+  }
+}

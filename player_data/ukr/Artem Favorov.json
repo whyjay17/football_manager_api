@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31769.png",
+  "name": "Artem Favorov",
+  "birth_date": "19/3/1994",
+  "nation": "Ukraine",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "아 르 템 파 보 로 프",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

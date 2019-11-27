@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/954.png",
+  "name": "Jaime Mata",
+  "birth_date": "24/10/1988",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "제 이 미 마 타",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

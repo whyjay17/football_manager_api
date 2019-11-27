@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19318.png",
+  "name": "Álex Fernández",
+  "birth_date": "15/10/1992",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "알 렉 스 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

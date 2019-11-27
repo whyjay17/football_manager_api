@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58082.png",
+  "name": "Echu",
+  "birth_date": "11/2/1998",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "에 추 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 1,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 2,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 5,
+      "Bravery": 11,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 7,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 8,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

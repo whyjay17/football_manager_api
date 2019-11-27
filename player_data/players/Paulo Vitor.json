@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19153.png",
+  "name": "Paulo Vitor",
+  "birth_date": "24/6/1999",
+  "nation": "Brazil",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "파 울 로 비 토 르",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

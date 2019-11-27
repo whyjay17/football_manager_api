@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6660.png",
+  "name": "Timo Werner",
+  "birth_date": "6/3/1996",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Either",
+  "korean": "티 모 베 르 너",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 14,
+      "Balance": 17,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 18,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

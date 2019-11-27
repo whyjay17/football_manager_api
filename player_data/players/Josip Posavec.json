@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35169.png",
+  "name": "Josip Posavec",
+  "birth_date": "10/3/1996",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 시 프 포 세 벡",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 9,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 15,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

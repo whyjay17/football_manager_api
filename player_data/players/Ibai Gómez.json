@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1232.png",
+  "name": "Ibai Gómez",
+  "birth_date": "11/11/1989",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "이 바 이 고 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 17,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 17,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 2,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

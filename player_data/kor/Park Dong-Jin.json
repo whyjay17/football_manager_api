@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46689.png",
+  "name": "Park Dong-Jin",
+  "birth_date": "10/12/1994",
+  "nation": "South Korea KOR",
+  "position": "ST (C), D (C)",
+  "foot": "Right",
+  "korean": "박 동 진",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 2,
+      "Marking": 12,
+      "Passing": 6,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 4,
+      "Vision": 2,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58238.png",
+  "name": "Odei Arrieta",
+  "birth_date": "2/2/1996",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "오 데 이 아 리 에 타",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 3,
+      "First Touch": 9,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 4,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

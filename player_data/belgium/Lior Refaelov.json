@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20556.png",
+  "name": "Lior Refaelov",
+  "birth_date": "26/4/1986",
+  "nation": "Israel",
+  "position": "M (R), AM (RLC)",
+  "foot": "Right",
+  "korean": "리 오 르 라 파 엘 로 프",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

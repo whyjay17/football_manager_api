@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2756.png",
+  "name": "Henri Saivet",
+  "birth_date": "26/10/1990",
+  "nation": "Senegal",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "헨 리 세 이 베 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

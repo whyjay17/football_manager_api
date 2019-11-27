@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7805.png",
+  "name": "Walter Benítez",
+  "birth_date": "19/1/1993",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "발 터 베 니 테 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 12,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 2,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 17
+    }
+  }
+}

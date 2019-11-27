@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22491.png",
+  "name": "Stephan El Shaarawy",
+  "birth_date": "27/10/1992",
+  "nation": "Italy",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "스 테 판 엘 샤 라 위",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 17,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24991.png",
+  "name": "Rick van Drongelen",
+  "birth_date": "20/12/1998",
+  "nation": "Netherlands",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "릭 반 드 론 겔 렌",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

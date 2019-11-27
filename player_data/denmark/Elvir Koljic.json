@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52977.png",
+  "name": "Elvir Koljic",
+  "birth_date": "8/7/1995",
+  "nation": "Bosnia and Herzegovina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "엘 비 르 콜 지 치",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 15,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

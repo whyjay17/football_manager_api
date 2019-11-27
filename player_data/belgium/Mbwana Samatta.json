@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20668.png",
+  "name": "Mbwana Samatta",
+  "birth_date": "24/12/1992",
+  "nation": "Tanzania",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "음 브 와 나 사 마 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

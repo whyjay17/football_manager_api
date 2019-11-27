@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23202.png",
+  "name": "Pizzi",
+  "birth_date": "6/10/1989",
+  "nation": "Portugal",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "피 찌",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

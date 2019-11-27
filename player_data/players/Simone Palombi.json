@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34889.png",
+  "name": "Simone Palombi",
+  "birth_date": "23/4/1996",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "시 몬 팔 롬 비",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

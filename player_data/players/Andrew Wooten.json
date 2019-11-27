@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25218.png",
+  "name": "Andrew Wooten",
+  "birth_date": "30/9/1989",
+  "nation": "United States",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "앤 드 류 우 튼",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

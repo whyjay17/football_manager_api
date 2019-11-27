@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21770.png",
+  "name": "Joel Campbell",
+  "birth_date": "26/6/1992",
+  "nation": "Costa Rica",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "조 엘 캠 벨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

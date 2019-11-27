@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6467.png",
+  "name": "Takuma Asano",
+  "birth_date": "10/11/1994",
+  "nation": "Japan",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "아 사 노 다 쿠 마",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 7,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

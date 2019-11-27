@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31879.png",
+  "name": "Sergiy Myakushko",
+  "birth_date": "15/4/1993",
+  "nation": "Ukraine",
+  "position": "WB (R), M/AM (RL)",
+  "foot": "Right",
+  "korean": "세 르 기 미 야 쿠 시 코",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 2,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49771.png",
+  "name": "Tyler Adams",
+  "birth_date": "14/2/1999",
+  "nation": "United States",
+  "position": "D/WB (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "타 일 러 아 담 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

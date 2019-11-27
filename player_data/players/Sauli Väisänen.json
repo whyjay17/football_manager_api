@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34699.png",
+  "name": "Sauli Väisänen",
+  "birth_date": "5/6/1994",
+  "nation": "Finland",
+  "position": "D (LC)",
+  "foot": "Right",
+  "korean": "사 울 리 바 이 사 넨",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

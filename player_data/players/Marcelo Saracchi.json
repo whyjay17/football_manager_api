@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6639.png",
+  "name": "Marcelo Saracchi",
+  "birth_date": "23/4/1998",
+  "nation": "Uruguay",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "마 르 셀 로 사 라 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

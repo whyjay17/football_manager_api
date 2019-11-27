@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7099.png",
+  "name": "Moussa Konaté",
+  "birth_date": "3/4/1993",
+  "nation": "Senegal",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "무 사 코 나 테",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

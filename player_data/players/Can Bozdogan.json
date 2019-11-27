@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24751.png",
+  "name": "Can Bozdogan",
+  "birth_date": "5/4/2001",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "캔 보 즈 도 간",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 2,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 7,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 5
+    }
+  }
+}

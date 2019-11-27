@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23012.png",
+  "name": "Andrija Balic",
+  "birth_date": "11/8/1997",
+  "nation": "Croatia",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "안 드 리 야 발 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

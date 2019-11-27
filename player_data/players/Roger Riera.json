@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59203.png",
+  "name": "Roger Riera",
+  "birth_date": "17/2/1995",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "로 저 리 에 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

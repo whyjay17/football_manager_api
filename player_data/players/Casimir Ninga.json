@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8342.png",
+  "name": "Casimir Ninga",
+  "birth_date": "17/5/1993",
+  "nation": "Chad",
+  "position": "AM (L), ST (C)",
+  "foot": "Right Only",
+  "korean": "카 시 미 르 닝 가",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 17,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

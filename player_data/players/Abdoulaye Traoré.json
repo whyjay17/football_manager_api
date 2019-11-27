@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35781.png",
+  "name": "Abdoulaye Traoré",
+  "birth_date": "30/4/2000",
+  "nation": "Burkina Faso",
+  "position": "AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "압 둘 라 예 트 라 오 레",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58647.png",
+  "name": "Ander Guevara",
+  "birth_date": "7/7/1997",
+  "nation": "Spain",
+  "position": "D/M (C)",
+  "foot": "Right",
+  "korean": "안 데 르 게 바 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 6,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

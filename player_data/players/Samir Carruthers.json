@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11969.png",
+  "name": "Samir Carruthers",
+  "birth_date": "4/4/1993",
+  "nation": "Republic of Ireland",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "사 미 르 카 루 더 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 4,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

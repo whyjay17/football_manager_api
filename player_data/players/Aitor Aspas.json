@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59151.png",
+  "name": "Aitor Aspas",
+  "birth_date": "27/2/1993",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "아 이 토 르 아 스 파 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 12,
+      "Leadership": 2,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

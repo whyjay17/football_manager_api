@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24813.png",
+  "name": "Ahmet Engin",
+  "birth_date": "9/8/1996",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "아 멧 엥 진",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

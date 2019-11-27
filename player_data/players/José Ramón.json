@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59551.png",
+  "name": "José Ramón",
+  "birth_date": "31/12/1991",
+  "nation": "Spain",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "호 세 라 몬",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

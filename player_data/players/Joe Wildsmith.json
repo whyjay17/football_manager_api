@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10828.png",
+  "name": "Joe Wildsmith",
+  "birth_date": "28/12/1995",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 와 일 드 스 미 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 9,
+      "Eccentricity": 1,
+      "First Touch": 11,
+      "Handling": 12,
+      "Kicking": 14,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 6,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 2,
+      "Leadership": 1,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/132.png",
+  "name": "Stanislav Lobotka",
+  "birth_date": "25/11/1994",
+  "nation": "Slovakia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "스 타 니 슬 라 프 로 보 트 카",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 16,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 16,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 17,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

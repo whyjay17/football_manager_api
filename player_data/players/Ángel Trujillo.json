@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19221.png",
+  "name": "Ángel Trujillo",
+  "birth_date": "8/9/1987",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "안 겔 트 루 히 요",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 7,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

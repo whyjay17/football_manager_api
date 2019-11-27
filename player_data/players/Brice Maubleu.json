@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26128.png",
+  "name": "Brice Maubleu",
+  "birth_date": "1/12/1989",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "브 라 이 스 모 블 루",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 8,
+      "Passing": 8,
+      "Reflexes": 12,
+      "Rushing Out": 9,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 6,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 8,
+      "Pace": 8,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

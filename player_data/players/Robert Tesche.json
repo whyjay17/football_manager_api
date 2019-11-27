@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24683.png",
+  "name": "Robert Tesche",
+  "birth_date": "27/5/1987",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "로 버 트 테 슈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

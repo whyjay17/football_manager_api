@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48349.png",
+  "name": "Antun Markovic",
+  "birth_date": "25/8/1993",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "안 툰 마 르 코 비 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

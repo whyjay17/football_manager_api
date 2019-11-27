@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22706.png",
+  "name": "Filip Djuricic",
+  "birth_date": "30/1/1992",
+  "nation": "Serbia",
+  "position": "M (C), AM (LC)",
+  "foot": "Either",
+  "korean": "필 립 주 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 17,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 17,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

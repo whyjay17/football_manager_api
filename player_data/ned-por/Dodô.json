@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23547.png",
+  "name": "Dodô",
+  "birth_date": "17/11/1998",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "도 도",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

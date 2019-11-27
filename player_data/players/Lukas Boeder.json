@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25193.png",
+  "name": "Lukas Boeder",
+  "birth_date": "18/4/1997",
+  "nation": "Germany",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "루 카 스 보 더",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

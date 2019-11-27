@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49779.png",
+  "name": "Luis Robles",
+  "birth_date": "11/9/1984",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 이 스 로 블 레 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 11,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 15,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

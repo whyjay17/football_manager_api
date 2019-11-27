@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59205.png",
+  "name": "Nikola Vujnovic",
+  "birth_date": "11/1/1997",
+  "nation": "Montenegro",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 부 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 7,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 6,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 4,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

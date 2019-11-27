@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24728.png",
+  "name": "Nikolas Nartey",
+  "birth_date": "22/2/2000",
+  "nation": "Denmark",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "니 콜 라 스 나 르 테 이",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

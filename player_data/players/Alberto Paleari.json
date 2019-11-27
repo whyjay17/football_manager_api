@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34423.png",
+  "name": "Alberto Paleari",
+  "birth_date": "29/8/1992",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 베 르 토 팔 레 아 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 5,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 7,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

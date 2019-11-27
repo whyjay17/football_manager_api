@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6878.png",
+  "name": "Nico Schulz",
+  "birth_date": "1/4/1993",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "니 코 슐 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 18,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

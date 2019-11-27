@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53328.png",
+  "name": "Jakub Rada",
+  "birth_date": "5/5/1987",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "야 쿱 라 다",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

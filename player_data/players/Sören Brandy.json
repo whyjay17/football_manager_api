@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24665.png",
+  "name": "Sören Brandy",
+  "birth_date": "6/5/1985",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "쇠 렌 브 랜 디",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

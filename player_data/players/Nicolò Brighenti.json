@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21780.png",
+  "name": "Nicolò Brighenti",
+  "birth_date": "1/8/1989",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "니 콜 로 브 리 겐 티",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

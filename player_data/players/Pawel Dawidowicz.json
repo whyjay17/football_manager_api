@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35772.png",
+  "name": "Pawel Dawidowicz",
+  "birth_date": "20/5/1995",
+  "nation": "Poland",
+  "position": "D (C), DM, M (C)",
+  "foot": "Either",
+  "korean": "파 벨 다 위 도 비 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 7,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

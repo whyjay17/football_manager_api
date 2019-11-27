@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35666.png",
+  "name": "Davide Facchin",
+  "birth_date": "29/4/1987",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "다 비 드 팩 친",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 3,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 11,
+      "Reflexes": 11,
+      "Rushing Out": 11,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

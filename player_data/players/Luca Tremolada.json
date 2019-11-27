@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34215.png",
+  "name": "Luca Tremolada",
+  "birth_date": "25/11/1991",
+  "nation": "Italy",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Left",
+  "korean": "루 카 트 레 몰 라 다",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 2,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

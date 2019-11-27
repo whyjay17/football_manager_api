@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/84462.png",
+  "name": "Moise Kean",
+  "birth_date": "28/2/2000",
+  "nation": "Italy",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "모 이 스 킨",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

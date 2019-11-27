@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20730.png",
+  "name": "Roman Yaremchuk",
+  "birth_date": "27/11/1995",
+  "nation": "Ukraine",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "로 만 야 렘 추 크",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

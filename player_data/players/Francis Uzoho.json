@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57746.png",
+  "name": "Francis Uzoho",
+  "birth_date": "28/10/1998",
+  "nation": "Nigeria",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "프 랜 시 스 우 조 호",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 7,
+      "Eccentricity": 9,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 14,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 2,
+      "Leadership": 5,
+      "Off The Ball": 3,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 4,
+      "Strength": 8
+    }
+  }
+}

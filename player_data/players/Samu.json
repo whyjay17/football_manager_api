@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57900.png",
+  "name": "Samu",
+  "birth_date": "15/2/1992",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "사 무 ( ) 사 무 ( ) 사 무 (",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 4,
+      "Leadership": 1,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

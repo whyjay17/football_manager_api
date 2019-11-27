@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11347.png",
+  "name": "Jacob Brown",
+  "birth_date": "10/4/1998",
+  "nation": "England",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "제 이 콥 브 라 운",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

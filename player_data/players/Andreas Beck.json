@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6945.png",
+  "name": "Andreas Beck",
+  "birth_date": "13/3/1987",
+  "nation": "Germany",
+  "position": "D (RL), WB (R)",
+  "foot": "Right",
+  "korean": "안 드 레 아 스 벡",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

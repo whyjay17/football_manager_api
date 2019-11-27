@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32171.png",
+  "name": "Marquinhos Cipriano",
+  "birth_date": "9/2/1999",
+  "nation": "Brazil",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "마 르 퀴 뇨 스 시 프 리 아 노",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 5,
+      "Natural Fitness": 18,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

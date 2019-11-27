@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23333.png",
+  "name": "Dyego Sousa",
+  "birth_date": "14/9/1989",
+  "nation": "Portugal",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "디 에 고 소 사",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 16,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 16,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

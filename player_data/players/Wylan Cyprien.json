@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7836.png",
+  "name": "Wylan Cyprien",
+  "birth_date": "28/1/1995",
+  "nation": "France",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "와 일 란 키 프 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

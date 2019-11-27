@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11779.png",
+  "name": "Lewie Coyle",
+  "birth_date": "15/10/1995",
+  "nation": "England",
+  "position": "D/WB/M (R)",
+  "foot": "Right Only",
+  "korean": "루 이 코 일",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

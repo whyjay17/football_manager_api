@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54008.png",
+  "name": "Gabriel Obertan",
+  "birth_date": "26/2/1989",
+  "nation": "France",
+  "position": "M (R), AM (RLC)",
+  "foot": "Right",
+  "korean": "가 브 리 엘 오 베 르 탕",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

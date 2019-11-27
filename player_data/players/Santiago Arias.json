@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1272.png",
+  "name": "Santiago Arias",
+  "birth_date": "13/1/1992",
+  "nation": "Colombia",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "산 티 아 고 아 리 아 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1307.png",
+  "name": "Pinchi",
+  "birth_date": "17/1/1996",
+  "nation": "Spain",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "핀 치",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 3,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

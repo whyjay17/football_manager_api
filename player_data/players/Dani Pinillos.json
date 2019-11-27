@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11317.png",
+  "name": "Dani Pinillos",
+  "birth_date": "22/10/1992",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "다 니 피 니 요 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

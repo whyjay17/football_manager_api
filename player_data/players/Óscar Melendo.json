@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1002.png",
+  "name": "Óscar Melendo",
+  "birth_date": "23/8/1997",
+  "nation": "Spain",
+  "position": "M (RC), AM (C)",
+  "foot": "Right",
+  "korean": "오 스 카 멜 렌 도",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26613.png",
+  "name": "Grégory Berthier",
+  "birth_date": "11/11/1995",
+  "nation": "France",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "그 레 고 리 베 르 티 에",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

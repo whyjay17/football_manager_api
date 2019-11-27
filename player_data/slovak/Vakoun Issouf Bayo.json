@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53060.png",
+  "name": "Vakoun Issouf Bayo",
+  "birth_date": "10/1/1997",
+  "nation": "Côte d'Ivoire",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "바 쿤 이 소 프 바 요",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

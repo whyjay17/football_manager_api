@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58717.png",
+  "name": "Sergio Camús",
+  "birth_date": "19/4/1997",
+  "nation": "Spain",
+  "position": "D (RC), DM",
+  "foot": "Right",
+  "korean": "세 르 지 오 카 무 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 3,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 13,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 6,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 13,
+      "Determination": 1,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

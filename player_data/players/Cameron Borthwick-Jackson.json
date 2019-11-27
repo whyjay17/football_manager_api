@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12230.png",
+  "name": "Cameron Borthwick-Jackson",
+  "birth_date": "2/2/1997",
+  "nation": "England",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "카 메 론 보 스 윅 잭 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 8,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

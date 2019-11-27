@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22202.png",
+  "name": "Davide Calabria",
+  "birth_date": "6/12/1996",
+  "nation": "Italy",
+  "position": "D (RL), WB/M (R)",
+  "foot": "Either",
+  "korean": "다 비 드 칼 라 브 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 2,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

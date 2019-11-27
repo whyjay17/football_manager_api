@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/746.png",
+  "name": "Allan Nyom",
+  "birth_date": "10/5/1988",
+  "nation": "Cameroon",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "알 란 니 욤",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 18,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21710.png",
+  "name": "Hernán Toledo",
+  "birth_date": "17/1/1996",
+  "nation": "Argentina",
+  "position": "M (L), AM (RL)",
+  "foot": "Right",
+  "korean": "에 르 난 돌 레 도",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

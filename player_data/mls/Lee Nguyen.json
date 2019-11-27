@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49657.png",
+  "name": "Lee Nguyen",
+  "birth_date": "7/10/1986",
+  "nation": "United States",
+  "position": "AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "리 응 우 옌",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

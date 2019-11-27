@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6128.png",
+  "name": "Paco Alcácer",
+  "birth_date": "30/8/1993",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "파 코 알 카 세 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 17,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 17,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 18,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

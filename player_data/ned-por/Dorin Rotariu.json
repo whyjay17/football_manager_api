@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8690.png",
+  "name": "Dorin Rotariu",
+  "birth_date": "29/7/1995",
+  "nation": "Romania",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "도 린 로 타 리 우",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

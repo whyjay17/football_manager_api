@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26234.png",
+  "name": "Guillaume Beghin",
+  "birth_date": "26/4/1997",
+  "nation": "France",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "기 요 메 베 진",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 6,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48009.png",
+  "name": "Bassel Jradi",
+  "birth_date": "6/7/1993",
+  "nation": "Lebanon",
+  "position": "M/AM (RC)",
+  "foot": "Either",
+  "korean": "바 셀 즈 라 디",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 16,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 5,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 16,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

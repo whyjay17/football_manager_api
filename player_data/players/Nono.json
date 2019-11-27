@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19201.png",
+  "name": "Nono",
+  "birth_date": "28/6/1991",
+  "nation": "Spain",
+  "position": "M (R), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "노 노 ( 노 노 )",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 5,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 5,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22016.png",
+  "name": "Miralem Pjanic",
+  "birth_date": "2/4/1990",
+  "nation": "Bosnia and Herzegovina",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "미 랄 렘 파 니 크",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 16,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 17,
+      "Free Kick": 19,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 18,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 18,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 18,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

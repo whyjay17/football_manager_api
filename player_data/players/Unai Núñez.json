@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1355.png",
+  "name": "Unai Núñez",
+  "birth_date": "30/1/1997",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "우 나 이 누 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

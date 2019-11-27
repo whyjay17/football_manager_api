@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26602.png",
+  "name": "Guillaume Khous",
+  "birth_date": "18/8/1992",
+  "nation": "Liechtenstein",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "기 요 메 쿠 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

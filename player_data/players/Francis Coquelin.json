@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/294.png",
+  "name": "Francis Coquelin",
+  "birth_date": "13/5/1991",
+  "nation": "France",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "프 랜 시 스 코 클 린",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 17,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

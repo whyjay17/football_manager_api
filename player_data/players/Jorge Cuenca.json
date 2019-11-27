@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58810.png",
+  "name": "Jorge Cuenca",
+  "birth_date": "17/11/1999",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "호 르 헤 쿠 엔 카",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

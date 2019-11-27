@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6909.png",
+  "name": "Antonio Colak",
+  "birth_date": "17/9/1993",
+  "nation": "Croatia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "안 토 니 오 콜 라 크",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

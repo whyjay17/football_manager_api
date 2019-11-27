@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26365.png",
+  "name": "Vincent Thill",
+  "birth_date": "4/2/2000",
+  "nation": "Luxembourg",
+  "position": "AM (RC)",
+  "foot": "Left",
+  "korean": "빈 센 트 틸",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

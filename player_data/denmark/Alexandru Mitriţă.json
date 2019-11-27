@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52976.png",
+  "name": "Alexandru Mitriţă",
+  "birth_date": "8/2/1995",
+  "nation": "Romania",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "알 렉 산 드 루 미 트 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 18,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

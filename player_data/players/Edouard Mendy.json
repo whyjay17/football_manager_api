@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8141.png",
+  "name": "Edouard Mendy",
+  "birth_date": "1/3/1992",
+  "nation": "Senegal",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "에 두 아 르 멘 디",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 12,
+      "Eccentricity": 14,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

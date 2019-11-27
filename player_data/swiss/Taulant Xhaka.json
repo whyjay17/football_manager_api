@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41698.png",
+  "name": "Taulant Xhaka",
+  "birth_date": "28/3/1991",
+  "nation": "Albania",
+  "position": "D (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "툴 란 트 자 카",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 17,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 11,
+      "Bravery": 19,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

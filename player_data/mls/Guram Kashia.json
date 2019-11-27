@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49956.png",
+  "name": "Guram Kashia",
+  "birth_date": "4/7/1987",
+  "nation": "Georgia",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "구 람 카 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

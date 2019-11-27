@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21295.png",
+  "name": "Andrea Poli",
+  "birth_date": "29/9/1989",
+  "nation": "Italy",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "안 드 레 아 폴 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42029.png",
+  "name": "Majeed Ashimeru",
+  "birth_date": "10/10/1997",
+  "nation": "Ghana",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "마 지 드 아 시 메 루",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

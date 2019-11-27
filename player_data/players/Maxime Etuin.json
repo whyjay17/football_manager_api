@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26301.png",
+  "name": "Maxime Etuin",
+  "birth_date": "15/8/1995",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "막 시 메 에 투 인",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40844.png",
+  "name": "Jaromir Zmrhal",
+  "birth_date": "2/8/1993",
+  "nation": "Czech Republic",
+  "position": "M (LC), AM (L)",
+  "foot": "Left",
+  "korean": "야 로 미 르 즈 므 르 할",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 11,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 10,
+      "Long Shots": 17,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

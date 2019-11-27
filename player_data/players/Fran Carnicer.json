@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57979.png",
+  "name": "Fran Carnicer",
+  "birth_date": "30/3/1991",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "프 랜 카 니 서",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

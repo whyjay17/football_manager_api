@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80298.png",
+  "name": "Tommy Oar",
+  "birth_date": "10/12/1991",
+  "nation": "Australia AUS",
+  "position": "WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "토 미 오 어",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

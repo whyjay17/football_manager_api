@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26799.png",
+  "name": "Sloan Privat",
+  "birth_date": "24/7/1989",
+  "nation": "French Guiana",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "슬 론 프 리 벳",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

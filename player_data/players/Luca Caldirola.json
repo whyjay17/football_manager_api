@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6793.png",
+  "name": "Luca Caldirola",
+  "birth_date": "1/2/1991",
+  "nation": "Italy",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "루 카 칼 디 롤 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 11,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

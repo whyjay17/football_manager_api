@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46505.png",
+  "name": "Jin Seong-Uk",
+  "birth_date": "16/12/1993",
+  "nation": "South Korea KOR",
+  "position": "AM (R)",
+  "foot": "Right",
+  "korean": "진 성 욱",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

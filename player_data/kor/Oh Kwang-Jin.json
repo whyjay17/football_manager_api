@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46333.png",
+  "name": "Oh Kwang-Jin",
+  "birth_date": "4/6/1987",
+  "nation": "South Korea KOR",
+  "position": "WB (RL)",
+  "foot": "Right",
+  "korean": "오 광 진",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 6,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

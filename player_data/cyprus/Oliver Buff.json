@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80502.png",
+  "name": "Oliver Buff",
+  "birth_date": "3/8/1992",
+  "nation": "Switzerland",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "올 리 버 버 프",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

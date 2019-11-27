@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26231.png",
+  "name": "Mounir Chouiar",
+  "birth_date": "23/1/1999",
+  "nation": "France",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "무 니 르 추 이 아 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 7
+    }
+  }
+}

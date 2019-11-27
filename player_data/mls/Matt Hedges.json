@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49562.png",
+  "name": "Matt Hedges",
+  "birth_date": "1/4/1990",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "맷 헤 지 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

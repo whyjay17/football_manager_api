@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35187.png",
+  "name": "Andrea Accardi",
+  "birth_date": "30/7/1995",
+  "nation": "Italy",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "안 드 레 아 아 카 르 디",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

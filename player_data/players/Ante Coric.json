@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22510.png",
+  "name": "Ante Coric",
+  "birth_date": "14/4/1997",
+  "nation": "Croatia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "안 테 코 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 17,
+      "Finishing": 8,
+      "First Touch": 18,
+      "Free Kick": 15,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 18,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 16,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

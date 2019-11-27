@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19755.png",
+  "name": "Álvaro Lemos",
+  "birth_date": "30/3/1993",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "알 바 로 레 모 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

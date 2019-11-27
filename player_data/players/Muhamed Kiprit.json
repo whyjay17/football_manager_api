@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6555.png",
+  "name": "Muhamed Kiprit",
+  "birth_date": "9/7/1999",
+  "nation": "Turkey",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "무 하 메 드 키 프 리 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6712.png",
+  "name": "Roland Sallai",
+  "birth_date": "22/5/1997",
+  "nation": "Hungary",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "롤 랜 드 살 라 이",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23555.png",
+  "name": "Tozé",
+  "birth_date": "14/1/1993",
+  "nation": "Portugal",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "토 제",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

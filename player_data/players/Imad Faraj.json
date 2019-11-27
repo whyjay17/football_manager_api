@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61503.png",
+  "name": "Imad Faraj",
+  "birth_date": "11/2/1999",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "이 마 드 파 라 지",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

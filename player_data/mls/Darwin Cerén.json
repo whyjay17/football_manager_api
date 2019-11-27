@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49602.png",
+  "name": "Darwin Cerén",
+  "birth_date": "31/12/1989",
+  "nation": "El Salvador",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "다 윈 세 렌",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

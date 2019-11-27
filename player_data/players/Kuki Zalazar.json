@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/242.png",
+  "name": "Kuki Zalazar",
+  "birth_date": "5/6/1998",
+  "nation": "Uruguay",
+  "position": "M (R), AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "쿠 키 잘 라 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 2,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

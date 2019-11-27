@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35368.png",
+  "name": "Elimane Franck Kanouté",
+  "birth_date": "13/12/1998",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "엘 리 마 네 프 랑 크 카 누 테",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

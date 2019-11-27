@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25976.png",
+  "name": "Fantamady Diarra",
+  "birth_date": "11/2/1992",
+  "nation": "Mali",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "판 타 마 디 디 아 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

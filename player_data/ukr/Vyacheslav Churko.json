@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32010.png",
+  "name": "Vyacheslav Churko",
+  "birth_date": "10/5/1993",
+  "nation": "Ukraine",
+  "position": "M (L), AM (RL)",
+  "foot": "Left Only",
+  "korean": "바 야 체 슬 라 프 쿠 르 코",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

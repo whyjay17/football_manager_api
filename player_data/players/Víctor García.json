@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19419.png",
+  "name": "Víctor García",
+  "birth_date": "1/1/1997",
+  "nation": "Spain",
+  "position": "WB/M/AM (R)",
+  "foot": "Right Only",
+  "korean": "비 토 르 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 4,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 5,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 5,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

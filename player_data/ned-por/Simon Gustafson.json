@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8931.png",
+  "name": "Simon Gustafson",
+  "birth_date": "11/1/1995",
+  "nation": "Sweden",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "시 몬 구 스 타 프 손",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

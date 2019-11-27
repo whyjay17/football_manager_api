@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35194.png",
+  "name": "Simone Santoro",
+  "birth_date": "2/9/1999",
+  "nation": "Italy",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "시 몬 산 토 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35291.png",
+  "name": "Simone Perilli",
+  "birth_date": "7/1/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "시 몬 페 릴 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 10,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 11,
+      "Reflexes": 12,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

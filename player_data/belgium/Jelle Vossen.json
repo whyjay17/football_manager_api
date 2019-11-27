@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20535.png",
+  "name": "Jelle Vossen",
+  "birth_date": "22/3/1989",
+  "nation": "Belgium",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "젤 레 보 센",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 18,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 16,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

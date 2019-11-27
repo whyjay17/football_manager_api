@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19181.png",
+  "name": "Marco Sangalli",
+  "birth_date": "7/2/1992",
+  "nation": "Spain",
+  "position": "D/WB/M (R), AM (RLC)",
+  "foot": "Right",
+  "korean": "마 르 코 산 알 리",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 4,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

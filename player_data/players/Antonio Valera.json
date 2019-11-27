@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59153.png",
+  "name": "Antonio Valera",
+  "birth_date": "17/8/1996",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "안 토 니 오 발 레 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 3,
+      "First Touch": 1,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 11,
+      "Rushing Out": 9,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 9,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 3,
+      "Leadership": 4,
+      "Off The Ball": 1,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 2,
+      "Strength": 5
+    }
+  }
+}

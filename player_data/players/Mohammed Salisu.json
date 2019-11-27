@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58201.png",
+  "name": "Mohammed Salisu",
+  "birth_date": "17/4/1999",
+  "nation": "Ghana",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "모 하 메 드 살 리 수",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 3,
+      "Dribbling": 1,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 1,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 4,
+      "Concentration": 6,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54112.png",
+  "name": "Wanderson",
+  "birth_date": "2/1/1988",
+  "nation": "Brazil",
+  "position": "M (L), AM (RLC)",
+  "foot": "Right",
+  "korean": "완 델 송",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

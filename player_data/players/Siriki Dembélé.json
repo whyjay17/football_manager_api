@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12033.png",
+  "name": "Siriki Dembélé",
+  "birth_date": "7/9/1996",
+  "nation": "Scotland",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "시 리 키 뎀 벨 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 5,
+      "Flair": 18,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 6,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

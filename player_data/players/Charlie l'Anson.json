@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59596.png",
+  "name": "Charlie l'Anson",
+  "birth_date": "1/7/1993",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "찰 리 l ' A n s o n",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

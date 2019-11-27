@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8082.png",
+  "name": "Juan Bernat",
+  "birth_date": "1/3/1993",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "후 안 베 르 나 트",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

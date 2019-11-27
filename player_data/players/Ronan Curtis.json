@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12144.png",
+  "name": "Ronan Curtis",
+  "birth_date": "29/3/1996",
+  "nation": "Republic of Ireland",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right Only",
+  "korean": "로 난 커 티 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 3,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

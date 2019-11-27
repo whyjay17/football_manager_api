@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58670.png",
+  "name": "Pablo Fernández",
+  "birth_date": "17/9/1996",
+  "nation": "Spain",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "파 블 로 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

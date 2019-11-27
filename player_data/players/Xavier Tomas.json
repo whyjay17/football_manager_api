@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26626.png",
+  "name": "Xavier Tomas",
+  "birth_date": "4/1/1986",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "자 비 에 르 토 마 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47899.png",
+  "name": "Nikola Moro",
+  "birth_date": "12/3/1998",
+  "nation": "Croatia",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "니 콜 라 모 로",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

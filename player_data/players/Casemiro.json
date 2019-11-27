@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/617.png",
+  "name": "Casemiro",
+  "birth_date": "23/2/1992",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "카 세 미 로",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 19,
+      "Strength": 17
+    }
+  }
+}

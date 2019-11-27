@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41954.png",
+  "name": "Pajtim Kasami",
+  "birth_date": "2/6/1992",
+  "nation": "Switzerland",
+  "position": "M (C), AM (RC)",
+  "foot": "Left Only",
+  "korean": "파 이 팀 카 사 미",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 15,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

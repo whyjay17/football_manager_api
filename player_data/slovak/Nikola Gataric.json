@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53233.png",
+  "name": "Nikola Gataric",
+  "birth_date": "9/3/1992",
+  "nation": "Croatia",
+  "position": "AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "니 콜 라 가 타 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

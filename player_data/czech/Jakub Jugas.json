@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40856.png",
+  "name": "Jakub Jugas",
+  "birth_date": "5/5/1992",
+  "nation": "Czech Republic",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "야 쿱 유 가 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 4,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

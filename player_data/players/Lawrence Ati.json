@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26666.png",
+  "name": "Lawrence Ati",
+  "birth_date": "29/11/1996",
+  "nation": "Ghana",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "로 렌 스 아 티",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 8,
+      "First Touch": 8,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 8,
+      "Reflexes": 12,
+      "Rushing Out": 8,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

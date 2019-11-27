@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8153.png",
+  "name": "Ghislain Konan",
+  "birth_date": "27/12/1995",
+  "nation": "Côte d'Ivoire",
+  "position": "D (L)",
+  "foot": "Left Only",
+  "korean": "기 슬 린 코 난",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

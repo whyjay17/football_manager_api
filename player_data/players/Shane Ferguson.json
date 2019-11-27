@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10281.png",
+  "name": "Shane Ferguson",
+  "birth_date": "12/7/1991",
+  "nation": "Northern Ireland",
+  "position": "D/M/AM (L)",
+  "foot": "Left",
+  "korean": "셰 인 퍼 거 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

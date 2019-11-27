@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22704.png",
+  "name": "Marcello Trotta",
+  "birth_date": "29/9/1992",
+  "nation": "Italy",
+  "position": "AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "마 르 첼 로 트 로 타",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

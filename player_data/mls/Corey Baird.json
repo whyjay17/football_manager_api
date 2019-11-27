@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49931.png",
+  "name": "Corey Baird",
+  "birth_date": "30/1/1996",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "코 리 베 어 드",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19129.png",
+  "name": "Nicolás Gorosito",
+  "birth_date": "17/8/1988",
+  "nation": "Argentina",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 고 로 시 토",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 4,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 17,
+      "Long Shots": 14,
+      "Long Throws": 1,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 6,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

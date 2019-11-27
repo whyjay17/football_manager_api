@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19800.png",
+  "name": "Erik Expósito",
+  "birth_date": "23/6/1996",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "에 릭 엑 스 포 시 토",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 7,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

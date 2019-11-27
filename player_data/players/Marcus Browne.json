@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11972.png",
+  "name": "Marcus Browne",
+  "birth_date": "18/12/1997",
+  "nation": "England",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "마 커 스 브 라 운",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

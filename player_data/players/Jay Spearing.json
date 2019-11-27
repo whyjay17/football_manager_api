@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11378.png",
+  "name": "Jay Spearing",
+  "birth_date": "25/11/1988",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "제 이 스 피 어 링",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

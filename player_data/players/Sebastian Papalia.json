@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24754.png",
+  "name": "Sebastian Papalia",
+  "birth_date": "17/2/2002",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 파 팔 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 7,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

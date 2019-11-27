@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35179.png",
+  "name": "Carlos Embalo",
+  "birth_date": "25/11/1994",
+  "nation": "Guinea-Bissau",
+  "position": "AM (RL), ST (C)",
+  "foot": "Left Only",
+  "korean": "카 를 로 스 엠 발 로",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 2,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 3,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

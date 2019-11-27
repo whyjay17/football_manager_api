@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26370.png",
+  "name": "Wagane Faye",
+  "birth_date": "20/11/1993",
+  "nation": "Senegal",
+  "position": "D (R)",
+  "foot": "Right Only",
+  "korean": "와 가 네 파 예",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 1,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 1,
+      "Heading": 5,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 6,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

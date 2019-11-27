@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58022.png",
+  "name": "Edu Sousa",
+  "birth_date": "15/7/1991",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "에 두 소 사",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 13,
+      "First Touch": 4,
+      "Handling": 10,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 11,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

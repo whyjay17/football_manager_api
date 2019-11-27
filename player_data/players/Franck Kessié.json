@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22193.png",
+  "name": "Franck Kessié",
+  "birth_date": "19/12/1996",
+  "nation": "Côte d'Ivoire",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "프 랭 크 케 시 에",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 19,
+      "Strength": 18
+    }
+  }
+}

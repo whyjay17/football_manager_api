@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35100.png",
+  "name": "Davide Merelli",
+  "birth_date": "4/3/1996",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "다 비 드 메 렐 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 8,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 10,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

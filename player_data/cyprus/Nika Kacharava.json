@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80504.png",
+  "name": "Nika Kacharava",
+  "birth_date": "13/1/1994",
+  "nation": "Georgia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 카 카 차 라 바",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 4,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/98.png",
+  "name": "Néstor Araujo",
+  "birth_date": "29/8/1991",
+  "nation": "Mexico",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "네 스 토 르 아 라 우 조",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

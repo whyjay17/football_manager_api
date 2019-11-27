@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46370.png",
+  "name": "Uros Djeric",
+  "birth_date": "28/5/1992",
+  "nation": "Serbia",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "우 로 스 제 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 2,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22590.png",
+  "name": "Karol Linetty",
+  "birth_date": "2/2/1995",
+  "nation": "Poland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "카 롤 리 네 티",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 18,
+      "Strength": 14
+    }
+  }
+}

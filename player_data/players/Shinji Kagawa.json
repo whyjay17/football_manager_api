@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6107.png",
+  "name": "Shinji Kagawa",
+  "birth_date": "17/3/1989",
+  "nation": "Japan",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "가 가 와 신 지",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 18,
+      "Leadership": 5,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

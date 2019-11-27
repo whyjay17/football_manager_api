@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23916.png",
+  "name": "Matheus Pereira",
+  "birth_date": "5/5/1996",
+  "nation": "Brazil",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "마 테 우 스 페 레 이 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

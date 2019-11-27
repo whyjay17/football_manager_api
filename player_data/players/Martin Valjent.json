@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21517.png",
+  "name": "Martin Valjent",
+  "birth_date": "11/12/1995",
+  "nation": "Slovakia",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "마 틴 발 젠 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

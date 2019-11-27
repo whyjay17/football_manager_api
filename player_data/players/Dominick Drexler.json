@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24714.png",
+  "name": "Dominick Drexler",
+  "birth_date": "26/5/1990",
+  "nation": "Germany",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "도 미 닉 드 렉 슬 러",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

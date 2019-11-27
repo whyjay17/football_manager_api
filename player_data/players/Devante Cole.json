@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11570.png",
+  "name": "Devante Cole",
+  "birth_date": "10/5/1995",
+  "nation": "England",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "데 반 테 콜",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

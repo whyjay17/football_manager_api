@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46730.png",
+  "name": "Jang Ho-Ik",
+  "birth_date": "4/12/1993",
+  "nation": "South Korea KOR",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "장 호 익",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 5,
+      "Dribbling": 11,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 16,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

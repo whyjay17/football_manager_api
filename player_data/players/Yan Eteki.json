@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19247.png",
+  "name": "Yan Eteki",
+  "birth_date": "26/8/1997",
+  "nation": "Cameroon",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "얀 에 테 키",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 8,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

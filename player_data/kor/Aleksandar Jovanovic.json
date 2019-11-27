@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46502.png",
+  "name": "Aleksandar Jovanovic",
+  "birth_date": "4/8/1989",
+  "nation": "Australia AUS",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 요 바 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

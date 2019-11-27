@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8098.png",
+  "name": "Antoine Bernede",
+  "birth_date": "26/5/1999",
+  "nation": "France",
+  "position": "M (C)",
+  "foot": "Left",
+  "korean": "앙 트 완 베 르 네 데",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/293.png",
+  "name": "Daniel Wass",
+  "birth_date": "31/5/1989",
+  "nation": "Denmark",
+  "position": "D/WB (R), DM, M (RLC)",
+  "foot": "Right",
+  "korean": "다 니 엘 와 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 16,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 14,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

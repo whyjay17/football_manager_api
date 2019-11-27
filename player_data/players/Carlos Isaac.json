@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57683.png",
+  "name": "Carlos Isaac",
+  "birth_date": "30/4/1998",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "카 를 로 스 아 이 작",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 6,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

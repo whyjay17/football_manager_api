@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25046.png",
+  "name": "Robert Andrich",
+  "birth_date": "22/9/1994",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "로 버 트 안 드 리 히",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

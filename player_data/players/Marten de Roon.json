@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21201.png",
+  "name": "Marten de Roon",
+  "birth_date": "29/3/1991",
+  "nation": "Netherlands",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 르 텐 드 룬",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 16,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

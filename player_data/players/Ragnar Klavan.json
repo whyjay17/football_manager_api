@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21399.png",
+  "name": "Ragnar Klavan",
+  "birth_date": "30/10/1985",
+  "nation": "Estonia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "라 그 나 르 클 라 반",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

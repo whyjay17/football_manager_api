@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24756.png",
+  "name": "Paul Maurer",
+  "birth_date": "22/5/1996",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "폴 마 우 러",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 7,
+      "Bravery": 3,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 4,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 5
+    }
+  }
+}

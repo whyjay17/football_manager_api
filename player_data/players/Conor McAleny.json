@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11807.png",
+  "name": "Conor McAleny",
+  "birth_date": "12/8/1992",
+  "nation": "England",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "코 너 매 칼 레 니",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

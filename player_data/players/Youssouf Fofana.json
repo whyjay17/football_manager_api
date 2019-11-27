@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8379.png",
+  "name": "Youssouf Fofana",
+  "birth_date": "10/1/1999",
+  "nation": "France",
+  "position": "DM",
+  "foot": "Right Only",
+  "korean": "유 수 프 포 파 나",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 1,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

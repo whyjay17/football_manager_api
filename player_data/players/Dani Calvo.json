@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19992.png",
+  "name": "Dani Calvo",
+  "birth_date": "1/4/1994",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "다 니 칼 보",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 1,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

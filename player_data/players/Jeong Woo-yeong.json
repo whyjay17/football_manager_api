@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6353.png",
+  "name": "Jeong Woo-yeong",
+  "birth_date": "20/9/1999",
+  "nation": "South Korea KOR",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "정 우 영",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 5
+    }
+  }
+}

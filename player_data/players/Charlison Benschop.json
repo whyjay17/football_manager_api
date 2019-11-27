@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25104.png",
+  "name": "Charlison Benschop",
+  "birth_date": "21/8/1989",
+  "nation": "Curaçao",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "찰 리 슨 벤 스 콥",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

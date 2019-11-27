@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/5977.png",
+  "name": "Patrick Erras",
+  "birth_date": "21/1/1995",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 에 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 8,
+      "Balance": 12,
+      "Jumping Reach": 17,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

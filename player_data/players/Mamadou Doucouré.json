@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6143.png",
+  "name": "Mamadou Doucouré",
+  "birth_date": "21/5/1998",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "마 마 두 두 쿠 레",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

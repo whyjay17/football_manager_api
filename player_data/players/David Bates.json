@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24995.png",
+  "name": "David Bates",
+  "birth_date": "5/10/1996",
+  "nation": "Scotland",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 베 이 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 8,
+      "Concentration": 13,
+      "Decisions": 7,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

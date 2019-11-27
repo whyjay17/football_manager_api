@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49483.png",
+  "name": "Shkëlzen Gashi",
+  "birth_date": "15/7/1988",
+  "nation": "Albania",
+  "position": "M (L), AM (RLC)",
+  "foot": "Left",
+  "korean": "슈 켈 젠 가 시",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 16,
+      "Determination": 7,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

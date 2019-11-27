@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19946.png",
+  "name": "Antonio Raíllo",
+  "birth_date": "8/10/1991",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "안 토 니 오 라 일 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 4,
+      "Finishing": 3,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

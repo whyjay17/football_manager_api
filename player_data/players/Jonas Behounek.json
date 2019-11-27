@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25009.png",
+  "name": "Jonas Behounek",
+  "birth_date": "15/5/1998",
+  "nation": "Germany",
+  "position": "D/WB (R), DM, M (RC)",
+  "foot": "Right",
+  "korean": "조 나 스 베 후 넥",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 7,
+      "Penalty Taking": 2,
+      "Tackling": 13,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 7,
+      "Bravery": 9,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

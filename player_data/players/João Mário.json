@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21957.png",
+  "name": "João Mário",
+  "birth_date": "19/1/1993",
+  "nation": "Portugal",
+  "position": "M (RC), AM (C)",
+  "foot": "Right",
+  "korean": "주 앙 마 리 오",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

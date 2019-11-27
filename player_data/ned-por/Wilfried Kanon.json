@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8509.png",
+  "name": "Wilfried Kanon",
+  "birth_date": "6/7/1993",
+  "nation": "Côte d'Ivoire",
+  "position": "D (LC), WB (L)",
+  "foot": "Either",
+  "korean": "윌 프 리 드 카 논",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

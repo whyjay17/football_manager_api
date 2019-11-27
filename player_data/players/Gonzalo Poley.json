@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59761.png",
+  "name": "Gonzalo Poley",
+  "birth_date": "1/4/1991",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "곤 잘 로 폴 레",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50047.png",
+  "name": "Víctor Vázquez",
+  "birth_date": "20/1/1987",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "빅 토 르 바 스 케 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 17,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 16,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

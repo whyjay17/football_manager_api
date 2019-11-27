@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6055.png",
+  "name": "Paulinho",
+  "birth_date": "15/7/2000",
+  "nation": "Brazil",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "파 울 리 노 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

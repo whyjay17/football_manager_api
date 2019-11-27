@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41441.png",
+  "name": "Karlo Bartolec",
+  "birth_date": "20/4/1995",
+  "nation": "Croatia",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "카 를 로 바 르 톨 렉",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 17,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

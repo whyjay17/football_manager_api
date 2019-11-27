@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11333.png",
+  "name": "Cameron McGeehan",
+  "birth_date": "6/4/1995",
+  "nation": "Northern Ireland",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "캐 머 런 맥 기 한",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56878.png",
+  "name": "Gergő Lovrencsics",
+  "birth_date": "1/9/1988",
+  "nation": "Hungary",
+  "position": "D (R), AM (RL)",
+  "foot": "Right",
+  "korean": "게 르 고 로 브 렌 식 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

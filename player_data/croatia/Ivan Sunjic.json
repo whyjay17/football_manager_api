@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47901.png",
+  "name": "Ivan Sunjic",
+  "birth_date": "9/10/1996",
+  "nation": "Croatia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "이 반 순 지 치",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 5,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

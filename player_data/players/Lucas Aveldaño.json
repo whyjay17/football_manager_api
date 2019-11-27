@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20193.png",
+  "name": "Lucas Aveldaño",
+  "birth_date": "19/7/1985",
+  "nation": "Argentina",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "루 카 스 아 벨 다 뇨",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 4,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

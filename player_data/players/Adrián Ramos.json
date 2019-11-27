@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19733.png",
+  "name": "Adrián Ramos",
+  "birth_date": "22/1/1986",
+  "nation": "Colombia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 드 리 안 라 모 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 17,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6674.png",
+  "name": "Dominique Heintz",
+  "birth_date": "15/8/1993",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "도 미 니 크 하 인 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 7,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

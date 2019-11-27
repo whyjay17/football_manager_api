@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31831.png",
+  "name": "Mykola Morozyuk",
+  "birth_date": "17/1/1988",
+  "nation": "Ukraine",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "미 콜 라 모 로 주 크",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 7,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

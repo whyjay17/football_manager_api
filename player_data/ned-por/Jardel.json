@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23209.png",
+  "name": "Jardel",
+  "birth_date": "29/3/1986",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "자 르 데 우",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

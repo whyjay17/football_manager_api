@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22509.png",
+  "name": "Robin Olsen",
+  "birth_date": "8/1/1990",
+  "nation": "Sweden",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 빈 올 슨",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 17,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 19,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

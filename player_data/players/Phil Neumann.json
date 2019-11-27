@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25122.png",
+  "name": "Phil Neumann",
+  "birth_date": "8/7/1997",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "필 노 이 만",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

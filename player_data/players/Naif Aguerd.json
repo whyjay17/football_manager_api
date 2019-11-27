@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7473.png",
+  "name": "Naif Aguerd",
+  "birth_date": "30/3/1996",
+  "nation": "Morocco",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "나 이 프 아 게 르 드",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 5,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

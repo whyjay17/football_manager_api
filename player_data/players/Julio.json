@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59273.png",
+  "name": "Julio",
+  "birth_date": "10/2/1998",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Either",
+  "korean": "훌 리 오",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 4,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 5,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 2,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 3,
+      "Natural Fitness": 7,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 3
+    }
+  }
+}

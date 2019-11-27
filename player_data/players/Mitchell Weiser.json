@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6030.png",
+  "name": "Mitchell Weiser",
+  "birth_date": "21/4/1994",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "미 첼 와 이 저",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

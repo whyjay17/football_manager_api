@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/812.png",
+  "name": "Carlos Akapo",
+  "birth_date": "12/3/1993",
+  "nation": "Equatorial Guinea",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "카 를 로 스 아 카 포",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 7,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

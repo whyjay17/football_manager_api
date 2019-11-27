@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49653.png",
+  "name": "Carlos Vela",
+  "birth_date": "1/3/1989",
+  "nation": "Mexico",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "카 를 로 스 벨 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 17,
+      "Finishing": 15,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 1,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 15,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 7,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57905.png",
+  "name": "Jorge Ortiz",
+  "birth_date": "25/4/1992",
+  "nation": "Spain",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "호 르 헤 오 티 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 3,
+      "Flair": 13,
+      "Leadership": 3,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 5,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 2,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

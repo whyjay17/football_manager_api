@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6243.png",
+  "name": "Sébastien Haller",
+  "birth_date": "22/6/1994",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "세 바 스 티 앙 할 러",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 17,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 18
+    }
+  }
+}

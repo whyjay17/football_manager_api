@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8126.png",
+  "name": "Timothy Weah",
+  "birth_date": "22/2/2000",
+  "nation": "United States",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "티 모 시 웨 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

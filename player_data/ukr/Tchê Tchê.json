@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31815.png",
+  "name": "Tchê Tchê",
+  "birth_date": "30/8/1992",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "체 체",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

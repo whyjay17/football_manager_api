@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10005.png",
+  "name": "David Milinkovic",
+  "birth_date": "20/5/1994",
+  "nation": "Serbia",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "데 이 비 드 밀 린 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

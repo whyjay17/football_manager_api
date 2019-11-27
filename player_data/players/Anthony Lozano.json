@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/904.png",
+  "name": "Anthony Lozano",
+  "birth_date": "25/4/1993",
+  "nation": "Honduras",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "앤 서 니 로 자 노",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

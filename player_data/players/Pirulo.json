@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59487.png",
+  "name": "Pirulo",
+  "birth_date": "17/4/1992",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "피 룰 로 주",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

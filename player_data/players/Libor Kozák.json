@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34985.png",
+  "name": "Libor Kozák",
+  "birth_date": "30/5/1989",
+  "nation": "Czech Republic",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "리 보 르 코 자 크",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 7,
+      "Balance": 17,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

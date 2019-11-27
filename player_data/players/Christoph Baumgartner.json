@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6885.png",
+  "name": "Christoph Baumgartner",
+  "birth_date": "1/8/1999",
+  "nation": "Austria",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "크 리 스 토 프 바 움 가 르 트 너",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

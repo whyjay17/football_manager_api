@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59508.png",
+  "name": "Deco",
+  "birth_date": "25/1/1996",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "데 코",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 18,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

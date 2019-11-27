@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/767.png",
+  "name": "Gerard Gumbau",
+  "birth_date": "18/12/1994",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "제 라 드 검 바 우",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

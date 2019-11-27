@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34607.png",
+  "name": "Francesco Renzetti",
+  "birth_date": "22/1/1988",
+  "nation": "Italy",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "프 란 체 스 코 렌 체 티",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

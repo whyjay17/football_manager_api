@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46712.png",
+  "name": "Kim Min-Woo",
+  "birth_date": "25/2/1990",
+  "nation": "South Korea KOR",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "김 민 우",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

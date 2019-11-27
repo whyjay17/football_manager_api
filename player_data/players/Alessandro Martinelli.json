@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34221.png",
+  "name": "Alessandro Martinelli",
+  "birth_date": "30/5/1993",
+  "nation": "Switzerland",
+  "position": "WB (L), DM, M (LC)",
+  "foot": "Left",
+  "korean": "알 레 산 드 로 마 르 티 넬 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11523.png",
+  "name": "Alex Jakubiak",
+  "birth_date": "27/8/1996",
+  "nation": "Scotland",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "알 렉 스 자 쿠 비 악",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 20,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

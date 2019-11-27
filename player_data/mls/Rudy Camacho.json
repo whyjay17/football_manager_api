@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49717.png",
+  "name": "Rudy Camacho",
+  "birth_date": "5/3/1991",
+  "nation": "France",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "루 디 카 마 초",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 16,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

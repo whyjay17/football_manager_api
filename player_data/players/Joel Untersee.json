@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21611.png",
+  "name": "Joel Untersee",
+  "birth_date": "11/2/1994",
+  "nation": "Switzerland",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "조 엘 언 터 시",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

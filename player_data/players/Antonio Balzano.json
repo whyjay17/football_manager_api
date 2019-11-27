@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35364.png",
+  "name": "Antonio Balzano",
+  "birth_date": "13/6/1986",
+  "nation": "Italy",
+  "position": "D (RL), WB (R)",
+  "foot": "Right Only",
+  "korean": "안 토 니 오 발 자 노",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 19,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

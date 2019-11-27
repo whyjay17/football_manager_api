@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21403.png",
+  "name": "Filippo Romagna",
+  "birth_date": "26/5/1997",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "필 리 포 로 마 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 2,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

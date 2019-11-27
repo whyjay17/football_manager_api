@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2846.png",
+  "name": "Mariano",
+  "birth_date": "23/6/1986",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "마 리 아 노",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

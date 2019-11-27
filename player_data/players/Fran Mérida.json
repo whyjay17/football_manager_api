@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20056.png",
+  "name": "Fran Mérida",
+  "birth_date": "4/3/1990",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Left",
+  "korean": "프 란 메 리 다",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 17,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 6,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

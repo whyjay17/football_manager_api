@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6514.png",
+  "name": "Niklas Stark",
+  "birth_date": "14/4/1995",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "니 클 라 스 스 타 크",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

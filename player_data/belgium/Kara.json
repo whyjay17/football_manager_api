@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20318.png",
+  "name": "Kara",
+  "birth_date": "11/11/1989",
+  "nation": "Senegal",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "카 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 3,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 18,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 17,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

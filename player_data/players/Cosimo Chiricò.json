@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34901.png",
+  "name": "Cosimo Chiricò",
+  "birth_date": "5/10/1991",
+  "nation": "Italy",
+  "position": "AM (RL)",
+  "foot": "Left Only",
+  "korean": "코 시 모 치 리 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

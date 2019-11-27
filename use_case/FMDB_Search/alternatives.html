@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="alternatives.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="card card-price" id="card-wrapper">
+        <form class="header" action="popup.html">
+            <button type="submit" class="btn btn-default btn-margin">
+                <span class="glyphicon glyphicon-triangle-left" aria-hidden="true"></span>Back to Profile
+            </button>
+        </form>
+        <div class="row">
+            <div id="alternative-page-profile"></div>
+            <div class="similar-players" style="float: none; margin: 0 auto">
+                <div id="player_name" class="alternative-subtitle"><h3>Similar Level</h3></div>
+                <div>
+                    <center class="similar-players">
+                        <div id="close-player-wrapper" class="similar-players"></div>
+                        <div id="close-player-names" class="similar-players"></div>
+                    </center>
+                </div>
+            </div>
+            <div class="similar-players" style="float: none; margin: 0 auto">
+                <div id="player_name" class="alternative-subtitle"><h3>Level Above</h3></div>
+                <div>
+                    <center class="similar-players">
+                        <div id="upper-player-wrapper" class="similar-players"></div>
+                        <div id="upper-player-names" class="similar-players"></div>
+                    </center>
+                </div>
+            </div>
+            <div class="similar-players" style="float: none; margin: 0 auto">
+                <div id="player_name" class="alternative-subtitle"><h3>Level Below</h3></div>
+                <div>
+                    <center class="similar-players">
+                        <div id="lower-player-wrapper" class="similar-players"></div>
+                        <div id="lower-player-names" class="similar-players"></div>
+                    </center>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>

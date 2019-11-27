@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34600.png",
+  "name": "Emanuele Terranova",
+  "birth_date": "14/4/1987",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "에 마 누 엘 레 테 라 노 바",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

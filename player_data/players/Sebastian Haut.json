@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25005.png",
+  "name": "Sebastian Haut",
+  "birth_date": "23/1/1996",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 오 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 4,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

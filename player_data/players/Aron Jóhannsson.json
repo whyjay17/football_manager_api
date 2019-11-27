@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6841.png",
+  "name": "Aron Jóhannsson",
+  "birth_date": "10/11/1990",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 론 요 한 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58675.png",
+  "name": "Carlos Cordero",
+  "birth_date": "26/9/1996",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "카 를 로 스 코 데 로",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

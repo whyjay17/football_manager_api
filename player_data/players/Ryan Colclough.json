@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12248.png",
+  "name": "Ryan Colclough",
+  "birth_date": "27/12/1994",
+  "nation": "England",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "라 이 언 콜 클 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 5,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

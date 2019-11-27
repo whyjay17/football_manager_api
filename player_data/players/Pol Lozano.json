@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58954.png",
+  "name": "Pol Lozano",
+  "birth_date": "6/10/1999",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "폴 로 자 노",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

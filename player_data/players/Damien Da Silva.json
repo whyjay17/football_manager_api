@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8227.png",
+  "name": "Damien Da Silva",
+  "birth_date": "17/5/1988",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "다 미 엔 다 실 바",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

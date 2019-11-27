@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32153.png",
+  "name": "Taison",
+  "birth_date": "13/1/1988",
+  "nation": "Brazil",
+  "position": "AM (LC)",
+  "foot": "Right",
+  "korean": "타 이 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 12,
+      "Dribbling": 17,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 16,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 4,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

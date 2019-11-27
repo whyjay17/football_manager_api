@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54116.png",
+  "name": "Anton Nedyalkov",
+  "birth_date": "30/4/1993",
+  "nation": "Bulgaria",
+  "position": "D (LC)",
+  "foot": "Right",
+  "korean": "안 톤 네 디 알 코 프",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 18,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

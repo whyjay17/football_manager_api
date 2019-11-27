@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6122.png",
+  "name": "Marco Reus",
+  "birth_date": "31/5/1989",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "마 르 코 로 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 17,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 18,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

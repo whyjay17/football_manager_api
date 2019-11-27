@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49992.png",
+  "name": "Stefan Frei",
+  "birth_date": "20/4/1986",
+  "nation": "Switzerland",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "스 테 판 프 라 이",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 4,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 8,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

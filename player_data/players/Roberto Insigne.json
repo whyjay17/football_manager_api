@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34129.png",
+  "name": "Roberto Insigne",
+  "birth_date": "11/5/1994",
+  "nation": "Italy",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "로 베 르 토 휘 장",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

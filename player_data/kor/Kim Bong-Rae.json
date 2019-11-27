@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46510.png",
+  "name": "Kim Bong-Rae",
+  "birth_date": "2/7/1990",
+  "nation": "South Korea KOR",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "김 봉 래",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 2,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 2,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

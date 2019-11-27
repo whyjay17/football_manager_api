@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7553.png",
+  "name": "Guessouma Fofana",
+  "birth_date": "17/12/1992",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "추 측 우 마 포 파 나",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

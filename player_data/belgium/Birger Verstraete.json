@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20728.png",
+  "name": "Birger Verstraete",
+  "birth_date": "16/4/1994",
+  "nation": "Belgium",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "비 르 거 베 르 스 트 라 에 테",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22999.png",
+  "name": "Lukasz Teodorczyk",
+  "birth_date": "3/6/1991",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "루 카 스 테 오 도 르 치 크",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

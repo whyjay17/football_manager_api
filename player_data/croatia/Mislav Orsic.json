@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47898.png",
+  "name": "Mislav Orsic",
+  "birth_date": "29/12/1992",
+  "nation": "Croatia",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "미 슬 라 프 오 르 시 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

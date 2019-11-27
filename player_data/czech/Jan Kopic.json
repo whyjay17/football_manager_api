@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41044.png",
+  "name": "Jan Kopic",
+  "birth_date": "4/6/1990",
+  "nation": "Czech Republic",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "얀 코 피 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

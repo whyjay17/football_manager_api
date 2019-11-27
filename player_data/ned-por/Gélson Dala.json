@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23921.png",
+  "name": "Gélson Dala",
+  "birth_date": "13/7/1996",
+  "nation": "Angola",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "젤 송 달 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

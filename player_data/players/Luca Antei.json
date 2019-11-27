@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34122.png",
+  "name": "Luca Antei",
+  "birth_date": "19/4/1992",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 카 안 테 이",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

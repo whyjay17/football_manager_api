@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19304.png",
+  "name": "Brian Oliván",
+  "birth_date": "1/4/1994",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "브 라 이 언 올 리 반",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

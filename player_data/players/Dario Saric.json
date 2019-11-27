@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34330.png",
+  "name": "Dario Saric",
+  "birth_date": "30/5/1997",
+  "nation": "Bosnia and Herzegovina",
+  "position": "M (RLC)",
+  "foot": "Right",
+  "korean": "다 리 오 사 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

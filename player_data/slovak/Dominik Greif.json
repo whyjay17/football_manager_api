@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53265.png",
+  "name": "Dominik Greif",
+  "birth_date": "6/4/1997",
+  "nation": "Slovakia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "도 미 니 크 그 리 프",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 1,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 15,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 7,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 2,
+      "Leadership": 1,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 2,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22691.png",
+  "name": "Domenico Berardi",
+  "birth_date": "1/8/1994",
+  "nation": "Italy",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "도 메 니 코 베 라 디",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 18,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

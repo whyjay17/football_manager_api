@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19368.png",
+  "name": "Blati Touré",
+  "birth_date": "4/8/1994",
+  "nation": "Burkina Faso",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "블 라 티 투 레",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

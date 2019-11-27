@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53900.png",
+  "name": "Rúben Pinto",
+  "birth_date": "24/4/1992",
+  "nation": "Portugal",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 벤 핀 토",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

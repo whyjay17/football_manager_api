@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49508.png",
+  "name": "Zack Steffen",
+  "birth_date": "2/4/1995",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "잭 스 테 펜",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

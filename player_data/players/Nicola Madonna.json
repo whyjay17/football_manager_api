@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35091.png",
+  "name": "Nicola Madonna",
+  "birth_date": "31/10/1986",
+  "nation": "Italy",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "니 콜 라 마 돈 나",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 15,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

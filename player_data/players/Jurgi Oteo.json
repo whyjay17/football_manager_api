@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58234.png",
+  "name": "Jurgi Oteo",
+  "birth_date": "29/8/1996",
+  "nation": "Spain",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "주 기 오 테 오",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 1,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 10,
+      "Leadership": 1,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 6,
+      "Natural Fitness": 6,
+      "Pace": 12,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

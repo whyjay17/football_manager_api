@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34142.png",
+  "name": "Christian Maggio",
+  "birth_date": "11/2/1982",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 마 지 오",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21317.png",
+  "name": "Felipe Avenatti",
+  "birth_date": "26/4/1993",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "펠 리 페 아 베 나 티",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 17,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

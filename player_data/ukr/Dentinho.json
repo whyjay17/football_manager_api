@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32157.png",
+  "name": "Dentinho",
+  "birth_date": "19/1/1989",
+  "nation": "Brazil",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "덴 티 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 3,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

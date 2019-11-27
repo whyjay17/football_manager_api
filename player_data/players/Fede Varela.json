@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20094.png",
+  "name": "Fede Varela",
+  "birth_date": "7/5/1996",
+  "nation": "Argentina",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "페 드 바 렐 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

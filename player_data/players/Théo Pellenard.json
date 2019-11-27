@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7401.png",
+  "name": "Théo Pellenard",
+  "birth_date": "4/3/1994",
+  "nation": "France",
+  "position": "D (L)",
+  "foot": "Left",
+  "korean": "테 오 펠 레 나 드",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

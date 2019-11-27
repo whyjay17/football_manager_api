@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22792.png",
+  "name": "Jasmin Kurtic",
+  "birth_date": "10/1/1989",
+  "nation": "Slovenia",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "재 스 민 쿠 르 틱",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

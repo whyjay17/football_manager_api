@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22099.png",
+  "name": "Milan Badelj",
+  "birth_date": "25/2/1989",
+  "nation": "Croatia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "밀 라 노 바 델 지",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 16,
+      "Penalty Taking": 11,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

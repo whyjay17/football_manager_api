@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7908.png",
+  "name": "Jérémy Morel",
+  "birth_date": "2/4/1984",
+  "nation": "Madagascar",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "제 레 미 모 렐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

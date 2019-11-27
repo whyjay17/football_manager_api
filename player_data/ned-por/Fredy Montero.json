@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23913.png",
+  "name": "Fredy Montero",
+  "birth_date": "26/7/1987",
+  "nation": "Colombia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "프 레 디 몬 테 로",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 12,
+      "Long Shots": 15,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

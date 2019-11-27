@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6290.png",
+  "name": "Koo Ja-Cheol",
+  "birth_date": "27/2/1989",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "구 자 철",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

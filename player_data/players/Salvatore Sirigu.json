@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22893.png",
+  "name": "Salvatore Sirigu",
+  "birth_date": "12/1/1987",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "살 바 토 레 시 리 구",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 14,
+      "Eccentricity": 5,
+      "First Touch": 9,
+      "Handling": 16,
+      "Kicking": 12,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 3,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

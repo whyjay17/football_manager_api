@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58667.png",
+  "name": "Isma Cerro",
+  "birth_date": "7/7/1995",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "이 스 마 세 로",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

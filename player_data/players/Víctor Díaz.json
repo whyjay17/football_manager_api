@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19697.png",
+  "name": "Víctor Díaz",
+  "birth_date": "12/6/1988",
+  "nation": "Spain",
+  "position": "D (RLC), WB (R)",
+  "foot": "Right",
+  "korean": "비 토 르 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

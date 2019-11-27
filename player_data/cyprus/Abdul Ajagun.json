@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80755.png",
+  "name": "Abdul Ajagun",
+  "birth_date": "10/2/1993",
+  "nation": "Nigeria",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "압 둘 아 자 군",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

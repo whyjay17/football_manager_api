@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/650.png",
+  "name": "Isco",
+  "birth_date": "21/4/1992",
+  "nation": "Spain",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "이 스 코",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 18,
+      "Finishing": 13,
+      "First Touch": 18,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 17,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 18,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 19,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

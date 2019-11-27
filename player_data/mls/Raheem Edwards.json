@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49456.png",
+  "name": "Raheem Edwards",
+  "birth_date": "17/7/1995",
+  "nation": "Canada",
+  "position": "M (L), AM (RL)",
+  "foot": "Left Only",
+  "korean": "라 힘 에 드 워 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

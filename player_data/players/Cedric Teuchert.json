@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6781.png",
+  "name": "Cedric Teuchert",
+  "birth_date": "14/1/1997",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "세 드 릭 투 처 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

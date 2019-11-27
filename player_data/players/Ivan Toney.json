@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12051.png",
+  "name": "Ivan Toney",
+  "birth_date": "18/2/1996",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "이 반 토 니",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

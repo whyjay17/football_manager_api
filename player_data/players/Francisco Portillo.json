@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/945.png",
+  "name": "Francisco Portillo",
+  "birth_date": "13/6/1990",
+  "nation": "Spain",
+  "position": "AM (LC)",
+  "foot": "Right",
+  "korean": "프 란 시 스 코 포 르 티 요",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

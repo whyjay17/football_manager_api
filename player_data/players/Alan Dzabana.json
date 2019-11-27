@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26173.png",
+  "name": "Alan Dzabana",
+  "birth_date": "25/4/1997",
+  "nation": "France",
+  "position": "AM (RL)",
+  "foot": "Right Only",
+  "korean": "앨 런 자 바 나",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22100.png",
+  "name": "Francesco Acerbi",
+  "birth_date": "10/2/1988",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "프 란 체 스 코 아 세 르 비",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 3,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 4,
+      "Long Throws": 2,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 18,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 18,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 5,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 20,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 17
+    }
+  }
+}

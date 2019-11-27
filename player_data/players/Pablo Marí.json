@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19408.png",
+  "name": "Pablo Marí",
+  "birth_date": "31/8/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "파 블 로 마 리",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

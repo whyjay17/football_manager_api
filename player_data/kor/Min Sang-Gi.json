@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/84055.png",
+  "name": "Min Sang-Gi",
+  "birth_date": "27/8/1991",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "민 상 기",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

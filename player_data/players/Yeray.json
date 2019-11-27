@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57896.png",
+  "name": "Yeray",
+  "birth_date": "3/4/1988",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "예 레 이 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

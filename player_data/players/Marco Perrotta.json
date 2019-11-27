@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35359.png",
+  "name": "Marco Perrotta",
+  "birth_date": "14/2/1994",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "마 르 코 페 로 타",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

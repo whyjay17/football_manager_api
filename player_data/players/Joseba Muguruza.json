@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58839.png",
+  "name": "Joseba Muguruza",
+  "birth_date": "11/1/1994",
+  "nation": "Spain",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "호 세 바 무 구 루 자",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 16,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

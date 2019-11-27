@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/769.png",
+  "name": "Rubén Pérez",
+  "birth_date": "26/4/1989",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 벤 페 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 17,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

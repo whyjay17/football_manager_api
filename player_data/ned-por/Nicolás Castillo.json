@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23217.png",
+  "name": "Nicolás Castillo",
+  "birth_date": "14/2/1993",
+  "nation": "Chile",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 카 스 티 요",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 18,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

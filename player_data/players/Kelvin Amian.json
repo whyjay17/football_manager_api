@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8418.png",
+  "name": "Kelvin Amian",
+  "birth_date": "8/2/1998",
+  "nation": "France",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "켈 빈 아 미 안",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 3,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 7,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

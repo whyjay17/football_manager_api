@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20657.png",
+  "name": "Ruslan Malinovskyi",
+  "birth_date": "4/5/1993",
+  "nation": "Ukraine",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "루 슬 란 말 리 노 프 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 18,
+      "Heading": 8,
+      "Long Shots": 17,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

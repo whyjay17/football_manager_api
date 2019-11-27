@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11573.png",
+  "name": "Liam Boyce",
+  "birth_date": "8/4/1991",
+  "nation": "Northern Ireland",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "리 암 보 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 7,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

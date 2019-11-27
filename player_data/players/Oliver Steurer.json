@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25053.png",
+  "name": "Oliver Steurer",
+  "birth_date": "6/1/1995",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "올 리 버 슈 어 러",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 1,
+      "Long Throws": 2,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

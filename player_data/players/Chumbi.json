@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59599.png",
+  "name": "Chumbi",
+  "birth_date": "5/5/1989",
+  "nation": "Spain",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "줌 비 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 15,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31827.png",
+  "name": "Mykyta Burda",
+  "birth_date": "24/3/1995",
+  "nation": "Ukraine",
+  "position": "D (LC)",
+  "foot": "Right",
+  "korean": "미 키 타 부 르 다",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

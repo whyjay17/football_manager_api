@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50077.png",
+  "name": "Anthony Blondell",
+  "birth_date": "17/5/1994",
+  "nation": "Venezuela",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "앤 서 니 블 론 델",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

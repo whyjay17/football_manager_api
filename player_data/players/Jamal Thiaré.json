@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26174.png",
+  "name": "Jamal Thiaré",
+  "birth_date": "1/1/1994",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "자 말 티 아 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 2,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 6,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

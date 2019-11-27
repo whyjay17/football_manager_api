@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8989.png",
+  "name": "Jordy Clasie",
+  "birth_date": "27/6/1991",
+  "nation": "Netherlands",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "조 르 디 클 라 시 에",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

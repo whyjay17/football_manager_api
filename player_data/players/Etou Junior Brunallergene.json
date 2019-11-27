@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25918.png",
+  "name": "Etou Junior Brunallergene",
+  "birth_date": "1/6/1994",
+  "nation": "Congo",
+  "position": "M (C)",
+  "foot": "Right Only",
+  "korean": "에 투 주 니 어 브 루 알 러 진",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 11
+    }
+  }
+}

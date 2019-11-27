@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22197.png",
+  "name": "Andrea Conti",
+  "birth_date": "2/3/1994",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "안 드 레 아 콘 티",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

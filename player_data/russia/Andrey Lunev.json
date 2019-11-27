@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31586.png",
+  "name": "Andrey Lunev",
+  "birth_date": "13/11/1991",
+  "nation": "Russia",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "안 드 레 이 루 네 프",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 7,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 12,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

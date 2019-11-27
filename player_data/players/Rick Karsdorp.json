@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22504.png",
+  "name": "Rick Karsdorp",
+  "birth_date": "11/2/1995",
+  "nation": "Netherlands",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "릭 카 스 도 프",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26179.png",
+  "name": "Pape Gueye",
+  "birth_date": "24/1/1999",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "파 페 구 아 이",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 3,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 6,
+      "Long Throws": 1,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 2,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 6,
+      "Concentration": 5,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 6,
+      "Leadership": 1,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 6,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

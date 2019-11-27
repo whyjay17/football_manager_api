@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26658.png",
+  "name": "Tope Obadeyi",
+  "birth_date": "29/10/1989",
+  "nation": "England",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "토 프 오 바 데 이",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 8,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 6,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

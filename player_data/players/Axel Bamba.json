@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26603.png",
+  "name": "Axel Bamba",
+  "birth_date": "6/7/1999",
+  "nation": "Côte d'Ivoire",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "악 셀 밤 바",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 1,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 6,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 6,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

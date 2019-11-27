@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49837.png",
+  "name": "Will Johnson",
+  "birth_date": "21/1/1987",
+  "nation": "Canada",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "윌 존 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 18,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 17,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

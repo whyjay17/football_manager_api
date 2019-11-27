@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24694.png",
+  "name": "Ulrich Bapoh",
+  "birth_date": "29/6/1999",
+  "nation": "Germany",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "울 리 히 바 포",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

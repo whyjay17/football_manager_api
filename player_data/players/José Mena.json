@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59699.png",
+  "name": "José Mena",
+  "birth_date": "15/5/1998",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "호 세 메 나",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 4,
+      "Concentration": 4,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

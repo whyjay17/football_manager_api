@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24826.png",
+  "name": "Seo Young-Jae",
+  "birth_date": "23/5/1995",
+  "nation": "South Korea KOR",
+  "position": "D/WB (L)",
+  "foot": "Either",
+  "korean": "서 영 재",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

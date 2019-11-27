@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59517.png",
+  "name": "Samu Casado",
+  "birth_date": "16/1/1997",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "사 무 카 사 도",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 1,
+      "First Touch": 3,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 5,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 3,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2782.png",
+  "name": "Martin Skrtel",
+  "birth_date": "15/12/1984",
+  "nation": "Slovakia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 틴 스 크 르 텔",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 2,
+      "Heading": 17,
+      "Long Shots": 3,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 2,
+      "Tackling": 17,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

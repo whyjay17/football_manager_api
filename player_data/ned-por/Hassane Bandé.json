@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8617.png",
+  "name": "Hassane Bandé",
+  "birth_date": "30/10/1998",
+  "nation": "Burkina Faso",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "하 사 인 반 데",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 8,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 8,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

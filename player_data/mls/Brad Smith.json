@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49984.png",
+  "name": "Brad Smith",
+  "birth_date": "9/4/1994",
+  "nation": "Australia AUS",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "브 래 드 스 미 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

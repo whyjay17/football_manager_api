@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6006.png",
+  "name": "Virgil Misidjan",
+  "birth_date": "24/7/1993",
+  "nation": "Netherlands",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "버 질 미 시 장",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

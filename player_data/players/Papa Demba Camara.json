@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26140.png",
+  "name": "Papa Demba Camara",
+  "birth_date": "16/1/1993",
+  "nation": "Senegal",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "파 파 뎀 바 카 마 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 9,
+      "Eccentricity": 8,
+      "First Touch": 6,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

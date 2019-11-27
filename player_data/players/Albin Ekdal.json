@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22597.png",
+  "name": "Albin Ekdal",
+  "birth_date": "28/7/1989",
+  "nation": "Sweden",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "알 빈 에 크 달",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

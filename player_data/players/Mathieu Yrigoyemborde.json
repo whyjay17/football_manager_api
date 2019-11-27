@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25914.png",
+  "name": "Mathieu Yrigoyemborde",
+  "birth_date": "11/2/1995",
+  "nation": "France",
+  "position": "D/M (L)",
+  "foot": "Left",
+  "korean": "마 티 유 리 고 움 보 르 드",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 10,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

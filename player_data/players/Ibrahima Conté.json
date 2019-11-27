@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26469.png",
+  "name": "Ibrahima Conté",
+  "birth_date": "3/4/1996",
+  "nation": "Guinea",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "이 브 라 히 마 콘 테",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 8,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

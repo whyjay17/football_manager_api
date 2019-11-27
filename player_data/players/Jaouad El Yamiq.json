@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35267.png",
+  "name": "Jaouad El Yamiq",
+  "birth_date": "29/2/1992",
+  "nation": "Morocco",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "자 우 아 드 엘 야 미 크",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

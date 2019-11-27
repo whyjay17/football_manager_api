@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21862.png",
+  "name": "Oscar Hiljemark",
+  "birth_date": "28/6/1992",
+  "nation": "Sweden",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "오 스 카 힐 제 마 르 크",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

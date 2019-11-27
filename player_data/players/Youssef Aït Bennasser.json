@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7241.png",
+  "name": "Youssef Aït Bennasser",
+  "birth_date": "7/7/1996",
+  "nation": "Morocco",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "유 세 프 아 이 트 베 나 세 르",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

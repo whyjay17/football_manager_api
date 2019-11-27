@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59251.png",
+  "name": "Damián Petcoff",
+  "birth_date": "24/5/1990",
+  "nation": "Argentina",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "다 미 안 페 토 프",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 5,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

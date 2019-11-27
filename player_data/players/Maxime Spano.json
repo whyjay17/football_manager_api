@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26127.png",
+  "name": "Maxime Spano",
+  "birth_date": "31/10/1994",
+  "nation": "France",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "막 시 메 스 파 노",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

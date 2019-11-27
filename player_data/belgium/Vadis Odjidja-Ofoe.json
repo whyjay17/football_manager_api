@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20722.png",
+  "name": "Vadis Odjidja-Ofoe",
+  "birth_date": "21/2/1989",
+  "nation": "Belgium",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "바 디 스 오 지 자 오 포 에",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 11,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

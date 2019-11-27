@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49811.png",
+  "name": "Alexander Callens",
+  "birth_date": "4/5/1992",
+  "nation": "Peru",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "알 렉 산 더 칼 렌 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

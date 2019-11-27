@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25253.png",
+  "name": "Jeremy Dudziak",
+  "birth_date": "28/8/1995",
+  "nation": "Germany",
+  "position": "D/WB (RL), M/AM (L)",
+  "foot": "Left Only",
+  "korean": "제 레 미 두 지 악",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

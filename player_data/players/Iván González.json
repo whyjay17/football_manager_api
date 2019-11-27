@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57901.png",
+  "name": "Iván González",
+  "birth_date": "2/2/1990",
+  "nation": "Spain",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "이 반 곤 잘 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 2,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 7,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 6,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

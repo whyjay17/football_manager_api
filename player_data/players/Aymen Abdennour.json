@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7971.png",
+  "name": "Aymen Abdennour",
+  "birth_date": "6/8/1989",
+  "nation": "Tunisia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "아 이 멘 압 데 뇌 르",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

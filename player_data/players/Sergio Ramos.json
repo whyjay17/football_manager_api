@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/591.png",
+  "name": "Sergio Ramos",
+  "birth_date": "30/3/1986",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 르 지 오 라 모 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 20,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 16,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 18,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 18,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 20,
+      "Flair": 15,
+      "Leadership": 19,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 17,
+      "Strength": 16
+    }
+  }
+}

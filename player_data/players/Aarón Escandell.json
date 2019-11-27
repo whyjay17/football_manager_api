@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19682.png",
+  "name": "Aarón Escandell",
+  "birth_date": "27/9/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "아 론 에 스 칸 델",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 10,
+      "First Touch": 4,
+      "Handling": 14,
+      "Kicking": 10,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 2,
+      "Leadership": 9,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 7,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

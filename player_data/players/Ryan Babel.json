@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2670.png",
+  "name": "Ryan Babel",
+  "birth_date": "19/12/1986",
+  "nation": "Netherlands",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "라 이 언 바 벨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

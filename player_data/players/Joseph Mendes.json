@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25788.png",
+  "name": "Joseph Mendes",
+  "birth_date": "30/3/1991",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "조 지 프 멘 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 14,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 8,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

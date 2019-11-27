@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6233.png",
+  "name": "Mijat Gacinovic",
+  "birth_date": "8/2/1995",
+  "nation": "Serbia",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "미 자 트 가 치 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

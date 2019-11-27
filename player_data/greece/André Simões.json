@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24049.png",
+  "name": "André Simões",
+  "birth_date": "16/12/1989",
+  "nation": "Portugal",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "안 드 레 시 모 에 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

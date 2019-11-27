@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24845.png",
+  "name": "Peniel Mlapa",
+  "birth_date": "20/2/1991",
+  "nation": "Togo",
+  "position": "AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "페 니 엘 말 라 파",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

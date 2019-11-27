@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53331.png",
+  "name": "Martin Chudy",
+  "birth_date": "23/4/1989",
+  "nation": "Slovakia",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "마 르 틴 처 디",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 8,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 2,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 3,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 2
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

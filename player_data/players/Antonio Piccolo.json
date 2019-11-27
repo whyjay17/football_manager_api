@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34605.png",
+  "name": "Antonio Piccolo",
+  "birth_date": "7/4/1988",
+  "nation": "Italy",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left Only",
+  "korean": "안 토 니 오 피 콜 로",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

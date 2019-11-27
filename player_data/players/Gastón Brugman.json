@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35349.png",
+  "name": "Gastón Brugman",
+  "birth_date": "7/9/1992",
+  "nation": "Uruguay",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "가 스 톤 브 루 그 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

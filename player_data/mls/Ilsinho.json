@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49870.png",
+  "name": "Ilsinho",
+  "birth_date": "12/10/1985",
+  "nation": "Brazil",
+  "position": "WB (R), M/AM (RC)",
+  "foot": "Right",
+  "korean": "일 시 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 7,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 14
+    }
+  }
+}

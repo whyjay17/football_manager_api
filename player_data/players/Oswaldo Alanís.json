@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20112.png",
+  "name": "Oswaldo Alanís",
+  "birth_date": "18/3/1989",
+  "nation": "Mexico",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "오 스 왈 도 알 라 누 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 16,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

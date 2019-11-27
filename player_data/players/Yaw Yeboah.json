@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20009.png",
+  "name": "Yaw Yeboah",
+  "birth_date": "28/3/1997",
+  "nation": "Ghana",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "야 우 예 보 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 1,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 10,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

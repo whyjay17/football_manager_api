@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25120.png",
+  "name": "Agyemang Diawusie",
+  "birth_date": "12/2/1998",
+  "nation": "Germany",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "아 게 망 디 아 우 시",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

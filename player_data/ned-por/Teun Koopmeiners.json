@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8649.png",
+  "name": "Teun Koopmeiners",
+  "birth_date": "28/2/1998",
+  "nation": "Netherlands",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "테 운 쿠 프 마 이 너 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

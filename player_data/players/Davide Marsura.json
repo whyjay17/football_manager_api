@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35657.png",
+  "name": "Davide Marsura",
+  "birth_date": "20/2/1994",
+  "nation": "Italy",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "다 비 드 마 르 수 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

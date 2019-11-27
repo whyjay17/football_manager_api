@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8271.png",
+  "name": "Jordan Siebatcheu",
+  "birth_date": "26/4/1996",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "요 르 단 시 배 치",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

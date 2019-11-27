@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46556.png",
+  "name": "Song Beom-Keun",
+  "birth_date": "15/10/1997",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "송 범 근",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 8,
+      "First Touch": 3,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 15,
+      "Reflexes": 10,
+      "Rushing Out": 9,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 5,
+      "Flair": 2,
+      "Leadership": 1,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 5,
+      "Strength": 8
+    }
+  }
+}

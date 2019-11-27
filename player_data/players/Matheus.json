@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58523.png",
+  "name": "Matheus",
+  "birth_date": "30/12/1996",
+  "nation": "Brazil",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "마 테 우 스 ( ) 마 테 우 스 ( ) 와",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

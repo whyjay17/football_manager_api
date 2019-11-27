@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49556.png",
+  "name": "Oneil Fisher",
+  "birth_date": "22/11/1991",
+  "nation": "Jamaica",
+  "position": "D (RL)",
+  "foot": "Right",
+  "korean": "오 닐 피 셔",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

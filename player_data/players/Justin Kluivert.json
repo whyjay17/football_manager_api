@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22506.png",
+  "name": "Justin Kluivert",
+  "birth_date": "5/5/1999",
+  "nation": "Netherlands",
+  "position": "M/AM (RL)",
+  "foot": "Either",
+  "korean": "저 스 틴 클 루 이 버 트",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

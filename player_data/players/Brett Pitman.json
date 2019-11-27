@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12150.png",
+  "name": "Brett Pitman",
+  "birth_date": "31/1/1988",
+  "nation": "England",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "브 렛 피 트 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 16,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

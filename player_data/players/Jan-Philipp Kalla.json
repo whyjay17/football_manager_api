@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25267.png",
+  "name": "Jan-Philipp Kalla",
+  "birth_date": "6/8/1986",
+  "nation": "Germany",
+  "position": "D/WB (RL), M/AM (R)",
+  "foot": "Either",
+  "korean": "얀 필 립 칼 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 5,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34042.png",
+  "name": "Ivan De Santis",
+  "birth_date": "21/5/1997",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "이 반 드 산 티 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6569.png",
+  "name": "Niko Bungert",
+  "birth_date": "24/10/1986",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "니 코 번 거 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

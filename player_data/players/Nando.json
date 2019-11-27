@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26646.png",
+  "name": "Nando",
+  "birth_date": "13/6/1994",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right Only",
+  "korean": "난 도 ( 남 도 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59152.png",
+  "name": "Juan Mera",
+  "birth_date": "22/11/1993",
+  "nation": "Spain",
+  "position": "AM (C)",
+  "foot": "Left",
+  "korean": "후 안 메 라",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 3,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 4,
+      "Long Shots": 7,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 5,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 6,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 5,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

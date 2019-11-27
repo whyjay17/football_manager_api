@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19971.png",
+  "name": "Ferrán Giner",
+  "birth_date": "27/9/1988",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "페 란 지 너",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

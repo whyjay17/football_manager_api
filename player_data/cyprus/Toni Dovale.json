@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80731.png",
+  "name": "Toni Dovale",
+  "birth_date": "4/4/1990",
+  "nation": "Spain",
+  "position": "D/WB (L), M/AM (LC)",
+  "foot": "Left",
+  "korean": "토 니 도 베 일",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

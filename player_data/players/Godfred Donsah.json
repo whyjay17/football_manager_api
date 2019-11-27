@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21298.png",
+  "name": "Godfred Donsah",
+  "birth_date": "7/6/1996",
+  "nation": "Ghana",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "고 드 프 레 드 돈 사",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

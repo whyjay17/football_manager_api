@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19598.png",
+  "name": "Juan Rodríguez",
+  "birth_date": "8/5/1995",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "후 안 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46657.png",
+  "name": "Yoon Bo-Sang",
+  "birth_date": "9/9/1993",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "윤 보 상",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 6,
+      "Handling": 10,
+      "Kicking": 11,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

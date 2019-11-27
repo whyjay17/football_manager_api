@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24752.png",
+  "name": "Marcel Damaschek",
+  "birth_date": "24/3/1997",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "마 르 셀 다 마 섹",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 3,
+      "First Touch": 7,
+      "Free Kick": 4,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 6,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 5,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

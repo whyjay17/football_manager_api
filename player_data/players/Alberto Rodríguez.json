@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57678.png",
+  "name": "Alberto Rodríguez",
+  "birth_date": "10/9/1997",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 베 르 토 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 1,
+      "Dribbling": 1,
+      "Finishing": 2,
+      "First Touch": 8,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 2,
+      "Long Throws": 3,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 11,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 5,
+      "Concentration": 5,
+      "Decisions": 14,
+      "Determination": 6,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 7,
+      "Vision": 4,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

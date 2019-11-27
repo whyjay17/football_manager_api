@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25305.png",
+  "name": "Felix Kroos",
+  "birth_date": "12/3/1991",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "펠 릭 스 크 루 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

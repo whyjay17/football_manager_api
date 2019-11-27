@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22012.png",
+  "name": "Paulo Dybala",
+  "birth_date": "15/11/1993",
+  "nation": "Argentina",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "파 울 로 디 발 라",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 15,
+      "Dribbling": 18,
+      "Finishing": 15,
+      "First Touch": 18,
+      "Free Kick": 18,
+      "Heading": 13,
+      "Long Shots": 16,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 16,
+      "Penalty Taking": 16,
+      "Tackling": 3,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 11,
+      "Flair": 17,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 14,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

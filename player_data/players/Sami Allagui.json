@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25260.png",
+  "name": "Sami Allagui",
+  "birth_date": "28/5/1986",
+  "nation": "Tunisia",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "사 미 알 라 기",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21313.png",
+  "name": "Mitchell Dijks",
+  "birth_date": "9/2/1993",
+  "nation": "Netherlands",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "미 첼 디 크 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 3,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19534.png",
+  "name": "Marcelo Djaló",
+  "birth_date": "8/10/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 르 셀 로 잘 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

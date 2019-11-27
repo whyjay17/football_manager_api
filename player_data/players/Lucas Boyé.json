@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22908.png",
+  "name": "Lucas Boyé",
+  "birth_date": "28/2/1996",
+  "nation": "Argentina",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "루 카 스 보 예",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

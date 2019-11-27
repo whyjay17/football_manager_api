@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24745.png",
+  "name": "Noah Katterbach",
+  "birth_date": "13/4/2001",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "노 아 카 터 바 흐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 2,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

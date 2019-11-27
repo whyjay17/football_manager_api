@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80624.png",
+  "name": "Tomás De Vincenti",
+  "birth_date": "9/2/1989",
+  "nation": "Argentina",
+  "position": "M (C), AM (RC)",
+  "foot": "Right",
+  "korean": "토 마 스 데 빈 센 티",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 17,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

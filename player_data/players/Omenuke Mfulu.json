@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26631.png",
+  "name": "Omenuke Mfulu",
+  "birth_date": "20/3/1994",
+  "nation": "Congo DR",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "오 메 뉴 케 므 풀 루",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

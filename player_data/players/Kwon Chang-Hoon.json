@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7505.png",
+  "name": "Kwon Chang-Hoon",
+  "birth_date": "30/6/1994",
+  "nation": "South Korea KOR",
+  "position": "M (C), AM (RC)",
+  "foot": "Left",
+  "korean": "권 창 훈",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

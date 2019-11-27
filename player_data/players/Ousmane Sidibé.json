@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25907.png",
+  "name": "Ousmane Sidibé",
+  "birth_date": "23/4/1985",
+  "nation": "Guinea",
+  "position": "D (RC), WB (R)",
+  "foot": "Right Only",
+  "korean": "오 스 마 네 시 디 베",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

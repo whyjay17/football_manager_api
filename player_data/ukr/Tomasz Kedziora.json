@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31832.png",
+  "name": "Tomasz Kedziora",
+  "birth_date": "11/6/1994",
+  "nation": "Poland",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "토 마 스 케 지 오 라",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

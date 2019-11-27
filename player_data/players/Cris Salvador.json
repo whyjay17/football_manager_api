@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19596.png",
+  "name": "Cris Salvador",
+  "birth_date": "20/11/1994",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 살 바 도 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

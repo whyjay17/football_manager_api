@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20329.png",
+  "name": "Ryôta Morioka",
+  "birth_date": "12/4/1991",
+  "nation": "Japan",
+  "position": "M (C), AM (RLC)",
+  "foot": "Either",
+  "korean": "모 리 오 카 료 타",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

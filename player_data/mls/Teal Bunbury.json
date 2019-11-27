@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49746.png",
+  "name": "Teal Bunbury",
+  "birth_date": "27/2/1990",
+  "nation": "United States",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "틸 번 버 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 8,
+      "Free Kick": 11,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

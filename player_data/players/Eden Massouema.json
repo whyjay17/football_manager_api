@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26802.png",
+  "name": "Eden Massouema",
+  "birth_date": "29/6/1997",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "에 덴 마 소 에 마",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

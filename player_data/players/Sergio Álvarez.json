@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/91.png",
+  "name": "Sergio Álvarez",
+  "birth_date": "23/1/1992",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "세 르 지 오 알 바 레 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 17,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 19,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

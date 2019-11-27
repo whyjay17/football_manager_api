@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59571.png",
+  "name": "Brian Martín",
+  "birth_date": "9/4/1996",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Left",
+  "korean": "브 라 이 언 마 틴",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 10,
+      "Bravery": 5,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 4,
+      "Teamwork": 5,
+      "Vision": 11,
+      "Work Rate": 4
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

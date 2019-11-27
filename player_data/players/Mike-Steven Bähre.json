@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6468.png",
+  "name": "Mike-Steven Bähre",
+  "birth_date": "10/8/1995",
+  "nation": "Germany",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "마 이 크 스 티 븐 베 레",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

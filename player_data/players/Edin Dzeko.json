@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22488.png",
+  "name": "Edin Dzeko",
+  "birth_date": "17/3/1986",
+  "nation": "Bosnia and Herzegovina",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "에 딘 제 코",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 17,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 16,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 18,
+      "Jumping Reach": 18,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

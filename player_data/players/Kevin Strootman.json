@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8011.png",
+  "name": "Kevin Strootman",
+  "birth_date": "13/2/1990",
+  "nation": "Netherlands",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "케 빈 스 트 루 트 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 19,
+      "Flair": 5,
+      "Leadership": 19,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

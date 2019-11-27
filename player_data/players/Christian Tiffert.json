@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24888.png",
+  "name": "Christian Tiffert",
+  "birth_date": "18/2/1982",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 티 퍼 트",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

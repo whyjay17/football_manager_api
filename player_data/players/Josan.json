@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19513.png",
+  "name": "Josan",
+  "birth_date": "3/12/1989",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "조 산 시",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 7,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

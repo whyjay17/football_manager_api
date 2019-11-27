@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59015.png",
+  "name": "Manu Viana",
+  "birth_date": "16/6/1995",
+  "nation": "Spain",
+  "position": "M/AM (L)",
+  "foot": "Left Only",
+  "korean": "마 누 비 아 나",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

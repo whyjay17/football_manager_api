@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24734.png",
+  "name": "Tomáš Ostrák",
+  "birth_date": "5/2/2000",
+  "nation": "Czech Republic",
+  "position": "M/AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "토 마 스 오 스 트 라 크",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

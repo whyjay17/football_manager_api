@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26541.png",
+  "name": "Quentin Lecoeuche",
+  "birth_date": "4/2/1994",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "쿠 엔 틴 레 코 우 슈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

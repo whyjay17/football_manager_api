@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7077.png",
+  "name": "Bakaye Dibassy",
+  "birth_date": "11/8/1989",
+  "nation": "Mali",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "바 케 이 디 바 시",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

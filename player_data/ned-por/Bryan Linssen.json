@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9356.png",
+  "name": "Bryan Linssen",
+  "birth_date": "8/10/1990",
+  "nation": "Netherlands",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "브 라 이 언 린 센",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

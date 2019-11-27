@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35475.png",
+  "name": "Emmanuele Cicerelli",
+  "birth_date": "12/8/1994",
+  "nation": "Italy",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "엠 마 뉴 에 시 세 렐 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

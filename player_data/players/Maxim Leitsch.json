@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24691.png",
+  "name": "Maxim Leitsch",
+  "birth_date": "18/5/1998",
+  "nation": "Germany",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "막 심 라 이 치",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26342.png",
+  "name": "Farid Boulaya",
+  "birth_date": "25/2/1993",
+  "nation": "Algeria",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "파 리 드 불 라 야",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

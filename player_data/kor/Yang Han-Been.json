@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46686.png",
+  "name": "Yang Han-Been",
+  "birth_date": "30/8/1991",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "양 한 빈",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 8,
+      "Handling": 10,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26423.png",
+  "name": "Geoffrey Jourdren",
+  "birth_date": "Unknown",
+  "nation": "France",
+  "position": "GK",
+  "foot": "",
+  "korean": "제 프 리 조 던",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 11,
+      "Kicking": 12,
+      "Passing": 9,
+      "Reflexes": 12,
+      "Rushing Out": 14,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

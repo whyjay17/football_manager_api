@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34616.png",
+  "name": "Xian Emmers",
+  "birth_date": "20/7/1999",
+  "nation": "Belgium",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "시 안 에 머 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49451.png",
+  "name": "Mo Adams",
+  "birth_date": "23/9/1996",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "모 애 덤 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

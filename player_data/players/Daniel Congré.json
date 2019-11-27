@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7693.png",
+  "name": "Daniel Congré",
+  "birth_date": "5/4/1985",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "다 니 엘 콩 그 레",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

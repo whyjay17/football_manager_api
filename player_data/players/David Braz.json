@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3153.png",
+  "name": "David Braz",
+  "birth_date": "21/5/1987",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "데 이 비 드 브 라 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

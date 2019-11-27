@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22187.png",
+  "name": "Giacomo Bonaventura",
+  "birth_date": "22/8/1989",
+  "nation": "Italy",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "자 코 모 보 나 벤 투 라",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7282.png",
+  "name": "Willem Geubbels",
+  "birth_date": "16/8/2001",
+  "nation": "France",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "윌 렘 거 벨 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

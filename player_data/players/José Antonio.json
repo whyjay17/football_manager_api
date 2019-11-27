@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19711.png",
+  "name": "José Antonio",
+  "birth_date": "20/10/1995",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "호 세 안 토 니 오",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

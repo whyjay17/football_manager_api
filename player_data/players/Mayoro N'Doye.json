@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26088.png",
+  "name": "Mayoro N'Doye",
+  "birth_date": "18/12/1991",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "마 요 로 은 도 예",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 9
+    }
+  }
+}

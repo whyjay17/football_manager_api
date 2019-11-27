@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6230.png",
+  "name": "Marc Stendera",
+  "birth_date": "10/12/1995",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "마 크 스 텐 데 라",
+  "abilities": {
+    "technical": {
+      "Corners": 17,
+      "Crossing": 16,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 9,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

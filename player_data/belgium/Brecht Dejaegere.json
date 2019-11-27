@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20727.png",
+  "name": "Brecht Dejaegere",
+  "birth_date": "29/5/1991",
+  "nation": "Belgium",
+  "position": "DM, M (LC), AM (C)",
+  "foot": "Right",
+  "korean": "브 레 히 트 데 자 게 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

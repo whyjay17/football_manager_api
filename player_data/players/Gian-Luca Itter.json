@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7015.png",
+  "name": "Gian-Luca Itter",
+  "birth_date": "5/1/1999",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "지 안 루 카 이 터",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

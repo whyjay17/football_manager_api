@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/731.png",
+  "name": "Raphael Dwamena",
+  "birth_date": "12/9/1995",
+  "nation": "Ghana",
+  "position": "AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "라 파 엘 드 와 메 나",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49631.png",
+  "name": "Tomas Hilliard-Arce",
+  "birth_date": "22/11/1995",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "토 마 스 힐 리 아 드 아 르 케",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

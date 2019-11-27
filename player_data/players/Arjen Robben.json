@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6355.png",
+  "name": "Arjen Robben",
+  "birth_date": "23/1/1984",
+  "nation": "Netherlands",
+  "position": "M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "아 르 옌 로 벤",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 20,
+      "Finishing": 17,
+      "First Touch": 19,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 17,
+      "Long Throws": 13,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 17,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

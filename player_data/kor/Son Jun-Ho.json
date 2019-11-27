@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46552.png",
+  "name": "Son Jun-Ho",
+  "birth_date": "12/5/1992",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "손 준 호",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 20,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

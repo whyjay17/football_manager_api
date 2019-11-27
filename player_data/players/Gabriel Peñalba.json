@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19771.png",
+  "name": "Gabriel Peñalba",
+  "birth_date": "23/9/1984",
+  "nation": "Argentina",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "가 브 리 엘 페 날 바",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 16,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59278.png",
+  "name": "Cristo Martín",
+  "birth_date": "18/6/1987",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "크 리 스 토 마 르 틴",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 4,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 3,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 6,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

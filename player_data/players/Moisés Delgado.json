@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58185.png",
+  "name": "Moisés Delgado",
+  "birth_date": "18/4/1994",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "모 이 세 델 가 도",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

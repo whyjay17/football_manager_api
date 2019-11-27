@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11818.png",
+  "name": "Ched Evans",
+  "birth_date": "28/12/1988",
+  "nation": "Wales",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "체 드 에 반 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 2,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

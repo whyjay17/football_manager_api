@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24662.png",
+  "name": "Jonathan Clauss",
+  "birth_date": "25/9/1992",
+  "nation": "France",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "조 선 클 라 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

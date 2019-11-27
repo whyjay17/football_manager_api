@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59518.png",
+  "name": "Joan Grasa",
+  "birth_date": "12/12/1991",
+  "nation": "Spain",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "조 안 그 라 사",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 3,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 4,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

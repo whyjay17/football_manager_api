@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/989.png",
+  "name": "Sergi Darder",
+  "birth_date": "22/12/1993",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 르 기 다 더",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 17,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

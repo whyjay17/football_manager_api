@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26596.png",
+  "name": "Ousmane Kanté",
+  "birth_date": "21/9/1989",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "오 스 마 네 칸 테",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 2,
+      "Dribbling": 6,
+      "Finishing": 1,
+      "First Touch": 10,
+      "Free Kick": 1,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

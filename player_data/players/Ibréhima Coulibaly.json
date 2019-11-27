@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26130.png",
+  "name": "Ibréhima Coulibaly",
+  "birth_date": "30/7/1989",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "이 브 레 히 마 쿨 리 발 리",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1305.png",
+  "name": "Antoine Griezmann",
+  "birth_date": "21/3/1991",
+  "nation": "France",
+  "position": "AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "앙 투 안 그 리 즈 만",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 17,
+      "Dribbling": 17,
+      "Finishing": 18,
+      "First Touch": 19,
+      "Free Kick": 15,
+      "Heading": 15,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 11,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 17,
+      "Leadership": 14,
+      "Off The Ball": 18,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

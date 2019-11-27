@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1425.png",
+  "name": "Sabin Merino",
+  "birth_date": "4/1/1992",
+  "nation": "Spain",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "사 빈 메 리 노",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

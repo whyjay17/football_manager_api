@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1201.png",
+  "name": "Martín Aguirregabiría",
+  "birth_date": "5/10/1996",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "마 르 틴 아 귀 레 가 비 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

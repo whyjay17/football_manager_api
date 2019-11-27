@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25010.png",
+  "name": "Aaron Opoku",
+  "birth_date": "28/3/1999",
+  "nation": "Germany",
+  "position": "M/AM (RLC)",
+  "foot": "Right",
+  "korean": "아 론 오 포 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 3,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 3,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 7,
+      "Bravery": 3,
+      "Composure": 6,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 3,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 7,
+      "Strength": 4
+    }
+  }
+}

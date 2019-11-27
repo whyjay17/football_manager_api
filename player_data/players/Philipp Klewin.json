@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24664.png",
+  "name": "Philipp Klewin",
+  "birth_date": "30/9/1993",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "필 립 클 루 인",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 9,
+      "Reflexes": 11,
+      "Rushing Out": 8,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 3,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

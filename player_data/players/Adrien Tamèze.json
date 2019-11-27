@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7842.png",
+  "name": "Adrien Tamèze",
+  "birth_date": "4/2/1994",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "아 드 리 안 타 메 제",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

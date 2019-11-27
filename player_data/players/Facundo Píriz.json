@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7713.png",
+  "name": "Facundo Píriz",
+  "birth_date": "27/3/1990",
+  "nation": "Uruguay",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "파 쿤 도 피 리 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 18,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 17,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

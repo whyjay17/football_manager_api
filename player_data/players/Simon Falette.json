@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6206.png",
+  "name": "Simon Falette",
+  "birth_date": "19/2/1992",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "사 이 먼 팔 레 트",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

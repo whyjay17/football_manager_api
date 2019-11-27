@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59067.png",
+  "name": "Marc Nierga",
+  "birth_date": "15/4/1992",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "마 크 니 에 르 가",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

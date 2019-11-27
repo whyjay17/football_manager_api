@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59410.png",
+  "name": "Iago Díaz",
+  "birth_date": "10/5/1993",
+  "nation": "Spain",
+  "position": "WB (R), M (RL), AM (RLC)",
+  "foot": "Right Only",
+  "korean": "이 아 고 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

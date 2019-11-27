@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41232.png",
+  "name": "Johan Larsson",
+  "birth_date": "5/5/1990",
+  "nation": "Sweden",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "요 한 라 르 손",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

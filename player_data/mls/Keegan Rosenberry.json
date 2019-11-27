@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49872.png",
+  "name": "Keegan Rosenberry",
+  "birth_date": "11/12/1993",
+  "nation": "United States",
+  "position": "D (R)",
+  "foot": "Right",
+  "korean": "키 건 로 젠 베 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

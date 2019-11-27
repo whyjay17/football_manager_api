@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58581.png",
+  "name": "Rafa de Vicente",
+  "birth_date": "18/7/1993",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Right Only",
+  "korean": "라 파 드 비 센 테",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 6,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

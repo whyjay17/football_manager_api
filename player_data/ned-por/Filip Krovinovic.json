@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23211.png",
+  "name": "Filip Krovinovic",
+  "birth_date": "29/8/1995",
+  "nation": "Croatia",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "필 립 크 로 비 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59516.png",
+  "name": "Jack Harper",
+  "birth_date": "28/2/1996",
+  "nation": "Scotland",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "잭 하 퍼",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

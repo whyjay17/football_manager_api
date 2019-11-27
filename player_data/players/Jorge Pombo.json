@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20306.png",
+  "name": "Jorge Pombo",
+  "birth_date": "22/2/1994",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "호 르 헤 폼 보",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

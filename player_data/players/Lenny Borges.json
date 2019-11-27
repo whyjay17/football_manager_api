@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25014.png",
+  "name": "Lenny Borges",
+  "birth_date": "30/4/2001",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "레 니 보 르 헤 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 3,
+      "Heading": 8,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 8,
+      "Flair": 5,
+      "Leadership": 2,
+      "Off The Ball": 5,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 4,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

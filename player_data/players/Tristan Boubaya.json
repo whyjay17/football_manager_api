@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26308.png",
+  "name": "Tristan Boubaya",
+  "birth_date": "2/10/1989",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "트 리 스 탄 부 바 야",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

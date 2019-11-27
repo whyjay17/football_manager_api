@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22914.png",
+  "name": "Vittorio Parigini",
+  "birth_date": "25/3/1996",
+  "nation": "Italy",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "비 토 리 오 파 리 기 니",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59543.png",
+  "name": "José Cruz",
+  "birth_date": "10/8/1988",
+  "nation": "Spain",
+  "position": "D (RC), WB (R)",
+  "foot": "Right Only",
+  "korean": "호 세 크 루 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 16,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 6,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

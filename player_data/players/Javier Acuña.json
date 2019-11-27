@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19156.png",
+  "name": "Javier Acuña",
+  "birth_date": "23/6/1988",
+  "nation": "Paraguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "하 비 에 르 아 쿠 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

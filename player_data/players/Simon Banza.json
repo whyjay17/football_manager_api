@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26225.png",
+  "name": "Simon Banza",
+  "birth_date": "13/8/1996",
+  "nation": "France",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "사 이 먼 반 자",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

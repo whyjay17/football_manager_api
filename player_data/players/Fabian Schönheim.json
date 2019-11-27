@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25306.png",
+  "name": "Fabian Schönheim",
+  "birth_date": "14/2/1987",
+  "nation": "Germany",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "파 비 안 숀 하 임",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6826.png",
+  "name": "Kevin Möhwald",
+  "birth_date": "3/7/1993",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "케 빈 뫼 발 트",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

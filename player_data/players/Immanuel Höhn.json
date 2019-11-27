@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24781.png",
+  "name": "Immanuel Höhn",
+  "birth_date": "23/12/1991",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "이 마 누 엘 혼",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 4,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

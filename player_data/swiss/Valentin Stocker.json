@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41694.png",
+  "name": "Valentin Stocker",
+  "birth_date": "12/4/1989",
+  "nation": "Switzerland",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "발 렌 틴 스 토 커",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7000.png",
+  "name": "Marcel Tisserand",
+  "birth_date": "10/1/1993",
+  "nation": "Congo DR",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "마 르 셀 티 세 랜 드",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

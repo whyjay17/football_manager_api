@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19387.png",
+  "name": "Sergi Guardiola",
+  "birth_date": "29/5/1991",
+  "nation": "Spain",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left Only",
+  "korean": "세 르 기 과 르 디 올 라",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

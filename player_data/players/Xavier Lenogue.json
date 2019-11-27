@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25865.png",
+  "name": "Xavier Lenogue",
+  "birth_date": "21/12/1996",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "자 비 에 르 레 노 게",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 1,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 9,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 7,
+      "Balance": 15,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

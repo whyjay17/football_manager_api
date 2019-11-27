@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40863.png",
+  "name": "Milan Skoda",
+  "birth_date": "16/1/1986",
+  "nation": "Czech Republic",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "밀 란 스 코 다",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 17,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 13,
+      "Bravery": 18,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 18,
+      "Jumping Reach": 18,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

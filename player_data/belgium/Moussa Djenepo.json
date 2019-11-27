@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21100.png",
+  "name": "Moussa Djenepo",
+  "birth_date": "15/6/1998",
+  "nation": "Mali",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "무 사 제 네 포",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 2,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

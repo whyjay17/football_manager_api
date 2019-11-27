@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57758.png",
+  "name": "Juanje",
+  "birth_date": "4/4/1995",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "후 안 제 ( 주 ) ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 5,
+      "Long Shots": 4,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 5,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 5,
+      "Jumping Reach": 6,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

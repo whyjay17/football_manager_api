@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58228.png",
+  "name": "Tiago Rodríguez",
+  "birth_date": "30/11/1999",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "티 아 고 로 드 리 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 1,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 4,
+      "Jumping Reach": 5,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6655.png",
+  "name": "Emil Forsberg",
+  "birth_date": "23/10/1991",
+  "nation": "Sweden",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "에 밀 포 스 버 그",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

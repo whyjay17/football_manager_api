@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2798.png",
+  "name": "Jaílson",
+  "birth_date": "7/9/1995",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "자 이 우 송",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

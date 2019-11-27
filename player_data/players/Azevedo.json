@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26593.png",
+  "name": "Azevedo",
+  "birth_date": "23/6/1991",
+  "nation": "Brazil",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "아 제 베 도",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

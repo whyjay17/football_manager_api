@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3277.png",
+  "name": "Guilherme",
+  "birth_date": "22/10/1988",
+  "nation": "Brazil",
+  "position": "AM (C), ST (C)",
+  "foot": "Either",
+  "korean": "길 레 르 메",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

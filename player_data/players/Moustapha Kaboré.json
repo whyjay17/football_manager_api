@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26368.png",
+  "name": "Moustapha Kaboré",
+  "birth_date": "21/3/1994",
+  "nation": "Burkina Faso",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "무 스 타 파 카 보 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20273.png",
+  "name": "Javi Ros",
+  "birth_date": "16/2/1990",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "하 비 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

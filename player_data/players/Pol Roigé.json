@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58982.png",
+  "name": "Pol Roigé",
+  "birth_date": "28/1/1994",
+  "nation": "Spain",
+  "position": "M (R), AM (RL)",
+  "foot": "Either",
+  "korean": "폴 로 이 게",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57808.png",
+  "name": "Antonio Cristian",
+  "birth_date": "18/10/1995",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "안 토 니 오 크 리 스 티 안",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 3,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 4,
+      "Long Throws": 3,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 1,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 3,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

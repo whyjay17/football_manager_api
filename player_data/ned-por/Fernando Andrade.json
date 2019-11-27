@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23829.png",
+  "name": "Fernando Andrade",
+  "birth_date": "8/1/1993",
+  "nation": "Brazil",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "페 르 난 도 안 드 라 데",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

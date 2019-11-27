@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35477.png",
+  "name": "Agustín Vuletich",
+  "birth_date": "3/11/1991",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 구 스 틴 불 레 티 치",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

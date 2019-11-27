@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20007.png",
+  "name": "Marc Mateu",
+  "birth_date": "16/6/1990",
+  "nation": "Spain",
+  "position": "M (RLC)",
+  "foot": "Left",
+  "korean": "마 크 마 테 우",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

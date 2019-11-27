@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32288.png",
+  "name": "Artem Gordienko",
+  "birth_date": "4/3/1991",
+  "nation": "Ukraine",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "아 르 템 고 르 디 엔 코",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

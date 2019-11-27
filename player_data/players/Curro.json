@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59696.png",
+  "name": "Curro",
+  "birth_date": "3/1/1996",
+  "nation": "Spain",
+  "position": "M/AM (RC)",
+  "foot": "Left",
+  "korean": "커 로 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

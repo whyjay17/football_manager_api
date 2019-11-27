@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31822.png",
+  "name": "Vitaliy Buyalskyi",
+  "birth_date": "6/1/1993",
+  "nation": "Ukraine",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "비 탈 리 부 얄 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

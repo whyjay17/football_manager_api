@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6570.png",
+  "name": "Alexander Hack",
+  "birth_date": "9/9/1993",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "알 렉 산 더 해 킹",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 17,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

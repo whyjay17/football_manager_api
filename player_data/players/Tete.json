@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19668.png",
+  "name": "Tete",
+  "birth_date": "4/2/1996",
+  "nation": "Spain",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "테 테 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 6,
+      "Decisions": 15,
+      "Determination": 3,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 1
+    }
+  }
+}

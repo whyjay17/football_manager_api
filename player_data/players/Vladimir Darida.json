@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6521.png",
+  "name": "Vladimir Darida",
+  "birth_date": "8/8/1990",
+  "nation": "Czech Republic",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "블 라 디 미 르 다 리 다",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 7
+    }
+  }
+}

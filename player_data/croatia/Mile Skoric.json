@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48223.png",
+  "name": "Mile Skoric",
+  "birth_date": "19/6/1991",
+  "nation": "Croatia",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "밀 레 슈 코 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

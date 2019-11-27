@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/84058.png",
+  "name": "Kim Do-Hyeok",
+  "birth_date": "8/2/1992",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "김 도 혁",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

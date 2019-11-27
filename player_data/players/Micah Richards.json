@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9480.png",
+  "name": "Micah Richards",
+  "birth_date": "24/6/1988",
+  "nation": "England",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "미 카 리 차 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

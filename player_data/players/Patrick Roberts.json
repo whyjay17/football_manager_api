@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/900.png",
+  "name": "Patrick Roberts",
+  "birth_date": "5/2/1997",
+  "nation": "England",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "패 트 릭 로 버 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 17,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 6,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

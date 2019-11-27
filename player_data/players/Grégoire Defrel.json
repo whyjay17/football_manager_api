@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22591.png",
+  "name": "Grégoire Defrel",
+  "birth_date": "17/6/1991",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "그 레 고 이 르 데 프 렐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 16,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

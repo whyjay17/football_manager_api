@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21233.png",
+  "name": "João Schmidt",
+  "birth_date": "19/5/1993",
+  "nation": "Brazil",
+  "position": "DM, M/AM (C)",
+  "foot": "Left Only",
+  "korean": "주 앙 슈 미 트",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

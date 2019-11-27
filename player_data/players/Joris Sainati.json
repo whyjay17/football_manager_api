@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26285.png",
+  "name": "Joris Sainati",
+  "birth_date": "25/9/1988",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "조 리 스 사 이 나 티",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

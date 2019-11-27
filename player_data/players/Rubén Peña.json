@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1051.png",
+  "name": "Rubén Peña",
+  "birth_date": "18/7/1991",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "루 벤 페 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

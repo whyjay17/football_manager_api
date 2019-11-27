@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49988.png",
+  "name": "Cristian Roldan",
+  "birth_date": "3/6/1995",
+  "nation": "United States",
+  "position": "M (RC)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 롤 단",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

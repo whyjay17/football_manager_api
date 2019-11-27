@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26809.png",
+  "name": "Sikou Niakaté",
+  "birth_date": "10/7/1999",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "시 쿠 니 아 카 테",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

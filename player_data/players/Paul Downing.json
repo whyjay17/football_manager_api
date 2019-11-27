@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9624.png",
+  "name": "Paul Downing",
+  "birth_date": "26/10/1991",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "폴 다 우 닝",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 4,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

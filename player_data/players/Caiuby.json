@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6294.png",
+  "name": "Caiuby",
+  "birth_date": "14/7/1988",
+  "nation": "Brazil",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "카 이 우 비 ( ) 카 이 우 비 ( ) 의",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/357.png",
+  "name": "Joris Gnagnon",
+  "birth_date": "13/1/1997",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "조 리 스 그 나 그 논",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

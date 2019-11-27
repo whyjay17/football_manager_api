@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41223.png",
+  "name": "Hany Mukhtar",
+  "birth_date": "21/3/1995",
+  "nation": "Germany",
+  "position": "M/AM (LC)",
+  "foot": "Either",
+  "korean": "하 니 무 크 타 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42024.png",
+  "name": "Vincent Sierro",
+  "birth_date": "8/10/1995",
+  "nation": "Switzerland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "빈 센 트 시 에 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

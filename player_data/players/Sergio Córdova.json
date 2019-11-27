@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6286.png",
+  "name": "Sergio Córdova",
+  "birth_date": "9/8/1997",
+  "nation": "Venezuela",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "세 르 지 오 코 르 도 바",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

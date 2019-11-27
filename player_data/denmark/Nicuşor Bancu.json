@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52978.png",
+  "name": "Nicuşor Bancu",
+  "birth_date": "18/9/1992",
+  "nation": "Romania",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "니 쿠 쇼 르 방 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

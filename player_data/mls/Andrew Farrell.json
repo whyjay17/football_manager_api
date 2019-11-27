@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49753.png",
+  "name": "Andrew Farrell",
+  "birth_date": "3/4/1992",
+  "nation": "United States",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "앤 드 류 파 렐",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 5,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

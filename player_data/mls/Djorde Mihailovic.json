@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49458.png",
+  "name": "Djorde Mihailovic",
+  "birth_date": "10/11/1998",
+  "nation": "United States",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "디 오 르 드 미 하 일 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

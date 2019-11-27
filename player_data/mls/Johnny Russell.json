@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50014.png",
+  "name": "Johnny Russell",
+  "birth_date": "8/4/1990",
+  "nation": "Scotland",
+  "position": "AM (RL)",
+  "foot": "Left Only",
+  "korean": "조 니 러 셀",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

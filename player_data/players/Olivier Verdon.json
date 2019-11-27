@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26655.png",
+  "name": "Olivier Verdon",
+  "birth_date": "5/10/1995",
+  "nation": "Benin",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "올 리 비 에 베 르 돈",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

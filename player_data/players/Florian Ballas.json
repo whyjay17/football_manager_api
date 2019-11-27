@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24841.png",
+  "name": "Florian Ballas",
+  "birth_date": "8/1/1993",
+  "nation": "Germany",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "플 로 리 안 발 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 16,
+      "Jumping Reach": 18,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

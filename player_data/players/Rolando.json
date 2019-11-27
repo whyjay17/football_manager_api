@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7984.png",
+  "name": "Rolando",
+  "birth_date": "31/8/1985",
+  "nation": "Portugal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "R o l a n d o",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

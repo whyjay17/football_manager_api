@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20317.png",
+  "name": "Ivan Santini",
+  "birth_date": "21/5/1989",
+  "nation": "Croatia",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "이 반 산 티 니",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

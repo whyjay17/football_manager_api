@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26310.png",
+  "name": "Pierre-Etienne Lemaire",
+  "birth_date": "25/1/1991",
+  "nation": "France",
+  "position": "D (RC)",
+  "foot": "Right Only",
+  "korean": "피 에 르 에 티 엔 르 메 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

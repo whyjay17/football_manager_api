@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11424.png",
+  "name": "Anthony O'Connor",
+  "birth_date": "25/10/1992",
+  "nation": "Republic of Ireland",
+  "position": "D (RC), DM, M (C)",
+  "foot": "Right",
+  "korean": "앤 서 니 오 코 너",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

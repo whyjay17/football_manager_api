@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80704.png",
+  "name": "Lulinha",
+  "birth_date": "10/4/1990",
+  "nation": "Brazil",
+  "position": "M/AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "룰 리 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

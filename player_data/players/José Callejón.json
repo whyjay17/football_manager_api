@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22289.png",
+  "name": "José Callejón",
+  "birth_date": "11/2/1987",
+  "nation": "Spain",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "호 세 칼 레 욘",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 18,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58814.png",
+  "name": "Ballou Tabla",
+  "birth_date": "31/3/1999",
+  "nation": "Canada",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "발 루 타 블 라",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

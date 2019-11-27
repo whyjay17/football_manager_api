@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23550.png",
+  "name": "João Carlos Teixeira",
+  "birth_date": "18/1/1993",
+  "nation": "Portugal",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "주 앙 카 를 로 스 테 이 세 이 라",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

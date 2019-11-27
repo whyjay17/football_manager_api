@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24877.png",
+  "name": "Emmanuel Iyoha",
+  "birth_date": "11/10/1997",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "엠 마 누 엘 이 요 하",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19271.png",
+  "name": "Álvaro Giménez",
+  "birth_date": "19/5/1991",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Left",
+  "korean": "알 바 로 기 메 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

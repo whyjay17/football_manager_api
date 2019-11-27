@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31824.png",
+  "name": "Victor Tsygankov",
+  "birth_date": "15/11/1997",
+  "nation": "Ukraine",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "빅 터 찌 간 코 프",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 13,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

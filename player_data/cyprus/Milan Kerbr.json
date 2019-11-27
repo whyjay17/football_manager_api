@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80648.png",
+  "name": "Milan Kerbr",
+  "birth_date": "10/9/1989",
+  "nation": "Czech Republic",
+  "position": "D/WB/M/AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "밀 란 케 르 브 르",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 14,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

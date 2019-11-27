@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49958.png",
+  "name": "Danny Hoesen",
+  "birth_date": "15/1/1991",
+  "nation": "Netherlands",
+  "position": "AM (L), ST (C)",
+  "foot": "Right Only",
+  "korean": "대 니 호 젠",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

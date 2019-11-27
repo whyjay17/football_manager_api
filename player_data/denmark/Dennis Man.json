@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52804.png",
+  "name": "Dennis Man",
+  "birth_date": "26/8/1998",
+  "nation": "Romania",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "데 니 스 맨",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

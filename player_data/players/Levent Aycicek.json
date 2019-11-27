@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24931.png",
+  "name": "Levent Aycicek",
+  "birth_date": "12/2/1994",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "레 블 아 이 시 텍",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

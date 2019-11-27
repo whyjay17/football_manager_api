@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46566.png",
+  "name": "Kim Young-Wook",
+  "birth_date": "29/4/1991",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "김 영 욱",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 4,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 2,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 8
+    }
+  }
+}

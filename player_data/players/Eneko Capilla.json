@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58646.png",
+  "name": "Eneko Capilla",
+  "birth_date": "13/6/1995",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "에 네 코 카 필 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 1,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 10,
+      "Bravery": 5,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 15,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 3,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22402.png",
+  "name": "Alessandro Bastoni",
+  "birth_date": "13/4/1999",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "알 레 산 드 로 바 스 토 니",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

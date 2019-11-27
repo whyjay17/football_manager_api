@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46471.png",
+  "name": "Choi Jong-Hoan",
+  "birth_date": "12/8/1987",
+  "nation": "South Korea KOR",
+  "position": "WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "최 종 환",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48276.png",
+  "name": "Alexander Gorgon",
+  "birth_date": "28/10/1988",
+  "nation": "Austria",
+  "position": "M (R), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 더 고 르 곤",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

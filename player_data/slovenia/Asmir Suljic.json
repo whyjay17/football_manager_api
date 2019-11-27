@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53662.png",
+  "name": "Asmir Suljic",
+  "birth_date": "11/9/1991",
+  "nation": "Bosnia and Herzegovina",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "아 스 미 르 술 지 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 4,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

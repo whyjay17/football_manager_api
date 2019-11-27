@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19921.png",
+  "name": "Dani Pacheco",
+  "birth_date": "5/1/1991",
+  "nation": "Spain",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "다 니 파 체 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 16,
+      "Heading": 4,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 18,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

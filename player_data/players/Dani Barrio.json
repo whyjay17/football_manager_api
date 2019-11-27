@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59570.png",
+  "name": "Dani Barrio",
+  "birth_date": "10/2/1987",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "다 니 바 리 오",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 5,
+      "First Touch": 10,
+      "Handling": 14,
+      "Kicking": 10,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 15,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

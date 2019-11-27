@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12317.png",
+  "name": "Mark Oxley",
+  "birth_date": "2/6/1990",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 크 옥 슬 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 8,
+      "First Touch": 5,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 5,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 6,
+      "Stamina": 7,
+      "Strength": 12
+    }
+  }
+}

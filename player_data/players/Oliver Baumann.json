@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6848.png",
+  "name": "Oliver Baumann",
+  "birth_date": "2/6/1990",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "올 리 버 바 우 만",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 8,
+      "First Touch": 9,
+      "Handling": 16,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 16,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 16,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

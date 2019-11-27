@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8108.png",
+  "name": "Ángel Di María",
+  "birth_date": "14/2/1988",
+  "nation": "Argentina",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Left",
+  "korean": "안 젤 디 마 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

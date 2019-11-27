@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7658.png",
+  "name": "Yassine El Ghanassy",
+  "birth_date": "12/7/1990",
+  "nation": "Belgium",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "야 신 엘 가 나 시",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 6,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 4,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

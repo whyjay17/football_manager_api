@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31337.png",
+  "name": "Fernando",
+  "birth_date": "3/3/1992",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "페 르 난 도",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 17,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 17,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

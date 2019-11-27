@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23914.png",
+  "name": "João Palhinha",
+  "birth_date": "9/7/1995",
+  "nation": "Portugal",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "주 앙 팔 리 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/970.png",
+  "name": "Mario Hermoso",
+  "birth_date": "18/6/1995",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "마 리 오 헤 르 모 소",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

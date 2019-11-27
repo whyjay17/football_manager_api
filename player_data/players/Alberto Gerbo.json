@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34799.png",
+  "name": "Alberto Gerbo",
+  "birth_date": "9/11/1989",
+  "nation": "Italy",
+  "position": "D (R), WB (RL), DM, M (RC)",
+  "foot": "Right",
+  "korean": "알 베 르 토 게 르 보",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25804.png",
+  "name": "Mattéo Tramoni",
+  "birth_date": "20/1/2000",
+  "nation": "France",
+  "position": "AM (L)",
+  "foot": "Right",
+  "korean": "마 테 오 트 라 모 니",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 5,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

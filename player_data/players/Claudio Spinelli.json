@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34718.png",
+  "name": "Claudio Spinelli",
+  "birth_date": "21/1/1997",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "클 라 우 디 오 스 피 넬 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

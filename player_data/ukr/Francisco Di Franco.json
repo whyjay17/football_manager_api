@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31890.png",
+  "name": "Francisco Di Franco",
+  "birth_date": "28/1/1995",
+  "nation": "Argentina",
+  "position": "M (C), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "프 란 시 스 코 디 프 랑 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 8,
+      "Long Shots": 3,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 6,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 6,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

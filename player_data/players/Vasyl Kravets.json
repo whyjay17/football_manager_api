@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19818.png",
+  "name": "Vasyl Kravets",
+  "birth_date": "20/8/1997",
+  "nation": "Ukraine",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "바 실 크 라 베 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 2,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

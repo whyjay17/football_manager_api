@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26375.png",
+  "name": "Alexis Larrière",
+  "birth_date": "20/3/1997",
+  "nation": "France",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "알 렉 시 스 라 리 에 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 6,
+      "Decisions": 15,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 8,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

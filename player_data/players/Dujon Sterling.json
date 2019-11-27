@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11661.png",
+  "name": "Dujon Sterling",
+  "birth_date": "24/10/1999",
+  "nation": "England",
+  "position": "D (RC), WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "두 존 스 털 링",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 7,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 6,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

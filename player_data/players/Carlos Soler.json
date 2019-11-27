@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/300.png",
+  "name": "Carlos Soler",
+  "birth_date": "1/2/1997",
+  "nation": "Spain",
+  "position": "DM, M (RLC)",
+  "foot": "Right",
+  "korean": "카 를 로 스 솔 러",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

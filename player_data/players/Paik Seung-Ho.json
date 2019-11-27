@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59107.png",
+  "name": "Paik Seung-Ho",
+  "birth_date": "17/3/1997",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "백 승 호",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 2,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 4,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 5
+    }
+  }
+}

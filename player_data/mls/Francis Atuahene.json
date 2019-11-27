@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49572.png",
+  "name": "Francis Atuahene",
+  "birth_date": "8/6/1996",
+  "nation": "Ghana",
+  "position": "M (R), ST (C)",
+  "foot": "Right",
+  "korean": "프 랜 시 스 아 투 아 헨",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

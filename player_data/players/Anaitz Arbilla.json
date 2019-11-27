@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1055.png",
+  "name": "Anaitz Arbilla",
+  "birth_date": "15/5/1987",
+  "nation": "Spain",
+  "position": "D (RLC), WB (R), AM (C)",
+  "foot": "Either",
+  "korean": "아 나 이 츠 아 르 빌 라",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

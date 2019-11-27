@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25268.png",
+  "name": "Ersin Zehir",
+  "birth_date": "15/1/1998",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 르 신 제 히 르",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 15,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 5,
+      "Flair": 3,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

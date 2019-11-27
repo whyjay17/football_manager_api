@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31976.png",
+  "name": "Bruno Silva",
+  "birth_date": "24/3/1996",
+  "nation": "Brazil",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "브 루 노 실 바",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 2,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

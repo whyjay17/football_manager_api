@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6652.png",
+  "name": "Bruma",
+  "birth_date": "24/10/1994",
+  "nation": "Portugal",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "브 루 마 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 17,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 18,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

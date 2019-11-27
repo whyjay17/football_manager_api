@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22708.png",
+  "name": "Jeremie Boga",
+  "birth_date": "3/1/1997",
+  "nation": "Côte d'Ivoire",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "제 레 미 보 가",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

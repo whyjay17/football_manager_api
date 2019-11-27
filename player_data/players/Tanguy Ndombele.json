@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7917.png",
+  "name": "Tanguy Ndombele",
+  "birth_date": "28/12/1996",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "탕 귀 은 돔 벨 레",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 14,
+      "Finishing": 7,
+      "First Touch": 16,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 16,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

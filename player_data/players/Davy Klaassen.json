@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6825.png",
+  "name": "Davy Klaassen",
+  "birth_date": "21/2/1993",
+  "nation": "Netherlands",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "데 이 비 클 라 센",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 17,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 18,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 18,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

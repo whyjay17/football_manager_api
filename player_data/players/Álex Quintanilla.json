@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19357.png",
+  "name": "Álex Quintanilla",
+  "birth_date": "2/7/1990",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "알 렉 스 퀸 타 닐 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 3,
+      "Finishing": 3,
+      "First Touch": 8,
+      "Free Kick": 2,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 4,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

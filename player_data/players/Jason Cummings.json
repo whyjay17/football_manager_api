@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12039.png",
+  "name": "Jason Cummings",
+  "birth_date": "1/8/1995",
+  "nation": "Scotland",
+  "position": "AM (C), ST (C)",
+  "foot": "Left",
+  "korean": "제 이 슨 커 밍 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

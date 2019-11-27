@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52980.png",
+  "name": "Mirko Pigliacelli",
+  "birth_date": "30/6/1993",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "미 르 코 피 글 리 아 첼 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 16,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 14,
+      "Reflexes": 15,
+      "Rushing Out": 16,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

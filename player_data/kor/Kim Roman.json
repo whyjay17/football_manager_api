@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46640.png",
+  "name": "Kim Roman",
+  "birth_date": "3/8/1996",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "김 로 만",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 5,
+      "Eccentricity": 1,
+      "First Touch": 1,
+      "Handling": 7,
+      "Kicking": 8,
+      "Passing": 7,
+      "Reflexes": 11,
+      "Rushing Out": 7,
+      "Throwing": 5
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 2,
+      "Bravery": 11,
+      "Composure": 1,
+      "Concentration": 4,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 3,
+      "Leadership": 9,
+      "Off The Ball": 1,
+      "Positioning": 7,
+      "Teamwork": 3,
+      "Vision": 2,
+      "Work Rate": 2
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 6,
+      "Balance": 1,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 6,
+      "Stamina": 1,
+      "Strength": 5
+    }
+  }
+}

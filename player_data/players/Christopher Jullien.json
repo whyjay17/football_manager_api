@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8423.png",
+  "name": "Christopher Jullien",
+  "birth_date": "22/3/1993",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "크 리 스 토 퍼 줄 리 엔",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 17,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

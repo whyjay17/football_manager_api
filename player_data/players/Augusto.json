@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58087.png",
+  "name": "Augusto",
+  "birth_date": "25/3/1999",
+  "nation": "Brazil",
+  "position": "M (C), AM (LC)",
+  "foot": "Left",
+  "korean": "아 우 구 스 토 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 1,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 6,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 7,
+      "Positioning": 4,
+      "Teamwork": 6,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

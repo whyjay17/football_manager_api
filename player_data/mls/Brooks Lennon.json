@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49930.png",
+  "name": "Brooks Lennon",
+  "birth_date": "22/9/1997",
+  "nation": "United States",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right Only",
+  "korean": "브 룩 스 레 논",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

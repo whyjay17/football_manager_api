@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24833.png",
+  "name": "Moussa Koné",
+  "birth_date": "30/12/1996",
+  "nation": "Senegal",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "무 사 코 네",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

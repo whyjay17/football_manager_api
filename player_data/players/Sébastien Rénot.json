@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26629.png",
+  "name": "Sébastien Rénot",
+  "birth_date": "11/11/1989",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "세 바 스 티 앙 레 노",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 9,
+      "Eccentricity": 1,
+      "First Touch": 6,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 10,
+      "Reflexes": 11,
+      "Rushing Out": 2,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 3,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23897.png",
+  "name": "Bas Dost",
+  "birth_date": "31/5/1989",
+  "nation": "Netherlands",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "바 스 도 스 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 18,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 16,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 18,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 14,
+      "Composure": 18,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 17,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

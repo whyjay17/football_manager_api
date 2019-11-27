@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25232.png",
+  "name": "Kevin Behrens",
+  "birth_date": "3/2/1991",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "케 빈 베 렌 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

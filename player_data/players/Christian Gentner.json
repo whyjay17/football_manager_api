@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6951.png",
+  "name": "Christian Gentner",
+  "birth_date": "14/8/1985",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "크 리 스 티 안 겐 트 너",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

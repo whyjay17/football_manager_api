@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80564.png",
+  "name": "Toño",
+  "birth_date": "23/11/1986",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "토 뇨",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 5,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 7,
+      "Stamina": 8,
+      "Strength": 13
+    }
+  }
+}

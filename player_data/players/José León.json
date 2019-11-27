@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/167.png",
+  "name": "José León",
+  "birth_date": "3/2/1995",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "호 세 레 온",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 2,
+      "Leadership": 15,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26617.png",
+  "name": "Teddy Teuma",
+  "birth_date": "30/9/1993",
+  "nation": "France",
+  "position": "DM, M/AM (C)",
+  "foot": "Left Only",
+  "korean": "테 디 투 마",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

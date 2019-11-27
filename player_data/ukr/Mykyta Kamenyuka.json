@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32289.png",
+  "name": "Mykyta Kamenyuka",
+  "birth_date": "3/6/1985",
+  "nation": "Ukraine",
+  "position": "D (RL), WB/M/AM (R)",
+  "foot": "Either",
+  "korean": "카 메 뉴 카 미 키 타",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 7,
+      "Long Shots": 4,
+      "Long Throws": 14,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23904.png",
+  "name": "Raphinha",
+  "birth_date": "14/12/1996",
+  "nation": "Brazil",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "하 피 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

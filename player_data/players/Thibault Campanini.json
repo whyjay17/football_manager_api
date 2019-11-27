@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26099.png",
+  "name": "Thibault Campanini",
+  "birth_date": "27/7/1998",
+  "nation": "France",
+  "position": "D (R)",
+  "foot": "Right Only",
+  "korean": "티 보 캄 파 니 니",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 7,
+      "Free Kick": 4,
+      "Heading": 9,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 7,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

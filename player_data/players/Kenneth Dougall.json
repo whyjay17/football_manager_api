@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11316.png",
+  "name": "Kenneth Dougall",
+  "birth_date": "7/5/1993",
+  "nation": "Australia AUS",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "케 네 스 더 갈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6948.png",
+  "name": "Borna Sosa",
+  "birth_date": "21/1/1998",
+  "nation": "Croatia",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "보 르 나 소 사",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 15,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

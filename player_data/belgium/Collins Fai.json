@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21103.png",
+  "name": "Collins Fai",
+  "birth_date": "13/8/1992",
+  "nation": "Cameroon",
+  "position": "D/WB (RL)",
+  "foot": "Either",
+  "korean": "콜 린 스 파 이",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 4,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 18,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/84320.png",
+  "name": "Álvaro Morata",
+  "birth_date": "23/10/1992",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "알 바 로 모 라 타",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 18,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

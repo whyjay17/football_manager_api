@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11803.png",
+  "name": "Jason Holt",
+  "birth_date": "19/2/1993",
+  "nation": "Scotland",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "제 이 슨 홀 트",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 18,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

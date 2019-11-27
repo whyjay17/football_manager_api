@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59178.png",
+  "name": "Fran Villalba",
+  "birth_date": "11/5/1998",
+  "nation": "Spain",
+  "position": "AM (C)",
+  "foot": "Right",
+  "korean": "프 란 빌 라 바",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 3,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 6,
+      "Strength": 5
+    }
+  }
+}

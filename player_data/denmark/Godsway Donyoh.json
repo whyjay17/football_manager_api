@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41444.png",
+  "name": "Godsway Donyoh",
+  "birth_date": "14/10/1994",
+  "nation": "Ghana",
+  "position": "AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "갓 스 웨 이 돈 예",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 9,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 12,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

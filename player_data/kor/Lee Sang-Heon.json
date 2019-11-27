@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46787.png",
+  "name": "Lee Sang-Heon",
+  "birth_date": "26/2/1998",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "이 상 헌",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 4,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 1,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 5,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26034.png",
+  "name": "Romain Spano",
+  "birth_date": "31/10/1994",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "로 맹 스 파 노",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

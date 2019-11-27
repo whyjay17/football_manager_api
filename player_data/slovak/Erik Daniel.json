@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53174.png",
+  "name": "Erik Daniel",
+  "birth_date": "4/2/1992",
+  "nation": "Czech Republic",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "에 릭 다 니 엘",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 3,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 6,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25911.png",
+  "name": "Ibrahima Savané",
+  "birth_date": "10/9/1993",
+  "nation": "France",
+  "position": "D (L)",
+  "foot": "Left Only",
+  "korean": "이 브 라 히 마 사 바 네",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 1,
+      "Flair": 5,
+      "Leadership": 5,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49957.png",
+  "name": "Florian Jungwirth",
+  "birth_date": "27/1/1989",
+  "nation": "Germany",
+  "position": "D (RLC), DM",
+  "foot": "Right",
+  "korean": "플 로 리 안 융 비 르 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

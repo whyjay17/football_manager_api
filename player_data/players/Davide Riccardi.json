@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34910.png",
+  "name": "Davide Riccardi",
+  "birth_date": "9/4/1996",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "다 비 드 리 카 디",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 6,
+      "Free Kick": 1,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 12,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 7
+    }
+  }
+}

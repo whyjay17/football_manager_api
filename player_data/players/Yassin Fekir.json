@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7940.png",
+  "name": "Yassin Fekir",
+  "birth_date": "5/5/1997",
+  "nation": "Algeria",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "야 신 페 키 르",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

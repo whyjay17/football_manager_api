@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1271.png",
+  "name": "Stefan Savic",
+  "birth_date": "8/1/1991",
+  "nation": "Montenegro",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "스 테 판 사 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 17,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

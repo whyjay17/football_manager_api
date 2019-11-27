@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53262.png",
+  "name": "Milan Rundic",
+  "birth_date": "29/3/1992",
+  "nation": "Serbia",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "밀 란 룬 디 치",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 4,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

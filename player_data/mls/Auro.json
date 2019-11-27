@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50066.png",
+  "name": "Auro",
+  "birth_date": "23/1/1996",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "아 우 로",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

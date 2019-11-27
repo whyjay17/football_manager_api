@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23911.png",
+  "name": "Abdoulay Diaby",
+  "birth_date": "21/5/1991",
+  "nation": "Mali",
+  "position": "AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "압 둘 레 이 디 아 비",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

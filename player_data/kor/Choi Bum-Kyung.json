@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46481.png",
+  "name": "Choi Bum-Kyung",
+  "birth_date": "24/6/1997",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "최 범 경",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 9,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

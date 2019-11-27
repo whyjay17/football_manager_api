@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34226.png",
+  "name": "Stefano Minelli",
+  "birth_date": "5/3/1994",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "스 테 파 노 미 넬 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 8,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 8,
+      "Strength": 10
+    }
+  }
+}

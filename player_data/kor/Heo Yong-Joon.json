@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46579.png",
+  "name": "Heo Yong-Joon",
+  "birth_date": "8/1/1993",
+  "nation": "South Korea KOR",
+  "position": "M (L), AM (RLC)",
+  "foot": "Right",
+  "korean": "허 용 준",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

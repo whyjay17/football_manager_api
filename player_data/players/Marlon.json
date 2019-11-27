@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22702.png",
+  "name": "Marlon",
+  "birth_date": "7/9/1995",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "말 론",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

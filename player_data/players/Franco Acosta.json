@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59204.png",
+  "name": "Franco Acosta",
+  "birth_date": "5/3/1996",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "프 랑 코 아 코 스 타",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 16,
+      "Concentration": 6,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 2,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 6,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2768.png",
+  "name": "Diafra Sakho",
+  "birth_date": "24/12/1989",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "디 아 프 라 사 호",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 16,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

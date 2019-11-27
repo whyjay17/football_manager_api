@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49971.png",
+  "name": "Andrew Tarbell",
+  "birth_date": "7/10/1993",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "앤 드 류 타 벨",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 10,
+      "First Touch": 9,
+      "Handling": 9,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

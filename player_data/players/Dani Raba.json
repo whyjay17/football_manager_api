@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/70.png",
+  "name": "Dani Raba",
+  "birth_date": "29/10/1995",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Left",
+  "korean": "다 니 라 바",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

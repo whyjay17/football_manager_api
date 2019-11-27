@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/419.png",
+  "name": "Miguel Ángel Moyà",
+  "birth_date": "2/4/1984",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "미 겔 안 겔 모 야",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 14,
+      "Eccentricity": 6,
+      "First Touch": 7,
+      "Handling": 15,
+      "Kicking": 16,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 5,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 11,
+      "Vision": 3,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

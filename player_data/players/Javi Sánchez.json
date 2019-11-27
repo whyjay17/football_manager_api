@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58076.png",
+  "name": "Javi Sánchez",
+  "birth_date": "14/3/1997",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "하 비 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 2,
+      "Dribbling": 3,
+      "Finishing": 6,
+      "First Touch": 7,
+      "Free Kick": 2,
+      "Heading": 16,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 11,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 3,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 6,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

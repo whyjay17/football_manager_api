@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24879.png",
+  "name": "Mario Kvesic",
+  "birth_date": "12/1/1992",
+  "nation": "Bosnia and Herzegovina",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "마 리 오 크 베 식",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

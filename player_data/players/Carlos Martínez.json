@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59405.png",
+  "name": "Carlos Martínez",
+  "birth_date": "9/2/1989",
+  "nation": "Spain",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "카 를 로 스 마 르 티 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

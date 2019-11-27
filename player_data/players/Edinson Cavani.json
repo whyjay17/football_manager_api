@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8129.png",
+  "name": "Edinson Cavani",
+  "birth_date": "14/2/1987",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "에 딘 슨 카 바 니",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 18,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 18,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 17,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 17,
+      "Bravery": 18,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 17,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 16,
+      "Stamina": 19,
+      "Strength": 14
+    }
+  }
+}

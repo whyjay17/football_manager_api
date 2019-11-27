@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49692.png",
+  "name": "Wyatt Omsberg",
+  "birth_date": "21/9/1995",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "와 이 엇 옴 스 버 그",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 2,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 6,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 5,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

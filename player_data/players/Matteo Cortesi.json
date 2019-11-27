@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34229.png",
+  "name": "Matteo Cortesi",
+  "birth_date": "21/10/1997",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 테 오 코 르 테 시",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 2,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 3,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

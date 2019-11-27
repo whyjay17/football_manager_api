@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59208.png",
+  "name": "Enric Franquesa",
+  "birth_date": "26/2/1997",
+  "nation": "Spain",
+  "position": "D (RL), WB/M (L)",
+  "foot": "Left",
+  "korean": "엔 릭 프 란 케 사",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

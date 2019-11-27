@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7363.png",
+  "name": "Vágner",
+  "birth_date": "10/1/1996",
+  "nation": "Cape Verde",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "바 그 너 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 1,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

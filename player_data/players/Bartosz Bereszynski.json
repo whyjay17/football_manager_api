@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22598.png",
+  "name": "Bartosz Bereszynski",
+  "birth_date": "12/7/1992",
+  "nation": "Poland",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "바 르 토 즈 베 레 진 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

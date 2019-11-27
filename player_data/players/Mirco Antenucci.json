@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22811.png",
+  "name": "Mirco Antenucci",
+  "birth_date": "8/9/1984",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "미 르 코 안 테 누 치",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 16,
+      "Leadership": 16,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

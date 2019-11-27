@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7696.png",
+  "name": "Pedro Mendes",
+  "birth_date": "1/10/1990",
+  "nation": "Portugal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "페 드 로 멘 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

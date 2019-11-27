@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6966.png",
+  "name": "Berkay Özcan",
+  "birth_date": "15/2/1998",
+  "nation": "Turkey",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "베 르 카 이 외 즈 칸",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

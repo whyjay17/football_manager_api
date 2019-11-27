@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35777.png",
+  "name": "Alan Empereur",
+  "birth_date": "10/3/1994",
+  "nation": "Brazil",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "앨 런 엠 퍼 뢰 르",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23988.png",
+  "name": "Cláudio Ramos",
+  "birth_date": "16/11/1991",
+  "nation": "Portugal",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "클 라 우 디 오 라 모 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 14,
+      "First Touch": 10,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 11,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 3,
+      "Leadership": 15,
+      "Off The Ball": 3,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

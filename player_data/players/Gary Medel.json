@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2645.png",
+  "name": "Gary Medel",
+  "birth_date": "3/8/1987",
+  "nation": "Chile",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "게 리 메 델",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 12,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 17,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 15,
+      "Bravery": 19,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 9,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

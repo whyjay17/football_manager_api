@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58085.png",
+  "name": "Fran García",
+  "birth_date": "14/8/1999",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "프 란 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 1,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 6,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 1,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 1
+    }
+  }
+}

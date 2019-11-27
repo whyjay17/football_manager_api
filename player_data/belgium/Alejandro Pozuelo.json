@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20656.png",
+  "name": "Alejandro Pozuelo",
+  "birth_date": "20/9/1991",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Either",
+  "korean": "알 레 한 드 로 포 주 엘 로",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

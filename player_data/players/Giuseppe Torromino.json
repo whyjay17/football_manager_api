@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34892.png",
+  "name": "Giuseppe Torromino",
+  "birth_date": "21/6/1988",
+  "nation": "Italy",
+  "position": "AM (L), ST (C)",
+  "foot": "Right Only",
+  "korean": "주 세 페 토 로 미 노",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

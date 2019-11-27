@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25898.png",
+  "name": "Alexandre Ramalingom",
+  "birth_date": "17/3/1993",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "알 렉 산 드 르 라 말 링 곰",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 4,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 1,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 6,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 7,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

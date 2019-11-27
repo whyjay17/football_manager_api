@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7092.png",
+  "name": "Ganso",
+  "birth_date": "12/10/1989",
+  "nation": "Brazil",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "간 소 ( 있 는 )",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 17,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 7,
+      "Flair": 18,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 19,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

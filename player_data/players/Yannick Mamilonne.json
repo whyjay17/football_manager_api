@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26580.png",
+  "name": "Yannick Mamilonne",
+  "birth_date": "9/2/1992",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "야 닉 마 밀 로 네",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

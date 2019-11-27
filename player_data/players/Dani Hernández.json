@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20187.png",
+  "name": "Dani Hernández",
+  "birth_date": "21/10/1985",
+  "nation": "Venezuela",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "다 니 에 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 12,
+      "Eccentricity": 8,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 9,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 3,
+      "Positioning": 15,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

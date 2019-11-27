@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10019.png",
+  "name": "Dean Gerken",
+  "birth_date": "22/5/1985",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "딘 거 켄",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 12,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 4,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 7,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

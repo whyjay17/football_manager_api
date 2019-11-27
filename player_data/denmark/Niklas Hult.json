@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24055.png",
+  "name": "Niklas Hult",
+  "birth_date": "13/2/1990",
+  "nation": "Sweden",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "니 클 라 스 훌 트",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 3,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 7
+    }
+  }
+}

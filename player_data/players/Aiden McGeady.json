@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12419.png",
+  "name": "Aiden McGeady",
+  "birth_date": "4/4/1986",
+  "nation": "Republic of Ireland",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "에 이 든 맥 기 디",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50051.png",
+  "name": "Marky Delgado",
+  "birth_date": "16/5/1995",
+  "nation": "United States",
+  "position": "M (RC)",
+  "foot": "Right",
+  "korean": "마 키 델 가 도",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 7,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

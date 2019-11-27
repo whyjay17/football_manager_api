@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41314.png",
+  "name": "Robert Skov",
+  "birth_date": "20/5/1996",
+  "nation": "Denmark",
+  "position": "M/AM (RC)",
+  "foot": "Left",
+  "korean": "로 버 트 스 코 프",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 17,
+      "Heading": 7,
+      "Long Shots": 16,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

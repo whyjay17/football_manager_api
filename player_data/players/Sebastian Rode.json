@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6098.png",
+  "name": "Sebastian Rode",
+  "birth_date": "11/10/1990",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 로 드",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

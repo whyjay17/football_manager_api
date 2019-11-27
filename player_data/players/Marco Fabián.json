@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6239.png",
+  "name": "Marco Fabián",
+  "birth_date": "21/7/1989",
+  "nation": "Mexico",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "마 르 코 파 비 안",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 17,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 16,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

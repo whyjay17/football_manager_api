@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22487.png",
+  "name": "Kostas Manolas",
+  "birth_date": "14/6/1991",
+  "nation": "Greece",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "코 스 타 스 마 놀 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 17,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 16,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 18,
+      "Pace": 17,
+      "Stamina": 18,
+      "Strength": 16
+    }
+  }
+}

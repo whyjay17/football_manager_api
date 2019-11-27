@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35080.png",
+  "name": "Luca Ravanelli",
+  "birth_date": "6/1/1997",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 카 라 바 넬 리",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

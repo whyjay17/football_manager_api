@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19884.png",
+  "name": "Alfred N'Diaye",
+  "birth_date": "6/3/1990",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "알 프 레 드 은 디 아 예",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

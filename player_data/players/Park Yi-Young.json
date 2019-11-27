@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25258.png",
+  "name": "Park Yi-Young",
+  "birth_date": "29/6/1994",
+  "nation": "South Korea KOR",
+  "position": "D (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "박 이 영",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

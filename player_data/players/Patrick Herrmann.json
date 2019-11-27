@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25080.png",
+  "name": "Patrick Herrmann",
+  "birth_date": "16/3/1988",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "패 트 릭 헤 르 만",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 15,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 18,
+      "Strength": 12
+    }
+  }
+}

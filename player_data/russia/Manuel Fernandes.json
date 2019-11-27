@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31123.png",
+  "name": "Manuel Fernandes",
+  "birth_date": "5/2/1986",
+  "nation": "Portugal",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "마 누 엘 페 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 10,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 8,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

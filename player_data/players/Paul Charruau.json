@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26634.png",
+  "name": "Paul Charruau",
+  "birth_date": "12/7/1993",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "폴 샤 루",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 1,
+      "First Touch": 7,
+      "Handling": 9,
+      "Kicking": 8,
+      "Passing": 6,
+      "Reflexes": 11,
+      "Rushing Out": 10,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 3,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

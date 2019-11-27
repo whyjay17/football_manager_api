@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7621.png",
+  "name": "Anthony Limbombe",
+  "birth_date": "15/6/1994",
+  "nation": "Belgium",
+  "position": "D/WB/M (L), AM (RL)",
+  "foot": "Right",
+  "korean": "앤 서 니 림 봄 비",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 4,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

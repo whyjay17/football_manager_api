@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58757.png",
+  "name": "Vicente",
+  "birth_date": "11/7/1986",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "비 센 테",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 3,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

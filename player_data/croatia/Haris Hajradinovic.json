@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48220.png",
+  "name": "Haris Hajradinovic",
+  "birth_date": "18/2/1994",
+  "nation": "Bosnia and Herzegovina",
+  "position": "M (LC), AM (C)",
+  "foot": "Left",
+  "korean": "하 리 스 하 이 라 디 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 16,
+      "Penalty Taking": 16,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

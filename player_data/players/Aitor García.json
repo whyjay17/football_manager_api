@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20098.png",
+  "name": "Aitor García",
+  "birth_date": "25/3/1994",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "아 이 토 르 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 16,
+      "Long Throws": 11,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 4,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

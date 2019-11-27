@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/266.png",
+  "name": "Jaume Domènech",
+  "birth_date": "5/11/1990",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "자 우 메 도 메 네 흐",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 14,
+      "Eccentricity": 6,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 9,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 17,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

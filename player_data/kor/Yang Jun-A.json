@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46570.png",
+  "name": "Yang Jun-A",
+  "birth_date": "13/6/1989",
+  "nation": "South Korea KOR",
+  "position": "D/WB (L), DM",
+  "foot": "Left",
+  "korean": "양 준 아",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 16,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

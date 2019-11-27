@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8896.png",
+  "name": "Timo Letschert",
+  "birth_date": "25/5/1993",
+  "nation": "Netherlands",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "티 모 레 셔 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

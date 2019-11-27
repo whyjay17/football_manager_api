@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19394.png",
+  "name": "Dani Giménez",
+  "birth_date": "30/7/1983",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "다 니 기 메 네 즈",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 11,
+      "First Touch": 3,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 13,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

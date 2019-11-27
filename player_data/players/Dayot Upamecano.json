@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6628.png",
+  "name": "Dayot Upamecano",
+  "birth_date": "27/10/1998",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "다 요 트 우 파 메 카 노",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 18,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

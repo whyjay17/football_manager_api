@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25270.png",
+  "name": "Svend Brodersen",
+  "birth_date": "22/3/1997",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "스 벤 드 브 로 더 슨",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 3,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 9,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 3,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 3,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

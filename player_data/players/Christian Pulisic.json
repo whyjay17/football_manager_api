@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6121.png",
+  "name": "Christian Pulisic",
+  "birth_date": "18/9/1998",
+  "nation": "United States",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 풀 리 식",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

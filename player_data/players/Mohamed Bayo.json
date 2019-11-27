@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26039.png",
+  "name": "Mohamed Bayo",
+  "birth_date": "4/6/1998",
+  "nation": "France",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "모 하 메 드 바 요",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 4,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

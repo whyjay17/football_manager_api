@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26286.png",
+  "name": "Sylvain Marveaux",
+  "birth_date": "15/4/1986",
+  "nation": "France",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "실 뱅 마 르 보",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53255.png",
+  "name": "Ibrahim Rabiu",
+  "birth_date": "15/3/1991",
+  "nation": "Nigeria",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "이 브 라 힘 라 비 우",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

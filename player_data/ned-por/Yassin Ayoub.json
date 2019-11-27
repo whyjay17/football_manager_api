@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8987.png",
+  "name": "Yassin Ayoub",
+  "birth_date": "6/3/1994",
+  "nation": "Morocco",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "야 신 아 유 브",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21613.png",
+  "name": "Jacob Rasmussen",
+  "birth_date": "28/5/1997",
+  "nation": "Denmark",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "제 이 콥 라 스 무 센",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20102.png",
+  "name": "Aitor Ruibal",
+  "birth_date": "22/3/1996",
+  "nation": "Spain",
+  "position": "AM (R), ST (C)",
+  "foot": "Either",
+  "korean": "아 이 토 르 루 이 발",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 5,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 1,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

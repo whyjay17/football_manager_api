@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20096.png",
+  "name": "Enzo Zidane",
+  "birth_date": "24/3/1995",
+  "nation": "France",
+  "position": "M (C), AM (LC)",
+  "foot": "Either",
+  "korean": "엔 조 지 단",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

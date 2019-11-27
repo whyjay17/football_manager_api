@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6173.png",
+  "name": "Florian Neuhaus",
+  "birth_date": "16/3/1997",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "플 로 리 안 노 이 하 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 17,
+      "Strength": 9
+    }
+  }
+}

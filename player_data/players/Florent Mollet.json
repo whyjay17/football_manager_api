@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7725.png",
+  "name": "Florent Mollet",
+  "birth_date": "19/11/1991",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "플 로 렌 트 몰 렛",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

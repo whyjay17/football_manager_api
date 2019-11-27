@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58580.png",
+  "name": "Quique Rivero",
+  "birth_date": "16/4/1992",
+  "nation": "Spain",
+  "position": "M (LC)",
+  "foot": "Right",
+  "korean": "키 케 리 베 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24783.png",
+  "name": "Fabian Holland",
+  "birth_date": "11/7/1990",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "파 비 안 홀 란 드",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

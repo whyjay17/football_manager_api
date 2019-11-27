@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32170.png",
+  "name": "Mykola Matvienko",
+  "birth_date": "2/5/1996",
+  "nation": "Ukraine",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "미 콜 라 마 트 비 엔 코",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

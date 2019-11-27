@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46578.png",
+  "name": "Jang Dae-Hee",
+  "birth_date": "19/4/1994",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "장 대 희",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 11,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 11,
+      "Reflexes": 12,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

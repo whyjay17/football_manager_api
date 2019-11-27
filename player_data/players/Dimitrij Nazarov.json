@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24866.png",
+  "name": "Dimitrij Nazarov",
+  "birth_date": "4/4/1990",
+  "nation": "Azerbaijan",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Left",
+  "korean": "디 미 트 리 즈 나 자 로 프",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

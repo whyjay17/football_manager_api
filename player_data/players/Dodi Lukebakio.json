@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6411.png",
+  "name": "Dodi Lukebakio",
+  "birth_date": "24/9/1997",
+  "nation": "Congo DR",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "도 디 루 크 바 키 오",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

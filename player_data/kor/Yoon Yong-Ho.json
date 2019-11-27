@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46738.png",
+  "name": "Yoon Yong-Ho",
+  "birth_date": "6/3/1996",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "윤 용 호",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

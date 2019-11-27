@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24810.png",
+  "name": "Lukas Fröde",
+  "birth_date": "23/1/1995",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 스 프 뢰 데",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

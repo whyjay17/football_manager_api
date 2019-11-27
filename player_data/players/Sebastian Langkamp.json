@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6790.png",
+  "name": "Sebastian Langkamp",
+  "birth_date": "15/1/1988",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 랑 캄 프",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22014.png",
+  "name": "Douglas Costa",
+  "birth_date": "14/9/1990",
+  "nation": "Brazil",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "더 글 라 스 코 스 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 16,
+      "Dribbling": 18,
+      "Finishing": 10,
+      "First Touch": 17,
+      "Free Kick": 13,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 17,
+      "Balance": 15,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 18,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

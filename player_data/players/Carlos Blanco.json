@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59211.png",
+  "name": "Carlos Blanco",
+  "birth_date": "1/6/1996",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "카 를 로 스 블 랑 코",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 2,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 1,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 10
+    }
+  }
+}

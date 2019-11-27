@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24544.png",
+  "name": "Alexandros Paschalakis",
+  "birth_date": "28/7/1989",
+  "nation": "Greece",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 렉 산 드 로 스 파 스 찰 라 키 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 12,
+      "Eccentricity": 8,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 16,
+      "Rushing Out": 15,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 3,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25309.png",
+  "name": "Christoph Schößwendter",
+  "birth_date": "16/7/1988",
+  "nation": "Austria",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "크 리 스 토 프 쇠 스 벤 더",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 13,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 14,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

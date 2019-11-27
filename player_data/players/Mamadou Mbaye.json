@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26736.png",
+  "name": "Mamadou Mbaye",
+  "birth_date": "28/6/1998",
+  "nation": "Senegal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 마 두 음 바 예",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 1,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 4,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

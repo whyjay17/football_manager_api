@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6338.png",
+  "name": "Leon Goretzka",
+  "birth_date": "6/2/1995",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "레 온 고 레 츠 카",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 18,
+      "Strength": 13
+    }
+  }
+}

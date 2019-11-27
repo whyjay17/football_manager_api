@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/426.png",
+  "name": "Joseba Zaldua",
+  "birth_date": "24/6/1992",
+  "nation": "Spain",
+  "position": "D (R)",
+  "foot": "Right",
+  "korean": "호 세 바 잘 두 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

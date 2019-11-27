@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24806.png",
+  "name": "Fabian Schnellhardt",
+  "birth_date": "12/1/1994",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "파 비 안 슈 넬 하 르 트",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

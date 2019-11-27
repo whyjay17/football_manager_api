@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8107.png",
+  "name": "Maxim Choupo-Moting",
+  "birth_date": "23/3/1989",
+  "nation": "Cameroon",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Either",
+  "korean": "막 심 추 포 모 팅",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 2,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

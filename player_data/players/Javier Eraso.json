@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/765.png",
+  "name": "Javier Eraso",
+  "birth_date": "22/3/1990",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "하 비 에 르 에 라 소",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49481.png",
+  "name": "Danny Wilson",
+  "birth_date": "27/12/1991",
+  "nation": "Scotland",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "대 니 윌 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23923.png",
+  "name": "Radosav Petrovic",
+  "birth_date": "8/3/1989",
+  "nation": "Serbia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "라 도 사 브 페 트 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53058.png",
+  "name": "Lubomir Satka",
+  "birth_date": "2/12/1995",
+  "nation": "Slovakia",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "루 보 미 르 사 트 카",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 3,
+      "Long Throws": 3,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 4,
+      "Leadership": 8,
+      "Off The Ball": 5,
+      "Positioning": 15,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59409.png",
+  "name": "Caye Quintana",
+  "birth_date": "20/12/1993",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "케 이 퀸 타 나",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 9,
+      "Tackling": 1,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 6,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 11,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 6,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58165.png",
+  "name": "Carlos Quintana",
+  "birth_date": "17/5/1998",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "카 를 로 스 퀸 타 나",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 3,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 6,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 4
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

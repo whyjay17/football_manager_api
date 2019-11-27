@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49993.png",
+  "name": "Osvaldo Alonso",
+  "birth_date": "11/11/1985",
+  "nation": "Cuba",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "오 스 발 도 알 론 소",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 3,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

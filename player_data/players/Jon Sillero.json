@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58241.png",
+  "name": "Jon Sillero",
+  "birth_date": "25/5/1998",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "존 실 레 로",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 3,
+      "First Touch": 11,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 15,
+      "Determination": 6,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 6,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 6,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

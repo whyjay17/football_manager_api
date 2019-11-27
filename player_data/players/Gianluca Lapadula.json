@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21864.png",
+  "name": "Gianluca Lapadula",
+  "birth_date": "7/2/1990",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "잔 루 카 라 파 둘 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 15,
+      "Bravery": 18,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 17,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

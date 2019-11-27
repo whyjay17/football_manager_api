@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8574.png",
+  "name": "Noussair Mazraoui",
+  "birth_date": "14/11/1997",
+  "nation": "Morocco",
+  "position": "D/WB (R), DM, M (RC)",
+  "foot": "Right",
+  "korean": "노 사 이 르 마 즈 라 우 이",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

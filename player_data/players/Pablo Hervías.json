@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1078.png",
+  "name": "Pablo Hervías",
+  "birth_date": "8/3/1993",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "파 블 로 에 르 비 아 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

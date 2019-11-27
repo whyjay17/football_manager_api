@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35181.png",
+  "name": "Alessandro Salvi",
+  "birth_date": "5/6/1988",
+  "nation": "Italy",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 살 비",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

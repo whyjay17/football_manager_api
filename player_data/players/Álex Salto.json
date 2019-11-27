@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58960.png",
+  "name": "Álex Salto",
+  "birth_date": "15/4/1997",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "알 렉 스 살 토",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 4,
+      "First Touch": 6,
+      "Free Kick": 2,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 1,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 1,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 7,
+      "Vision": 5,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 9,
+      "Pace": 10,
+      "Stamina": 7,
+      "Strength": 10
+    }
+  }
+}

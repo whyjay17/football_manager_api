@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46613.png",
+  "name": "Yang Tae-Ryul",
+  "birth_date": "25/5/1995",
+  "nation": "South Korea KOR",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "양 태 렬",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 16,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 15,
+      "Passing": 16,
+      "Penalty Taking": 2,
+      "Tackling": 13,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 4,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 6,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

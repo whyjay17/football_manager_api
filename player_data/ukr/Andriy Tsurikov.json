@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32056.png",
+  "name": "Andriy Tsurikov",
+  "birth_date": "5/10/1992",
+  "nation": "Ukraine",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "안 드 리 츠 리 코 프",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

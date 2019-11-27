@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57982.png",
+  "name": "Gianfranco Gazzaniga",
+  "birth_date": "22/11/1993",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "잔 프 랑 코 가 자 니 가",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 14,
+      "First Touch": 6,
+      "Handling": 10,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 13,
+      "Rushing Out": 6,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 6,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 3,
+      "Strength": 7
+    }
+  }
+}

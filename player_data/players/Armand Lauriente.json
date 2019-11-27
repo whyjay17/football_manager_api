@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26543.png",
+  "name": "Armand Lauriente",
+  "birth_date": "4/12/1998",
+  "nation": "France",
+  "position": "M (RL), AM (R)",
+  "foot": "Right",
+  "korean": "아 만 드 로 린 테",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

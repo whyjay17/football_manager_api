@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26230.png",
+  "name": "Ansou Sow",
+  "birth_date": "19/11/2000",
+  "nation": "Senegal",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "안 수 소",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 2,
+      "Anticipation": 6,
+      "Bravery": 7,
+      "Composure": 6,
+      "Concentration": 4,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 4,
+      "Jumping Reach": 3,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 4
+    }
+  }
+}

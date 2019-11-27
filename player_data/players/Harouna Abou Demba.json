@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26125.png",
+  "name": "Harouna Abou Demba",
+  "birth_date": "31/12/1991",
+  "nation": "Mauritania",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "하 루 나 아 부 뎀 바",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

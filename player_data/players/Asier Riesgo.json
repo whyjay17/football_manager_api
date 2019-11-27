@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1034.png",
+  "name": "Asier Riesgo",
+  "birth_date": "6/10/1983",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "아 시 에 리 고",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 3,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

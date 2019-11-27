@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6229.png",
+  "name": "Daichi Kamada",
+  "birth_date": "5/8/1996",
+  "nation": "Japan",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "가 마 다 다 이 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

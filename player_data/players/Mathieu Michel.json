@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25839.png",
+  "name": "Mathieu Michel",
+  "birth_date": "4/9/1991",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "마 티 유 미 셸",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 8,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 8,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

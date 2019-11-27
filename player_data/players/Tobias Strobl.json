@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6150.png",
+  "name": "Tobias Strobl",
+  "birth_date": "12/5/1990",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "토 비 아 스 스 트 로 블",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 17,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

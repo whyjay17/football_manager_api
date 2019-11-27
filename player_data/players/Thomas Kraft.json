@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6495.png",
+  "name": "Thomas Kraft",
+  "birth_date": "22/7/1988",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "토 머 스 크 래 프 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 15,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 16,
+      "Rushing Out": 12,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 2,
+      "Leadership": 14,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

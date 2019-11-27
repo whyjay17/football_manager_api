@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12373.png",
+  "name": "Jon McLaughlin",
+  "birth_date": "9/9/1987",
+  "nation": "Scotland",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "존 맥 러 플 린",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 5,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

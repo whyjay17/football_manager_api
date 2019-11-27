@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19374.png",
+  "name": "Sasa Jovanovic",
+  "birth_date": "15/12/1991",
+  "nation": "Serbia",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "사 사 요 바 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

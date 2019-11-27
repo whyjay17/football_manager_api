@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25261.png",
+  "name": "Christopher Avevor",
+  "birth_date": "11/2/1992",
+  "nation": "Germany",
+  "position": "D (RC), DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 토 퍼 아 베 버",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 5,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 17,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

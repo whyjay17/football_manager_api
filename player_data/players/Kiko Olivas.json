@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/214.png",
+  "name": "Kiko Olivas",
+  "birth_date": "21/8/1988",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "키 코 올 리 바 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34223.png",
+  "name": "Felipe Curcio",
+  "birth_date": "6/8/1993",
+  "nation": "Brazil",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "펠 리 페 쿠 르 치 오",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

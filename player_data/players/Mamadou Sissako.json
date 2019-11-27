@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26745.png",
+  "name": "Mamadou Sissako",
+  "birth_date": "20/4/1996",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "마 마 두 시 사 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

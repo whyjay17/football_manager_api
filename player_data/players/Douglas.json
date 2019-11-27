@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1117.png",
+  "name": "Douglas",
+  "birth_date": "6/8/1990",
+  "nation": "Brazil",
+  "position": "D/WB (R)",
+  "foot": "Either",
+  "korean": "더 글 러 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

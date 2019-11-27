@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6490.png",
+  "name": "Marius Gersbeck",
+  "birth_date": "20/6/1995",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "마 리 우 스 거 스 벡",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 10,
+      "Kicking": 11,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 15,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49859.png",
+  "name": "Amro Tarek",
+  "birth_date": "17/5/1992",
+  "nation": "Egypt",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "암 로 타 렉",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

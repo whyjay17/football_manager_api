@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19199.png",
+  "name": "Eddy",
+  "birth_date": "2/8/1992",
+  "nation": "Azerbaijan",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "와",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

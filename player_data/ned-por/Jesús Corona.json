@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23444.png",
+  "name": "Jesús Corona",
+  "birth_date": "6/1/1993",
+  "nation": "Mexico",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "헤 수 스 코 로 나",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

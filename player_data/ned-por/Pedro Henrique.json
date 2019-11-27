@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23549.png",
+  "name": "Pedro Henrique",
+  "birth_date": "18/12/1992",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "페 드 로 헨 리 케",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

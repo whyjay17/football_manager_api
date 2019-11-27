@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58868.png",
+  "name": "Oriol Rey",
+  "birth_date": "25/2/1998",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "오 리 올 레 이",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 5,
+      "Concentration": 7,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 4,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

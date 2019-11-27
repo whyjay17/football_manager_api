@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6859.png",
+  "name": "Justin Hoogma",
+  "birth_date": "11/6/1998",
+  "nation": "Netherlands",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "저 스 틴 후 그 마",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 9,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

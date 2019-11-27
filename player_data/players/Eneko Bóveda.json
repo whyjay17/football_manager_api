@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19424.png",
+  "name": "Eneko Bóveda",
+  "birth_date": "14/12/1988",
+  "nation": "Spain",
+  "position": "D (RLC), WB (R)",
+  "foot": "Right",
+  "korean": "에 네 코 보 베 다",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 3,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58075.png",
+  "name": "Dani Gómez",
+  "birth_date": "30/7/1998",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 니 고 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 2,
+      "Passing": 8,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

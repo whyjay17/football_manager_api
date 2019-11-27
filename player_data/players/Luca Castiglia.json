@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35455.png",
+  "name": "Luca Castiglia",
+  "birth_date": "17/3/1989",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "루 카 카 스 티 글 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

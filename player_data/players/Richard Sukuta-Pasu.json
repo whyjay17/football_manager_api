@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24816.png",
+  "name": "Richard Sukuta-Pasu",
+  "birth_date": "24/6/1990",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "리 처 드 수 쿠 타 파 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

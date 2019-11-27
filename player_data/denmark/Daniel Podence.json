@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24352.png",
+  "name": "Daniel Podence",
+  "birth_date": "21/10/1995",
+  "nation": "Portugal",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "다 니 엘 포 덴 세",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 17,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 4,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 15,
+      "Jumping Reach": 3,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

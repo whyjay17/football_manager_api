@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46328.png",
+  "name": "Cho Suk-Jae",
+  "birth_date": "24/3/1993",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 석 재",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 4,
+      "Passing": 5,
+      "Penalty Taking": 5,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 5
+    }
+  }
+}

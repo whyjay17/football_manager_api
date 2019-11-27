@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/515.png",
+  "name": "Zouhair Feddal",
+  "birth_date": "1/1/1989",
+  "nation": "Morocco",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "주 헤 어 페 달",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7585.png",
+  "name": "Maxime Dupé",
+  "birth_date": "4/3/1993",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "막 시 메 듀 페",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 7,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

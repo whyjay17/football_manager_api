@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11223.png",
+  "name": "Billy Kee",
+  "birth_date": "1/12/1990",
+  "nation": "Northern Ireland",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "빌 리 키",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

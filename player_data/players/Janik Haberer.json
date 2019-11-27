@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6704.png",
+  "name": "Janik Haberer",
+  "birth_date": "2/4/1994",
+  "nation": "Germany",
+  "position": "M (R), AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "자 닉 하 버",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 17,
+      "Strength": 10
+    }
+  }
+}

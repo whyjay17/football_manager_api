@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46458.png",
+  "name": "Kim Yong-Hwan",
+  "birth_date": "25/5/1993",
+  "nation": "South Korea KOR",
+  "position": "WB (RL), AM (L)",
+  "foot": "Right",
+  "korean": "김 용 환",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 3,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 7,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34696.png",
+  "name": "Simy",
+  "birth_date": "7/5/1992",
+  "nation": "Nigeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "시 미 ( 미 국 )",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 17,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 18,
+      "Vision": 8,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 17,
+      "Jumping Reach": 18,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21202.png",
+  "name": "José Luis Palomino",
+  "birth_date": "5/1/1990",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "호 세 루 이 스 팔 로 미 노",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

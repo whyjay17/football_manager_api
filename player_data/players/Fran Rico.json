@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19703.png",
+  "name": "Fran Rico",
+  "birth_date": "3/8/1987",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "프 란 리 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

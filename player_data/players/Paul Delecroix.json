@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26360.png",
+  "name": "Paul Delecroix",
+  "birth_date": "14/10/1988",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "폴 델 레 크 루 아",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 6,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 13,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

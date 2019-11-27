@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35103.png",
+  "name": "Alessandro Favaro",
+  "birth_date": "18/7/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 레 산 드 로 파 바 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 10,
+      "Handling": 11,
+      "Kicking": 14,
+      "Passing": 10,
+      "Reflexes": 11,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 8,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59210.png",
+  "name": "Juan Ibiza",
+  "birth_date": "18/10/1995",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "후 안 이 비 자",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 1,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 2,
+      "Heading": 11,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 5,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 8
+    }
+  }
+}

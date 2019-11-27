@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6311.png",
+  "name": "Manuel Neuer",
+  "birth_date": "27/3/1986",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "마 누 엘 노 이 어",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 18,
+      "First Touch": 13,
+      "Handling": 14,
+      "Kicking": 19,
+      "Passing": 13,
+      "Reflexes": 16,
+      "Rushing Out": 20,
+      "Throwing": 20
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 20,
+      "Bravery": 14,
+      "Composure": 20,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 3,
+      "Positioning": 16,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 16
+    }
+  }
+}

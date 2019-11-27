@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7169.png",
+  "name": "Farid El Mellali",
+  "birth_date": "6/6/1997",
+  "nation": "Algeria",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "파 리 드 엘 멜 랄 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 5,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 6,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 1,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 1
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49986.png",
+  "name": "Nicolás Lodeiro",
+  "birth_date": "21/3/1989",
+  "nation": "Uruguay",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Left",
+  "korean": "니 콜 라 스 로 데 이 로",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 1,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

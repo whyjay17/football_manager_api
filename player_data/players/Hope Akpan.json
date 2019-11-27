@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11431.png",
+  "name": "Hope Akpan",
+  "birth_date": "14/8/1991",
+  "nation": "Nigeria",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "호 프 아 크 판",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

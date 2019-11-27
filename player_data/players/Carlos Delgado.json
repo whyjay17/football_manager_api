@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58841.png",
+  "name": "Carlos Delgado",
+  "birth_date": "22/4/1990",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "카 를 로 스 델 가 도",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 6,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49752.png",
+  "name": "Kelyn Rowe",
+  "birth_date": "2/12/1991",
+  "nation": "United States",
+  "position": "D (L), M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "켈 린 로 우",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

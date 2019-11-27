@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26547.png",
+  "name": "Amine Talal",
+  "birth_date": "5/6/1996",
+  "nation": "Morocco",
+  "position": "M (C)",
+  "foot": "Right Only",
+  "korean": "아 민 탈 랄",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 15,
+      "Determination": 5,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 10
+    }
+  }
+}

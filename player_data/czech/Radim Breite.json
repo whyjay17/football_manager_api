@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40922.png",
+  "name": "Radim Breite",
+  "birth_date": "10/8/1989",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "라 딤 브 라 이 테",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

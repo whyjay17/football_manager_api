@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46323.png",
+  "name": "Hwang Soon-Min",
+  "birth_date": "14/9/1990",
+  "nation": "South Korea KOR",
+  "position": "M (RLC), AM (L)",
+  "foot": "Left",
+  "korean": "황 순 민",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 16,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 18,
+      "Pace": 8,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

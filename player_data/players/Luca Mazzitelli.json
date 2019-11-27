@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22711.png",
+  "name": "Luca Mazzitelli",
+  "birth_date": "15/11/1995",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 마 지 텔 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

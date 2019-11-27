@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80783.png",
+  "name": "Shoval Gozlan",
+  "birth_date": "25/4/1994",
+  "nation": "Israel",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "쇼 발 고 즐 란",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

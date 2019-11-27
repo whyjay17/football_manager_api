@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3221.png",
+  "name": "José Sosa",
+  "birth_date": "19/6/1985",
+  "nation": "Argentina",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "호 세 소 사",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 17,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 17,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

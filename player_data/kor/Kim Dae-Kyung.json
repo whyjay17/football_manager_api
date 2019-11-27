@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46470.png",
+  "name": "Kim Dae-Kyung",
+  "birth_date": "2/9/1991",
+  "nation": "South Korea KOR",
+  "position": "WB/M/AM (RL)",
+  "foot": "Right",
+  "korean": "김 대 경",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

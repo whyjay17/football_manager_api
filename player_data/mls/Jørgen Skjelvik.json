@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49629.png",
+  "name": "Jørgen Skjelvik",
+  "birth_date": "5/7/1991",
+  "nation": "Norway",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "요 르 겐 스 키 엘 비 크",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

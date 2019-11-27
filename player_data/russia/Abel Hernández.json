@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/30894.png",
+  "name": "Abel Hernández",
+  "birth_date": "8/8/1990",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "아 벨 에 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 17,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

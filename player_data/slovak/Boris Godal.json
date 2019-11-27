@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53327.png",
+  "name": "Boris Godal",
+  "birth_date": "27/5/1987",
+  "nation": "Slovakia",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "보 리 스 고 달",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 15,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

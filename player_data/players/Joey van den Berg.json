@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10631.png",
+  "name": "Joey van den Berg",
+  "birth_date": "13/2/1986",
+  "nation": "Netherlands",
+  "position": "D (C), DM, M (C)",
+  "foot": "Left",
+  "korean": "조 이 반 덴 버 그",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

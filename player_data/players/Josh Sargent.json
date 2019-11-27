@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6846.png",
+  "name": "Josh Sargent",
+  "birth_date": "20/2/2000",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 쉬 서 전 트",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

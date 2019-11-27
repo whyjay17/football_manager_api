@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41370.png",
+  "name": "Alexander Scholz",
+  "birth_date": "24/10/1992",
+  "nation": "Denmark",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 렉 산 데 르 숄 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

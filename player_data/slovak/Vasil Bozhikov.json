@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53260.png",
+  "name": "Vasil Bozhikov",
+  "birth_date": "2/6/1988",
+  "nation": "Bulgaria",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "바 실 보 지 코 프",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 15,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 19,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 4,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

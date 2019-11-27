@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40706.png",
+  "name": "Tomas Prikryl",
+  "birth_date": "4/7/1992",
+  "nation": "Czech Republic",
+  "position": "AM (RL)",
+  "foot": "Either",
+  "korean": "토 마 스 프 리 크 릴",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 7,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

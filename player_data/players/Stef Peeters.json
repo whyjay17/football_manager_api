@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8327.png",
+  "name": "Stef Peeters",
+  "birth_date": "9/2/1992",
+  "nation": "Belgium",
+  "position": "M (C)",
+  "foot": "Left",
+  "korean": "스 테 프 피 터 스",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 16,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12415.png",
+  "name": "Max Power",
+  "birth_date": "27/7/1993",
+  "nation": "England",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "최 대 전 력",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

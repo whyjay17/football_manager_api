@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25802.png",
+  "name": "Anthony Marin",
+  "birth_date": "21/9/1989",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "앤 서 니 마 린",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

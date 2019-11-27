@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6316.png",
+  "name": "Lukas Mai",
+  "birth_date": "31/3/2000",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 카 스 마 이",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

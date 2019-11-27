@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35276.png",
+  "name": "Massimo Volta",
+  "birth_date": "14/5/1987",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "마 시 모 볼 타",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

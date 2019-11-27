@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7045.png",
+  "name": "John Yeboah",
+  "birth_date": "23/6/2000",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Either",
+  "korean": "존 예 보 아",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

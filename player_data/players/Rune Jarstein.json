@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6491.png",
+  "name": "Rune Jarstein",
+  "birth_date": "29/9/1984",
+  "nation": "Norway",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "룬 자 르 스 타 인",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 12,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 16,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

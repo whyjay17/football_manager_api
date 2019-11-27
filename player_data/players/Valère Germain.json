@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8032.png",
+  "name": "Valère Germain",
+  "birth_date": "17/4/1990",
+  "nation": "France",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "발 레 르 제 르 맹",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 18,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

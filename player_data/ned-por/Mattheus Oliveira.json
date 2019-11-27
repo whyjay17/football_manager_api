@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23917.png",
+  "name": "Mattheus Oliveira",
+  "birth_date": "7/7/1994",
+  "nation": "Brazil",
+  "position": "M (C), AM (LC)",
+  "foot": "Left",
+  "korean": "마 테 우 스 올 리 베 이 라",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2602.png",
+  "name": "Mahmut Tekdemir",
+  "birth_date": "20/1/1988",
+  "nation": "Turkey",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "마 흐 무 트 테 크 데 미 르",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

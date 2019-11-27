@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25003.png",
+  "name": "Moritz-Broni Kwarteng",
+  "birth_date": "28/4/1998",
+  "nation": "Germany",
+  "position": "M/AM (LC)",
+  "foot": "Either",
+  "korean": "모 리 츠 브 로 니 크 와 르 텅",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 1,
+      "Long Shots": 7,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 4,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 5,
+      "Bravery": 1,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 3,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8064.png",
+  "name": "Presnel Kimpembe",
+  "birth_date": "13/8/1995",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "프 레 넬 킴 펨 베",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

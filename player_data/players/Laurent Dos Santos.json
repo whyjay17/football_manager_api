@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26804.png",
+  "name": "Laurent Dos Santos",
+  "birth_date": "21/3/1993",
+  "nation": "France",
+  "position": "D (R), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "로 랑 도 스 산 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

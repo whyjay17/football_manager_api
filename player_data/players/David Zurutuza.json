@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/476.png",
+  "name": "David Zurutuza",
+  "birth_date": "7/8/1986",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 주 루 투 자",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

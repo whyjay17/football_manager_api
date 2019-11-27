@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49784.png",
+  "name": "Connor Lade",
+  "birth_date": "16/11/1989",
+  "nation": "United States",
+  "position": "D/WB/M (RL)",
+  "foot": "Right",
+  "korean": "코 너 레 이 드",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 8,
+      "Bravery": 17,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

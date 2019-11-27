@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7031.png",
+  "name": "Josip Brekalo",
+  "birth_date": "23/6/1998",
+  "nation": "Croatia",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "요 셉 브 레 칼 로",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

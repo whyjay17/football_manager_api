@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53366.png",
+  "name": "Filip Kasa",
+  "birth_date": "1/1/1994",
+  "nation": "Czech Republic",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "필 립 카 사",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

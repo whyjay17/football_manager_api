@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25004.png",
+  "name": "Mats Köhlert",
+  "birth_date": "2/5/1998",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "마 츠 쾨 흘 러 트",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24550.png",
+  "name": "Pontus Wernbloom",
+  "birth_date": "25/6/1986",
+  "nation": "Sweden",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "폰 투 스 베 른 블 룸",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 16,
+      "Bravery": 20,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 19,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

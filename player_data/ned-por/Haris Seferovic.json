@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23214.png",
+  "name": "Haris Seferovic",
+  "birth_date": "22/2/1992",
+  "nation": "Switzerland",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "하 리 스 세 페 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

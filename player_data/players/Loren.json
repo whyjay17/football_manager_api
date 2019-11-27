@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/568.png",
+  "name": "Loren",
+  "birth_date": "30/12/1993",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "로 렌",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

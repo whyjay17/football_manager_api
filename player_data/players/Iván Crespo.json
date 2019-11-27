@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58576.png",
+  "name": "Iván Crespo",
+  "birth_date": "10/12/1984",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "이 반 크 레 스 포",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 6,
+      "First Touch": 6,
+      "Handling": 15,
+      "Kicking": 9,
+      "Passing": 12,
+      "Reflexes": 12,
+      "Rushing Out": 11,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 5,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54257.png",
+  "name": "Alexander N'Doumbou",
+  "birth_date": "4/1/1992",
+  "nation": "China PR",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 은 둠 부",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

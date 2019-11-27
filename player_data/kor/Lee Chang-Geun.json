@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46512.png",
+  "name": "Lee Chang-Geun",
+  "birth_date": "30/8/1993",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 창 근",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 11,
+      "Eccentricity": 13,
+      "First Touch": 7,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 9,
+      "Reflexes": 14,
+      "Rushing Out": 7,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 3,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 6,
+      "Strength": 7
+    }
+  }
+}

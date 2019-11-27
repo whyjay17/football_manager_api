@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/103.png",
+  "name": "Facundo Roncaglia",
+  "birth_date": "10/2/1987",
+  "nation": "Argentina",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "파 쿤 도 론 칼 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

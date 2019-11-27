@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/238.png",
+  "name": "Míchel",
+  "birth_date": "29/7/1988",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "미 첼",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

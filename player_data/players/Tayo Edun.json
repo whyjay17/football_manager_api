@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10046.png",
+  "name": "Tayo Edun",
+  "birth_date": "14/5/1998",
+  "nation": "England",
+  "position": "D/WB (L), DM, M (LC)",
+  "foot": "Left",
+  "korean": "타 요 에 두",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

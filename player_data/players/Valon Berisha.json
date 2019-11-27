@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22107.png",
+  "name": "Valon Berisha",
+  "birth_date": "7/2/1993",
+  "nation": "Kosovo",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "발 론 베 리 샤",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 20,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

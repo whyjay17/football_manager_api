@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48283.png",
+  "name": "Leonard Zuta",
+  "birth_date": "9/8/1992",
+  "nation": "Macedonia MKD",
+  "position": "D (L)",
+  "foot": "Left Only",
+  "korean": "레 오 나 르 드 주 타",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

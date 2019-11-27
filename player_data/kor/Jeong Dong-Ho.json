@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46781.png",
+  "name": "Jeong Dong-Ho",
+  "birth_date": "7/3/1990",
+  "nation": "South Korea KOR",
+  "position": "D (RL)",
+  "foot": "Right",
+  "korean": "정 동 호",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 8,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 7,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

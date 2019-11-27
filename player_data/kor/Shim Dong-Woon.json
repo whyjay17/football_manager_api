@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46651.png",
+  "name": "Shim Dong-Woon",
+  "birth_date": "3/3/1990",
+  "nation": "South Korea KOR",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "심 동 운",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

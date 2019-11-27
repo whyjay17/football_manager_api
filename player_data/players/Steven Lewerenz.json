@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25075.png",
+  "name": "Steven Lewerenz",
+  "birth_date": "18/5/1991",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "스 티 븐 레 와 렌 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40847.png",
+  "name": "Michael Ngadeu-Ngadjui",
+  "birth_date": "23/11/1990",
+  "nation": "Cameroon",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "미 카 엘 은 가 두 은 가 뒤",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 17,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 13,
+      "Tackling": 15,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 19,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 18
+    }
+  }
+}

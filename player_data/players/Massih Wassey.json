@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25196.png",
+  "name": "Massih Wassey",
+  "birth_date": "18/6/1988",
+  "nation": "Canada",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "마 시 와 세 이",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

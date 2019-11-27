@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25072.png",
+  "name": "Dominik Schmidt",
+  "birth_date": "1/7/1987",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "도 미 닉 슈 미 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 7,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 5,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

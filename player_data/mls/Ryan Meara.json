@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49788.png",
+  "name": "Ryan Meara",
+  "birth_date": "15/11/1990",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "라 이 언 미 아 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 6,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 9,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 7,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

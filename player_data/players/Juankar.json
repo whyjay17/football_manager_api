@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19872.png",
+  "name": "Juankar",
+  "birth_date": "30/3/1990",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "후 안 카 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

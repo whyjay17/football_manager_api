@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25126.png",
+  "name": "Fatih Kaya",
+  "birth_date": "13/11/1999",
+  "nation": "Germany",
+  "position": "M (R), AM (RC), ST (C)",
+  "foot": "Either",
+  "korean": "파 티 카 야",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 6,
+      "Penalty Taking": 2,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 4,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 6,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

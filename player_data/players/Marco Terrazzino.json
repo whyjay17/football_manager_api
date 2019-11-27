@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6714.png",
+  "name": "Marco Terrazzino",
+  "birth_date": "15/4/1991",
+  "nation": "Germany",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "마 르 코 테 라 지 노",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

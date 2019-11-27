@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9205.png",
+  "name": "Nick Viergever",
+  "birth_date": "3/8/1989",
+  "nation": "Netherlands",
+  "position": "D (LC), WB (L), DM",
+  "foot": "Left",
+  "korean": "닉 비 에 르 게 베 르",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 15,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6775.png",
+  "name": "Haji Wright",
+  "birth_date": "27/3/1998",
+  "nation": "United States",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "하 지 라 이 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

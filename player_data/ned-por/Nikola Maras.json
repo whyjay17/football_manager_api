@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23411.png",
+  "name": "Nikola Maras",
+  "birth_date": "19/12/1995",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 마 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

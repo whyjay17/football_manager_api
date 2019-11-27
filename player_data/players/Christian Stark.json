@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25011.png",
+  "name": "Christian Stark",
+  "birth_date": "18/2/1998",
+  "nation": "Germany",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 스 타 크",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 10,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

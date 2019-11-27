@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23207.png",
+  "name": "Eduardo Salvio",
+  "birth_date": "13/7/1990",
+  "nation": "Argentina",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "에 두 아 르 도 살 비 오",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 15,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 12,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

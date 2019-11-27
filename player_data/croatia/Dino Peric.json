@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47913.png",
+  "name": "Dino Peric",
+  "birth_date": "12/7/1994",
+  "nation": "Croatia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "디 노 페 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 4,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 2,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 15,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 3,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 20,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

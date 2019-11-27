@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59467.png",
+  "name": "Miguel Marín",
+  "birth_date": "19/2/1990",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "미 겔 마 린",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 1,
+      "Heading": 10,
+      "Long Shots": 4,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/459.png",
+  "name": "Asier Illarramendi",
+  "birth_date": "8/3/1990",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "아 시 에 이 야 라 멘 디",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 16,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 17,
+      "Teamwork": 19,
+      "Vision": 15,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 18,
+      "Strength": 14
+    }
+  }
+}

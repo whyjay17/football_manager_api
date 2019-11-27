@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24847.png",
+  "name": "Jannik Müller",
+  "birth_date": "18/1/1994",
+  "nation": "Germany",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "야 니 크 뮐 러",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

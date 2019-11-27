@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49991.png",
+  "name": "Jordan Morris",
+  "birth_date": "26/10/1994",
+  "nation": "United States",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "조 던 모 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

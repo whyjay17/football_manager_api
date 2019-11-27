@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19930.png",
+  "name": "Michael Santos",
+  "birth_date": "13/3/1993",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 이 클 산 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46671.png",
+  "name": "Shin Jin-Ho",
+  "birth_date": "7/9/1988",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "신 진 호",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

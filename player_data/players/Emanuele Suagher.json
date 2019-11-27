@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34323.png",
+  "name": "Emanuele Suagher",
+  "birth_date": "26/11/1992",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "에 마 누 엘 레 수 아 거",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 4,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 2,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

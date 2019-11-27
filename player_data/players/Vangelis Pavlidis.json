@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24696.png",
+  "name": "Vangelis Pavlidis",
+  "birth_date": "21/11/1998",
+  "nation": "Greece",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "반 젤 리 스 파 블 리 디 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

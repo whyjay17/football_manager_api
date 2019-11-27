@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23010.png",
+  "name": "William Troost-Ekong",
+  "birth_date": "1/9/1993",
+  "nation": "Nigeria",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "윌 리 엄 트 루 스 트 에 콩",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 3,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 5,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

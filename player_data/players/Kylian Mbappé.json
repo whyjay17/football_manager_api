@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8128.png",
+  "name": "Kylian Mbappé",
+  "birth_date": "20/12/1998",
+  "nation": "France",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "카 일 리 안 음 바 페",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 17,
+      "Finishing": 16,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 2,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 17,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 18,
+      "Leadership": 10,
+      "Off The Ball": 17,
+      "Positioning": 4,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 19,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 20,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

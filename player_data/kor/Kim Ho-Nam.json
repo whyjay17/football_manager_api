@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46499.png",
+  "name": "Kim Ho-Nam",
+  "birth_date": "14/6/1989",
+  "nation": "South Korea KOR",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "김 호 남",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 7,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 3,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49654.png",
+  "name": "André Horta",
+  "birth_date": "7/11/1996",
+  "nation": "Portugal",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "안 드 레 호 르 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

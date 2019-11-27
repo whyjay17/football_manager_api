@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6766.png",
+  "name": "Breel Embolo",
+  "birth_date": "14/2/1997",
+  "nation": "Switzerland",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "브 렐 엠 볼 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

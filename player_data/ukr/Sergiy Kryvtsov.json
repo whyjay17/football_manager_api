@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32169.png",
+  "name": "Sergiy Kryvtsov",
+  "birth_date": "15/3/1991",
+  "nation": "Ukraine",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 르 게 이 크 리 브 소 프",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 3,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

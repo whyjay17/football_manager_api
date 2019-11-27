@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34534.png",
+  "name": "Armando Anastasio",
+  "birth_date": "24/7/1996",
+  "nation": "Italy",
+  "position": "D/WB/M (RL)",
+  "foot": "Right",
+  "korean": "아 르 만 도 아 나 스 타 시 오",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22505.png",
+  "name": "Juan Jesus",
+  "birth_date": "10/6/1991",
+  "nation": "Brazil",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "후 안 예 수",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 17,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

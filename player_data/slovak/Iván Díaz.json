@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53364.png",
+  "name": "Iván Díaz",
+  "birth_date": "23/1/1993",
+  "nation": "Argentina",
+  "position": "M (LC)",
+  "foot": "Left",
+  "korean": "이 반 디 아 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 15,
+      "Bravery": 5,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

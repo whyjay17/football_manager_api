@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19444.png",
+  "name": "Edu Expósito",
+  "birth_date": "1/8/1996",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "에 듀 엑 스 포 시 토",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 7,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 4,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 19,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

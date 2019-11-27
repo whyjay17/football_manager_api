@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24538.png",
+  "name": "Dimitris Pelkas",
+  "birth_date": "26/10/1993",
+  "nation": "Greece",
+  "position": "AM (RLC)",
+  "foot": "Right Only",
+  "korean": "디 미 트 리 스 펠 카 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

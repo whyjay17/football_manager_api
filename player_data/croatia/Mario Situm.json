@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47909.png",
+  "name": "Mario Situm",
+  "birth_date": "4/4/1992",
+  "nation": "Croatia",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "마 리 오 시 툼",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

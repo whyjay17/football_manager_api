@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6164.png",
+  "name": "Christoph Kramer",
+  "birth_date": "19/2/1991",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "크 리 스 토 프 크 래 머",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 19,
+      "Vision": 10,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 18,
+      "Pace": 11,
+      "Stamina": 18,
+      "Strength": 12
+    }
+  }
+}

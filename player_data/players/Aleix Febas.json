@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58066.png",
+  "name": "Aleix Febas",
+  "birth_date": "2/2/1996",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "알 렉 스 페 다 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34131.png",
+  "name": "Riccardo Improta",
+  "birth_date": "19/12/1993",
+  "nation": "Italy",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "리 카 르 도 임 프 로 타",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

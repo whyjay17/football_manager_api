@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24059.png",
+  "name": "Dorian Klonaridis",
+  "birth_date": "28/7/1992",
+  "nation": "Belgium",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "빅 토 르 도 리 안 클 로 나 리 디 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46737.png",
+  "name": "Yeom Ki-Hoon",
+  "birth_date": "30/3/1983",
+  "nation": "South Korea KOR",
+  "position": "AM (LC)",
+  "foot": "Left",
+  "korean": "염 기 훈",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 17,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 16,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 18,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2869.png",
+  "name": "Sofiane Feghouli",
+  "birth_date": "26/12/1989",
+  "nation": "Algeria",
+  "position": "M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "소 피 앙 페 굴 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

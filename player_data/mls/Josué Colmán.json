@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49836.png",
+  "name": "Josué Colmán",
+  "birth_date": "25/7/1998",
+  "nation": "Paraguay",
+  "position": "AM (C)",
+  "foot": "Right",
+  "korean": "조 수 에 콜 만",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 1,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 4,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/93.png",
+  "name": "Raúl García",
+  "birth_date": "11/7/1986",
+  "nation": "Spain",
+  "position": "M (RC), AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "라 울 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 16,
+      "Long Shots": 16,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

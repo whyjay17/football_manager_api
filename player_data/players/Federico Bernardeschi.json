@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22020.png",
+  "name": "Federico Bernardeschi",
+  "birth_date": "16/2/1994",
+  "nation": "Italy",
+  "position": "M (R), AM (RLC)",
+  "foot": "Left",
+  "korean": "페 데 리 코 베 르 나 르 데 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 17,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

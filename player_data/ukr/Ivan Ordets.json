@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32166.png",
+  "name": "Ivan Ordets",
+  "birth_date": "8/7/1992",
+  "nation": "Ukraine",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "이 반 오 르 데 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 3,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

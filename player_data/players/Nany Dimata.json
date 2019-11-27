@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7048.png",
+  "name": "Nany Dimata",
+  "birth_date": "1/9/1997",
+  "nation": "Belgium",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "니 디 마 타",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 16,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

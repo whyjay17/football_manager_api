@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26534.png",
+  "name": "Steeve Furtado",
+  "birth_date": "22/11/1994",
+  "nation": "France",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "스 티 브 푸 르 타 도",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 2,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

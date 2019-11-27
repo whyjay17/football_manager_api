@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7017.png",
+  "name": "Maximilian Arnold",
+  "birth_date": "27/5/1994",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Left",
+  "korean": "막 시 밀 리 안 아 놀 드",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

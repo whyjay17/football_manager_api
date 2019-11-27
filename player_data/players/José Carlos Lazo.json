@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19834.png",
+  "name": "José Carlos Lazo",
+  "birth_date": "16/2/1996",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Either",
+  "korean": "호 세 카 를 로 스 라 조",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 4,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 5,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 7,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

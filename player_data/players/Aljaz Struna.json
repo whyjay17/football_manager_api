@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35172.png",
+  "name": "Aljaz Struna",
+  "birth_date": "4/8/1990",
+  "nation": "Slovenia",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "알 자 스 스 트 루 나",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

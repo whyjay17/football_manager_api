@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26379.png",
+  "name": "Yann Godart",
+  "birth_date": "19/9/2001",
+  "nation": "France",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "얀 고 다 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 5,
+      "Finishing": 1,
+      "First Touch": 15,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 6,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 6,
+      "Strength": 1
+    }
+  }
+}

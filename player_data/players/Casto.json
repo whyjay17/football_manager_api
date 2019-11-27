@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19526.png",
+  "name": "Casto",
+  "birth_date": "18/6/1982",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "카 스 토 ( ) 카 스 토 ( )",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 13,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

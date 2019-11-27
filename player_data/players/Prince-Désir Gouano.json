@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7066.png",
+  "name": "Prince-Désir Gouano",
+  "birth_date": "24/12/1993",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "프 린 스 데 시 르 구 아 노",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 6,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22204.png",
+  "name": "Alen Halilovic",
+  "birth_date": "18/6/1996",
+  "nation": "Croatia",
+  "position": "M (R), AM (RC)",
+  "foot": "Left",
+  "korean": "알 렌 할 릴 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

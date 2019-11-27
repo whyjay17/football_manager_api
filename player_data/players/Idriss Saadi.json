@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8410.png",
+  "name": "Idriss Saadi",
+  "birth_date": "8/2/1992",
+  "nation": "Algeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "이 드 리 스 사 디",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

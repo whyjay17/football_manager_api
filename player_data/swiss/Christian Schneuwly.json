@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41875.png",
+  "name": "Christian Schneuwly",
+  "birth_date": "7/2/1988",
+  "nation": "Switzerland",
+  "position": "M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 슈 누 울 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

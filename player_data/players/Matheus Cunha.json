@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6647.png",
+  "name": "Matheus Cunha",
+  "birth_date": "27/5/1999",
+  "nation": "Brazil",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Either",
+  "korean": "마 테 우 스 쿤 하",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19214.png",
+  "name": "René",
+  "birth_date": "15/12/1983",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "르 네",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 9,
+      "Passing": 11,
+      "Reflexes": 12,
+      "Rushing Out": 10,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 7,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7840.png",
+  "name": "Jean-Victor Makengo",
+  "birth_date": "12/6/1998",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "장 빅 토 르 마 쿠 고",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 14,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

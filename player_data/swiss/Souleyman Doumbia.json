@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41776.png",
+  "name": "Souleyman Doumbia",
+  "birth_date": "24/9/1996",
+  "nation": "Côte d'Ivoire",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "슐 레 이 맨 둠 비 아",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

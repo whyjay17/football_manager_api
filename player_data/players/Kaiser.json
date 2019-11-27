@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58713.png",
+  "name": "Kaiser",
+  "birth_date": "4/4/1996",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "카 이 저",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19464.png",
+  "name": "Borja Valle",
+  "birth_date": "9/7/1992",
+  "nation": "Spain",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "보 르 하 발 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

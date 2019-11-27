@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26754.png",
+  "name": "Stone Mambo Muzalimoja",
+  "birth_date": "25/3/1999",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "스 톤 맘 보 무 잘 리 모 자",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24836.png",
+  "name": "Philip Heise",
+  "birth_date": "20/6/1991",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "필 립 하 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

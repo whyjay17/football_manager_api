@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19496.png",
+  "name": "Manuel Sánchez",
+  "birth_date": "13/9/1988",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "마 누 엘 산 체 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

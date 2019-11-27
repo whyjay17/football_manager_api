@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6553.png",
+  "name": "Vedad Ibisevic",
+  "birth_date": "6/8/1984",
+  "nation": "Bosnia and Herzegovina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "베 다 드 이 비 세 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 16,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 18,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 17,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

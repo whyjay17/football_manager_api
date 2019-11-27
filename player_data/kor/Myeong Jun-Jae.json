@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46555.png",
+  "name": "Myeong Jun-Jae",
+  "birth_date": "2/7/1994",
+  "nation": "South Korea KOR",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "명 준 재",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

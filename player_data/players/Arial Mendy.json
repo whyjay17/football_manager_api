@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26224.png",
+  "name": "Arial Mendy",
+  "birth_date": "7/11/1994",
+  "nation": "Senegal",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "아 리 알 멘 디",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 2,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 3,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 6,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

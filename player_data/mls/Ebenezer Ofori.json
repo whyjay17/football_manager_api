@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49808.png",
+  "name": "Ebenezer Ofori",
+  "birth_date": "1/7/1995",
+  "nation": "Ghana",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "에 벤 에 젤 오 포 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8092.png",
+  "name": "Adrien Rabiot",
+  "birth_date": "3/4/1995",
+  "nation": "France",
+  "position": "M (C)",
+  "foot": "Left",
+  "korean": "아 드 리 안 라 비 오 트",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 17,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

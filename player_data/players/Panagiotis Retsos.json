@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6029.png",
+  "name": "Panagiotis Retsos",
+  "birth_date": "9/8/1998",
+  "nation": "Greece",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "파 나 지 오 티 스 레 소 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

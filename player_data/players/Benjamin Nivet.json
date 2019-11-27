@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26743.png",
+  "name": "Benjamin Nivet",
+  "birth_date": "2/1/1977",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "벤 자 민 니 벳",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 16,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

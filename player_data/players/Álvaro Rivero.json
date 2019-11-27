@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57876.png",
+  "name": "Álvaro Rivero",
+  "birth_date": "17/4/1997",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "알 바 로 리 베 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 4,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80650.png",
+  "name": "Facundo Pereyra",
+  "birth_date": "3/9/1987",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "파 쿤 도 페 레 이 라",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

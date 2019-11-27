@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26363.png",
+  "name": "Cheick Sabaly",
+  "birth_date": "4/3/1999",
+  "nation": "Senegal",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "치 크 사 바 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 4,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 2,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 1
+    }
+  }
+}

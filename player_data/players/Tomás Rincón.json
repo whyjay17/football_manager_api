@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22898.png",
+  "name": "Tomás Rincón",
+  "birth_date": "13/1/1988",
+  "nation": "Venezuela",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "토 마 스 린 콘",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 17,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 13,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 17,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 18,
+      "Strength": 15
+    }
+  }
+}

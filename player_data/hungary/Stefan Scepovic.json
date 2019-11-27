@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57281.png",
+  "name": "Stefan Scepovic",
+  "birth_date": "10/1/1990",
+  "nation": "Serbia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "스 테 판 세 포 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 16,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26309.png",
+  "name": "Peter Ouaneh",
+  "birth_date": "4/4/1998",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "피 터 우 아 네",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 1,
+      "Dribbling": 3,
+      "Finishing": 1,
+      "First Touch": 8,
+      "Free Kick": 1,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 8,
+      "Technique": 4
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 1,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 7,
+      "Vision": 1,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 6,
+      "Strength": 12
+    }
+  }
+}

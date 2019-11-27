@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6971.png",
+  "name": "Nicolás González",
+  "birth_date": "6/4/1998",
+  "nation": "Argentina",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "니 콜 라 스 곤 잘 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 17,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

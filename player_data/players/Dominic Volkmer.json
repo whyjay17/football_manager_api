@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25168.png",
+  "name": "Dominic Volkmer",
+  "birth_date": "27/4/1996",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "도 미 닉 볼 크 머",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

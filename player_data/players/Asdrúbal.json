@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19208.png",
+  "name": "Asdrúbal",
+  "birth_date": "13/3/1991",
+  "nation": "Spain",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "아 스 드 루 발",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

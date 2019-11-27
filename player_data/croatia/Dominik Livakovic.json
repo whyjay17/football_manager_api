@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47892.png",
+  "name": "Dominik Livakovic",
+  "birth_date": "9/1/1995",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "도 미 니 크 리 바 코 비 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 6,
+      "Handling": 17,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 15,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

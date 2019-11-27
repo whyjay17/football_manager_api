@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22589.png",
+  "name": "Dennis Praet",
+  "birth_date": "14/5/1994",
+  "nation": "Belgium",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "데 니 스 프 렛",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 18,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 17,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46764.png",
+  "name": "Park Joo-Ho",
+  "birth_date": "16/1/1987",
+  "nation": "South Korea KOR",
+  "position": "D/WB (L), DM",
+  "foot": "Left",
+  "korean": "박 주 호",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

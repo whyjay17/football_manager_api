@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25044.png",
+  "name": "Kolja Pusch",
+  "birth_date": "12/2/1993",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "콜 자 푸 쉬",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

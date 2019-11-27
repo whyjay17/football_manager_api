@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57757.png",
+  "name": "Álex Cobo",
+  "birth_date": "6/7/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 스 코 보",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 6,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 3,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 6,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 6,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 5,
+      "Strength": 7
+    }
+  }
+}

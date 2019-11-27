@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26488.png",
+  "name": "Zakaria Grich",
+  "birth_date": "9/6/1996",
+  "nation": "France",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "자 카 리 아 그 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

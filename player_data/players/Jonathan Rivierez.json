@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26359.png",
+  "name": "Jonathan Rivierez",
+  "birth_date": "18/5/1989",
+  "nation": "France",
+  "position": "D (RC), WB (R)",
+  "foot": "Right Only",
+  "korean": "조 선 리 비 에 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

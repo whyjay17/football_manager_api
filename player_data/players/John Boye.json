@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26351.png",
+  "name": "John Boye",
+  "birth_date": "23/4/1987",
+  "nation": "Ghana",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "존 보 이",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 16,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

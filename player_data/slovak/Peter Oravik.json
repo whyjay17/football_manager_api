@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53405.png",
+  "name": "Peter Oravik",
+  "birth_date": "18/12/1988",
+  "nation": "Slovakia",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "페 테 르 오 라 빅",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 6,
+      "Flair": 10,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

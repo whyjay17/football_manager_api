@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25146.png",
+  "name": "Marcel Correia",
+  "birth_date": "16/5/1989",
+  "nation": "Portugal",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "마 르 셀 코 레 이 아",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 4,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

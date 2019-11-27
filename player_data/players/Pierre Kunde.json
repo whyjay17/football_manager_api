@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6590.png",
+  "name": "Pierre Kunde",
+  "birth_date": "26/7/1995",
+  "nation": "Cameroon",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "피 에 르 쿤 데",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

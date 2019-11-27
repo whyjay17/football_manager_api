@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12496.png",
+  "name": "Fred Onyedinma",
+  "birth_date": "24/11/1996",
+  "nation": "England",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "프 레 드 오 니 딘 마",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

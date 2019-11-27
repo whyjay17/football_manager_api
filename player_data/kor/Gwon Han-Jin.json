@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46509.png",
+  "name": "Gwon Han-Jin",
+  "birth_date": "19/5/1988",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "권 한 진",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 2,
+      "Finishing": 10,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 3,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

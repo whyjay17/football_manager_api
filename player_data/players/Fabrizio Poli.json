@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34314.png",
+  "name": "Fabrizio Poli",
+  "birth_date": "26/5/1989",
+  "nation": "Italy",
+  "position": "D (RLC)",
+  "foot": "Left Only",
+  "korean": "파 브 리 지 오 폴 리",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 5,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 2,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

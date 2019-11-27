@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59603.png",
+  "name": "Àlex Corredera",
+  "birth_date": "19/3/1996",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Left Only",
+  "korean": "알 렉 스 코 레 데 라",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 10,
+      "Natural Fitness": 7,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24929.png",
+  "name": "Shawn Parker",
+  "birth_date": "7/3/1993",
+  "nation": "Germany",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "숀 파 커",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

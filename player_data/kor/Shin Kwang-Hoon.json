@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46670.png",
+  "name": "Shin Kwang-Hoon",
+  "birth_date": "18/3/1987",
+  "nation": "South Korea KOR",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "신 광 훈",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

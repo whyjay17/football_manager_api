@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22809.png",
+  "name": "Johan Djourou",
+  "birth_date": "Unknown",
+  "nation": "Switzerland",
+  "position": "D (C)",
+  "foot": "",
+  "korean": "요 한 주 루",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41697.png",
+  "name": "Marek Suchy",
+  "birth_date": "29/3/1988",
+  "nation": "Czech Republic",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 레 크 수 시",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 5,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

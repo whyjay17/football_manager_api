@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41042.png",
+  "name": "Patrik Hrosovsky",
+  "birth_date": "22/4/1992",
+  "nation": "Slovakia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 흐 로 소 프 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

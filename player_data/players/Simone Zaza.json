@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22894.png",
+  "name": "Simone Zaza",
+  "birth_date": "25/6/1991",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Left Only",
+  "korean": "시 몬 자 자",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 16,
+      "Bravery": 18,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 19,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

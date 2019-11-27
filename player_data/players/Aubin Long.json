@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26667.png",
+  "name": "Aubin Long",
+  "birth_date": "20/3/1997",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "오 빈 롱",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 10,
+      "Eccentricity": 5,
+      "First Touch": 10,
+      "Handling": 11,
+      "Kicking": 10,
+      "Passing": 10,
+      "Reflexes": 12,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 5,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 8,
+      "Strength": 13
+    }
+  }
+}

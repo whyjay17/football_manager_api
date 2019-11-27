@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49861.png",
+  "name": "Borek Dockal",
+  "birth_date": "30/9/1988",
+  "nation": "Czech Republic",
+  "position": "AM (RC)",
+  "foot": "Right",
+  "korean": "보 렉 도 칼",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 17,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 17,
+      "Heading": 7,
+      "Long Shots": 17,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 17,
+      "Penalty Taking": 15,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 18,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 16,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

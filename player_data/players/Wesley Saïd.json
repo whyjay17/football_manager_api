@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7514.png",
+  "name": "Wesley Saïd",
+  "birth_date": "19/4/1995",
+  "nation": "France",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "웨 슬 리 사 이 드",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

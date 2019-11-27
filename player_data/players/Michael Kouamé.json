@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21870.png",
+  "name": "Michael Kouamé",
+  "birth_date": "6/12/1997",
+  "nation": "Côte d'Ivoire",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "마 이 클 쿠 아 메",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

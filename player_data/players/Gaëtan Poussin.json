@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7382.png",
+  "name": "Gaëtan Poussin",
+  "birth_date": "13/1/1999",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "가 에 탄 푸 신",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 1,
+      "First Touch": 12,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 8,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

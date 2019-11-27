@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2692.png",
+  "name": "Hakan Arslan",
+  "birth_date": "18/7/1988",
+  "nation": "Turkey",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "하 칸 아 슬 란",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

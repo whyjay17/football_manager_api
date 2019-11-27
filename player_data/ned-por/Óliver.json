@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23450.png",
+  "name": "Óliver",
+  "birth_date": "10/11/1994",
+  "nation": "Spain",
+  "position": "M (RLC), AM (C)",
+  "foot": "Right",
+  "korean": "올 리 버",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

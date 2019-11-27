@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11075.png",
+  "name": "Gareth Barry",
+  "birth_date": "23/2/1981",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "가 레 스 배 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 8,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 17,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 17,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

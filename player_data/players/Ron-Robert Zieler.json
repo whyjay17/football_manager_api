@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6924.png",
+  "name": "Ron-Robert Zieler",
+  "birth_date": "12/2/1989",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "론 로 버 트 질 러",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 10,
+      "Eccentricity": 10,
+      "First Touch": 12,
+      "Handling": 13,
+      "Kicking": 16,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 18,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 16,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

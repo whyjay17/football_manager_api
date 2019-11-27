@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7570.png",
+  "name": "Yéni Ngbakoto",
+  "birth_date": "23/1/1992",
+  "nation": "Congo DR",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "예 니 응 바 코 토",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 9,
+      "Long Shots": 15,
+      "Long Throws": 5,
+      "Marking": 2,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

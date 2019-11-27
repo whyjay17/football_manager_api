@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23229.png",
+  "name": "João Félix",
+  "birth_date": "10/11/1999",
+  "nation": "Portugal",
+  "position": "M (C), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "주 앙 펠 릭 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

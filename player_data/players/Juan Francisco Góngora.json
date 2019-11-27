@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58164.png",
+  "name": "Juan Francisco Góngora",
+  "birth_date": "14/8/1988",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "후 안 프 란 시 스 코 곤 고 라",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 10,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 16,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 15,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

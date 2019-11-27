@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59717.png",
+  "name": "Jonxa",
+  "birth_date": "20/7/1991",
+  "nation": "Spain",
+  "position": "WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "존 사 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 3,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

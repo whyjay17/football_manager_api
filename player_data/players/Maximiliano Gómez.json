@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/156.png",
+  "name": "Maximiliano Gómez",
+  "birth_date": "14/8/1996",
+  "nation": "Uruguay",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "막 시 밀 리 아 노 고 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 16,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 18,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 17,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 17,
+      "Positioning": 5,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

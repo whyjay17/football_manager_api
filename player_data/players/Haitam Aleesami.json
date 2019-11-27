@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35180.png",
+  "name": "Haitam Aleesami",
+  "birth_date": "31/7/1991",
+  "nation": "Norway",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "하 이 탐 에 일 사 미",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

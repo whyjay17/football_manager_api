@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6254.png",
+  "name": "Christoph Janker",
+  "birth_date": "14/2/1985",
+  "nation": "Germany",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "크 리 스 토 프 얀 커",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

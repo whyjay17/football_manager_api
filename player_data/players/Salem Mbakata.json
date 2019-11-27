@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26665.png",
+  "name": "Salem Mbakata",
+  "birth_date": "19/4/1998",
+  "nation": "France",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "살 렘 음 바 카 타",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

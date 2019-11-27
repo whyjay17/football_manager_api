@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26240.png",
+  "name": "Bilal Bari",
+  "birth_date": "19/1/1998",
+  "nation": "Morocco",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "빌 랄 바 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 2,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 8,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

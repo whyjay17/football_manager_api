@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7684.png",
+  "name": "Jonathan Ligali",
+  "birth_date": "28/5/1991",
+  "nation": "Benin",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "조 선 리 갈 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 7,
+      "Handling": 11,
+      "Kicking": 9,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 14,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

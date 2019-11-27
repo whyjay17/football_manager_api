@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6440.png",
+  "name": "Waldemar Anton",
+  "birth_date": "20/7/1996",
+  "nation": "Germany",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "발 데 마 르 안 톤",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

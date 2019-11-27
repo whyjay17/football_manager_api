@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58276.png",
+  "name": "Andoni Tascón",
+  "birth_date": "27/2/1998",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "안 도 니 타 스 콘",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 7,
+      "Penalty Taking": 7,
+      "Tackling": 1,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 13,
+      "Concentration": 6,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 6,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

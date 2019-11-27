@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49667.png",
+  "name": "Tyler Miller",
+  "birth_date": "12/3/1993",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "타 일 러 밀 러",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 8,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 16,
+      "Determination": 3,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 8,
+      "Stamina": 8,
+      "Strength": 15
+    }
+  }
+}

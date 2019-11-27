@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/83949.png",
+  "name": "Yeo Bong-Hun",
+  "birth_date": "12/3/1994",
+  "nation": "South Korea KOR",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "여 봉 훈",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 1,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

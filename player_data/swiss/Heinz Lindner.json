@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41764.png",
+  "name": "Heinz Lindner",
+  "birth_date": "17/7/1990",
+  "nation": "Austria",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "하 인 츠 린 드 너",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 7,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 9,
+      "Passing": 8,
+      "Reflexes": 17,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

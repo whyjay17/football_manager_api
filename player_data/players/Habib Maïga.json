@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26362.png",
+  "name": "Habib Maïga",
+  "birth_date": "1/1/1996",
+  "nation": "Côte d'Ivoire",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "하 비 브 마 이 가",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 4,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 5,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7604.png",
+  "name": "Nicolas Pallois",
+  "birth_date": "19/9/1987",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "니 콜 라 스 팔 로 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 7,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 19,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

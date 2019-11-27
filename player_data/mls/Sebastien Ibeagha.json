@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49820.png",
+  "name": "Sebastien Ibeagha",
+  "birth_date": "21/1/1992",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "세 바 스 티 엔 이 베 아 가",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 1,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 6,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

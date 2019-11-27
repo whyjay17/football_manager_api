@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49423.png",
+  "name": "Eric Remedi",
+  "birth_date": "4/6/1995",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "에 릭 레 메 디",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

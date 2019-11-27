@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22288.png",
+  "name": "Marek Hamsik",
+  "birth_date": "27/7/1987",
+  "nation": "Slovakia",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "마 레 크 함 식",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 17,
+      "Off The Ball": 17,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34238.png",
+  "name": "Lorenzo Andrenacci",
+  "birth_date": "2/1/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 렌 조 안 드 레 나 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 6,
+      "First Touch": 4,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 14,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 8,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53678.png",
+  "name": "Aris Zarifovic",
+  "birth_date": "2/6/1988",
+  "nation": "Slovenia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "아 리 스 자 리 포 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 4,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 4,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

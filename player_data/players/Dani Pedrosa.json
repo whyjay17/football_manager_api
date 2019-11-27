@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58192.png",
+  "name": "Dani Pedrosa",
+  "birth_date": "4/9/1996",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "다 니 페 드 로 사",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 3,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 6,
+      "Penalty Taking": 4,
+      "Tackling": 3,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 5,
+      "Strength": 7
+    }
+  }
+}

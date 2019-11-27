@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46490.png",
+  "name": "Ryu Seung-Woo",
+  "birth_date": "17/12/1993",
+  "nation": "South Korea KOR",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "류 승 우",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 6,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26412.png",
+  "name": "Modou Diagne",
+  "birth_date": "3/1/1994",
+  "nation": "Senegal",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "모 두 디 아 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49776.png",
+  "name": "Kemar Lawrence",
+  "birth_date": "17/9/1992",
+  "nation": "Jamaica",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "케 마 르 로 렌 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

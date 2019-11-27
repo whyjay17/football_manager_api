@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46766.png",
+  "name": "Kim In-Sung",
+  "birth_date": "9/9/1989",
+  "nation": "South Korea KOR",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "김 인 성",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

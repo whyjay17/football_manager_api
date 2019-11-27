@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26168.png",
+  "name": "Samba Camara",
+  "birth_date": "14/11/1992",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "삼 바 카 마 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

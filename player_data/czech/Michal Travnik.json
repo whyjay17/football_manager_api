@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40652.png",
+  "name": "Michal Travnik",
+  "birth_date": "17/5/1994",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "미 샬 트 라 브 니 크",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

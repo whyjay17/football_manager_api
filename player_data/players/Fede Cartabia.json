@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19455.png",
+  "name": "Fede Cartabia",
+  "birth_date": "20/1/1993",
+  "nation": "Argentina",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left Only",
+  "korean": "페 드 카 르 타 비 아",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 17,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 15,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

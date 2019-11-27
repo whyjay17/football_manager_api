@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8006.png",
+  "name": "Luiz Gustavo",
+  "birth_date": "23/7/1987",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "루 이 스 구 스 타 보",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 14,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 14
+    }
+  }
+}

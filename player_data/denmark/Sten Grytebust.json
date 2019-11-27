@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41497.png",
+  "name": "Sten Grytebust",
+  "birth_date": "25/10/1989",
+  "nation": "Norway",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "스 텐 그 리 테 부 스 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 11,
+      "Passing": 15,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 12
+    }
+  }
+}

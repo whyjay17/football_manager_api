@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/818.png",
+  "name": "Rajko Brezancic",
+  "birth_date": "21/8/1989",
+  "nation": "Serbia",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "라 지 코 브 레 잔 치 치",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 10,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

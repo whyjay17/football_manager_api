@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12363.png",
+  "name": "Simon Cox",
+  "birth_date": "28/4/1987",
+  "nation": "Republic of Ireland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "사 이 먼 콕 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

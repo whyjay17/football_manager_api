@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24750.png",
+  "name": "Dominik Becker",
+  "birth_date": "9/1/2000",
+  "nation": "Germany",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "도 미 닉 베 커",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

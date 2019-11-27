@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/30891.png",
+  "name": "Igor Akinfeev",
+  "birth_date": "8/4/1986",
+  "nation": "Russia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 고 르 아 킨 피 브",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 15,
+      "Eccentricity": 3,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 15,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 17,
+      "Off The Ball": 1,
+      "Positioning": 16,
+      "Teamwork": 5,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

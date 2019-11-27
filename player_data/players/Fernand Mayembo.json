@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26171.png",
+  "name": "Fernand Mayembo",
+  "birth_date": "9/1/1996",
+  "nation": "Congo",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "페 르 난 드 마 임 보",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

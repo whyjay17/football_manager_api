@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32058.png",
+  "name": "Eugene Banada",
+  "birth_date": "29/2/1992",
+  "nation": "Ukraine",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "유 진 바 나 다",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

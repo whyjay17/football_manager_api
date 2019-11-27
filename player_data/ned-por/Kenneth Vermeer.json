@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8966.png",
+  "name": "Kenneth Vermeer",
+  "birth_date": "10/1/1986",
+  "nation": "Netherlands",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "케 네 스 베 르 메 르",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 14,
+      "First Touch": 14,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 12,
+      "Reflexes": 16,
+      "Rushing Out": 15,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

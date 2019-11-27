@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34153.png",
+  "name": "Luca Sparandeo",
+  "birth_date": "18/8/1999",
+  "nation": "Italy",
+  "position": "D (RLC), WB (RL), M (L)",
+  "foot": "Right",
+  "korean": "루 카 스 파 라 데 오",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 5,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 8,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

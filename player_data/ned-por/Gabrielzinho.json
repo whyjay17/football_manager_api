@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23785.png",
+  "name": "Gabrielzinho",
+  "birth_date": "29/3/1996",
+  "nation": "Brazil",
+  "position": "AM (RL)",
+  "foot": "Right Only",
+  "korean": "가 브 리 엘 지 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

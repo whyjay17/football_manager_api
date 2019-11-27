@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26229.png",
+  "name": "Valentin Belon",
+  "birth_date": "13/6/1995",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "발 렌 틴 벨 론",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 8,
+      "Communication": 4,
+      "Eccentricity": 7,
+      "First Touch": 11,
+      "Handling": 11,
+      "Kicking": 11,
+      "Passing": 11,
+      "Reflexes": 10,
+      "Rushing Out": 10,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 6,
+      "Flair": 2,
+      "Leadership": 5,
+      "Off The Ball": 2,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 8,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

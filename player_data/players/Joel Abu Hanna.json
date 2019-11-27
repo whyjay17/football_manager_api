@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24901.png",
+  "name": "Joel Abu Hanna",
+  "birth_date": "22/1/1998",
+  "nation": "Germany",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "조 엘 아 부 한 나",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

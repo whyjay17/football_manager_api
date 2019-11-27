@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2970.png",
+  "name": "Mbaye Diagne",
+  "birth_date": "28/10/1991",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "음 바 예 디 아 뉴",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 15,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

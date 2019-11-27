@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12454.png",
+  "name": "George Dobson",
+  "birth_date": "15/11/1997",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "조 지 돕 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 19,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 17,
+      "Strength": 12
+    }
+  }
+}

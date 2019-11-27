@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8344.png",
+  "name": "Enzo Crivelli",
+  "birth_date": "6/2/1995",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "엔 조 크 리 벨 리",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 18,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

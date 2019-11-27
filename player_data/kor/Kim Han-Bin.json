@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46485.png",
+  "name": "Kim Han-Bin",
+  "birth_date": "31/3/1991",
+  "nation": "South Korea KOR",
+  "position": "D (L)",
+  "foot": "Left Only",
+  "korean": "김 한 빈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

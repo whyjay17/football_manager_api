@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19220.png",
+  "name": "Esteban Saveljich",
+  "birth_date": "20/5/1991",
+  "nation": "Montenegro",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "에 스 테 반 세 벨 지 흐",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 4,
+      "Finishing": 3,
+      "First Touch": 7,
+      "Free Kick": 3,
+      "Heading": 13,
+      "Long Shots": 3,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 5,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 19,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

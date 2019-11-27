@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25002.png",
+  "name": "Finn Porath",
+  "birth_date": "23/2/1997",
+  "nation": "Germany",
+  "position": "DM, M/AM (LC)",
+  "foot": "Left",
+  "korean": "핀 포 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

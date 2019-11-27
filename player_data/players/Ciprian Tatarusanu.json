@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7591.png",
+  "name": "Ciprian Tatarusanu",
+  "birth_date": "9/2/1986",
+  "nation": "Romania",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "시 프 리 안 타 타 루 사 누",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 14,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 14,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 18,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

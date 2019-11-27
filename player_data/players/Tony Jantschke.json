@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6140.png",
+  "name": "Tony Jantschke",
+  "birth_date": "7/4/1990",
+  "nation": "Germany",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "토 니 잔 취 케",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

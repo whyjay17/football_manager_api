@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19600.png",
+  "name": "Javi Noblejas",
+  "birth_date": "18/3/1993",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "하 비 노 블 하 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

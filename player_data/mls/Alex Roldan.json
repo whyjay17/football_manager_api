@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49994.png",
+  "name": "Alex Roldan",
+  "birth_date": "28/7/1996",
+  "nation": "United States",
+  "position": "M (RC)",
+  "foot": "Right",
+  "korean": "알 렉 스 롤 단",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 5,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

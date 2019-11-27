@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26136.png",
+  "name": "Alharbi El Jadeyaoui",
+  "birth_date": "8/8/1986",
+  "nation": "Morocco",
+  "position": "AM (RL)",
+  "foot": "Left Only",
+  "korean": "알 하 르 비 엘 자 데 야 우 이",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 2,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 6,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

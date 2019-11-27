@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48093.png",
+  "name": "Komnen Andric",
+  "birth_date": "1/7/1995",
+  "nation": "Serbia",
+  "position": "AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "콤 넨 안 드 리 치",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 16,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

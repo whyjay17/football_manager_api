@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26477.png",
+  "name": "Goduine Koyalipou",
+  "birth_date": "15/2/2000",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "고 두 인 고 야 리 푸",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 6,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 7,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

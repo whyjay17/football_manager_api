@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6263.png",
+  "name": "Raphael Framberger",
+  "birth_date": "6/9/1995",
+  "nation": "Germany",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "라 파 엘 프 람 버 거",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 4,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 15,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 13,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

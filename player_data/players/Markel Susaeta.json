@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1408.png",
+  "name": "Markel Susaeta",
+  "birth_date": "14/12/1987",
+  "nation": "Spain",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "마 르 켈 수 사 에 타",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

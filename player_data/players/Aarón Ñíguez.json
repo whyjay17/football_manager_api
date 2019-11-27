@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20137.png",
+  "name": "Aarón Ñíguez",
+  "birth_date": "26/4/1989",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "아 론 니 게 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 4,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11571.png",
+  "name": "David Templeton",
+  "birth_date": "7/1/1989",
+  "nation": "Scotland",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 템 플 턴",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 14,
+      "Bravery": 4,
+      "Composure": 14,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 3,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 4
+    }
+  }
+}

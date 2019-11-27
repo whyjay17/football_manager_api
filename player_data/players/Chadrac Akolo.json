@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6965.png",
+  "name": "Chadrac Akolo",
+  "birth_date": "1/4/1995",
+  "nation": "Congo DR",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "채 드 락 아 콜 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

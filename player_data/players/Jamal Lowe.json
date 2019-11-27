@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12153.png",
+  "name": "Jamal Lowe",
+  "birth_date": "21/7/1994",
+  "nation": "England",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "자 말 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40846.png",
+  "name": "Josef Husbauer",
+  "birth_date": "16/3/1990",
+  "nation": "Czech Republic",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "요 제 프 후 스 바 우 어",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 7,
+      "Long Shots": 20,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

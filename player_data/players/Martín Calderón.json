@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58088.png",
+  "name": "Martín Calderón",
+  "birth_date": "1/3/1999",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "마 틴 칼 데 론",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

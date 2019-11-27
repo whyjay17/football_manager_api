@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26633.png",
+  "name": "Mourad Satli",
+  "birth_date": "29/1/1990",
+  "nation": "Algeria",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "무 라 드 사 틀 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

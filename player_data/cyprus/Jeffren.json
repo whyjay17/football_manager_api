@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80560.png",
+  "name": "Jeffren",
+  "birth_date": "20/1/1988",
+  "nation": "Venezuela",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "제 프 렌",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 16,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10614.png",
+  "name": "Tiago Ilori",
+  "birth_date": "26/2/1993",
+  "nation": "Portugal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "티 아 고 일 로 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

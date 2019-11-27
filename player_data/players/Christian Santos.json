@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19458.png",
+  "name": "Christian Santos",
+  "birth_date": "24/3/1988",
+  "nation": "Venezuela",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Left Only",
+  "korean": "크 리 스 티 안 산 토 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 17,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

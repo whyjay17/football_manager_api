@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19355.png",
+  "name": "Miguel Loureiro",
+  "birth_date": "21/11/1996",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "미 겔 루 레 이 로",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 3,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

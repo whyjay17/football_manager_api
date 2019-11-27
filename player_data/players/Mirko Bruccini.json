@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34535.png",
+  "name": "Mirko Bruccini",
+  "birth_date": "18/1/1986",
+  "nation": "Italy",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "미 르 코 브 루 치 니",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

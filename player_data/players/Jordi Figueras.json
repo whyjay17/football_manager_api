@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58571.png",
+  "name": "Jordi Figueras",
+  "birth_date": "16/5/1987",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "조 르 디 피 게 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 11,
+      "Pace": 8,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26670.png",
+  "name": "Rayan Senhadji",
+  "birth_date": "13/6/1997",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "라 얀 센 하 드 지",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

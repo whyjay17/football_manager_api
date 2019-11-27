@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58953.png",
+  "name": "Pipa",
+  "birth_date": "26/1/1998",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "피 파",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 2,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 4,
+      "Concentration": 6,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

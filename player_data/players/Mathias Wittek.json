@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25034.png",
+  "name": "Mathias Wittek",
+  "birth_date": "30/3/1989",
+  "nation": "Germany",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "마 티 아 스 비 텍",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 5,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21303.png",
+  "name": "Filip Helander",
+  "birth_date": "22/4/1993",
+  "nation": "Sweden",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "필 립 헬 랜 더",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

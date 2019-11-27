@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24814.png",
+  "name": "Gerrit Nauber",
+  "birth_date": "13/4/1992",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "게 릿 나 우 버",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

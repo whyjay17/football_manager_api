@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8065.png",
+  "name": "Marquinhos",
+  "birth_date": "14/5/1994",
+  "nation": "Brazil",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "마 르 퀴 뇨 스 주",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 16,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

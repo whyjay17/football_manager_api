@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35760.png",
+  "name": "Samuel Gustafson",
+  "birth_date": "11/1/1995",
+  "nation": "Sweden",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "새 뮤 얼 구 스 타 프 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

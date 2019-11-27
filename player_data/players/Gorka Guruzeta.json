@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58232.png",
+  "name": "Gorka Guruzeta",
+  "birth_date": "12/9/1996",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "고 르 카 구 루 제 타",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 1,
+      "Flair": 13,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

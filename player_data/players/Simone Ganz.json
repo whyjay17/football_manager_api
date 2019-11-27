@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34032.png",
+  "name": "Simone Ganz",
+  "birth_date": "21/9/1993",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "시 몬 간 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 18,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

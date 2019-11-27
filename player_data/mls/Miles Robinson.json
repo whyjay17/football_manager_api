@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49427.png",
+  "name": "Miles Robinson",
+  "birth_date": "14/3/1997",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 일 스 로 빈 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

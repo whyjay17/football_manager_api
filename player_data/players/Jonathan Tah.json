@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6028.png",
+  "name": "Jonathan Tah",
+  "birth_date": "11/2/1996",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "조 니 선 타",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 11,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 18
+    }
+  }
+}

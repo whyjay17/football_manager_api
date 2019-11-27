@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6101.png",
+  "name": "Axel Witsel",
+  "birth_date": "12/1/1989",
+  "nation": "Belgium",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "악 셀 비 첼",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 18,
+      "Bravery": 14,
+      "Composure": 18,
+      "Concentration": 17,
+      "Decisions": 17,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 16,
+      "Teamwork": 19,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

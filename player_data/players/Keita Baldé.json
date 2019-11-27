@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7280.png",
+  "name": "Keita Baldé",
+  "birth_date": "8/3/1995",
+  "nation": "Senegal",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "케 이 타 발 데",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

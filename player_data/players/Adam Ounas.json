@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22305.png",
+  "name": "Adam Ounas",
+  "birth_date": "11/11/1996",
+  "nation": "Algeria",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "아 담 우 나 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 14,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

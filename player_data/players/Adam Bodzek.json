@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6384.png",
+  "name": "Adam Bodzek",
+  "birth_date": "7/9/1985",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "아 담 보 제 크",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 16,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 8,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

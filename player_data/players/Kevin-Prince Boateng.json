@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22690.png",
+  "name": "Kevin-Prince Boateng",
+  "birth_date": "6/3/1987",
+  "nation": "Ghana",
+  "position": "M/AM (C), ST (C)",
+  "foot": "Either",
+  "korean": "케 빈 프 린 스 보 텅",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 15,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 15,
+      "Off The Ball": 16,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 18,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

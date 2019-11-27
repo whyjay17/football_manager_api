@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8970.png",
+  "name": "Sven van Beek",
+  "birth_date": "28/7/1994",
+  "nation": "Netherlands",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "스 벤 반 베 이 크",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

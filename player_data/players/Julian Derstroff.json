@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25166.png",
+  "name": "Julian Derstroff",
+  "birth_date": "5/1/1992",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "줄 리 안 더 스 트 로 프",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 6,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 7,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

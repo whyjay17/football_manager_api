@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6539.png",
+  "name": "Javairo Dilrosun",
+  "birth_date": "22/6/1998",
+  "nation": "Netherlands",
+  "position": "M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "자 이 로 딜 로 선",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 16,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

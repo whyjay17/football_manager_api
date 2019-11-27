@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49478.png",
+  "name": "Jack Price",
+  "birth_date": "19/12/1992",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "잭 프 라 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

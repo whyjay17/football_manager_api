@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12055.png",
+  "name": "Matt Macey",
+  "birth_date": "9/9/1994",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Either",
+  "korean": "맷 메 이 시",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 19,
+      "Communication": 8,
+      "Eccentricity": 10,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 6,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 2,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 19,
+      "Natural Fitness": 13,
+      "Pace": 6,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

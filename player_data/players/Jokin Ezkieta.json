@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58825.png",
+  "name": "Jokin Ezkieta",
+  "birth_date": "17/8/1996",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 킨 에 즈 키 에 타",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 9,
+      "Passing": 8,
+      "Reflexes": 12,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 7,
+      "Strength": 11
+    }
+  }
+}

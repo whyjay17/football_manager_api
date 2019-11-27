@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49611.png",
+  "name": "Joe Willis",
+  "birth_date": "10/8/1988",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "조 윌 리 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 15,
+      "First Touch": 5,
+      "Handling": 10,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 7,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

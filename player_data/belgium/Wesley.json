@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20528.png",
+  "name": "Wesley",
+  "birth_date": "26/11/1996",
+  "nation": "Brazil",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "웨 슬 리",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 18,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

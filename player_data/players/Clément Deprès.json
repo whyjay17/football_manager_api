@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7800.png",
+  "name": "Clément Deprès",
+  "birth_date": "25/11/1994",
+  "nation": "France",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "클 레 망 드 프 레",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 14
+    }
+  }
+}

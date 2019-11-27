@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8028.png",
+  "name": "Dimitri Payet",
+  "birth_date": "29/3/1987",
+  "nation": "France",
+  "position": "AM (RLC)",
+  "foot": "Either",
+  "korean": "디 미 트 리 파 예 트",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 17,
+      "Heading": 6,
+      "Long Shots": 16,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 17,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/125.png",
+  "name": "Okay Yokuslu",
+  "birth_date": "9/3/1994",
+  "nation": "Turkey",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "오 케 이 요 쿠 슬 러",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 16,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 18
+    }
+  }
+}

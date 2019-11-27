@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42124.png",
+  "name": "Miralem Sulejmani",
+  "birth_date": "5/12/1988",
+  "nation": "Serbia",
+  "position": "M (L), AM (RLC)",
+  "foot": "Left",
+  "korean": "미 랄 렘 술 레 즈 마 니",
+  "abilities": {
+    "technical": {
+      "Corners": 17,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 16,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 7,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

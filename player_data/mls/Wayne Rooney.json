@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49534.png",
+  "name": "Wayne Rooney",
+  "birth_date": "24/10/1985",
+  "nation": "England",
+  "position": "DM, M/AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "웨 인 루 니",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 14,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 16,
+      "Penalty Taking": 16,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 18,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 16,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 17,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

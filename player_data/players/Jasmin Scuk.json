@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2700.png",
+  "name": "Jasmin Scuk",
+  "birth_date": "14/7/1990",
+  "nation": "Bosnia and Herzegovina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "재 스 민 스 쿠 크",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 16,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 12
+    }
+  }
+}

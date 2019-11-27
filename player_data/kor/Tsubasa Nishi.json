@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46339.png",
+  "name": "Tsubasa Nishi",
+  "birth_date": "8/4/1990",
+  "nation": "Japan",
+  "position": "M (RLC)",
+  "foot": "Right",
+  "korean": "츠 바 사 니 시",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 8,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22500.png",
+  "name": "Iván Marcano",
+  "birth_date": "23/6/1987",
+  "nation": "Spain",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "이 반 마 르 카 노",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 16,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22993.png",
+  "name": "Ignacio Pussetto",
+  "birth_date": "21/12/1995",
+  "nation": "Argentina",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "이 그 나 시 오 푸 세 토",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7212.png",
+  "name": "Kamil Glik",
+  "birth_date": "3/2/1988",
+  "nation": "Poland",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "카 밀 글 릭",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 17,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 17,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

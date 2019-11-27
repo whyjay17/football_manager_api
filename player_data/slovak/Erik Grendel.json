@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53329.png",
+  "name": "Erik Grendel",
+  "birth_date": "13/10/1988",
+  "nation": "Slovakia",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "에 릭 그 렌 델",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 18,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

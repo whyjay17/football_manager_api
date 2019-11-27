@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11489.png",
+  "name": "Tom Lockyer",
+  "birth_date": "3/12/1994",
+  "nation": "Wales",
+  "position": "D (RC), DM",
+  "foot": "Right",
+  "korean": "톰 로 커",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

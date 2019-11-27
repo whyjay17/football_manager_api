@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34046.png",
+  "name": "Keba Coly",
+  "birth_date": "20/2/1998",
+  "nation": "Senegal",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "케 바 콜 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

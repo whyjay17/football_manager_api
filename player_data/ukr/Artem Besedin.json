@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31825.png",
+  "name": "Artem Besedin",
+  "birth_date": "31/3/1996",
+  "nation": "Ukraine",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 르 템 베 세 딘",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 3,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

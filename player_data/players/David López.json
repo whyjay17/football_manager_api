@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/977.png",
+  "name": "David López",
+  "birth_date": "9/10/1989",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 로 페 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 9,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

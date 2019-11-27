@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7998.png",
+  "name": "Jordan Amavi",
+  "birth_date": "9/3/1994",
+  "nation": "France",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "요 르 단 아 마 비",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46452.png",
+  "name": "Park Jong-Jin",
+  "birth_date": "24/6/1987",
+  "nation": "South Korea KOR",
+  "position": "M (R), AM (RLC)",
+  "foot": "Right",
+  "korean": "박 종 진",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

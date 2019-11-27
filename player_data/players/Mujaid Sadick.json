@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19411.png",
+  "name": "Mujaid Sadick",
+  "birth_date": "14/3/2000",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "무 자 이 드 사 딕",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 1,
+      "Finishing": 3,
+      "First Touch": 9,
+      "Free Kick": 1,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 4,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 9,
+      "Composure": 4,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34619.png",
+  "name": "Claiton",
+  "birth_date": "7/9/1984",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "클 리 턴 ( 것 ) 과 함 께",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

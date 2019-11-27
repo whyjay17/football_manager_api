@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35183.png",
+  "name": "Alberto Brignoli",
+  "birth_date": "19/8/1991",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "알 베 르 토 브 리 그 놀 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 12,
+      "First Touch": 12,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 13,
+      "Rushing Out": 19,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25008.png",
+  "name": "Patric Pfeiffer",
+  "birth_date": "20/8/1999",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "패 트 릭 파 이 퍼",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 4,
+      "Dribbling": 3,
+      "Finishing": 2,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 12,
+      "Technique": 3
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 6,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 6,
+      "Flair": 1,
+      "Leadership": 4,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 7,
+      "Vision": 4,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49449.png",
+  "name": "Aleksandar Katai",
+  "birth_date": "6/2/1991",
+  "nation": "Serbia",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 카 타 이",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 15,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

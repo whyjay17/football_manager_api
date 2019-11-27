@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6666.png",
+  "name": "Alexander Schwolow",
+  "birth_date": "2/6/1992",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 산 더 슈 울 로 우",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 10,
+      "First Touch": 10,
+      "Handling": 14,
+      "Kicking": 17,
+      "Passing": 12,
+      "Reflexes": 16,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 2,
+      "Leadership": 9,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

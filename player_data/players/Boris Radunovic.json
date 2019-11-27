@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34603.png",
+  "name": "Boris Radunovic",
+  "birth_date": "26/5/1996",
+  "nation": "Serbia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "보 리 스 라 두 노 비 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 13,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 9,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

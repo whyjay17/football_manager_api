@@ -117,7 +117,7 @@ const fetchById = (id) => {
         cache: 'default'
     };
 
-    url = 'http://localhost:5000/api/v1/player/' + id
+    url = 'https://fm-api-heroku.herokuapp.com/api/v1/player/' + id
 
     return new Promise((reslove, reject) => {
         fetch(url, myInit)

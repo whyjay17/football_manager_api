@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49867.png",
+  "name": "Kacper Przybylko",
+  "birth_date": "25/3/1993",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "카 퍼 프 리 지 벨 코",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 17,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

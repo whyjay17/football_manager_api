@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6335.png",
+  "name": "Rafinha",
+  "birth_date": "7/9/1985",
+  "nation": "Brazil",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "라 피 냐 주",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 17,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

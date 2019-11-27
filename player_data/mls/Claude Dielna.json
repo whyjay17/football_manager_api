@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49758.png",
+  "name": "Claude Dielna",
+  "birth_date": "14/12/1987",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left Only",
+  "korean": "클 로 드 디 엘 나",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

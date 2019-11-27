@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6568.png",
+  "name": "Stefan Bell",
+  "birth_date": "24/8/1991",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "스 테 판 벨",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 13,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 16,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

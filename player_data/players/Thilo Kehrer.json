@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8077.png",
+  "name": "Thilo Kehrer",
+  "birth_date": "21/9/1996",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Either",
+  "korean": "틸 로 케 러",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58788.png",
+  "name": "Nadjib",
+  "birth_date": "25/5/1996",
+  "nation": "Spain",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left Only",
+  "korean": "나 드 지 브 주",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 7,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 6,
+      "Determination": 4,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 6,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

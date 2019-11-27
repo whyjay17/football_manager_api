@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26595.png",
+  "name": "Sabir Bougrine",
+  "birth_date": "10/7/1996",
+  "nation": "Belgium",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "사 비 르 부 그 린",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 5,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 9,
+      "Strength": 5
+    }
+  }
+}

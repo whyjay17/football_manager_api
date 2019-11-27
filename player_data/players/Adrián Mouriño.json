@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58020.png",
+  "name": "Adrián Mouriño",
+  "birth_date": "1/2/1988",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Left Only",
+  "korean": "아 드 리 안 무 리 뇨",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

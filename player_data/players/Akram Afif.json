@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59198.png",
+  "name": "Akram Afif",
+  "birth_date": "18/11/1996",
+  "nation": "Qatar",
+  "position": "AM (LC)",
+  "foot": "Right",
+  "korean": "아 크 람 아 프",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 3,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 2,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 5,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 5
+    }
+  }
+}

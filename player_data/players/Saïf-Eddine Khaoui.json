@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8333.png",
+  "name": "Saïf-Eddine Khaoui",
+  "birth_date": "27/4/1995",
+  "nation": "Tunisia",
+  "position": "AM (RC)",
+  "foot": "Left",
+  "korean": "사 이 프 에 딘 카 우 이",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

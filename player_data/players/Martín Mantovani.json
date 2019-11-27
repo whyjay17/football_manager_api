@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19744.png",
+  "name": "Martín Mantovani",
+  "birth_date": "7/7/1984",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "마 르 틴 만 토 바 니",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 7,
+      "Leadership": 18,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

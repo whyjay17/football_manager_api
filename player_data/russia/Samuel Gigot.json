@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31341.png",
+  "name": "Samuel Gigot",
+  "birth_date": "12/10/1993",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "사 무 엘 기 고",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 6,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

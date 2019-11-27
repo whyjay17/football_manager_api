@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31873.png",
+  "name": "Vitaliy Mykolenko",
+  "birth_date": "29/5/1999",
+  "nation": "Ukraine",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "비 탈 리 미 콜 렌 코",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58528.png",
+  "name": "Yanis Rahmani",
+  "birth_date": "13/5/1995",
+  "nation": "France",
+  "position": "M (L), AM (LC)",
+  "foot": "Left",
+  "korean": "야 니 스 라 마 니",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 17,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

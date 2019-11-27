@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49891.png",
+  "name": "Sebastián Blanco",
+  "birth_date": "15/3/1988",
+  "nation": "Argentina",
+  "position": "M (RC), AM (RLC)",
+  "foot": "Right",
+  "korean": "세 바 스 티 안 블 랑 코",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 4,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 4,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

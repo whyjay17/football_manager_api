@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8393.png",
+  "name": "Jonas Martin",
+  "birth_date": "9/4/1990",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "조 나 스 마 틴",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

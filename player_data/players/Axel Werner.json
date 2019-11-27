@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1261.png",
+  "name": "Axel Werner",
+  "birth_date": "28/2/1996",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "악 셀 베 르 너",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 10,
+      "Eccentricity": 5,
+      "First Touch": 7,
+      "Handling": 13,
+      "Kicking": 9,
+      "Passing": 6,
+      "Reflexes": 16,
+      "Rushing Out": 10,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 17,
+      "Natural Fitness": 17,
+      "Pace": 8,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

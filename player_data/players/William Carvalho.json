@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/534.png",
+  "name": "William Carvalho",
+  "birth_date": "7/4/1992",
+  "nation": "Portugal",
+  "position": "DM",
+  "foot": "Right",
+  "korean": "윌 리 엄 카 르 발 호",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 18,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 15,
+      "Off The Ball": 10,
+      "Positioning": 17,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 18,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 16,
+      "Strength": 18
+    }
+  }
+}

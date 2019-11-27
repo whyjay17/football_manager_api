@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49719.png",
+  "name": "Mike Petrasso",
+  "birth_date": "7/9/1995",
+  "nation": "Canada",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "마 이 크 페 트 라 소",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

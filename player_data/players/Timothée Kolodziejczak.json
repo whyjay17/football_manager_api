@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7326.png",
+  "name": "Timothée Kolodziejczak",
+  "birth_date": "1/10/1991",
+  "nation": "France",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "티 모 테 콜 로 지 에 자 크",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 14,
+      "Marking": 16,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 16,
+      "Stamina": 18,
+      "Strength": 15
+    }
+  }
+}

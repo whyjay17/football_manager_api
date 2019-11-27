@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22497.png",
+  "name": "Bryan Cristante",
+  "birth_date": "3/3/1995",
+  "nation": "Italy",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "브 라 이 언 크 리 스 탄 테",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 16,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 16,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

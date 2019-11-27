@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6884.png",
+  "name": "Steven Zuber",
+  "birth_date": "17/8/1991",
+  "nation": "Switzerland",
+  "position": "WB/M/AM (L)",
+  "foot": "Right",
+  "korean": "스 티 븐 주 버",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

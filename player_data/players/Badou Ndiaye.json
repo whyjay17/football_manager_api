@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2856.png",
+  "name": "Badou Ndiaye",
+  "birth_date": "27/10/1990",
+  "nation": "Senegal",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "바 두 은 디 아 예",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 15,
+      "Stamina": 18,
+      "Strength": 13
+    }
+  }
+}

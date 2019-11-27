@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26184.png",
+  "name": "Himad Abdelli",
+  "birth_date": "17/11/1999",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "히 마 드 압 델 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 8,
+      "Bravery": 13,
+      "Composure": 6,
+      "Concentration": 5,
+      "Decisions": 15,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22098.png",
+  "name": "Lucas Leiva",
+  "birth_date": "9/1/1987",
+  "nation": "Brazil",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 스 레 이 바",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 3,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 1,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 9,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 18,
+      "Bravery": 16,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 17,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

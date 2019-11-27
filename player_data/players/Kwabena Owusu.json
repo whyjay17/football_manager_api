@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58111.png",
+  "name": "Kwabena Owusu",
+  "birth_date": "18/6/1997",
+  "nation": "Ghana",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "콰 베 나 오 우 수",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 1,
+      "Flair": 12,
+      "Leadership": 1,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

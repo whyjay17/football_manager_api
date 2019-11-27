@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22206.png",
+  "name": "Pepe Reina",
+  "birth_date": "31/8/1982",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "페 페 레 이 나",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 17,
+      "Eccentricity": 15,
+      "First Touch": 13,
+      "Handling": 13,
+      "Kicking": 18,
+      "Passing": 15,
+      "Reflexes": 12,
+      "Rushing Out": 18,
+      "Throwing": 17
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 18,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 16,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

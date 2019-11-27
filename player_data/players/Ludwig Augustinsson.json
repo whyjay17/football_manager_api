@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6806.png",
+  "name": "Ludwig Augustinsson",
+  "birth_date": "21/4/1994",
+  "nation": "Sweden",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "루 드 비 히 어 거 스 틴 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

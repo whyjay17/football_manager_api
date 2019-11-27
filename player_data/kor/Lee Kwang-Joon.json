@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46616.png",
+  "name": "Lee Kwang-Joon",
+  "birth_date": "8/1/1996",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "이 광 준",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 4
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 16,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59489.png",
+  "name": "Gato",
+  "birth_date": "22/2/1989",
+  "nation": "Spain",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "가 토",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 2,
+      "Flair": 8,
+      "Leadership": 4,
+      "Off The Ball": 9,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

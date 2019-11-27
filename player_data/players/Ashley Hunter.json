@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11812.png",
+  "name": "Ashley Hunter",
+  "birth_date": "28/9/1995",
+  "nation": "England",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "애 슐 리 헌 터",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

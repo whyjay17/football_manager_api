@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57803.png",
+  "name": "Ander Bardají",
+  "birth_date": "3/5/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 데 르 바 르 다 지",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 3,
+      "Passing": 4,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 16,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 15,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

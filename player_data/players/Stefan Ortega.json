@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24652.png",
+  "name": "Stefan Ortega",
+  "birth_date": "6/11/1992",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "스 테 판 오 르 테 가",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

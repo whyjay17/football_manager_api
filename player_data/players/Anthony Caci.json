@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8373.png",
+  "name": "Anthony Caci",
+  "birth_date": "1/7/1997",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "앤 서 니 카 시",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

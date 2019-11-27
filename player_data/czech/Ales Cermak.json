@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41049.png",
+  "name": "Ales Cermak",
+  "birth_date": "1/10/1994",
+  "nation": "Czech Republic",
+  "position": "AM (C)",
+  "foot": "Right",
+  "korean": "알 레 시 체 르 막",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 4,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58240.png",
+  "name": "Íñigo Muñoz",
+  "birth_date": "16/12/1996",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "이 니 고 무 뇨 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 9,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 6,
+      "Bravery": 2,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 15,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 1,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 1
+    }
+  }
+}

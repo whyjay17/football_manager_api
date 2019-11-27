@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24856.png",
+  "name": "Markus Schubert",
+  "birth_date": "12/6/1998",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 르 쿠 스 슈 베 르 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 12,
+      "Eccentricity": 11,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20274.png",
+  "name": "Íñigo Eguaras",
+  "birth_date": "7/3/1992",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "이 니 고 에 구 아 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

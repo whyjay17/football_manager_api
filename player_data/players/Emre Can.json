@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22025.png",
+  "name": "Emre Can",
+  "birth_date": "12/1/1994",
+  "nation": "Germany",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "엠 레 캔",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 14,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 18,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 18,
+      "Strength": 15
+    }
+  }
+}

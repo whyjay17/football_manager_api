@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8322.png",
+  "name": "Jessy Deminguet",
+  "birth_date": "7/1/1998",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left Only",
+  "korean": "제 시 데 밍 게",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 1,
+      "Passing": 15,
+      "Penalty Taking": 1,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

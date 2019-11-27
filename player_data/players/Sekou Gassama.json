@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59225.png",
+  "name": "Sekou Gassama",
+  "birth_date": "6/5/1995",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right Only",
+  "korean": "세 코 가 사 마",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 7,
+      "Penalty Taking": 9,
+      "Tackling": 4,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

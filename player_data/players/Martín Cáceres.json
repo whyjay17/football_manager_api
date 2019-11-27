@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22111.png",
+  "name": "Martín Cáceres",
+  "birth_date": "7/4/1987",
+  "nation": "Uruguay",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "마 틴 카 세 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 7,
+      "Long Throws": 2,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 16,
+      "Bravery": 18,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

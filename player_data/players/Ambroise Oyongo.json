@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7706.png",
+  "name": "Ambroise Oyongo",
+  "birth_date": "22/6/1991",
+  "nation": "Cameroon",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "암 브 로 이 스 오 용 고",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 2,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 8,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

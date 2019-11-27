@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22703.png",
+  "name": "Giangiacomo Magnani",
+  "birth_date": "4/10/1995",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "지 안 지 아 코 모 마 그 나 니",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

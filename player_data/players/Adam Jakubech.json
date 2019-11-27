@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61501.png",
+  "name": "Adam Jakubech",
+  "birth_date": "2/1/1997",
+  "nation": "Slovakia",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "아 담 야 쿠 베 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 5,
+      "First Touch": 8,
+      "Handling": 11,
+      "Kicking": 14,
+      "Passing": 13,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 5,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19796.png",
+  "name": "Rubén Castro",
+  "birth_date": "27/6/1981",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "루 벤 카 스 트 로",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 16,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 16,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 17,
+      "Positioning": 10,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

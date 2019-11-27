@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21866.png",
+  "name": "Davide Biraschi",
+  "birth_date": "2/7/1994",
+  "nation": "Italy",
+  "position": "D (RC), WB (R)",
+  "foot": "Right Only",
+  "korean": "다 비 드 비 라 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 7,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 4,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

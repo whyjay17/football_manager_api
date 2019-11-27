@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26126.png",
+  "name": "Nicolas Taravel",
+  "birth_date": "13/10/1994",
+  "nation": "France",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "니 콜 라 스 타 라 벨",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 3,
+      "Dribbling": 2,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 1,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 4,
+      "Penalty Taking": 3,
+      "Tackling": 11,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 2,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 7,
+      "Vision": 5,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

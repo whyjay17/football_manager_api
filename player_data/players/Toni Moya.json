@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57672.png",
+  "name": "Toni Moya",
+  "birth_date": "23/3/1998",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "토 니 모 야",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 20,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 8,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

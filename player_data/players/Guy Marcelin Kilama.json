@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26489.png",
+  "name": "Guy Marcelin Kilama",
+  "birth_date": "30/5/1999",
+  "nation": "Cameroon",
+  "position": "D (L), DM",
+  "foot": "Right",
+  "korean": "가 이 마 르 셀 린 킬 라 마",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 4,
+      "Leadership": 6,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

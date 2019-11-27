@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49756.png",
+  "name": "Matt Turner",
+  "birth_date": "24/6/1994",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "맷 터 너",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 6,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 6,
+      "Leadership": 3,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 13,
+      "Balance": 6,
+      "Jumping Reach": 12,
+      "Natural Fitness": 6,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

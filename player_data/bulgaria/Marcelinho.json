@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54128.png",
+  "name": "Marcelinho",
+  "birth_date": "24/8/1984",
+  "nation": "Bulgaria",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "마 르 셀 리 뇨",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 14,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

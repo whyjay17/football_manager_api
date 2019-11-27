@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7205.png",
+  "name": "Danijel Subasic",
+  "birth_date": "27/10/1984",
+  "nation": "Croatia",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "다 니 엘 수 베 이 직",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 14,
+      "Eccentricity": 12,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 12,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 2,
+      "Positioning": 16,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

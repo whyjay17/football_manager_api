@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/552.png",
+  "name": "Ryad Boudebouz",
+  "birth_date": "19/2/1990",
+  "nation": "Algeria",
+  "position": "M (C), AM (RLC)",
+  "foot": "Left",
+  "korean": "라 이 드 부 데 부 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 17,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 16,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 18,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

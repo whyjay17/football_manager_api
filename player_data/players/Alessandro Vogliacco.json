@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35098.png",
+  "name": "Alessandro Vogliacco",
+  "birth_date": "14/9/1998",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 레 산 드 로 보 글 리 아 코",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 7,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 3,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 3
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 5,
+      "Concentration": 5,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 7,
+      "Vision": 4,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 5,
+      "Strength": 7
+    }
+  }
+}

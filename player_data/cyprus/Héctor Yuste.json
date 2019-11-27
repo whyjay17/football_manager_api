@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80646.png",
+  "name": "Héctor Yuste",
+  "birth_date": "12/1/1988",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right Only",
+  "korean": "헥 터 유 스 테",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

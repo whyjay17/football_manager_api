@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34029.png",
+  "name": "Lorenzo Laverone",
+  "birth_date": "19/4/1989",
+  "nation": "Italy",
+  "position": "D/WB (R)",
+  "foot": "Left",
+  "korean": "로 렌 조 라 베 로 네",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

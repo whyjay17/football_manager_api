@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49839.png",
+  "name": "Sacha Kljestan",
+  "birth_date": "9/9/1985",
+  "nation": "United States",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "샤 차 클 리 에 스 탄",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

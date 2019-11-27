@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21411.png",
+  "name": "Víctor Ibarbo",
+  "birth_date": "19/5/1990",
+  "nation": "Colombia",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "빅 토 르 이 바 르 보",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

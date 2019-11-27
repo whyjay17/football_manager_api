@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24642.png",
+  "name": "Jóan Símun Edmundsson",
+  "birth_date": "26/7/1991",
+  "nation": "Faroe Islands",
+  "position": "M (R), AM (RC), ST (C)",
+  "foot": "Either",
+  "korean": "요 한 시 문 에 드 먼 드 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

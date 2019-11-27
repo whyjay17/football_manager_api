@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25006.png",
+  "name": "Kusi Kwame",
+  "birth_date": "9/8/1989",
+  "nation": "Ghana",
+  "position": "D/WB (RL)",
+  "foot": "Left",
+  "korean": "쿠 시 콰 메",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 3,
+      "Heading": 7,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 8,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

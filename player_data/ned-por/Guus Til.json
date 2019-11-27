@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8676.png",
+  "name": "Guus Til",
+  "birth_date": "22/12/1997",
+  "nation": "Netherlands",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "거 스 틸",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20010.png",
+  "name": "Nacho",
+  "birth_date": "11/2/1993",
+  "nation": "Spain",
+  "position": "M (R), AM (RC)",
+  "foot": "Left Only",
+  "korean": "나 초 ( 나 초 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 8,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 8
+    }
+  }
+}

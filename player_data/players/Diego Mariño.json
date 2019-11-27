@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19577.png",
+  "name": "Diego Mariño",
+  "birth_date": "9/5/1990",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "디 에 고 마 리 뇨",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

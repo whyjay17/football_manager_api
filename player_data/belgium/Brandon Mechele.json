@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20536.png",
+  "name": "Brandon Mechele",
+  "birth_date": "28/1/1993",
+  "nation": "Belgium",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "브 랜 든 메 첼",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 5,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

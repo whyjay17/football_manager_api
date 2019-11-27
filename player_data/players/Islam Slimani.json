@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2826.png",
+  "name": "Islam Slimani",
+  "birth_date": "18/6/1988",
+  "nation": "Algeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "이 슬 람 슬 리 마 니",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47904.png",
+  "name": "Bruno Petkovic",
+  "birth_date": "16/9/1994",
+  "nation": "Croatia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "브 루 노 페 트 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

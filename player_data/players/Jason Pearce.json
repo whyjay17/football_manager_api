@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11591.png",
+  "name": "Jason Pearce",
+  "birth_date": "6/12/1987",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "제 이 슨 피 어 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

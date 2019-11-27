@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6648.png",
+  "name": "Yussuf Poulsen",
+  "birth_date": "15/6/1994",
+  "nation": "Denmark",
+  "position": "M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "유 수 프 풀 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 18,
+      "Natural Fitness": 17,
+      "Pace": 16,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

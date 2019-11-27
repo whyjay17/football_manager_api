@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57830.png",
+  "name": "Pablo Pallarés",
+  "birth_date": "12/1/1987",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "파 블 로 팔 라 레",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

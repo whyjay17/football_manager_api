@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7475.png",
+  "name": "Laurent Ciman",
+  "birth_date": "5/8/1985",
+  "nation": "Belgium",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "로 랑 시 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 15,
+      "Long Shots": 15,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

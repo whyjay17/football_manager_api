@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59087.png",
+  "name": "Ion Echaide",
+  "birth_date": "5/1/1988",
+  "nation": "Spain",
+  "position": "D (RLC)",
+  "foot": "Right",
+  "korean": "이 온 에 카 이 드",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

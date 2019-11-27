@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24690.png",
+  "name": "Patrick Fabian",
+  "birth_date": "11/10/1987",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "패 트 릭 파 비 안",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 18,
+      "Off The Ball": 6,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 7,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 7,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

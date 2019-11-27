@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49684.png",
+  "name": "Romario Ibarra",
+  "birth_date": "24/9/1994",
+  "nation": "Ecuador",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "로 마 리 오 이 바 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

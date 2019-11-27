@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20088.png",
+  "name": "David Morillas",
+  "birth_date": "28/9/1986",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "데 이 비 드 모 릴 라 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

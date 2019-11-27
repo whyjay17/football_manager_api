@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49636.png",
+  "name": "David Bingham",
+  "birth_date": "19/10/1989",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "데 이 비 드 빙 엄",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 9,
+      "Eccentricity": 7,
+      "First Touch": 9,
+      "Handling": 10,
+      "Kicking": 14,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

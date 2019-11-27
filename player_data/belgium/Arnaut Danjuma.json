@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20532.png",
+  "name": "Arnaut Danjuma",
+  "birth_date": "31/1/1997",
+  "nation": "Netherlands",
+  "position": "AM (RL)",
+  "foot": "Right Only",
+  "korean": "아 르 나 우 트 단 주 마",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

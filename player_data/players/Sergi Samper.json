@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1141.png",
+  "name": "Sergi Samper",
+  "birth_date": "20/1/1995",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 르 기 샘 퍼",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 6,
+      "First Touch": 17,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 15,
+      "Bravery": 8,
+      "Composure": 16,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

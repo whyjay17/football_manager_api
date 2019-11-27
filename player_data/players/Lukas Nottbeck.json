@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24736.png",
+  "name": "Lukas Nottbeck",
+  "birth_date": "22/10/1988",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Right Only",
+  "korean": "루 카 스 노 트 벡",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

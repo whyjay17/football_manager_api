@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7454.png",
+  "name": "Jonathan Cafu",
+  "birth_date": "10/7/1991",
+  "nation": "Brazil",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "조 선 카 푸",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 4,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

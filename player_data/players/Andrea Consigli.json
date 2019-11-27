@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22696.png",
+  "name": "Andrea Consigli",
+  "birth_date": "27/1/1987",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "안 드 레 아 콘 시 글 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 6,
+      "Reflexes": 17,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

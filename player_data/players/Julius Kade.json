@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6531.png",
+  "name": "Julius Kade",
+  "birth_date": "20/5/1999",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "줄 리 어 스 카 데",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

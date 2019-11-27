@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50070.png",
+  "name": "Kendall Waston",
+  "birth_date": "1/1/1988",
+  "nation": "Costa Rica",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "켄 달 와 스 턴",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 2,
+      "Heading": 17,
+      "Long Shots": 2,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 19,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 19
+    }
+  }
+}

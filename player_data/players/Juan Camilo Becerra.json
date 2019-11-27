@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59150.png",
+  "name": "Juan Camilo Becerra",
+  "birth_date": "23/2/1998",
+  "nation": "Colombia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "후 안 카 밀 로 베 세 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 2,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 5,
+      "Composure": 8,
+      "Concentration": 4,
+      "Decisions": 9,
+      "Determination": 1,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

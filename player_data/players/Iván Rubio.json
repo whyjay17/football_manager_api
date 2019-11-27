@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58864.png",
+  "name": "Iván Rubio",
+  "birth_date": "1/3/1991",
+  "nation": "Spain",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "이 반 루 비 오",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 2,
+      "Flair": 6,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

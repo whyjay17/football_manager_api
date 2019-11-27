@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40862.png",
+  "name": "Ondrej Kolar",
+  "birth_date": "17/10/1994",
+  "nation": "Czech Republic",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "온 드 레 이 콜 라 르",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 8,
+      "Eccentricity": 10,
+      "First Touch": 13,
+      "Handling": 15,
+      "Kicking": 18,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 18,
+      "Throwing": 16
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 2,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 1
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 16
+    }
+  }
+}

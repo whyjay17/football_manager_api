@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23918.png",
+  "name": "Jovane Cabral",
+  "birth_date": "14/6/1998",
+  "nation": "Portugal",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "조 반 카 브 랄",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 4,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

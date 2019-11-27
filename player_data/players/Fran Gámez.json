@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19944.png",
+  "name": "Fran Gámez",
+  "birth_date": "21/7/1992",
+  "nation": "Spain",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "프 란 가 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10692.png",
+  "name": "Sean Raggett",
+  "birth_date": "25/1/1994",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "숀 래 겟",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 3,
+      "Dribbling": 2,
+      "Finishing": 4,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 4,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 3,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 11,
+      "Jumping Reach": 17,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

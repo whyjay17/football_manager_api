@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41763.png",
+  "name": "Julien Ngoy",
+  "birth_date": "2/11/1997",
+  "nation": "Belgium",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "줄 리 엔 은 고 이",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 6,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 15,
+      "Balance": 6,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 18,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

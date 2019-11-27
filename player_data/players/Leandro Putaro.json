@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24660.png",
+  "name": "Leandro Putaro",
+  "birth_date": "7/1/1997",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "레 안 드 로 푸 타 로",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 10,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

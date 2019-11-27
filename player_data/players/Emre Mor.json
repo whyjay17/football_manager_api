@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/141.png",
+  "name": "Emre Mor",
+  "birth_date": "24/7/1997",
+  "nation": "Turkey",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "엠 레 모",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 17,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 4,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 6,
+      "Determination": 10,
+      "Flair": 19,
+      "Leadership": 4,
+      "Off The Ball": 15,
+      "Positioning": 6,
+      "Teamwork": 4,
+      "Vision": 15,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 18,
+      "Balance": 16,
+      "Jumping Reach": 4,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6387.png",
+  "name": "Kaan Ayhan",
+  "birth_date": "10/11/1994",
+  "nation": "Turkey",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "칸 아 이 한",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 12,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

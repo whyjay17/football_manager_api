@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34141.png",
+  "name": "Lorenzo Montipò",
+  "birth_date": "20/2/1996",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 렌 조 몬 티 포",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 8,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 15,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 10
+    }
+  }
+}

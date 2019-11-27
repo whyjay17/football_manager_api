@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25908.png",
+  "name": "Robin Taillan",
+  "birth_date": "27/5/1992",
+  "nation": "France",
+  "position": "D/WB/M (R)",
+  "foot": "Right Only",
+  "korean": "로 빈 테 일 런",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 1,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

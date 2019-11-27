@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7198.png",
+  "name": "Loïc Badiashile",
+  "birth_date": "5/2/1998",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "로 이 크 바 디 아 실",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 11,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

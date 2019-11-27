@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2871.png",
+  "name": "Younes Belhanda",
+  "birth_date": "25/2/1990",
+  "nation": "Morocco",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Right",
+  "korean": "유 네 스 벨 한 다",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

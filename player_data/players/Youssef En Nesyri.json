@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/787.png",
+  "name": "Youssef En Nesyri",
+  "birth_date": "1/6/1997",
+  "nation": "Morocco",
+  "position": "AM (L), ST (C)",
+  "foot": "Either",
+  "korean": "유 세 프 엔 네 시 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 8,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

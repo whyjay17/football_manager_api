@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49874.png",
+  "name": "Jack Elliott",
+  "birth_date": "24/8/1995",
+  "nation": "England",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "잭 엘 리 엇",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 7,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 6,
+      "Jumping Reach": 18,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

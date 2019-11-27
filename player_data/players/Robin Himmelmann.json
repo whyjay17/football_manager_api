@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25257.png",
+  "name": "Robin Himmelmann",
+  "birth_date": "5/2/1989",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "로 빈 히 멜 만",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

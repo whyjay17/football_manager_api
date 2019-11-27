@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59108.png",
+  "name": "Kevin Soni",
+  "birth_date": "17/4/1998",
+  "nation": "Cameroon",
+  "position": "AM (RC)",
+  "foot": "Right",
+  "korean": "케 빈 소 니",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 8,
+      "Flair": 8,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

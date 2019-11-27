@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59202.png",
+  "name": "Ander Cantero",
+  "birth_date": "9/1/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 데 르 칸 테 라 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 10,
+      "Eccentricity": 9,
+      "First Touch": 2,
+      "Handling": 6,
+      "Kicking": 14,
+      "Passing": 12,
+      "Reflexes": 14,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 4,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 2,
+      "Strength": 7
+    }
+  }
+}

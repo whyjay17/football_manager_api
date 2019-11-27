@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22106.png",
+  "name": "Bastos",
+  "birth_date": "23/11/1991",
+  "nation": "Angola",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "바 스 토 ( ) 바 스 토",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 4,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 17,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 17,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

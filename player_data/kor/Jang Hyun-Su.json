@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46726.png",
+  "name": "Jang Hyun-Su",
+  "birth_date": "1/1/1993",
+  "nation": "South Korea KOR",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "장 현 수",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 3,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

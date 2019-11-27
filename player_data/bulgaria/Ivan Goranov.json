@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/54016.png",
+  "name": "Ivan Goranov",
+  "birth_date": "10/6/1992",
+  "nation": "Bulgaria",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "이 반 고 라 노 프",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

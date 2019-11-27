@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58991.png",
+  "name": "José Fran",
+  "birth_date": "1/6/1992",
+  "nation": "Spain",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "호 세 프 랑",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 5,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 4,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

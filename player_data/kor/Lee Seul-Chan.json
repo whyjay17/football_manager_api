@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46577.png",
+  "name": "Lee Seul-Chan",
+  "birth_date": "15/8/1993",
+  "nation": "South Korea KOR",
+  "position": "D/M (R)",
+  "foot": "Right",
+  "korean": "이 슬 찬",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 4,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 9,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 7,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

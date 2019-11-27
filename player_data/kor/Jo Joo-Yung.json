@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/83940.png",
+  "name": "Jo Joo-Yung",
+  "birth_date": "4/2/1994",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "조 주 영",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 3,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

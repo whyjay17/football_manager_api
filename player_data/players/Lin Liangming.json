@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59223.png",
+  "name": "Lin Liangming",
+  "birth_date": "4/6/1997",
+  "nation": "China PR",
+  "position": "M (L), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "린 리 닝",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 2,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 8,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 4,
+      "Teamwork": 7,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 7,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 18,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/507.png",
+  "name": "Pau López",
+  "birth_date": "13/12/1994",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "파 우 로 페 즈",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 10,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 14,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

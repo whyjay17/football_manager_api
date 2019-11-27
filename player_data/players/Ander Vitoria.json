@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58489.png",
+  "name": "Ander Vitoria",
+  "birth_date": "22/1/1990",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "안 데 르 비 토 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 3,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 6,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

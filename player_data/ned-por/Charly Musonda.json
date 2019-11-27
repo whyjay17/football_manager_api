@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9357.png",
+  "name": "Charly Musonda",
+  "birth_date": "15/10/1996",
+  "nation": "Belgium",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "찰 리 무 손 다",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 17,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

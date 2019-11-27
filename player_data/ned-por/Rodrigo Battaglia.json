@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23902.png",
+  "name": "Rodrigo Battaglia",
+  "birth_date": "12/7/1991",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "로 드 리 고 바 타 글 리 아",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

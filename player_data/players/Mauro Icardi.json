@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21940.png",
+  "name": "Mauro Icardi",
+  "birth_date": "19/2/1993",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 우 로 이 카 르 디",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 19,
+      "First Touch": 15,
+      "Free Kick": 2,
+      "Heading": 18,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 17,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 19,
+      "Bravery": 12,
+      "Composure": 18,
+      "Concentration": 13,
+      "Decisions": 18,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 20,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

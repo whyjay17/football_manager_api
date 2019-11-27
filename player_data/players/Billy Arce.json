@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19563.png",
+  "name": "Billy Arce",
+  "birth_date": "12/7/1998",
+  "nation": "Ecuador",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Left",
+  "korean": "빌 리 아 크",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 2,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 3,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

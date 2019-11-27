@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/831.png",
+  "name": "Serdar Gürler",
+  "birth_date": "14/9/1991",
+  "nation": "Turkey",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "세 르 다 르 귀 러",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 6
+    }
+  }
+}

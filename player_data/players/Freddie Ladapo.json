@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12103.png",
+  "name": "Freddie Ladapo",
+  "birth_date": "1/2/1993",
+  "nation": "Nigeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "프 레 디 라 다 포",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

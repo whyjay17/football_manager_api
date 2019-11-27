@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3220.png",
+  "name": "Abdülkadir Ömür",
+  "birth_date": "25/6/1999",
+  "nation": "Turkey",
+  "position": "M/AM (RC)",
+  "foot": "Left Only",
+  "korean": "압 굴 카 디 르 오 무 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 9,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7200.png",
+  "name": "Diego Benaglio",
+  "birth_date": "8/9/1983",
+  "nation": "Switzerland",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "디 에 고 베 나 글 리 오",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 16,
+      "Eccentricity": 8,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 1,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

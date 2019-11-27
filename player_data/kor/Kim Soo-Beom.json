@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46508.png",
+  "name": "Kim Soo-Beom",
+  "birth_date": "2/10/1990",
+  "nation": "South Korea KOR",
+  "position": "D (RLC), WB (RL)",
+  "foot": "Right",
+  "korean": "김 수 범",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 5,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

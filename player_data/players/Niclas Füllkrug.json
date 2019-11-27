@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6473.png",
+  "name": "Niclas Füllkrug",
+  "birth_date": "9/2/1993",
+  "nation": "Germany",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "니 클 라 스 퓌 르 크 루 그",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 16,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

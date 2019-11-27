@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19990.png",
+  "name": "Pichu Atienza",
+  "birth_date": "18/1/1990",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "피 추 아 티 엔 자",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 4,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34049.png",
+  "name": "Samuele Parlati",
+  "birth_date": "5/2/1997",
+  "nation": "Italy",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "사 무 엘 팔 라 티",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 6,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49417.png",
+  "name": "Josef Martínez",
+  "birth_date": "19/5/1993",
+  "nation": "Venezuela",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "조 세 프 마 르 티 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

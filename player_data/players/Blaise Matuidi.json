@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22021.png",
+  "name": "Blaise Matuidi",
+  "birth_date": "9/4/1987",
+  "nation": "France",
+  "position": "DM, M (LC)",
+  "foot": "Left",
+  "korean": "블 레 즈 마 투 이 디",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 20,
+      "Composure": 15,
+      "Concentration": 18,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 16,
+      "Positioning": 17,
+      "Teamwork": 19,
+      "Vision": 10,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 18,
+      "Strength": 16
+    }
+  }
+}

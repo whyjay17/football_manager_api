@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24675.png",
+  "name": "Sidney Sam",
+  "birth_date": "31/1/1988",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Left Only",
+  "korean": "시 드 니 샘",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

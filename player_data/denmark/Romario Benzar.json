@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52806.png",
+  "name": "Romario Benzar",
+  "birth_date": "26/3/1992",
+  "nation": "Romania",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "로 마 리 오 벤 자 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 14,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 18,
+      "Strength": 11
+    }
+  }
+}

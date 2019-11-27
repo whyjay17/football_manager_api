@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25806.png",
+  "name": "Leverton Pierre",
+  "birth_date": "9/3/1998",
+  "nation": "Haiti",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "레 버 턴 피 에 르",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 1,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 5,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 9,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 7,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

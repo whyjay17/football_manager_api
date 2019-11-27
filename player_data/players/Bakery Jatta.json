@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24998.png",
+  "name": "Bakery Jatta",
+  "birth_date": "6/6/1998",
+  "nation": "Gambia",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "베 이 커 리 자 타",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 5,
+      "Passing": 7,
+      "Penalty Taking": 9,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 7,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 7,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/390.png",
+  "name": "Pablo Sarabia",
+  "birth_date": "11/5/1992",
+  "nation": "Spain",
+  "position": "M/AM (RLC)",
+  "foot": "Left",
+  "korean": "파 블 로 사 라 비 아",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

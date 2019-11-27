@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46448.png",
+  "name": "Moon Seon-Min",
+  "birth_date": "9/6/1992",
+  "nation": "South Korea KOR",
+  "position": "AM (R)",
+  "foot": "Right",
+  "korean": "문 선 민",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

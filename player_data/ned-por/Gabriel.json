@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23212.png",
+  "name": "Gabriel",
+  "birth_date": "18/9/1993",
+  "nation": "Brazil",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "가 브 리 엘",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

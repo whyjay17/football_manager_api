@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40969.png",
+  "name": "Michal Sacek",
+  "birth_date": "19/9/1996",
+  "nation": "Czech Republic",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "미 할 사 첵",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 8,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

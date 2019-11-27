@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58418.png",
+  "name": "Iván Casado",
+  "birth_date": "6/7/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "이 반 카 사 도",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 5,
+      "Finishing": 3,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 7,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

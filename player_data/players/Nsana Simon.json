@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26239.png",
+  "name": "Nsana Simon",
+  "birth_date": "11/3/2000",
+  "nation": "France",
+  "position": "M (C)",
+  "foot": "Left",
+  "korean": "나 사 사 이 먼",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 7,
+      "Bravery": 12,
+      "Composure": 4,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 9,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

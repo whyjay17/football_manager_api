@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2651.png",
+  "name": "Oğuzhan Özyakup",
+  "birth_date": "23/9/1992",
+  "nation": "Turkey",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "오 구 잔 오 자 쿱",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 16,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

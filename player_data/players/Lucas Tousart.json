@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7922.png",
+  "name": "Lucas Tousart",
+  "birth_date": "29/4/1997",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 카 스 투 사 르 트",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 16,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 17,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

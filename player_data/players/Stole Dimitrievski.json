@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19634.png",
+  "name": "Stole Dimitrievski",
+  "birth_date": "25/12/1993",
+  "nation": "Macedonia MKD",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "스 톨 디 미 트 리 에 프 스 키",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 1,
+      "First Touch": 5,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 14,
+      "Reflexes": 12,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

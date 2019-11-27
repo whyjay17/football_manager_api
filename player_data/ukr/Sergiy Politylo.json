@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32100.png",
+  "name": "Sergiy Politylo",
+  "birth_date": "9/1/1989",
+  "nation": "Ukraine",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "세 르 게 이 폴 리 틸 로",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 1,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 4,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

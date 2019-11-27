@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21704.png",
+  "name": "Christian Nørgaard",
+  "birth_date": "10/3/1994",
+  "nation": "Denmark",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 노 르 가 르 드",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 6,
+      "Long Shots": 12,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 7,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

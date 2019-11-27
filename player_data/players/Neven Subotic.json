@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7314.png",
+  "name": "Neven Subotic",
+  "birth_date": "10/12/1988",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "네 벤 수 보 티 치",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 11,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 10,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 16
+    }
+  }
+}

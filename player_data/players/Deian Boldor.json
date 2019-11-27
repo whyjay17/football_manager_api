@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35775.png",
+  "name": "Deian Boldor",
+  "birth_date": "3/2/1995",
+  "nation": "Romania",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "데 이 안 볼 도 르",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 7,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

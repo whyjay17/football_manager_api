@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6994.png",
+  "name": "Jeffrey Bruma",
+  "birth_date": "13/11/1991",
+  "nation": "Netherlands",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "제 프 리 브 루 마",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

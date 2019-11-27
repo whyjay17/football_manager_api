@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19301.png",
+  "name": "Jon Ander Garrido",
+  "birth_date": "9/10/1989",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "존 앤 더 가 리 도",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 13,
+      "Bravery": 17,
+      "Composure": 8,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 17,
+      "Teamwork": 18,
+      "Vision": 6,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

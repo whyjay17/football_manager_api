@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8110.png",
+  "name": "Jesé",
+  "birth_date": "26/2/1993",
+  "nation": "Spain",
+  "position": "M (RL), AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "제 시 ( 예 제 )",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 6,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

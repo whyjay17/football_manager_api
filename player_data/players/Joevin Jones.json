@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24778.png",
+  "name": "Joevin Jones",
+  "birth_date": "3/8/1991",
+  "nation": "Trinidad and Tobago",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "조 빈 존 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

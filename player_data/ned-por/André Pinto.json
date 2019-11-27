@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23910.png",
+  "name": "André Pinto",
+  "birth_date": "5/10/1989",
+  "nation": "Portugal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "안 드 레 핀 투",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

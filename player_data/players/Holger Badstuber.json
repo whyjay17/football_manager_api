@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6926.png",
+  "name": "Holger Badstuber",
+  "birth_date": "13/3/1989",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "홀 거 바 스 트 스 튜 버",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 18,
+      "Concentration": 14,
+      "Decisions": 17,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 5,
+      "Positioning": 16,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 7,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 14
+    }
+  }
+}

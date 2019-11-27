@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7035.png",
+  "name": "Felix Klaus",
+  "birth_date": "13/9/1992",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "펠 릭 스 클 라 우 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 9,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 18,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

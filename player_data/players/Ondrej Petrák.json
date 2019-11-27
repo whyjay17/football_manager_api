@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/5984.png",
+  "name": "Ondrej Petrák",
+  "birth_date": "11/3/1992",
+  "nation": "Czech Republic",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "온 드 레 이 페 트 라 크",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 11
+    }
+  }
+}

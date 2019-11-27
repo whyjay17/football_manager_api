@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8268.png",
+  "name": "Hatem Ben Arfa",
+  "birth_date": "7/3/1987",
+  "nation": "France",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "하 템 벤 아 르 파",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 2,
+      "Marking": 1,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 1,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 10,
+      "Bravery": 5,
+      "Composure": 14,
+      "Concentration": 5,
+      "Decisions": 7,
+      "Determination": 6,
+      "Flair": 18,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 1,
+      "Teamwork": 6,
+      "Vision": 15,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

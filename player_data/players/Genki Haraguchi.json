@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6475.png",
+  "name": "Genki Haraguchi",
+  "birth_date": "9/5/1991",
+  "nation": "Japan",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "하 라 구 치 겐 키",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

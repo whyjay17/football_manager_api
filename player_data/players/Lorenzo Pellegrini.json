@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22495.png",
+  "name": "Lorenzo Pellegrini",
+  "birth_date": "19/6/1996",
+  "nation": "Italy",
+  "position": "DM, M/AM (C)",
+  "foot": "Either",
+  "korean": "로 렌 조 펠 레 그 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 16,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

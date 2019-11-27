@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25111.png",
+  "name": "Thomas Pledl",
+  "birth_date": "23/5/1994",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "토 머 스 플 레 들",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 4,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

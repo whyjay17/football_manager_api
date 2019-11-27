@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58649.png",
+  "name": "Martín Merquelanz",
+  "birth_date": "12/6/1995",
+  "nation": "Spain",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "마 틴 메 르 켈 란 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

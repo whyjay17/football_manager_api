@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7229.png",
+  "name": "Kévin N'Doram",
+  "birth_date": "22/1/1996",
+  "nation": "France",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "케 빈 은 도 람",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

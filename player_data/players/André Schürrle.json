@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6124.png",
+  "name": "André Schürrle",
+  "birth_date": "6/11/1990",
+  "nation": "Germany",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "안 드 레 쉬 를 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 18,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49970.png",
+  "name": "Jahmir Hyka",
+  "birth_date": "3/8/1988",
+  "nation": "Albania",
+  "position": "M/AM (RLC)",
+  "foot": "Left",
+  "korean": "자 미 르 히 카",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 7,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 7,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 3
+    }
+  }
+}

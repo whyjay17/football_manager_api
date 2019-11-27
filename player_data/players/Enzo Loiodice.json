@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7506.png",
+  "name": "Enzo Loiodice",
+  "birth_date": "27/11/2000",
+  "nation": "France",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "엔 조 로 이 디 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 3,
+      "Heading": 5,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 3,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 9,
+      "Leadership": 4,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 11
+    }
+  }
+}

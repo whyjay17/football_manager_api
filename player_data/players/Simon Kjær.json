@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/346.png",
+  "name": "Simon Kjær",
+  "birth_date": "26/3/1989",
+  "nation": "Denmark",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "사 이 먼 키 예 르",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 16,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 16,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 18,
+      "Flair": 5,
+      "Leadership": 16,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10945.png",
+  "name": "Thibaud Verlinden",
+  "birth_date": "9/7/1999",
+  "nation": "Belgium",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "티 보 벨 린 덴",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

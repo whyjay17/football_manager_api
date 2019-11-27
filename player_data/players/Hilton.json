@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7695.png",
+  "name": "Hilton",
+  "birth_date": "13/9/1977",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "힐 튼",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 8,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

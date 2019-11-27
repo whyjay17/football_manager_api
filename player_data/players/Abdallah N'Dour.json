@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8377.png",
+  "name": "Abdallah N'Dour",
+  "birth_date": "20/12/1993",
+  "nation": "Senegal",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "압 달 라 은 두 르",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

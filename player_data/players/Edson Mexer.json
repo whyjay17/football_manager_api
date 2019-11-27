@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8215.png",
+  "name": "Edson Mexer",
+  "birth_date": "8/9/1988",
+  "nation": "Mozambique",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "에 드 슨 멕 서",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

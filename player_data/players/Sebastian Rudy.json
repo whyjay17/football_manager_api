@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6744.png",
+  "name": "Sebastian Rudy",
+  "birth_date": "28/2/1990",
+  "nation": "Germany",
+  "position": "D (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "세 바 스 찬 루 디",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 16,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 10,
+      "Composure": 17,
+      "Concentration": 13,
+      "Decisions": 16,
+      "Determination": 10,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 18,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 10
+    }
+  }
+}

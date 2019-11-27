@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35363.png",
+  "name": "Ferdinando Del Sole",
+  "birth_date": "17/1/1998",
+  "nation": "Italy",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "페 르 디 난 도 델 솔 레",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

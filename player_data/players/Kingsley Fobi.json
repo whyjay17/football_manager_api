@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59436.png",
+  "name": "Kingsley Fobi",
+  "birth_date": "20/9/1998",
+  "nation": "Ghana",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "킹 슬 리 포 비",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 3,
+      "First Touch": 14,
+      "Free Kick": 2,
+      "Heading": 5,
+      "Long Shots": 3,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 3,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 4,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

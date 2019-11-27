@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8597.png",
+  "name": "Donny van de Beek",
+  "birth_date": "18/4/1997",
+  "nation": "Netherlands",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "도 니 반 더 비 크",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26032.png",
+  "name": "David Douline",
+  "birth_date": "28/5/1993",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Left Only",
+  "korean": "다 비 드 돌 린",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

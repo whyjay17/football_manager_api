@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6530.png",
+  "name": "Ondrej Duda",
+  "birth_date": "15/12/1994",
+  "nation": "Slovakia",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "온 드 레 이 두 다",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 17,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 15,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 16,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

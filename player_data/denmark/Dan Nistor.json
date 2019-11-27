@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52444.png",
+  "name": "Dan Nistor",
+  "birth_date": "6/5/1988",
+  "nation": "Romania",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "단 니 스 토 르",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 12,
+      "Leadership": 15,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

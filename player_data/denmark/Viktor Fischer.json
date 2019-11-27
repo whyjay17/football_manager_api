@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41312.png",
+  "name": "Viktor Fischer",
+  "birth_date": "9/6/1994",
+  "nation": "Denmark",
+  "position": "M (L), AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "빅 토 르 피 셔",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 16,
+      "Bravery": 11,
+      "Composure": 14,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 6,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8650.png",
+  "name": "Jonas Svensson",
+  "birth_date": "6/3/1993",
+  "nation": "Norway",
+  "position": "D/WB (R), DM, M (C)",
+  "foot": "Right",
+  "korean": "요 나 스 스 벤 손",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 15,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 18,
+      "Strength": 12
+    }
+  }
+}

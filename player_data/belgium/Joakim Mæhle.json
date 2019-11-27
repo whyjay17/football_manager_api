@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20664.png",
+  "name": "Joakim Mæhle",
+  "birth_date": "20/5/1997",
+  "nation": "Denmark",
+  "position": "D/M/AM (R)",
+  "foot": "Right",
+  "korean": "요 아 킴 메 흘 레",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 9,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 18,
+      "Strength": 13
+    }
+  }
+}

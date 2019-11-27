@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22105.png",
+  "name": "Wallace",
+  "birth_date": "14/10/1994",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "월 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 16,
+      "Long Shots": 5,
+      "Long Throws": 4,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 16,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

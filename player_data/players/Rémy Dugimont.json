@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25846.png",
+  "name": "Rémy Dugimont",
+  "birth_date": "1/7/1986",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "레 미 두 기 몬 트",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

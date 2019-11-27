@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6315.png",
+  "name": "Mats Hummels",
+  "birth_date": "16/12/1988",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "매 츠 훔 멜 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 16,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 17,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 18,
+      "Bravery": 14,
+      "Composure": 19,
+      "Concentration": 15,
+      "Decisions": 17,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 18,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

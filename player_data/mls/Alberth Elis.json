@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49596.png",
+  "name": "Alberth Elis",
+  "birth_date": "12/2/1996",
+  "nation": "Honduras",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "알 베 르 스 엘 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 3,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

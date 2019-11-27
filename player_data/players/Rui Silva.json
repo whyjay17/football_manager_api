@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19681.png",
+  "name": "Rui Silva",
+  "birth_date": "7/2/1994",
+  "nation": "Portugal",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "루 이 실 바",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

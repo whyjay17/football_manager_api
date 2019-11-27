@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6421.png",
+  "name": "Rouwen Hennings",
+  "birth_date": "28/8/1987",
+  "nation": "Germany",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "루 웬 헤 닝 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 15,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

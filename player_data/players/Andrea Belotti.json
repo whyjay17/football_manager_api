@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22891.png",
+  "name": "Andrea Belotti",
+  "birth_date": "20/12/1993",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "안 드 레 아 벨 로 티",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 16,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 17,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 17,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 4,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

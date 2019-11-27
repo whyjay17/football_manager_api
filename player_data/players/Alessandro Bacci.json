@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34052.png",
+  "name": "Alessandro Bacci",
+  "birth_date": "25/9/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 레 산 드 로 바 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 11,
+      "First Touch": 4,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 3,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 6,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 5,
+      "Leadership": 6,
+      "Off The Ball": 6,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 6,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

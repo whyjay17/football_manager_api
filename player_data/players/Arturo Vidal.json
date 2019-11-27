@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1143.png",
+  "name": "Arturo Vidal",
+  "birth_date": "22/5/1987",
+  "nation": "Chile",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "아 르 투 로 비 달",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 18,
+      "Tackling": 17,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 20,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 20,
+      "Flair": 13,
+      "Leadership": 16,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 18,
+      "Pace": 11,
+      "Stamina": 17,
+      "Strength": 13
+    }
+  }
+}

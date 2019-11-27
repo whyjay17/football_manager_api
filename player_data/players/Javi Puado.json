@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1025.png",
+  "name": "Javi Puado",
+  "birth_date": "25/5/1998",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "하 비 푸 아 도",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 6,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 10,
+      "Leadership": 3,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

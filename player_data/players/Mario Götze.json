@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6105.png",
+  "name": "Mario Götze",
+  "birth_date": "3/6/1992",
+  "nation": "Germany",
+  "position": "M/AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "마 리 오 괴 체",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 18,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 18,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 16,
+      "Vision": 18,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 9
+    }
+  }
+}

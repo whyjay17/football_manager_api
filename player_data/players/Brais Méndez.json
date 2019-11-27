@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/133.png",
+  "name": "Brais Méndez",
+  "birth_date": "7/1/1997",
+  "nation": "Spain",
+  "position": "M (C), AM (RC)",
+  "foot": "Left",
+  "korean": "브 라 이 스 멘 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 15,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/538.png",
+  "name": "Javi García",
+  "birth_date": "8/2/1987",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "하 비 가 르 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 11,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 17,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 17,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 17,
+      "Teamwork": 18,
+      "Vision": 7,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

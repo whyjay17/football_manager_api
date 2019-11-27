@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41616.png",
+  "name": "Allan Sousa",
+  "birth_date": "27/1/1997",
+  "nation": "Brazil",
+  "position": "AM (RC), ST (C)",
+  "foot": "Either",
+  "korean": "알 란 소 우 사",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 14,
+      "Heading": 3,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 15,
+      "Tackling": 4,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 6,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 16,
+      "Leadership": 3,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 5,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 2,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22513.png",
+  "name": "Daniele De Rossi",
+  "birth_date": "24/7/1983",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "다 니 엘 레 데 로 시",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 15,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 18,
+      "Bravery": 19,
+      "Composure": 16,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 20,
+      "Flair": 13,
+      "Leadership": 20,
+      "Off The Ball": 12,
+      "Positioning": 19,
+      "Teamwork": 20,
+      "Vision": 14,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 8,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

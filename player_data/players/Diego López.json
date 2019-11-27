@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/958.png",
+  "name": "Diego López",
+  "birth_date": "3/11/1981",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "디 에 고 로 페 즈",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 13,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 15,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 15,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 2,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 17,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

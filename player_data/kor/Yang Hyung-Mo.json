@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/84056.png",
+  "name": "Yang Hyung-Mo",
+  "birth_date": "16/7/1991",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "양 형 모",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 9,
+      "Communication": 14,
+      "Eccentricity": 9,
+      "First Touch": 8,
+      "Handling": 10,
+      "Kicking": 10,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 15,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

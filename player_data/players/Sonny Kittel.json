@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25102.png",
+  "name": "Sonny Kittel",
+  "birth_date": "6/1/1993",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Either",
+  "korean": "소 니 키 텔",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

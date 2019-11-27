@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41371.png",
+  "name": "Marc Dal Hende",
+  "birth_date": "6/11/1990",
+  "nation": "Denmark",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "마 크 달 헤 네",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 12,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

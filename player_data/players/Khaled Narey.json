@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24988.png",
+  "name": "Khaled Narey",
+  "birth_date": "23/7/1994",
+  "nation": "Togo",
+  "position": "D/WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "칼 레 드 나 레 이",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 9,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 9,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 10,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

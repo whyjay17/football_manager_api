@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24693.png",
+  "name": "Jannik Bandowski",
+  "birth_date": "30/3/1994",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "야 니 크 반 도 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

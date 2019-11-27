@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58956.png",
+  "name": "Víctor Campuzano",
+  "birth_date": "31/5/1997",
+  "nation": "Spain",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "비 토 르 캄 푸 자 노",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 16,
+      "Determination": 7,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

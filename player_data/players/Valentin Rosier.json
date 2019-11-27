@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7471.png",
+  "name": "Valentin Rosier",
+  "birth_date": "19/8/1996",
+  "nation": "France",
+  "position": "D (RL)",
+  "foot": "Right",
+  "korean": "발 렌 틴 로 지 어",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

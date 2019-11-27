@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/490.png",
+  "name": "Mikel Oyarzábal",
+  "birth_date": "21/4/1997",
+  "nation": "Spain",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "미 켈 오 야 르 자 발",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 15,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

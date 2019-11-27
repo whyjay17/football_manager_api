@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11093.png",
+  "name": "Kyle Edwards",
+  "birth_date": "17/2/1998",
+  "nation": "England",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "카 일 에 드 워 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 10,
+      "Flair": 14,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/114.png",
+  "name": "Hugo Mallo",
+  "birth_date": "22/6/1991",
+  "nation": "Spain",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "휴 고 말 로",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

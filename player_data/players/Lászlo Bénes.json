@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6169.png",
+  "name": "Lászlo Bénes",
+  "birth_date": "9/9/1997",
+  "nation": "Slovakia",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "라 즐 로 베 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

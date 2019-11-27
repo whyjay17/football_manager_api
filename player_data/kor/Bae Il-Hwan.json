@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46504.png",
+  "name": "Bae Il-Hwan",
+  "birth_date": "20/7/1988",
+  "nation": "South Korea KOR",
+  "position": "AM (R)",
+  "foot": "Right",
+  "korean": "배 일 환",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 6,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

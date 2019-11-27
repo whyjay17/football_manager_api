@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3759.png",
+  "name": "Cesc Fàbregas",
+  "birth_date": "4/5/1987",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Either",
+  "korean": "세 스 크 파 브 레 가 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 18,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 19,
+      "Penalty Taking": 15,
+      "Tackling": 9,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 18,
+      "Bravery": 13,
+      "Composure": 18,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 13,
+      "Off The Ball": 18,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 18,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

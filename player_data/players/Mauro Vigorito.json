@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34886.png",
+  "name": "Mauro Vigorito",
+  "birth_date": "22/5/1990",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "마 우 로 비 고 리 토",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 15,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

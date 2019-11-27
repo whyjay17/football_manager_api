@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6540.png",
+  "name": "Alexander Esswein",
+  "birth_date": "25/3/1990",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "알 렉 산 더 에 스 와 인",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 18,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

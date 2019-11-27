@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26291.png",
+  "name": "Sidy Sarr",
+  "birth_date": "5/6/1996",
+  "nation": "Senegal",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "시 디 사 르",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 18,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

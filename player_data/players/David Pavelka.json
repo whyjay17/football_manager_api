@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2960.png",
+  "name": "David Pavelka",
+  "birth_date": "18/5/1991",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "다 비 드 파 벨 카",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

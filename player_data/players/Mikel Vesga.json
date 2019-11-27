@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1396.png",
+  "name": "Mikel Vesga",
+  "birth_date": "21/5/1993",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "미 켈 베 스 가",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

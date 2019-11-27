@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10083.png",
+  "name": "Kayden Jackson",
+  "birth_date": "22/2/1994",
+  "nation": "England",
+  "position": "AM (L), ST (C)",
+  "foot": "Right Only",
+  "korean": "케 이 든 잭 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 4,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 17,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

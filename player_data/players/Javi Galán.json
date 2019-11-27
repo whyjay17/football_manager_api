@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19364.png",
+  "name": "Javi Galán",
+  "birth_date": "19/11/1994",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left Only",
+  "korean": "하 비 갈 란",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 15,
+      "Free Kick": 11,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 16,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 4,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

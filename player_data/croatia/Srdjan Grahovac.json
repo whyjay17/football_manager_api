@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48274.png",
+  "name": "Srdjan Grahovac",
+  "birth_date": "19/9/1992",
+  "nation": "Bosnia and Herzegovina",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "스 르 잔 그 라 호 바 크",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

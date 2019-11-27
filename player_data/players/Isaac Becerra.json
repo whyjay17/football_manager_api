@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19635.png",
+  "name": "Isaac Becerra",
+  "birth_date": "18/6/1988",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "아 이 작 베 세 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 14,
+      "Eccentricity": 6,
+      "First Touch": 7,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 9,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 4,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

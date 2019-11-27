@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23014.png",
+  "name": "Orestis Karnezis",
+  "birth_date": "11/7/1985",
+  "nation": "Greece",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "오 레 스 티 스 카 르 네 지 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

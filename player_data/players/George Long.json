@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9960.png",
+  "name": "George Long",
+  "birth_date": "5/11/1993",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "조 지 롱",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 12,
+      "First Touch": 8,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 7,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

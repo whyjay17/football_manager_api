@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26473.png",
+  "name": "Cyriaque Rivieyran",
+  "birth_date": "17/4/1991",
+  "nation": "France",
+  "position": "D (RL)",
+  "foot": "Right",
+  "korean": "시 리 아 크 리 비 에 이 란",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 13,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

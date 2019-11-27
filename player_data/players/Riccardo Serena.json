@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35094.png",
+  "name": "Riccardo Serena",
+  "birth_date": "26/9/1996",
+  "nation": "Italy",
+  "position": "M (RLC)",
+  "foot": "Right Only",
+  "korean": "리 카 르 도 세 레 나",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 5,
+      "Decisions": 15,
+      "Determination": 2,
+      "Flair": 4,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 15,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

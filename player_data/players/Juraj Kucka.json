@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3217.png",
+  "name": "Juraj Kucka",
+  "birth_date": "26/2/1987",
+  "nation": "Slovakia",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "유 라 이 쿠 츠 카",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 13,
+      "Long Shots": 16,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22514.png",
+  "name": "Umar Sadiq",
+  "birth_date": "2/2/1997",
+  "nation": "Nigeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "우 마 르 사 딕",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 4,
+      "Vision": 9,
+      "Work Rate": 4
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 19,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

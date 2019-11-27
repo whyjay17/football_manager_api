@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32179.png",
+  "name": "Pylyp Budkivskyi",
+  "birth_date": "10/3/1992",
+  "nation": "Ukraine",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "필 립 부 드 키 브 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

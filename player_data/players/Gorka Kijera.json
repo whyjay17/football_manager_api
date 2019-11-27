@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58534.png",
+  "name": "Gorka Kijera",
+  "birth_date": "26/5/1986",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Left",
+  "korean": "고 르 카 키 제 라",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 7,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 10,
+      "Marking": 12,
+      "Passing": 7,
+      "Penalty Taking": 6,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 7,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

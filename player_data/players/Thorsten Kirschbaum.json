@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6020.png",
+  "name": "Thorsten Kirschbaum",
+  "birth_date": "20/4/1987",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "토 르 스 텐 키 르 슈 바 움",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 7,
+      "First Touch": 8,
+      "Handling": 11,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

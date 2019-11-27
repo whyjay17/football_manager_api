@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50085.png",
+  "name": "Nicolás Mezquida",
+  "birth_date": "21/1/1992",
+  "nation": "Uruguay",
+  "position": "AM (RC)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 메 즈 키 다",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 6,
+      "Jumping Reach": 5,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

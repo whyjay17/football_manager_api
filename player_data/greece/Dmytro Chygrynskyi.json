@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24054.png",
+  "name": "Dmytro Chygrynskyi",
+  "birth_date": "7/11/1986",
+  "nation": "Ukraine",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "드 미 트 로 치 그 린 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 7,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 8,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

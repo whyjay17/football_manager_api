@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31585.png",
+  "name": "Miha Mevlja",
+  "birth_date": "12/6/1990",
+  "nation": "Slovenia",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "미 하 메 블 랴",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34144.png",
+  "name": "Christian Puggioni",
+  "birth_date": "17/1/1981",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 푸 기 오 니",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 9,
+      "Eccentricity": 5,
+      "First Touch": 6,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 5,
+      "Reflexes": 13,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 16,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 7,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

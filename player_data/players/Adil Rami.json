@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7983.png",
+  "name": "Adil Rami",
+  "birth_date": "27/12/1985",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "아 딜 라 미",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 16,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

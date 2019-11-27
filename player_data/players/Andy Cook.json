@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12474.png",
+  "name": "Andy Cook",
+  "birth_date": "18/10/1990",
+  "nation": "England",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "앤 디 쿡",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 8,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 17
+    }
+  }
+}

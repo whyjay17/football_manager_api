@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35166.png",
+  "name": "Andrea Rispoli",
+  "birth_date": "29/9/1988",
+  "nation": "Italy",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "안 드 레 아 리 스 폴 리",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 16,
+      "Off The Ball": 11,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

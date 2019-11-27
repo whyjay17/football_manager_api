@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48067.png",
+  "name": "Lukasz Zwolinski",
+  "birth_date": "24/2/1993",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "루 카 스 즈 볼 린 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 13,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

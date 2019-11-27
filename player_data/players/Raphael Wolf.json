@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6371.png",
+  "name": "Raphael Wolf",
+  "birth_date": "6/6/1988",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "라 파 엘 늑 대",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 11,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 15
+    }
+  }
+}

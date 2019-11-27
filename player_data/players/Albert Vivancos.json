@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58116.png",
+  "name": "Albert Vivancos",
+  "birth_date": "2/2/1994",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "앨 버 트 비 반 코 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 10,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 8
+    }
+  }
+}

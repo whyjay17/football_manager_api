@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8683.png",
+  "name": "Calvin Stengs",
+  "birth_date": "18/12/1998",
+  "nation": "Netherlands",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "칼 빈 스 텡 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

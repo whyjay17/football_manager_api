@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20185.png",
+  "name": "Fran Carbià",
+  "birth_date": "31/3/1992",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "프 란 카 르 비 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

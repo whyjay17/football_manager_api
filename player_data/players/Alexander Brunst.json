@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24915.png",
+  "name": "Alexander Brunst",
+  "birth_date": "7/7/1995",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "알 렉 산 더 브 런 스 트",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 1,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 6,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 8,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 9,
+      "Off The Ball": 3,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 8,
+      "Balance": 9,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 3,
+      "Strength": 7
+    }
+  }
+}

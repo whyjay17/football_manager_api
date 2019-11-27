@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21965.png",
+  "name": "Daniele Padelli",
+  "birth_date": "25/10/1985",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "다 니 엘 레 파 델 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 4,
+      "First Touch": 11,
+      "Handling": 15,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

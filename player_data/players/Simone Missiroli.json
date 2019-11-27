@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22804.png",
+  "name": "Simone Missiroli",
+  "birth_date": "23/5/1986",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "시 몬 미 시 롤 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 14,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

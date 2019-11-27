@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59186.png",
+  "name": "Fran Navarro",
+  "birth_date": "3/2/1998",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "프 란 나 바 로",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 5,
+      "Dribbling": 14,
+      "Finishing": 15,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 2,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 2,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 11,
+      "Balance": 5,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20243.png",
+  "name": "Cristian Álvarez",
+  "birth_date": "13/11/1985",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "크 리 스 티 안 알 바 레 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 15,
+      "Eccentricity": 11,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 17,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

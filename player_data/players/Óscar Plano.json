@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/253.png",
+  "name": "Óscar Plano",
+  "birth_date": "11/2/1991",
+  "nation": "Spain",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "오 스 카 플 라 노",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 7,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

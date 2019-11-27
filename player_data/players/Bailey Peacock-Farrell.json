@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10093.png",
+  "name": "Bailey Peacock-Farrell",
+  "birth_date": "29/10/1996",
+  "nation": "Northern Ireland",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "베 일 리 피 콕 파 렐",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 9,
+      "Eccentricity": 12,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 14,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 14,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 1,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 6,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

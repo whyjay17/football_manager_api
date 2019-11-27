@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/621.png",
+  "name": "Toni Kroos",
+  "birth_date": "4/1/1990",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "토 니 크 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 18,
+      "Crossing": 18,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 18,
+      "Free Kick": 14,
+      "Heading": 7,
+      "Long Shots": 17,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 20,
+      "Penalty Taking": 13,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 17,
+      "Bravery": 9,
+      "Composure": 18,
+      "Concentration": 14,
+      "Decisions": 18,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 18,
+      "Vision": 18,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41448.png",
+  "name": "Andreas Skov Olsen",
+  "birth_date": "29/12/1999",
+  "nation": "Denmark",
+  "position": "M/AM (R)",
+  "foot": "Left",
+  "korean": "안 드 레 아 스 스 코 프 올 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 9,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

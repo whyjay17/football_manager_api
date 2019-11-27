@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53173.png",
+  "name": "Peter Gal Andrezly",
+  "birth_date": "3/5/1990",
+  "nation": "Slovakia",
+  "position": "M (L), AM (RL)",
+  "foot": "Right",
+  "korean": "페 테 르 갈 안 드 레 즐 리",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 3,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

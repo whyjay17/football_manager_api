@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53336.png",
+  "name": "Vakhtang Chanturishvili",
+  "birth_date": "5/8/1993",
+  "nation": "Georgia",
+  "position": "M/AM (LC)",
+  "foot": "Left",
+  "korean": "바 크 탕 찬 투 리 쉬 빌 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 10,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 2,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10971.png",
+  "name": "Cian Harries",
+  "birth_date": "1/4/1997",
+  "nation": "Wales",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "시 안 해 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 12,
+      "Long Shots": 3,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

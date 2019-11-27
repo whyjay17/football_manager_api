@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7161.png",
+  "name": "Lassana Coulibaly",
+  "birth_date": "10/4/1996",
+  "nation": "Mali",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "라 사 나 쿨 리 발 리",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 7,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 6
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 18,
+      "Bravery": 16,
+      "Composure": 5,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 17,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 8,
+      "Natural Fitness": 19,
+      "Pace": 14,
+      "Stamina": 19,
+      "Strength": 14
+    }
+  }
+}

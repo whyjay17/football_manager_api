@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19288.png",
+  "name": "Ivan Kecojevic",
+  "birth_date": "10/4/1988",
+  "nation": "Montenegro",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "이 반 케 코 예 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 9,
+      "Flair": 3,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

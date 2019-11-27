@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49416.png",
+  "name": "Miguel Almirón",
+  "birth_date": "10/2/1994",
+  "nation": "Paraguay",
+  "position": "M/AM (C)",
+  "foot": "Left Only",
+  "korean": "미 겔 알 미 론",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 6,
+      "Natural Fitness": 10,
+      "Pace": 17,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

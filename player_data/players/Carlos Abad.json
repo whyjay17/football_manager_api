@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20189.png",
+  "name": "Carlos Abad",
+  "birth_date": "28/6/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "카 를 로 스 아 바 드",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 11,
+      "Eccentricity": 5,
+      "First Touch": 5,
+      "Handling": 15,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

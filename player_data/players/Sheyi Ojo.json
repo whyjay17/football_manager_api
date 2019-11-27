@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8181.png",
+  "name": "Sheyi Ojo",
+  "birth_date": "19/6/1997",
+  "nation": "England",
+  "position": "M (L), AM (RLC)",
+  "foot": "Left Only",
+  "korean": "오 조 세 이",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 7,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

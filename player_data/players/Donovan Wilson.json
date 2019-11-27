@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59466.png",
+  "name": "Donovan Wilson",
+  "birth_date": "14/3/1997",
+  "nation": "England",
+  "position": "AM (L), ST (C)",
+  "foot": "Left Only",
+  "korean": "도 노 반 윌 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

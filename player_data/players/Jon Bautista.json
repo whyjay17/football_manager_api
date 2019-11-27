@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/499.png",
+  "name": "Jon Bautista",
+  "birth_date": "3/7/1995",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "존 바 우 티 스 타",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 11,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

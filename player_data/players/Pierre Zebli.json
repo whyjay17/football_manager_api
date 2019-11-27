@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34031.png",
+  "name": "Pierre Zebli",
+  "birth_date": "6/12/1997",
+  "nation": "Côte d'Ivoire",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "피 에 르 제 블 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49869.png",
+  "name": "Auston Trusty",
+  "birth_date": "12/8/1998",
+  "nation": "United States",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "오 스 턴 트 러 스 티",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 7,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

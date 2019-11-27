@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49895.png",
+  "name": "Lucas Melano",
+  "birth_date": "1/3/1993",
+  "nation": "Argentina",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "루 카 스 멜 라 노",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

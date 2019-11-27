@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49802.png",
+  "name": "Yangel Herrera",
+  "birth_date": "7/1/1998",
+  "nation": "Venezuela",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "얀 겔 에 레 라",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

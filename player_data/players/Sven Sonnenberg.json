@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24747.png",
+  "name": "Sven Sonnenberg",
+  "birth_date": "19/1/1999",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "스 벤 소 넨 베 르 크",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 4,
+      "Dribbling": 3,
+      "Finishing": 1,
+      "First Touch": 6,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 3,
+      "Long Throws": 2,
+      "Marking": 14,
+      "Passing": 5,
+      "Penalty Taking": 2,
+      "Tackling": 10,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 9,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 7,
+      "Vision": 1,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 5,
+      "Strength": 5
+    }
+  }
+}

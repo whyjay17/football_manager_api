@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35002.png",
+  "name": "Lukas Zima",
+  "birth_date": "9/1/1994",
+  "nation": "Czech Republic",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "루 카 스 지 마",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 12,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 7,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

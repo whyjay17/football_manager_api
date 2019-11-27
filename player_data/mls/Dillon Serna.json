@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49486.png",
+  "name": "Dillon Serna",
+  "birth_date": "25/3/1994",
+  "nation": "United States",
+  "position": "D/M/AM (RL)",
+  "foot": "Either",
+  "korean": "딜 런 세 르 나",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 5,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 4,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 6
+    }
+  }
+}

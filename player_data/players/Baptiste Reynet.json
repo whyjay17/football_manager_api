@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8415.png",
+  "name": "Baptiste Reynet",
+  "birth_date": "28/10/1990",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "바 티 스 트 레 이 넷",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 10,
+      "First Touch": 9,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 12,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

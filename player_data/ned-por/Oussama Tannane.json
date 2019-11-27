@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8948.png",
+  "name": "Oussama Tannane",
+  "birth_date": "23/3/1994",
+  "nation": "Morocco",
+  "position": "AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "오 사 마 탄 나 네",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 15,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 3,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 3,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 16,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23210.png",
+  "name": "Jonas",
+  "birth_date": "1/4/1984",
+  "nation": "Brazil",
+  "position": "AM (C), ST (C)",
+  "foot": "Right",
+  "korean": "조 나 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 17,
+      "First Touch": 17,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 16,
+      "Penalty Taking": 16,
+      "Tackling": 6,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 17,
+      "Concentration": 15,
+      "Decisions": 18,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 17,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 7,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

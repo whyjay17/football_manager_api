@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1236.png",
+  "name": "Mubarak Wakaso",
+  "birth_date": "25/7/1990",
+  "nation": "Ghana",
+  "position": "M (RLC), AM (RL)",
+  "foot": "Left",
+  "korean": "무 바 라 크 와 카 소",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 11,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 14,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 12,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 8,
+      "Bravery": 16,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 12,
+      "Leadership": 4,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 12,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

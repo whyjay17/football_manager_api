@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22516.png",
+  "name": "Antonio Mirante",
+  "birth_date": "8/7/1983",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "안 토 니 오 미 란 테",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 9,
+      "Eccentricity": 8,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 4,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

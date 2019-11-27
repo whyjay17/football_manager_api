@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21863.png",
+  "name": "Krzysztof Piatek",
+  "birth_date": "1/7/1995",
+  "nation": "Poland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "크 지 슈 트 프 피 아 텍",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 17,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 16,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 16,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 19,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 16,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

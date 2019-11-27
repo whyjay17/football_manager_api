@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24839.png",
+  "name": "Brian Hamalainen",
+  "birth_date": "29/5/1989",
+  "nation": "Denmark",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "브 라 이 언 하 말 라 이 넨",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 16,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

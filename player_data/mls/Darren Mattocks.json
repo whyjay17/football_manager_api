@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49541.png",
+  "name": "Darren Mattocks",
+  "birth_date": "2/9/1990",
+  "nation": "Jamaica",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "대 런 매 톡 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 12,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 9,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

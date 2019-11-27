@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58819.png",
+  "name": "Carles Pérez",
+  "birth_date": "16/2/1998",
+  "nation": "Spain",
+  "position": "AM (RL), ST (C)",
+  "foot": "Left Only",
+  "korean": "카 를 레 스 페 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 12,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

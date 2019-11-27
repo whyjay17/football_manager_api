@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22024.png",
+  "name": "Mario Mandzukic",
+  "birth_date": "21/5/1986",
+  "nation": "Croatia",
+  "position": "AM (L), ST (C)",
+  "foot": "Either",
+  "korean": "마 리 오 만 주 키 치",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 18,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 20,
+      "Anticipation": 16,
+      "Bravery": 20,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 16,
+      "Determination": 20,
+      "Flair": 14,
+      "Leadership": 17,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 20,
+      "Vision": 11,
+      "Work Rate": 20
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 17,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 18,
+      "Strength": 18
+    }
+  }
+}

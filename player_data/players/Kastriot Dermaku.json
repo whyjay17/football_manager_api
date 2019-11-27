@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34524.png",
+  "name": "Kastriot Dermaku",
+  "birth_date": "15/1/1992",
+  "nation": "Albania",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "카 스 트 리 엇 데 르 마 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 7,
+      "Long Throws": 5,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 14,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7412.png",
+  "name": "Sergi Palencia",
+  "birth_date": "23/3/1996",
+  "nation": "Spain",
+  "position": "D (RL), WB (R)",
+  "foot": "Right Only",
+  "korean": "세 르 기 팔 렌 시 아",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 12,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 16,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

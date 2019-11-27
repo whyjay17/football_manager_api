@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6618.png",
+  "name": "Anthony Ujah",
+  "birth_date": "14/10/1990",
+  "nation": "Nigeria",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "앤 서 니 우 자",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 13,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 17,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46331.png",
+  "name": "Jeong Chung-Yup",
+  "birth_date": "2/6/1998",
+  "nation": "South Korea KOR",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "정 충 엽",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 7,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 7,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 4,
+      "Determination": 1,
+      "Flair": 12,
+      "Leadership": 6,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

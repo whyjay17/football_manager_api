@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9202.png",
+  "name": "Angeliño",
+  "birth_date": "4/1/1997",
+  "nation": "Spain",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "앙 헬 리 뇨",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

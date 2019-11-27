@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22113.png",
+  "name": "Jordan Lukaku",
+  "birth_date": "25/7/1994",
+  "nation": "Belgium",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "요 르 단 루 카 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 4,
+      "Long Shots": 4,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 17,
+      "Positioning": 9,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 17,
+      "Stamina": 11,
+      "Strength": 18
+    }
+  }
+}

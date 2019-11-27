@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35752.png",
+  "name": "Karim Laribi",
+  "birth_date": "20/4/1991",
+  "nation": "Tunisia",
+  "position": "M/AM (LC)",
+  "foot": "Left",
+  "korean": "카 림 라 리 비",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46391.png",
+  "name": "Nam Seung-Woo",
+  "birth_date": "18/2/1992",
+  "nation": "South Korea KOR",
+  "position": "M/AM (C)",
+  "foot": "Right Only",
+  "korean": "남 승 우",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 5,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 10,
+      "Leadership": 3,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 6,
+      "Jumping Reach": 4,
+      "Natural Fitness": 5,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 5
+    }
+  }
+}

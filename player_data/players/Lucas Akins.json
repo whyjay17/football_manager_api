@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11550.png",
+  "name": "Lucas Akins",
+  "birth_date": "25/2/1989",
+  "nation": "England",
+  "position": "D/WB/M/AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "루 카 스 에 이 킨 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

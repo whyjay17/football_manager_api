@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21771.png",
+  "name": "Marco Sportiello",
+  "birth_date": "10/5/1992",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "마 르 코 스 포 르 티 엘 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 7,
+      "First Touch": 7,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 7,
+      "Reflexes": 15,
+      "Rushing Out": 14,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

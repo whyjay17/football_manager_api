@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/800.png",
+  "name": "Aleksandar Jovanovic",
+  "birth_date": "6/12/1992",
+  "nation": "Serbia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 산 다 르 요 바 노 비 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 9,
+      "First Touch": 7,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 6,
+      "Reflexes": 15,
+      "Rushing Out": 12,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 5,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

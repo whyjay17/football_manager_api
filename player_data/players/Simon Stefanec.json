@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35782.png",
+  "name": "Simon Stefanec",
+  "birth_date": "5/9/1998",
+  "nation": "Slovakia",
+  "position": "M (C), AM (RC)",
+  "foot": "Right",
+  "korean": "사 이 먼 스 테 파 넥",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 5,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 8,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

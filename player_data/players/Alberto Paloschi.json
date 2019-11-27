@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22793.png",
+  "name": "Alberto Paloschi",
+  "birth_date": "4/1/1990",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "알 베 르 토 팔 로 스 키",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 3,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

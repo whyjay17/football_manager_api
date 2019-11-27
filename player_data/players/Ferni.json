@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57680.png",
+  "name": "Ferni",
+  "birth_date": "7/4/1998",
+  "nation": "Spain",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "페 르 니 ( ) 페 르 니 ( )",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 6,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 8,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 5
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41045.png",
+  "name": "Tomas Horava",
+  "birth_date": "29/5/1988",
+  "nation": "Czech Republic",
+  "position": "DM, M/AM (C)",
+  "foot": "Either",
+  "korean": "토 마 스 호 라 바",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 9,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 13,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 10
+    }
+  }
+}

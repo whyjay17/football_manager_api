@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/354.png",
+  "name": "Ibrahim Amadou",
+  "birth_date": "6/4/1993",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "이 브 라 힘 아 마 두",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

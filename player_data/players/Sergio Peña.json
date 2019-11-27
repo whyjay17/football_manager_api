@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19717.png",
+  "name": "Sergio Peña",
+  "birth_date": "28/9/1995",
+  "nation": "Peru",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "세 르 지 오 페 냐",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 9,
+      "Dribbling": 14,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 16,
+      "Long Throws": 12,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 16,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

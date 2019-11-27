@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59546.png",
+  "name": "Lamine N'Diaye",
+  "birth_date": "30/3/1998",
+  "nation": "Italy",
+  "position": "AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "라 민 은 디 아 예",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 9,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 2,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 2,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 8,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 3,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

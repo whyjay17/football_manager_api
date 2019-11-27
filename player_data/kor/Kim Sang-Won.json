@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46514.png",
+  "name": "Kim Sang-Won",
+  "birth_date": "20/2/1992",
+  "nation": "South Korea KOR",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "김 상 원",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 9,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 4,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 4,
+      "Flair": 4,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 7,
+      "Strength": 7
+    }
+  }
+}

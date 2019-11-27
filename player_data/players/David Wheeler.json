@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12147.png",
+  "name": "David Wheeler",
+  "birth_date": "4/10/1990",
+  "nation": "England",
+  "position": "M (R), AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 휠 러",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 10,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 18,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

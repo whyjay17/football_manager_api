@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23516.png",
+  "name": "Caio Secco",
+  "birth_date": "22/12/1990",
+  "nation": "Brazil",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "카 이 오 세 코",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 16,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 16,
+      "Passing": 7,
+      "Reflexes": 16,
+      "Rushing Out": 10,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

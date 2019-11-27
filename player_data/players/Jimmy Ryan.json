@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/11377.png",
+  "name": "Jimmy Ryan",
+  "birth_date": "6/9/1988",
+  "nation": "Republic of Ireland",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "지 미 라 이 언",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 10,
+      "Leadership": 10,
+      "Off The Ball": 11,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

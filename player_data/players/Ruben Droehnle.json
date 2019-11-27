@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26538.png",
+  "name": "Ruben Droehnle",
+  "birth_date": "11/7/1998",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "루 벤 드 로 엔 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 7,
+      "Dribbling": 3,
+      "Finishing": 3,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 9,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 3,
+      "Leadership": 6,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 6,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 9
+    }
+  }
+}

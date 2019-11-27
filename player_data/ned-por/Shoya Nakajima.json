@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23725.png",
+  "name": "Shoya Nakajima",
+  "birth_date": "23/8/1994",
+  "nation": "Japan",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "나 카 지 마 쇼 야",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 17,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 7,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 16,
+      "Jumping Reach": 4,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

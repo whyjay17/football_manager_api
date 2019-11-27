@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/578.png",
+  "name": "Keylor Navas",
+  "birth_date": "15/12/1986",
+  "nation": "Costa Rica",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "케 일 러 나 바 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 4,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 19,
+      "Rushing Out": 12,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 18,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 18,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

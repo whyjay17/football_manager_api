@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25016.png",
+  "name": "Maximilian Geißen",
+  "birth_date": "3/3/1999",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "막 시 밀 리 안 게 이 센",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 3,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 13,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 3,
+      "Flair": 5,
+      "Leadership": 2,
+      "Off The Ball": 7,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 3,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 8,
+      "Strength": 5
+    }
+  }
+}

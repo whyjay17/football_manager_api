@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/152.png",
+  "name": "Ibán Salvador",
+  "birth_date": "11/12/1995",
+  "nation": "Equatorial Guinea",
+  "position": "AM (R), ST (C)",
+  "foot": "Left",
+  "korean": "이 반 살 바 도 르",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 17,
+      "Flair": 13,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 8
+    }
+  }
+}

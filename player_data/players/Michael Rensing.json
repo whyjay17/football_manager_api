@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6368.png",
+  "name": "Michael Rensing",
+  "birth_date": "14/5/1984",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 이 클 렌 싱",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 14,
+      "Eccentricity": 4,
+      "First Touch": 6,
+      "Handling": 15,
+      "Kicking": 9,
+      "Passing": 7,
+      "Reflexes": 16,
+      "Rushing Out": 10,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 17
+    }
+  }
+}

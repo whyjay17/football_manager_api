@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10910.png",
+  "name": "Ashley Williams",
+  "birth_date": "23/8/1984",
+  "nation": "Wales",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "애 슐 리 윌 리 엄 스",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 16,
+      "Long Shots": 4,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 18,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 5,
+      "Agility": 9,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

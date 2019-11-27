@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/5989.png",
+  "name": "Hanno Behrens",
+  "birth_date": "26/3/1990",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "한 노 베 렌 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 16,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 8,
+      "Leadership": 15,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 17,
+      "Strength": 14
+    }
+  }
+}

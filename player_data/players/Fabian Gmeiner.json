@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25018.png",
+  "name": "Fabian Gmeiner",
+  "birth_date": "27/1/1997",
+  "nation": "Austria",
+  "position": "D/WB/M/AM (RL)",
+  "foot": "Right Only",
+  "korean": "파 비 안 그 마 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 7,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 4,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

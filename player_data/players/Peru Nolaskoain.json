@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1375.png",
+  "name": "Peru Nolaskoain",
+  "birth_date": "25/10/1998",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "페 루 놀 라 스 코 인",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 4,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 12,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 4,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 5,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 4,
+      "Leadership": 1,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 4,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26673.png",
+  "name": "Madger Gomes",
+  "birth_date": "1/2/1997",
+  "nation": "Spain",
+  "position": "M (LC), AM (RL)",
+  "foot": "Left",
+  "korean": "매 저 고 메 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 3,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 3,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 4,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 3,
+      "Off The Ball": 11,
+      "Positioning": 3,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

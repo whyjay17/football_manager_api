@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59042.png",
+  "name": "Pau Torres",
+  "birth_date": "4/6/1987",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "파 우 토 레 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 13,
+      "Eccentricity": 11,
+      "First Touch": 5,
+      "Handling": 14,
+      "Kicking": 13,
+      "Passing": 16,
+      "Reflexes": 14,
+      "Rushing Out": 7,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 9,
+      "Determination": 2,
+      "Flair": 13,
+      "Leadership": 13,
+      "Off The Ball": 1,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

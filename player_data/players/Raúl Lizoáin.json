@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19162.png",
+  "name": "Raúl Lizoáin",
+  "birth_date": "27/1/1991",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "라 울 리 조 아 인",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 11,
+      "Eccentricity": 6,
+      "First Touch": 4,
+      "Handling": 13,
+      "Kicking": 9,
+      "Passing": 13,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 6,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

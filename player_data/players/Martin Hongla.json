@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59386.png",
+  "name": "Martin Hongla",
+  "birth_date": "16/3/1998",
+  "nation": "Cameroon",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "마 르 탱 옹 글 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 7,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 5,
+      "Leadership": 1,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

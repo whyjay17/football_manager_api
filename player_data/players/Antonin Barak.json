@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22995.png",
+  "name": "Antonin Barak",
+  "birth_date": "3/12/1994",
+  "nation": "Czech Republic",
+  "position": "M/AM (C)",
+  "foot": "Left",
+  "korean": "안 토 닌 바 라 크",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 15,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

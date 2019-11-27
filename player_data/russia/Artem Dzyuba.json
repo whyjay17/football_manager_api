@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31570.png",
+  "name": "Artem Dzyuba",
+  "birth_date": "22/8/1988",
+  "nation": "Russia",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "아 르 템 주 바",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 17,
+      "Decisions": 16,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 17,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 18
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21943.png",
+  "name": "Milan Skriniar",
+  "birth_date": "11/2/1995",
+  "nation": "Slovakia",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "밀 라 노 스 크 리 니 어",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 11,
+      "Marking": 17,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 17,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 15,
+      "Concentration": 17,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

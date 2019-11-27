@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8045.png",
+  "name": "Kostas Mitroglou",
+  "birth_date": "12/3/1988",
+  "nation": "Greece",
+  "position": "ST (C)",
+  "foot": "Left",
+  "korean": "코 스 타 스 미 트 로 글 로",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

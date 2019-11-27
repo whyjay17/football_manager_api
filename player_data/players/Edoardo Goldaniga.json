@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22709.png",
+  "name": "Edoardo Goldaniga",
+  "birth_date": "2/11/1993",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "에 두 아 르 도 골 다 니 가",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 5,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

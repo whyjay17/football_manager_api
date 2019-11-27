@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24912.png",
+  "name": "Christopher Handke",
+  "birth_date": "14/2/1989",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "크 리 스 토 퍼 핸 드 케",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 17,
+      "Marking": 12,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 7,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 6,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59545.png",
+  "name": "Jesús Sillero",
+  "birth_date": "28/12/1995",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "헤 수 스 실 레 로",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 7,
+      "Passing": 5,
+      "Penalty Taking": 5,
+      "Tackling": 1,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

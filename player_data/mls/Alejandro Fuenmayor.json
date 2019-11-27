@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49603.png",
+  "name": "Alejandro Fuenmayor",
+  "birth_date": "29/8/1996",
+  "nation": "Venezuela",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "알 레 한 드 로 푸 엔 마 요 르",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 5,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 2,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 11,
+      "Passing": 8,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 5,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6314.png",
+  "name": "Jérôme Boateng",
+  "birth_date": "3/9/1988",
+  "nation": "Germany",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "제 롬 보 텅",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 16,
+      "Marking": 17,
+      "Passing": 15,
+      "Penalty Taking": 7,
+      "Tackling": 17,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 17,
+      "Bravery": 13,
+      "Composure": 17,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 12,
+      "Off The Ball": 5,
+      "Positioning": 15,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 16,
+      "Jumping Reach": 17,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 18
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32152.png",
+  "name": "Taras Stepanenko",
+  "birth_date": "8/8/1989",
+  "nation": "Ukraine",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "타 라 스 스 테 파 넨 코",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 9,
+      "Leadership": 15,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

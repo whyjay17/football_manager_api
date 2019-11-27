@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26733.png",
+  "name": "Morgan Poaty",
+  "birth_date": "15/7/1997",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "모 건 포 티",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 11,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 7,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 6,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

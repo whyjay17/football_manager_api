@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40861.png",
+  "name": "Vladimir Coufal",
+  "birth_date": "22/8/1992",
+  "nation": "Czech Republic",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "블 라 디 미 르 쿠 팔",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 15,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 10,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 6,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

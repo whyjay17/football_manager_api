@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/61491.png",
+  "name": "Mike Maignan",
+  "birth_date": "3/7/1995",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 이 크 마 이 그 넌",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 14,
+      "Eccentricity": 10,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 8,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 5,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 8,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

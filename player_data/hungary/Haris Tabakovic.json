@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/56766.png",
+  "name": "Haris Tabakovic",
+  "birth_date": "20/6/1994",
+  "nation": "Switzerland",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "하 리 스 타 바 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 7,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 8,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 9,
+      "Determination": 5,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 9,
+      "Balance": 17,
+      "Jumping Reach": 17,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 17
+    }
+  }
+}

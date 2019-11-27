@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46557.png",
+  "name": "Na Sung-Eun",
+  "birth_date": "6/4/1996",
+  "nation": "South Korea KOR",
+  "position": "AM (RL)",
+  "foot": "Left",
+  "korean": "나 성 은",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 8,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 3,
+      "Composure": 6,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 5,
+      "Flair": 10,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 7,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 5,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

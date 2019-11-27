@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26599.png",
+  "name": "Ibou Cissé",
+  "birth_date": "2/11/1996",
+  "nation": "France",
+  "position": "M/AM (L)",
+  "foot": "Right Only",
+  "korean": "이 부 시 세",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 1,
+      "Marking": 6,
+      "Passing": 10,
+      "Penalty Taking": 6,
+      "Tackling": 5,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 3,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 8,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 8
+    }
+  }
+}

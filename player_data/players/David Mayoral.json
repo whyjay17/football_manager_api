@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19202.png",
+  "name": "David Mayoral",
+  "birth_date": "5/4/1997",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Right Only",
+  "korean": "다 비 드 마 요 랄",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 9,
+      "Concentration": 4,
+      "Decisions": 12,
+      "Determination": 7,
+      "Flair": 10,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

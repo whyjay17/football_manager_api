@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49421.png",
+  "name": "Brad Guzan",
+  "birth_date": "9/9/1984",
+  "nation": "United States",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "브 래 드 구 잔",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 14,
+      "Eccentricity": 10,
+      "First Touch": 7,
+      "Handling": 15,
+      "Kicking": 13,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 13,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 8,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

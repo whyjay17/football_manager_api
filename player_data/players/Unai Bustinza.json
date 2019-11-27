@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/747.png",
+  "name": "Unai Bustinza",
+  "birth_date": "2/2/1992",
+  "nation": "Spain",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "우 나 이 부 틴 자",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 5,
+      "Finishing": 3,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

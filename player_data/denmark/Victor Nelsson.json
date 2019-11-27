@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41439.png",
+  "name": "Victor Nelsson",
+  "birth_date": "14/10/1998",
+  "nation": "Denmark",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "빅 터 넬 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 14,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 4,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7112.png",
+  "name": "Juan Otero",
+  "birth_date": "26/5/1995",
+  "nation": "Colombia",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "후 안 오 테 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 16,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 13,
+      "Heading": 13,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

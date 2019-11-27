@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49959.png",
+  "name": "Aníbal Godoy",
+  "birth_date": "10/2/1990",
+  "nation": "Panama",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "아 니 발 고 도 이",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 8,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 9,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 8,
+      "Determination": 16,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

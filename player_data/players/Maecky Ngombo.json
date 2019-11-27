@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34041.png",
+  "name": "Maecky Ngombo",
+  "birth_date": "31/3/1995",
+  "nation": "Belgium",
+  "position": "M/AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "메 키 은 엄 보",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 10,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 10,
+      "Strength": 13
+    }
+  }
+}

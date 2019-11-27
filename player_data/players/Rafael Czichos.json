@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24717.png",
+  "name": "Rafael Czichos",
+  "birth_date": "14/5/1990",
+  "nation": "Germany",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "라 파 엘 치 초 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 9,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 17,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 9,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

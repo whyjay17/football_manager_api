@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/48171.png",
+  "name": "Lirim Kastrati",
+  "birth_date": "16/1/1999",
+  "nation": "Kosovo",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "리 림 카 스 트 라 티",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 8,
+      "Tackling": 4,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 3,
+      "Off The Ball": 10,
+      "Positioning": 3,
+      "Teamwork": 8,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 18,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

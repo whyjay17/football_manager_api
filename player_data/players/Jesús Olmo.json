@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20153.png",
+  "name": "Jesús Olmo",
+  "birth_date": "24/1/1985",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "헤 수 스 올 모",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 9,
+      "Dribbling": 5,
+      "Finishing": 5,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 11,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

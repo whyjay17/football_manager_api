@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26435.png",
+  "name": "Mons Bassouamina",
+  "birth_date": "28/5/1998",
+  "nation": "France",
+  "position": "AM (RL)",
+  "foot": "Right Only",
+  "korean": "몬 스 바 소 아 미 나",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 10,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 10,
+      "Leadership": 4,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 5,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

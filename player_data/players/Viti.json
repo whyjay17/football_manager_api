@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57897.png",
+  "name": "Viti",
+  "birth_date": "29/3/1991",
+  "nation": "Spain",
+  "position": "D/M/AM (L)",
+  "foot": "Left",
+  "korean": "비 티 ( 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

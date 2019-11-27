@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1075.png",
+  "name": "Pedro León",
+  "birth_date": "24/11/1986",
+  "nation": "Spain",
+  "position": "M/AM (R)",
+  "foot": "Right",
+  "korean": "페 드 로 레 온",
+  "abilities": {
+    "technical": {
+      "Corners": 18,
+      "Crossing": 18,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 16,
+      "Free Kick": 17,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 17,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 17,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 9,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

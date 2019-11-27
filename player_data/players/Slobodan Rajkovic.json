@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35168.png",
+  "name": "Slobodan Rajkovic",
+  "birth_date": "3/2/1989",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "슬 로 보 단 라 지 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 6,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 16,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 6,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 17
+    }
+  }
+}

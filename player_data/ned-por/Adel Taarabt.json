@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23230.png",
+  "name": "Adel Taarabt",
+  "birth_date": "24/5/1989",
+  "nation": "Morocco",
+  "position": "AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "아 델 타 랍",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 17,
+      "Finishing": 11,
+      "First Touch": 17,
+      "Free Kick": 12,
+      "Heading": 4,
+      "Long Shots": 15,
+      "Long Throws": 5,
+      "Marking": 5,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 12,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 12
+    }
+  }
+}

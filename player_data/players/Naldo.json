@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6733.png",
+  "name": "Naldo",
+  "birth_date": "10/9/1982",
+  "nation": "Brazil",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "날 도 ( \" 주 )",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 8,
+      "First Touch": 10,
+      "Free Kick": 14,
+      "Heading": 18,
+      "Long Shots": 15,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 17,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 9,
+      "Positioning": 16,
+      "Teamwork": 10,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 20,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 16
+    }
+  }
+}

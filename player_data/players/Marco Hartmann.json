@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24837.png",
+  "name": "Marco Hartmann",
+  "birth_date": "25/2/1988",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "마 르 코 하 트 만",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 14,
+      "Passing": 10,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 17,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 17
+    }
+  }
+}

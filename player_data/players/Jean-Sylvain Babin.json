@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19583.png",
+  "name": "Jean-Sylvain Babin",
+  "birth_date": "14/10/1986",
+  "nation": "Martinique",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "장 실 뱅 바 빈",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 13,
+      "Passing": 10,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 16,
+      "Strength": 17
+    }
+  }
+}

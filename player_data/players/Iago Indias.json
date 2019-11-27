@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58957.png",
+  "name": "Iago Indias",
+  "birth_date": "3/1/1996",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "이 아 고 인 디 아",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 3,
+      "Finishing": 4,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 7,
+      "Long Throws": 1,
+      "Marking": 14,
+      "Passing": 7,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 7,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 1,
+      "Leadership": 2,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

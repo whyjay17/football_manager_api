@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22494.png",
+  "name": "Federico Fazio",
+  "birth_date": "17/3/1987",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "페 데 리 코 파 지 오",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 3,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 4,
+      "Heading": 18,
+      "Long Shots": 4,
+      "Long Throws": 3,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 6,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 17,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 12,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 18,
+      "Natural Fitness": 9,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 18
+    }
+  }
+}

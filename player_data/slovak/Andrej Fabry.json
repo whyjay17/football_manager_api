@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53121.png",
+  "name": "Andrej Fabry",
+  "birth_date": "1/3/1997",
+  "nation": "Slovakia",
+  "position": "M (C), AM (RC)",
+  "foot": "Left",
+  "korean": "안 드 레 이 파 브 리",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 3,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

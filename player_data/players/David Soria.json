@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/912.png",
+  "name": "David Soria",
+  "birth_date": "4/4/1993",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "데 이 비 드 소 리 아",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 14,
+      "Eccentricity": 8,
+      "First Touch": 7,
+      "Handling": 16,
+      "Kicking": 12,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 17,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 13,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21193.png",
+  "name": "Alejandro Gómez",
+  "birth_date": "15/2/1988",
+  "nation": "Argentina",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "알 레 한 드 로 고 메 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 16,
+      "Dribbling": 18,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 4,
+      "Long Shots": 17,
+      "Long Throws": 4,
+      "Marking": 3,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 17,
+      "Leadership": 14,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 4,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

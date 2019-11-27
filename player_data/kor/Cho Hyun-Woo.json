@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46318.png",
+  "name": "Cho Hyun-Woo",
+  "birth_date": "25/9/1991",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "조 현 우",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 7,
+      "First Touch": 5,
+      "Handling": 12,
+      "Kicking": 6,
+      "Passing": 4,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 16,
+      "Determination": 17,
+      "Flair": 14,
+      "Leadership": 15,
+      "Off The Ball": 15,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35450.png",
+  "name": "Davide Di Gennaro",
+  "birth_date": "16/6/1988",
+  "nation": "Italy",
+  "position": "DM, M/AM (C)",
+  "foot": "Left Only",
+  "korean": "다 비 드 디 겐 나 로",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

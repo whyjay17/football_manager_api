@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26616.png",
+  "name": "Moussa Sao",
+  "birth_date": "17/10/1989",
+  "nation": "France",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Left",
+  "korean": "무 사 사 오",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 2,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 2,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 4,
+      "Teamwork": 6,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

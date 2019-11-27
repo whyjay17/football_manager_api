@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24975.png",
+  "name": "Kyriakos Papadopoulos",
+  "birth_date": "23/2/1992",
+  "nation": "Greece",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "키 리 아 코 스 파 파 도 풀 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 12,
+      "Marking": 18,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 18,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 20,
+      "Composure": 8,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 20,
+      "Flair": 4,
+      "Leadership": 13,
+      "Off The Ball": 6,
+      "Positioning": 12,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 9,
+      "Balance": 18,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

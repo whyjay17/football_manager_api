@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24945.png",
+  "name": "Daniel Adlung",
+  "birth_date": "1/10/1987",
+  "nation": "Germany",
+  "position": "M (RLC), AM (C)",
+  "foot": "Right",
+  "korean": "다 니 엘 애 드 룽",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

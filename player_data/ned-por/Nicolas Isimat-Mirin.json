@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9187.png",
+  "name": "Nicolas Isimat-Mirin",
+  "birth_date": "15/11/1991",
+  "nation": "France",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 스 시 마 미 린",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 16,
+      "Long Shots": 7,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 6,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 7,
+      "Leadership": 8,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

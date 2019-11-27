@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59434.png",
+  "name": "Emiliano Armenteros",
+  "birth_date": "18/1/1986",
+  "nation": "Argentina",
+  "position": "M (C), AM (L)",
+  "foot": "Left Only",
+  "korean": "에 밀 리 아 노 아 르 멘 테 로 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 16,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 6,
+      "Marking": 6,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 7,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 6,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

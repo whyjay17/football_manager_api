@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1350.png",
+  "name": "Xabi Etxeita",
+  "birth_date": "31/10/1987",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "사 비 에 크 세 이 타",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 16,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 5,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

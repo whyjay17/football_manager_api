@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59702.png",
+  "name": "Lucho",
+  "birth_date": "20/3/1998",
+  "nation": "Colombia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 초",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 7,
+      "Communication": 7,
+      "Eccentricity": 1,
+      "First Touch": 2,
+      "Handling": 14,
+      "Kicking": 14,
+      "Passing": 14,
+      "Reflexes": 14,
+      "Rushing Out": 4,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 5,
+      "Bravery": 11,
+      "Composure": 5,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 8,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 2,
+      "Strength": 6
+    }
+  }
+}

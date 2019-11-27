@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59701.png",
+  "name": "Miguel Martín",
+  "birth_date": "25/2/1997",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "미 겔 마 르 틴",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 6,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 16,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 6,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 9,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 8
+    }
+  }
+}

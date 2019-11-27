@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49962.png",
+  "name": "Jackson Yueill",
+  "birth_date": "18/3/1997",
+  "nation": "United States",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "잭 슨 유 아 일",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 9,
+      "Determination": 9,
+      "Flair": 9,
+      "Leadership": 12,
+      "Off The Ball": 9,
+      "Positioning": 9,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

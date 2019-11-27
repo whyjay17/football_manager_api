@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/3.png",
+  "name": "Mariano Barbosa",
+  "birth_date": "27/7/1984",
+  "nation": "Argentina",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 리 아 노 바 르 보 사",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 11,
+      "First Touch": 5,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 7,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 10,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

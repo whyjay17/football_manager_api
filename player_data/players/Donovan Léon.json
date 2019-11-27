@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25939.png",
+  "name": "Donovan Léon",
+  "birth_date": "3/11/1992",
+  "nation": "French Guiana",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "도 노 반 레 옹",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 9,
+      "Handling": 10,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 14,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 7,
+      "Leadership": 7,
+      "Off The Ball": 3,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

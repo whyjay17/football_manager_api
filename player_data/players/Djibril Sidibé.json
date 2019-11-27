@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7222.png",
+  "name": "Djibril Sidibé",
+  "birth_date": "29/7/1992",
+  "nation": "France",
+  "position": "D (RL)",
+  "foot": "Right",
+  "korean": "지 브 릴 시 디 베",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 11,
+      "Long Shots": 10,
+      "Long Throws": 13,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 15,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

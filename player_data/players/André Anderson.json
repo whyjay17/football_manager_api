@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35479.png",
+  "name": "André Anderson",
+  "birth_date": "23/9/1999",
+  "nation": "Brazil",
+  "position": "AM (C), ST (C)",
+  "foot": "Right Only",
+  "korean": "안 드 레 앤 더 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 12,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 12,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 7,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

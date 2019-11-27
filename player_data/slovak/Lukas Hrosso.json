@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53120.png",
+  "name": "Lukas Hrosso",
+  "birth_date": "19/4/1987",
+  "nation": "Slovakia",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 카 스 흐 로 소",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 10,
+      "Eccentricity": 17,
+      "First Touch": 5,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 7,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 10,
+      "Flair": 12,
+      "Leadership": 9,
+      "Off The Ball": 4,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 4,
+      "Work Rate": 2
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

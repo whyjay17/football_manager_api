@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19466.png",
+  "name": "Diego Rolan",
+  "birth_date": "24/3/1993",
+  "nation": "Uruguay",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "디 에 고 롤 란",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 16,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 13,
+      "Long Shots": 12,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 16,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

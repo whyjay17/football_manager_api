@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1158.png",
+  "name": "Denis Suárez",
+  "birth_date": "6/1/1994",
+  "nation": "Spain",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "데 니 스 수 아 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 13,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 9,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 11,
+      "Vision": 18,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

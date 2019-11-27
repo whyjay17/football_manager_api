@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6543.png",
+  "name": "Salomon Kalou",
+  "birth_date": "5/8/1985",
+  "nation": "Côte d'Ivoire",
+  "position": "M/AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "살 로 몬 칼 루",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 17,
+      "Tackling": 6,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 9,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 15,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

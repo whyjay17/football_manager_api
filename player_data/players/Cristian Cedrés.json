@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57871.png",
+  "name": "Cristian Cedrés",
+  "birth_date": "24/1/1996",
+  "nation": "Spain",
+  "position": "M/AM (RL)",
+  "foot": "Either",
+  "korean": "크 리 스 티 안 세 드 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 9,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 3,
+      "Flair": 9,
+      "Leadership": 3,
+      "Off The Ball": 10,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 9,
+      "Natural Fitness": 6,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

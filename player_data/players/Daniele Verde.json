@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22511.png",
+  "name": "Daniele Verde",
+  "birth_date": "20/6/1996",
+  "nation": "Italy",
+  "position": "AM (RL), ST (C)",
+  "foot": "Left",
+  "korean": "다 니 엘 레 베 르 데",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 11,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

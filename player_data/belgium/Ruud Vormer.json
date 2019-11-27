@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20530.png",
+  "name": "Ruud Vormer",
+  "birth_date": "11/5/1988",
+  "nation": "Netherlands",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 드 보 르 메 르",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 13,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 13,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 8,
+      "Leadership": 18,
+      "Off The Ball": 15,
+      "Positioning": 11,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 17,
+      "Strength": 12
+    }
+  }
+}

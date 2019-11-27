@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46376.png",
+  "name": "Lee Bum-Young",
+  "birth_date": "2/4/1989",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 범 영",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 13,
+      "First Touch": 6,
+      "Handling": 14,
+      "Kicking": 10,
+      "Passing": 12,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 8,
+      "Concentration": 15,
+      "Decisions": 9,
+      "Determination": 6,
+      "Flair": 3,
+      "Leadership": 15,
+      "Off The Ball": 1,
+      "Positioning": 7,
+      "Teamwork": 5,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 8,
+      "Pace": 5,
+      "Stamina": 9,
+      "Strength": 9
+    }
+  }
+}

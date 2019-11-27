@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24727.png",
+  "name": "Tim Handwerker",
+  "birth_date": "19/5/1998",
+  "nation": "Germany",
+  "position": "D/WB/M/AM (L)",
+  "foot": "Left",
+  "korean": "팀 핸 드 워 커",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 8,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 10,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

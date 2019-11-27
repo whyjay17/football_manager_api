@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8356.png",
+  "name": "Eiji Kawashima",
+  "birth_date": "20/3/1983",
+  "nation": "Japan",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "가 와 시 마 에 이 지",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 16,
+      "Reflexes": 15,
+      "Rushing Out": 10,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 2,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6060.png",
+  "name": "Roman Bürki",
+  "birth_date": "14/11/1990",
+  "nation": "Switzerland",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "로 만 뷔 르 키",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 13,
+      "First Touch": 10,
+      "Handling": 12,
+      "Kicking": 17,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 18,
+      "Throwing": 16
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 17,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

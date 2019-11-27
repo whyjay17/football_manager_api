@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/822.png",
+  "name": "Damián Musto",
+  "birth_date": "9/6/1987",
+  "nation": "Argentina",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "다 미 안 무 스 토",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 14,
+      "Tackling": 15,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 13,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 11,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42123.png",
+  "name": "Kevin Mbabu",
+  "birth_date": "19/4/1995",
+  "nation": "Switzerland",
+  "position": "D (RC), WB (R)",
+  "foot": "Right",
+  "korean": "케 빈 음 바 부",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 15,
+      "Marking": 13,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 17,
+      "Strength": 15
+    }
+  }
+}

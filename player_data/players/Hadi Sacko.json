@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19776.png",
+  "name": "Hadi Sacko",
+  "birth_date": "24/3/1994",
+  "nation": "Mali",
+  "position": "M/AM (R)",
+  "foot": "Right Only",
+  "korean": "하 디 사 코",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 15,
+      "Finishing": 4,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 3,
+      "Passing": 8,
+      "Penalty Taking": 11,
+      "Tackling": 2,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 7,
+      "Composure": 4,
+      "Concentration": 6,
+      "Decisions": 7,
+      "Determination": 11,
+      "Flair": 18,
+      "Leadership": 2,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

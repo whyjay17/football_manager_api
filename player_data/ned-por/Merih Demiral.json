@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23938.png",
+  "name": "Merih Demiral",
+  "birth_date": "5/3/1998",
+  "nation": "Turkey",
+  "position": "D (C)",
+  "foot": "Right Only",
+  "korean": "메 리 흐 데 미 랄",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 3,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 11,
+      "Marking": 14,
+      "Passing": 9,
+      "Penalty Taking": 1,
+      "Tackling": 14,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 9,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

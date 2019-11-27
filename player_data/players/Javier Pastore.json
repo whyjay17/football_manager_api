@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22492.png",
+  "name": "Javier Pastore",
+  "birth_date": "20/6/1989",
+  "nation": "Argentina",
+  "position": "M (C), AM (LC)",
+  "foot": "Right",
+  "korean": "하 비 에 르 파 스 토 레",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 14,
+      "Determination": 11,
+      "Flair": 18,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 6,
+      "Teamwork": 15,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 10,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

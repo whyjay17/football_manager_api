@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19446.png",
+  "name": "Sergi Ortuño",
+  "birth_date": "2/3/1999",
+  "nation": "Spain",
+  "position": "M (C)",
+  "foot": "Right",
+  "korean": "세 르 기 오 르 투 뇨",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 5,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 8,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 8,
+      "Passing": 15,
+      "Penalty Taking": 5,
+      "Tackling": 7,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 7,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 9,
+      "Balance": 9,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6216.png",
+  "name": "Jetro Willems",
+  "birth_date": "30/3/1994",
+  "nation": "Netherlands",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "제 트 로 윌 렘 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 17,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 16,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 8,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

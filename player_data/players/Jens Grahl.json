@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6919.png",
+  "name": "Jens Grahl",
+  "birth_date": "22/9/1988",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "젠 스 그 랄",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 6,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 3,
+      "Positioning": 9,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 16,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 10,
+      "Strength": 16
+    }
+  }
+}

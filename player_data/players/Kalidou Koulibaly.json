@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22286.png",
+  "name": "Kalidou Koulibaly",
+  "birth_date": "20/6/1991",
+  "nation": "Senegal",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "칼 리 두 쿨 리 발 리",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 7,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 8,
+      "Marking": 18,
+      "Passing": 13,
+      "Penalty Taking": 6,
+      "Tackling": 17,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 16,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 19,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 17,
+      "Strength": 19
+    }
+  }
+}

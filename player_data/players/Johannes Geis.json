@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6755.png",
+  "name": "Johannes Geis",
+  "birth_date": "17/8/1993",
+  "nation": "Germany",
+  "position": "DM, M (C)",
+  "foot": "Either",
+  "korean": "요 하 네 스 게 이 스",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 16,
+      "Long Throws": 9,
+      "Marking": 11,
+      "Passing": 17,
+      "Penalty Taking": 12,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 16,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 8,
+      "Positioning": 12,
+      "Teamwork": 14,
+      "Vision": 16,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 10,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25025.png",
+  "name": "Dominic Cyriacks",
+  "birth_date": "15/2/1999",
+  "nation": "Germany",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "도 미 닉 키 릭 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 2,
+      "Flair": 11,
+      "Leadership": 1,
+      "Off The Ball": 9,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24819.png",
+  "name": "Joseph-Claude Gyau",
+  "birth_date": "16/9/1992",
+  "nation": "United States",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "조 지 프 클 로 드 가 우",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 7,
+      "Bravery": 12,
+      "Composure": 7,
+      "Concentration": 9,
+      "Decisions": 7,
+      "Determination": 13,
+      "Flair": 12,
+      "Leadership": 5,
+      "Off The Ball": 7,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 17,
+      "Balance": 14,
+      "Jumping Reach": 8,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

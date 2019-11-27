@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58837.png",
+  "name": "Hicham Khaloua",
+  "birth_date": "7/5/1995",
+  "nation": "Morocco",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right Only",
+  "korean": "히 샴 칼 루 아",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 13,
+      "Finishing": 17,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 8,
+      "Passing": 13,
+      "Penalty Taking": 16,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 16,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

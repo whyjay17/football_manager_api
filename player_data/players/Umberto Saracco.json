@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34532.png",
+  "name": "Umberto Saracco",
+  "birth_date": "10/4/1994",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "움 베 르 토 사 라 코",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 12,
+      "Eccentricity": 11,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 11,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 7,
+      "Leadership": 11,
+      "Off The Ball": 9,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 9,
+      "Strength": 11
+    }
+  }
+}

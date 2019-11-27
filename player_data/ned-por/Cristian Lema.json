@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23228.png",
+  "name": "Cristian Lema",
+  "birth_date": "24/3/1990",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 레 마",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 4,
+      "Dribbling": 6,
+      "Finishing": 12,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 19,
+      "Long Shots": 7,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 11,
+      "Penalty Taking": 13,
+      "Tackling": 15,
+      "Technique": 5
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 5,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

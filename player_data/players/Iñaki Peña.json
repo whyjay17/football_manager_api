@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58817.png",
+  "name": "Iñaki Peña",
+  "birth_date": "2/3/1999",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "이 냐 키 페 냐",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 11,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 9,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 2,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 6,
+      "Strength": 9
+    }
+  }
+}

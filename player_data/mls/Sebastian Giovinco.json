@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/50040.png",
+  "name": "Sebastian Giovinco",
+  "birth_date": "26/1/1987",
+  "nation": "Italy",
+  "position": "AM (LC), ST (C)",
+  "foot": "Either",
+  "korean": "세 바 스 티 안 지 오 빈 코",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 16,
+      "First Touch": 16,
+      "Free Kick": 20,
+      "Heading": 8,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 4,
+      "Passing": 16,
+      "Penalty Taking": 11,
+      "Tackling": 6,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 8,
+      "Determination": 15,
+      "Flair": 16,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 18,
+      "Balance": 8,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6066.png",
+  "name": "Manuel Akanji",
+  "birth_date": "19/7/1995",
+  "nation": "Switzerland",
+  "position": "D (C)",
+  "foot": "Either",
+  "korean": "마 누 엘 아 칸 지",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 15,
+      "Composure": 16,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 7,
+      "Positioning": 11,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 17,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

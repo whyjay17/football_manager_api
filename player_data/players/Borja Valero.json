@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21959.png",
+  "name": "Borja Valero",
+  "birth_date": "12/1/1985",
+  "nation": "Spain",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "보 르 하 발 레 로",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 17,
+      "Free Kick": 13,
+      "Heading": 6,
+      "Long Shots": 10,
+      "Long Throws": 3,
+      "Marking": 10,
+      "Passing": 17,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 16,
+      "Leadership": 13,
+      "Off The Ball": 15,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 16,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

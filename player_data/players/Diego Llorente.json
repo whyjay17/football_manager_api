@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/433.png",
+  "name": "Diego Llorente",
+  "birth_date": "16/8/1993",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "디 에 고 로 렌 테",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 14,
+      "Long Shots": 6,
+      "Long Throws": 13,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 18,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

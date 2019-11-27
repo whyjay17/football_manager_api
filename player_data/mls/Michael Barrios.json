@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49565.png",
+  "name": "Michael Barrios",
+  "birth_date": "21/4/1991",
+  "nation": "Colombia",
+  "position": "AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "마 이 클 바 리 오 스",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 11,
+      "Free Kick": 4,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 11,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 7
+    }
+  }
+}

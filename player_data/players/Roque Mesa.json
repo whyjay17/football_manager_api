@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/373.png",
+  "name": "Roque Mesa",
+  "birth_date": "7/6/1989",
+  "nation": "Spain",
+  "position": "DM, M (RC)",
+  "foot": "Right",
+  "korean": "로 크 메 사",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 11,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 12,
+      "Tackling": 13,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 14,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 13,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 11
+    }
+  }
+}

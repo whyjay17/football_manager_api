@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57759.png",
+  "name": "Gaizka",
+  "birth_date": "27/10/1996",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "가 이 즈 카 ( 미 국 )",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 2,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 14,
+      "Free Kick": 4,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 3,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 4,
+      "Tackling": 12,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 8,
+      "Jumping Reach": 12,
+      "Natural Fitness": 8,
+      "Pace": 14,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

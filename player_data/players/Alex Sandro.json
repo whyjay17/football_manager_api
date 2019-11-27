@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22018.png",
+  "name": "Alex Sandro",
+  "birth_date": "26/1/1991",
+  "nation": "Brazil",
+  "position": "D/WB/M (L)",
+  "foot": "Left",
+  "korean": "알 렉 스 산 드 로",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 15,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 10,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 18,
+      "Concentration": 10,
+      "Decisions": 15,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

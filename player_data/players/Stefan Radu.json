@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22108.png",
+  "name": "Stefan Radu",
+  "birth_date": "22/10/1986",
+  "nation": "Romania",
+  "position": "D (LC)",
+  "foot": "Left",
+  "korean": "스 테 판 라 두",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 12,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 2,
+      "Heading": 15,
+      "Long Shots": 11,
+      "Long Throws": 2,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 16,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 20,
+      "Anticipation": 17,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 16,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41376.png",
+  "name": "Evander",
+  "birth_date": "9/6/1998",
+  "nation": "Brazil",
+  "position": "DM, M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "에 반 데 르",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 16,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

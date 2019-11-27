@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21401.png",
+  "name": "Luca Ceppitelli",
+  "birth_date": "11/8/1989",
+  "nation": "Italy",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "루 카 세 피 텔 리",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 8,
+      "Dribbling": 5,
+      "Finishing": 9,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 16,
+      "Long Shots": 10,
+      "Long Throws": 9,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 14,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 9,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

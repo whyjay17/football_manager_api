@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19943.png",
+  "name": "Joan Sastre",
+  "birth_date": "30/4/1995",
+  "nation": "Spain",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "조 안 사 스 트 레",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 6,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 14,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 6,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

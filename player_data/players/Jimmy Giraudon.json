@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26714.png",
+  "name": "Jimmy Giraudon",
+  "birth_date": "16/1/1992",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "지 미 기 라 우 던",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 12,
+      "Long Throws": 7,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 5,
+      "Flair": 8,
+      "Leadership": 5,
+      "Off The Ball": 10,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 9,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

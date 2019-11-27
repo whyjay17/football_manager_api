@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49968.png",
+  "name": "Tommy Thompson",
+  "birth_date": "15/8/1995",
+  "nation": "United States",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "토 미 톰 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 7,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 9,
+      "Concentration": 6,
+      "Decisions": 5,
+      "Determination": 7,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 10,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 14,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

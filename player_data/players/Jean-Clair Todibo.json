@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8432.png",
+  "name": "Jean-Clair Todibo",
+  "birth_date": "30/12/1999",
+  "nation": "France",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right Only",
+  "korean": "장 클 레 어 토 디 보",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 2,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 2,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 3,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 4,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

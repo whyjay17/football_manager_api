@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25017.png",
+  "name": "Khaled Mohssen",
+  "birth_date": "10/1/1998",
+  "nation": "Germany",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "칼 레 드 모 센",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 4,
+      "Dribbling": 9,
+      "Finishing": 9,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 5,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 14,
+      "Penalty Taking": 7,
+      "Tackling": 9,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 8,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 8,
+      "Determination": 1,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 11,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 7,
+      "Natural Fitness": 10,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

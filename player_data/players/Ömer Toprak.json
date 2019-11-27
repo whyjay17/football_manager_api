@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6072.png",
+  "name": "Ömer Toprak",
+  "birth_date": "21/7/1989",
+  "nation": "Turkey",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "외 머 토 프 라 크",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 8,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 5,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 17,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 13,
+      "Off The Ball": 7,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

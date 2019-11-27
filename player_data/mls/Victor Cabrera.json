@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49720.png",
+  "name": "Victor Cabrera",
+  "birth_date": "7/2/1993",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "빅 터 카 브 레 라",
+  "abilities": {
+    "technical": {
+      "Corners": 1,
+      "Crossing": 8,
+      "Dribbling": 11,
+      "Finishing": 3,
+      "First Touch": 10,
+      "Free Kick": 1,
+      "Heading": 13,
+      "Long Shots": 5,
+      "Long Throws": 6,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 3,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 9,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 13,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

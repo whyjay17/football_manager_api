@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40852.png",
+  "name": "Tomas Soucek",
+  "birth_date": "27/2/1995",
+  "nation": "Czech Republic",
+  "position": "DM, M (C)",
+  "foot": "Right Only",
+  "korean": "토 마 스 수 첵",
+  "abilities": {
+    "technical": {
+      "Corners": 2,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 2,
+      "Heading": 16,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 13,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 13,
+      "Off The Ball": 13,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 17,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

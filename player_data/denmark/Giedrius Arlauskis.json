@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/52262.png",
+  "name": "Giedrius Arlauskis",
+  "birth_date": "1/12/1987",
+  "nation": "Lithuania",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "기 에 드 류 스 아 를 라 우 스 키 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 3,
+      "First Touch": 9,
+      "Handling": 11,
+      "Kicking": 14,
+      "Passing": 9,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 5,
+      "Leadership": 7,
+      "Off The Ball": 4,
+      "Positioning": 13,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

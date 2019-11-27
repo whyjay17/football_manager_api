@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58086.png",
+  "name": "Javi Hernández",
+  "birth_date": "2/5/1998",
+  "nation": "Spain",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "하 비 에 르 난 데 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 16,
+      "Heading": 11,
+      "Long Shots": 12,
+      "Long Throws": 10,
+      "Marking": 11,
+      "Passing": 9,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 20,
+      "Flair": 1,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

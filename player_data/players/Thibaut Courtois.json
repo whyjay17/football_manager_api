@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/575.png",
+  "name": "Thibaut Courtois",
+  "birth_date": "11/5/1992",
+  "nation": "Belgium",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "티 보 쿠 르 투 아",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 18,
+      "Communication": 12,
+      "Eccentricity": 5,
+      "First Touch": 10,
+      "Handling": 17,
+      "Kicking": 15,
+      "Passing": 13,
+      "Reflexes": 17,
+      "Rushing Out": 10,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 14,
+      "Leadership": 11,
+      "Off The Ball": 2,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 14,
+      "Jumping Reach": 19,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 9,
+      "Strength": 13
+    }
+  }
+}

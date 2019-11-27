@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6040.png",
+  "name": "Julian Baumgartlinger",
+  "birth_date": "2/1/1988",
+  "nation": "Austria",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "줄 리 안 바 움 가 르 틀 링 거",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 7,
+      "First Touch": 11,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 7,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 11,
+      "Bravery": 17,
+      "Composure": 10,
+      "Concentration": 17,
+      "Decisions": 12,
+      "Determination": 17,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 19
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 17,
+      "Jumping Reach": 11,
+      "Natural Fitness": 19,
+      "Pace": 16,
+      "Stamina": 19,
+      "Strength": 14
+    }
+  }
+}

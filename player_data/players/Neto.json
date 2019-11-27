@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/268.png",
+  "name": "Neto",
+  "birth_date": "19/7/1989",
+  "nation": "Brazil",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "네 투",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 15,
+      "Eccentricity": 6,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 11,
+      "Reflexes": 17,
+      "Rushing Out": 14,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 17,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 16,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

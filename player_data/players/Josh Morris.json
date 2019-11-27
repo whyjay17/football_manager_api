@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12250.png",
+  "name": "Josh Morris",
+  "birth_date": "30/9/1991",
+  "nation": "England",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "조 시 모 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 11,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 10,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 7,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 18,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 9
+    }
+  }
+}

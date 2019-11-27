@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35382.png",
+  "name": "Elhan Kastrati",
+  "birth_date": "2/2/1997",
+  "nation": "Albania",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "엘 한 카 스 트 라 티",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 11,
+      "Eccentricity": 10,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 11,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 17,
+      "Natural Fitness": 16,
+      "Pace": 15,
+      "Stamina": 7,
+      "Strength": 11
+    }
+  }
+}

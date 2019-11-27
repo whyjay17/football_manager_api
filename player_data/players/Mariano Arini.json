@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34604.png",
+  "name": "Mariano Arini",
+  "birth_date": "17/1/1987",
+  "nation": "Italy",
+  "position": "DM, M (RC)",
+  "foot": "Right Only",
+  "korean": "마 리 아 노 아 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 9,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 7,
+      "Leadership": 16,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 16,
+      "Pace": 9,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

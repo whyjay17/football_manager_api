@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26545.png",
+  "name": "Thomas Renault",
+  "birth_date": "5/3/1984",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "토 마 스 르 노",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 9,
+      "Communication": 11,
+      "Eccentricity": 7,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 13,
+      "Passing": 7,
+      "Reflexes": 13,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 13,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 6,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

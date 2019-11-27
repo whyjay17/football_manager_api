@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6819.png",
+  "name": "Nuri Sahin",
+  "birth_date": "5/9/1988",
+  "nation": "Turkey",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "누 리 사 힌",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 14,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 7,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 11,
+      "Passing": 18,
+      "Penalty Taking": 11,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 10,
+      "Composure": 17,
+      "Concentration": 15,
+      "Decisions": 17,
+      "Determination": 13,
+      "Flair": 11,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 15,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

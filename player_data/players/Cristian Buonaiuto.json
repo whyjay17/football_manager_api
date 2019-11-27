@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35270.png",
+  "name": "Cristian Buonaiuto",
+  "birth_date": "29/12/1992",
+  "nation": "Italy",
+  "position": "M (LC), AM (RLC)",
+  "foot": "Right Only",
+  "korean": "크 리 스 티 안 부 오 나 이 우 토",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 16,
+      "Long Throws": 6,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22496.png",
+  "name": "Cengiz Ünder",
+  "birth_date": "14/7/1997",
+  "nation": "Turkey",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "첸 기 즈 우 더",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 14,
+      "Finishing": 14,
+      "First Touch": 15,
+      "Free Kick": 13,
+      "Heading": 9,
+      "Long Shots": 17,
+      "Long Throws": 3,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 16,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/12132.png",
+  "name": "Ben Thompson",
+  "birth_date": "3/10/1995",
+  "nation": "England",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "벤 톰 슨",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 10,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 11,
+      "Bravery": 16,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 6,
+      "Determination": 14,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 7,
+      "Positioning": 10,
+      "Teamwork": 18,
+      "Vision": 10,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 18,
+      "Strength": 13
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/743.png",
+  "name": "Jon Ander Serantes",
+  "birth_date": "4/1/1989",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "존 앤 더 세 란 테 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 8,
+      "First Touch": 3,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 14,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 10,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

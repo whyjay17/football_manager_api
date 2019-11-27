@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22386.png",
+  "name": "Gervinho",
+  "birth_date": "27/5/1987",
+  "nation": "Côte d'Ivoire",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "게 르 비 뉴 주",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 13,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 17,
+      "Leadership": 3,
+      "Off The Ball": 15,
+      "Positioning": 5,
+      "Teamwork": 12,
+      "Vision": 13,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 18,
+      "Stamina": 11,
+      "Strength": 13
+    }
+  }
+}

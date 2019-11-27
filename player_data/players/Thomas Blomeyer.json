@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24827.png",
+  "name": "Thomas Blomeyer",
+  "birth_date": "24/4/1996",
+  "nation": "Germany",
+  "position": "D (RLC)",
+  "foot": "Either",
+  "korean": "토 머 스 블 로 마 이 어",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 10,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 7,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 10,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 8,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

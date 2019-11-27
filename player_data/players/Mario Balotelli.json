@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7863.png",
+  "name": "Mario Balotelli",
+  "birth_date": "12/8/1990",
+  "nation": "Italy",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "마 리 오 발 로 텔 리",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 16,
+      "First Touch": 15,
+      "Free Kick": 15,
+      "Heading": 15,
+      "Long Shots": 17,
+      "Long Throws": 5,
+      "Marking": 2,
+      "Passing": 14,
+      "Penalty Taking": 19,
+      "Tackling": 5,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 16,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 7,
+      "Flair": 15,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 2,
+      "Teamwork": 5,
+      "Vision": 14,
+      "Work Rate": 3
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

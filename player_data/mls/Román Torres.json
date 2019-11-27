@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49996.png",
+  "name": "Román Torres",
+  "birth_date": "20/3/1986",
+  "nation": "Panama",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "로 만 토 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 8,
+      "Dribbling": 4,
+      "Finishing": 8,
+      "First Touch": 8,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 10,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 17,
+      "Off The Ball": 9,
+      "Positioning": 11,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 17
+    }
+  }
+}

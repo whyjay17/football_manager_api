@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80527.png",
+  "name": "Jon Gaztañaga",
+  "birth_date": "28/6/1991",
+  "nation": "Spain",
+  "position": "D (C), DM",
+  "foot": "Right",
+  "korean": "존 가 스 타 냐 가",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 2,
+      "Dribbling": 9,
+      "Finishing": 4,
+      "First Touch": 12,
+      "Free Kick": 2,
+      "Heading": 13,
+      "Long Shots": 4,
+      "Long Throws": 2,
+      "Marking": 14,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 16,
+      "Teamwork": 15,
+      "Vision": 12,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 12,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

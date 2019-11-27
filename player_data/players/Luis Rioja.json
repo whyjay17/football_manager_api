@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19260.png",
+  "name": "Luis Rioja",
+  "birth_date": "16/10/1993",
+  "nation": "Spain",
+  "position": "M (L), AM (RL)",
+  "foot": "Left Only",
+  "korean": "루 이 스 리 오 하",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 7,
+      "Tackling": 8,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 3,
+      "Decisions": 12,
+      "Determination": 6,
+      "Flair": 11,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 1,
+      "Natural Fitness": 11,
+      "Pace": 19,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

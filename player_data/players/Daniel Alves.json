@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8075.png",
+  "name": "Daniel Alves",
+  "birth_date": "6/5/1983",
+  "nation": "Brazil",
+  "position": "D/WB/M (R)",
+  "foot": "Right",
+  "korean": "다 니 엘 알 베 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 17,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 13,
+      "Heading": 10,
+      "Long Shots": 14,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 15,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 17,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 20,
+      "Flair": 15,
+      "Leadership": 15,
+      "Off The Ball": 17,
+      "Positioning": 12,
+      "Teamwork": 15,
+      "Vision": 15,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 18,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

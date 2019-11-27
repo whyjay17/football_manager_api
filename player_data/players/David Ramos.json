@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59519.png",
+  "name": "David Ramos",
+  "birth_date": "16/8/1997",
+  "nation": "Spain",
+  "position": "D/WB/M/AM (R), ST (C)",
+  "foot": "Right",
+  "korean": "데 이 비 드 라 모 스",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 8,
+      "Long Shots": 8,
+      "Long Throws": 2,
+      "Marking": 8,
+      "Passing": 7,
+      "Penalty Taking": 2,
+      "Tackling": 9,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 5,
+      "Bravery": 9,
+      "Composure": 5,
+      "Concentration": 6,
+      "Decisions": 8,
+      "Determination": 4,
+      "Flair": 11,
+      "Leadership": 9,
+      "Off The Ball": 6,
+      "Positioning": 9,
+      "Teamwork": 4,
+      "Vision": 7,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 5
+    }
+  }
+}

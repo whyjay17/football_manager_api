@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/100.png",
+  "name": "Gustavo Cabral",
+  "birth_date": "14/10/1985",
+  "nation": "Argentina",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "구 스 타 보 카 발",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 7,
+      "Dribbling": 7,
+      "Finishing": 5,
+      "First Touch": 9,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 17,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 16,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 15,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 6,
+      "Positioning": 17,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

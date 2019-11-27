@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1264.png",
+  "name": "José Giménez",
+  "birth_date": "20/1/1995",
+  "nation": "Uruguay",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "호 세 기 메 네 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 16,
+      "Long Shots": 8,
+      "Long Throws": 13,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 15,
+      "Concentration": 15,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 16,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 15
+    }
+  }
+}

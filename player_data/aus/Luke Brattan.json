@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80264.png",
+  "name": "Luke Brattan",
+  "birth_date": "7/3/1990",
+  "nation": "Australia AUS",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "루 크 브 래 턴",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 4,
+      "Marking": 11,
+      "Passing": 15,
+      "Penalty Taking": 5,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 15,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

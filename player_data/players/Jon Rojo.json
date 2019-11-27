@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58242.png",
+  "name": "Jon Rojo",
+  "birth_date": "22/12/1996",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "존 로 조",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 4,
+      "Long Throws": 6,
+      "Marking": 11,
+      "Passing": 11,
+      "Penalty Taking": 7,
+      "Tackling": 11,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 3,
+      "Flair": 6,
+      "Leadership": 3,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 9,
+      "Natural Fitness": 10,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

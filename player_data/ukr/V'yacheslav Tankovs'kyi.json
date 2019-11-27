@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/32184.png",
+  "name": "V'yacheslav Tankovs'kyi",
+  "birth_date": "16/8/1995",
+  "nation": "Ukraine",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "브 야 체 슬 라 프 탄 코 프 키",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 9,
+      "Dribbling": 6,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 4,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 2,
+      "Tackling": 11,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 2,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

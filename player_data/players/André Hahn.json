@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6295.png",
+  "name": "André Hahn",
+  "birth_date": "13/8/1990",
+  "nation": "Germany",
+  "position": "M/AM (RL)",
+  "foot": "Right",
+  "korean": "안 드 레 한",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 10,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 12,
+      "Long Throws": 12,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 9,
+      "Determination": 17,
+      "Flair": 12,
+      "Leadership": 11,
+      "Off The Ball": 15,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 12,
+      "Natural Fitness": 18,
+      "Pace": 16,
+      "Stamina": 16,
+      "Strength": 14
+    }
+  }
+}

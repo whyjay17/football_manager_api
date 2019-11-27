@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/436.png",
+  "name": "Raúl Navas",
+  "birth_date": "11/5/1988",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "라 울 나 바 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 7,
+      "Finishing": 6,
+      "First Touch": 8,
+      "Free Kick": 8,
+      "Heading": 15,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 8,
+      "Flair": 8,
+      "Leadership": 13,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46417.png",
+  "name": "Sohn Jung-Hyun",
+  "birth_date": "25/11/1991",
+  "nation": "South Korea KOR",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "손 정 현",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 10,
+      "Eccentricity": 5,
+      "First Touch": 4,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 13,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 8
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 13,
+      "Flair": 5,
+      "Leadership": 10,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

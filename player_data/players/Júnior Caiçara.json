@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2596.png",
+  "name": "Júnior Caiçara",
+  "birth_date": "27/4/1989",
+  "nation": "Brazil",
+  "position": "D/WB (RL)",
+  "foot": "Right",
+  "korean": "주 니 오 르  카 이 사 라",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 16,
+      "Dribbling": 13,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 9,
+      "Heading": 7,
+      "Long Shots": 10,
+      "Long Throws": 15,
+      "Marking": 10,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 12,
+      "Determination": 16,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 8,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 19,
+      "Pace": 13,
+      "Stamina": 17,
+      "Strength": 7
+    }
+  }
+}

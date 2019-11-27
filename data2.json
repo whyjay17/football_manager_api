@@ -1,0 +1,54 @@
+[
+  {
+    "profile_img": "https://fmdataba.com/images/p/32421.png",
+    "name": "Nathan Waterston ",
+    "birth_date": "13/5/1997",
+    "nation": "England",
+    "position": "M/AM (RL)",
+    "foot": "Right",
+    "abilities": {
+      "technical": {
+        "Corners": 6,
+        "Crossing": 8,
+        "Dribbling": 8,
+        "Finishing": 7,
+        "First Touch": 8,
+        "Free Kick": 4,
+        "Heading": 7,
+        "Long Shots": 6,
+        "Long Throws": 5,
+        "Marking": 5,
+        "Passing": 8,
+        "Penalty Taking": 7,
+        "Tackling": 7,
+        "Technique": 9
+      },
+      "mental": {
+        "Aggression": 8,
+        "Anticipation": 8,
+        "Bravery": 8,
+        "Composure": 9,
+        "Concentration": 9,
+        "Decisions": 8,
+        "Determination": 11,
+        "Flair": 7,
+        "Leadership": 5,
+        "Off The Ball": 8,
+        "Positioning": 7,
+        "Teamwork": 11,
+        "Vision": 10,
+        "Work Rate": 13
+      },
+      "physical": {
+        "Acceleration": 11,
+        "Agility": 10,
+        "Balance": 10,
+        "Jumping Reach": 11,
+        "Natural Fitness": 10,
+        "Pace": 11,
+        "Stamina": 10,
+        "Strength": 9
+      }
+    }
+  }
+]

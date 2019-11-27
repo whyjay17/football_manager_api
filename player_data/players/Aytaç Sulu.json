@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24796.png",
+  "name": "Aytaç Sulu",
+  "birth_date": "11/12/1985",
+  "nation": "Turkey",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "아 이 타 스 술 루",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 5,
+      "Dribbling": 6,
+      "Finishing": 10,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 17,
+      "Long Shots": 6,
+      "Long Throws": 4,
+      "Marking": 15,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 4,
+      "Leadership": 16,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 16,
+      "Vision": 7,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 7,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

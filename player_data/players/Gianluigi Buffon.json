@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8049.png",
+  "name": "Gianluigi Buffon",
+  "birth_date": "28/1/1978",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "잔 루 이 지 부 폰",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 20,
+      "Eccentricity": 16,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 18,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 17,
+      "Bravery": 17,
+      "Composure": 17,
+      "Concentration": 16,
+      "Decisions": 18,
+      "Determination": 20,
+      "Flair": 12,
+      "Leadership": 20,
+      "Off The Ball": 1,
+      "Positioning": 20,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 11,
+      "Pace": 7,
+      "Stamina": 9,
+      "Strength": 14
+    }
+  }
+}

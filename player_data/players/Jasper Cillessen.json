@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1097.png",
+  "name": "Jasper Cillessen",
+  "birth_date": "22/4/1989",
+  "nation": "Netherlands",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "재 스 퍼 실 레 센",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 14,
+      "Eccentricity": 11,
+      "First Touch": 10,
+      "Handling": 16,
+      "Kicking": 13,
+      "Passing": 10,
+      "Reflexes": 16,
+      "Rushing Out": 12,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 16,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 8,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

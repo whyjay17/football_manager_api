@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41517.png",
+  "name": "Mathias Jørgensen",
+  "birth_date": "20/9/2000",
+  "nation": "Denmark",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "마 티 아 스 외 르 겐 센",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 10,
+      "Dribbling": 13,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 11,
+      "Long Throws": 10,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 3,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 8,
+      "Concentration": 7,
+      "Decisions": 7,
+      "Determination": 4,
+      "Flair": 10,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 5,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 10,
+      "Natural Fitness": 9,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 7
+    }
+  }
+}

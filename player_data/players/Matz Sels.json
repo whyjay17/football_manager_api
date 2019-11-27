@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8358.png",
+  "name": "Matz Sels",
+  "birth_date": "26/2/1992",
+  "nation": "Belgium",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 츠 셀 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 11,
+      "Communication": 11,
+      "Eccentricity": 13,
+      "First Touch": 11,
+      "Handling": 10,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 17,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 1,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

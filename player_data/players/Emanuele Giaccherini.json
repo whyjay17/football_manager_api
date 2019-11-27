@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21510.png",
+  "name": "Emanuele Giaccherini",
+  "birth_date": "5/5/1985",
+  "nation": "Italy",
+  "position": "M (C), AM (RLC)",
+  "foot": "Right",
+  "korean": "에 마 누 엘 레 지 아 케 리 니",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 7,
+      "Long Shots": 12,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 13,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 17,
+      "Flair": 17,
+      "Leadership": 4,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 4,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 6
+    }
+  }
+}

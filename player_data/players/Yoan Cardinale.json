@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7809.png",
+  "name": "Yoan Cardinale",
+  "birth_date": "27/3/1994",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "요 안 카 르 디 날 레",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 14,
+      "Eccentricity": 13,
+      "First Touch": 12,
+      "Handling": 12,
+      "Kicking": 14,
+      "Passing": 12,
+      "Reflexes": 15,
+      "Rushing Out": 14,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 13,
+      "Balance": 15,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 14,
+      "Strength": 15
+    }
+  }
+}

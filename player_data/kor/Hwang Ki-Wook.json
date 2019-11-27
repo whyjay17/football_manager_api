@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46699.png",
+  "name": "Hwang Ki-Wook",
+  "birth_date": "10/6/1996",
+  "nation": "South Korea KOR",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "황 기 욱",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 1,
+      "Finishing": 5,
+      "First Touch": 6,
+      "Free Kick": 1,
+      "Heading": 12,
+      "Long Shots": 6,
+      "Long Throws": 1,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 13,
+      "Technique": 7
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 5,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 1,
+      "Leadership": 3,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 6
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 8,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

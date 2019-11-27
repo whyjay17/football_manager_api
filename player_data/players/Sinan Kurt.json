@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6545.png",
+  "name": "Sinan Kurt",
+  "birth_date": "23/7/1996",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Left",
+  "korean": "시 난 커 트",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 4,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 4,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 6,
+      "Composure": 11,
+      "Concentration": 7,
+      "Decisions": 10,
+      "Determination": 7,
+      "Flair": 15,
+      "Leadership": 3,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

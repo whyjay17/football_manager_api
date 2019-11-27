@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46535.png",
+  "name": "Lee Seung-Gi",
+  "birth_date": "2/6/1988",
+  "nation": "South Korea KOR",
+  "position": "M (C), AM (LC)",
+  "foot": "Either",
+  "korean": "이 승 기",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 13,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 12,
+      "Heading": 5,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 13,
+      "Tackling": 3,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 7,
+      "Bravery": 6,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 14,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 10,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

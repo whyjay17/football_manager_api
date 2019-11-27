@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8330.png",
+  "name": "Fayçal Fajr",
+  "birth_date": "1/8/1988",
+  "nation": "Morocco",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "페 이 살 파 즈 르",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 8,
+      "Long Shots": 12,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 12,
+      "Tackling": 8,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 9,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 15,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 12,
+      "Vision": 15,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26373.png",
+  "name": "Nicolas Basin",
+  "birth_date": "22/7/1998",
+  "nation": "France",
+  "position": "D/WB (L)",
+  "foot": "Left Only",
+  "korean": "니 콜 라 스 분 지",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 8,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 3,
+      "Heading": 7,
+      "Long Shots": 7,
+      "Long Throws": 2,
+      "Marking": 10,
+      "Passing": 10,
+      "Penalty Taking": 4,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 10,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 7,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 10,
+      "Teamwork": 10,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 6,
+      "Strength": 7
+    }
+  }
+}

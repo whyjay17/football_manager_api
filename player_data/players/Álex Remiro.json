@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1340.png",
+  "name": "Álex Remiro",
+  "birth_date": "24/3/1995",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "알 렉 스 레 미 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 8,
+      "First Touch": 7,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 12,
+      "Reflexes": 15,
+      "Rushing Out": 14,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 3,
+      "Leadership": 10,
+      "Off The Ball": 3,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 6,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 7,
+      "Strength": 9
+    }
+  }
+}

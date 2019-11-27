@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9760.png",
+  "name": "Luke Daniels",
+  "birth_date": "5/1/1988",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "루 크 다 니 엘 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 12,
+      "Eccentricity": 6,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 9,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 11,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 7,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 17,
+      "Natural Fitness": 13,
+      "Pace": 8,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

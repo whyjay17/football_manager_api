@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2915.png",
+  "name": "Celso Borges",
+  "birth_date": "27/5/1988",
+  "nation": "Costa Rica",
+  "position": "M/AM (C)",
+  "foot": "Right",
+  "korean": "셀 소 보 르 헤 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 2,
+      "Marking": 11,
+      "Passing": 16,
+      "Penalty Taking": 14,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 15,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 15,
+      "Strength": 13
+    }
+  }
+}

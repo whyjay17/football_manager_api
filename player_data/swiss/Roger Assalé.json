@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/42126.png",
+  "name": "Roger Assalé",
+  "birth_date": "13/11/1993",
+  "nation": "Côte d'Ivoire",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "로 저 아 살 레",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 5,
+      "Heading": 7,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 18,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 17,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

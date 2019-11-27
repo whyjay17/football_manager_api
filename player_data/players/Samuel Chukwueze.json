@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59.png",
+  "name": "Samuel Chukwueze",
+  "birth_date": "22/5/1999",
+  "nation": "Nigeria",
+  "position": "M (R), AM (RL)",
+  "foot": "Left Only",
+  "korean": "사 무 엘 추 크 우 에 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 17,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 8,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 7,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 11,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 16,
+      "Flair": 16,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 8
+    }
+  }
+}

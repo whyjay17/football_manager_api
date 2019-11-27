@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8596.png",
+  "name": "Lasse Schöne",
+  "birth_date": "27/5/1986",
+  "nation": "Denmark",
+  "position": "DM, M/AM (RC)",
+  "foot": "Right",
+  "korean": "라 세 쇠 네",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 17,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 16,
+      "Penalty Taking": 13,
+      "Tackling": 7,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 12,
+      "Leadership": 16,
+      "Off The Ball": 14,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 16,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 17,
+      "Pace": 7,
+      "Stamina": 10,
+      "Strength": 8
+    }
+  }
+}

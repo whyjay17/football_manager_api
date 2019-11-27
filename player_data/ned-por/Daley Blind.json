@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/8582.png",
+  "name": "Daley Blind",
+  "birth_date": "9/3/1990",
+  "nation": "Netherlands",
+  "position": "D (LC), WB (L), DM, M (C)",
+  "foot": "Left",
+  "korean": "데 일 리 블 린 트",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 10,
+      "Marking": 13,
+      "Passing": 16,
+      "Penalty Taking": 10,
+      "Tackling": 12,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 17,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 11,
+      "Positioning": 16,
+      "Teamwork": 17,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 11,
+      "Natural Fitness": 17,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 12
+    }
+  }
+}

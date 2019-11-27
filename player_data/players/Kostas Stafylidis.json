@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6277.png",
+  "name": "Kostas Stafylidis",
+  "birth_date": "2/12/1993",
+  "nation": "Greece",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "코 스 타 스 스 타 필 리 디 스",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 10,
+      "Long Shots": 16,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 16,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 12,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 11,
+      "Teamwork": 12,
+      "Vision": 12,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 13,
+      "Balance": 16,
+      "Jumping Reach": 10,
+      "Natural Fitness": 15,
+      "Pace": 12,
+      "Stamina": 14,
+      "Strength": 13
+    }
+  }
+}

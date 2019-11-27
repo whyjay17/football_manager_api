@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6204.png",
+  "name": "Carlos Salcedo",
+  "birth_date": "29/9/1993",
+  "nation": "Mexico",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "카 를 로 스 살 세 도",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 8,
+      "Dribbling": 9,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 5,
+      "Heading": 12,
+      "Long Shots": 8,
+      "Long Throws": 14,
+      "Marking": 15,
+      "Passing": 12,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 13,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 5,
+      "Leadership": 11,
+      "Off The Ball": 7,
+      "Positioning": 14,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34430.png",
+  "name": "Luca Ghiringhelli",
+  "birth_date": "23/1/1992",
+  "nation": "Italy",
+  "position": "D/WB (R)",
+  "foot": "Right Only",
+  "korean": "루 카 깅 겔 리",
+  "abilities": {
+    "technical": {
+      "Corners": 3,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 5,
+      "First Touch": 10,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 5,
+      "Long Throws": 12,
+      "Marking": 12,
+      "Passing": 13,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 12,
+      "Composure": 12,
+      "Concentration": 13,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 14,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

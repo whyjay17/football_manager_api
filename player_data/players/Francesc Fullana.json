@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58737.png",
+  "name": "Francesc Fullana",
+  "birth_date": "9/10/1989",
+  "nation": "Spain",
+  "position": "M (R), AM (RC), ST (C)",
+  "foot": "Right",
+  "korean": "프 란 체 시 풀 라 나",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 8,
+      "Heading": 9,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 2,
+      "Tackling": 6,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 14,
+      "Determination": 2,
+      "Flair": 7,
+      "Leadership": 13,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 4,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 9
+    }
+  }
+}

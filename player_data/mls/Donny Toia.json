@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49848.png",
+  "name": "Donny Toia",
+  "birth_date": "28/5/1992",
+  "nation": "United States",
+  "position": "D (RL)",
+  "foot": "Left",
+  "korean": "도 니 토 이 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 10,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 5,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 9,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 17,
+      "Flair": 7,
+      "Leadership": 4,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 9,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22499.png",
+  "name": "Patrik Schick",
+  "birth_date": "24/1/1996",
+  "nation": "Czech Republic",
+  "position": "AM (RC), ST (C)",
+  "foot": "Left",
+  "korean": "패 트 릭 쉬 크",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 9,
+      "Heading": 14,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 7,
+      "Technique": 17
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 16,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 14
+    }
+  }
+}

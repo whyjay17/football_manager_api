@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31568.png",
+  "name": "Claudio Marchisio",
+  "birth_date": "19/1/1986",
+  "nation": "Italy",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "클 라 우 디 오 마 르 키 시 오",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 13,
+      "Long Throws": 6,
+      "Marking": 13,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 15,
+      "Bravery": 14,
+      "Composure": 17,
+      "Concentration": 14,
+      "Decisions": 17,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 14,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 9,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

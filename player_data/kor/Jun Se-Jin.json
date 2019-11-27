@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46743.png",
+  "name": "Jun Se-Jin",
+  "birth_date": "9/9/1999",
+  "nation": "South Korea KOR",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "전 세 진",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 2,
+      "Dribbling": 12,
+      "Finishing": 12,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 9,
+      "Long Throws": 1,
+      "Marking": 3,
+      "Passing": 10,
+      "Penalty Taking": 5,
+      "Tackling": 5,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 10,
+      "Bravery": 14,
+      "Composure": 13,
+      "Concentration": 7,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 9,
+      "Off The Ball": 11,
+      "Positioning": 7,
+      "Teamwork": 7,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

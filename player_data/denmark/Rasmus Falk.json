@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41316.png",
+  "name": "Rasmus Falk",
+  "birth_date": "15/1/1992",
+  "nation": "Denmark",
+  "position": "M/AM (RLC), ST (C)",
+  "foot": "Right",
+  "korean": "라 스 무 스 폴 크",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 10,
+      "Dribbling": 16,
+      "Finishing": 10,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 9,
+      "Long Throws": 5,
+      "Marking": 6,
+      "Passing": 15,
+      "Penalty Taking": 11,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 5,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

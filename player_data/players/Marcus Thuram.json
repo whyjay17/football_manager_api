@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7573.png",
+  "name": "Marcus Thuram",
+  "birth_date": "6/8/1997",
+  "nation": "France",
+  "position": "AM (L), ST (C)",
+  "foot": "Right",
+  "korean": "마 커 스 투 람",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 14,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 7,
+      "Heading": 12,
+      "Long Shots": 9,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 11,
+      "Penalty Taking": 14,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 8,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 17
+    }
+  }
+}

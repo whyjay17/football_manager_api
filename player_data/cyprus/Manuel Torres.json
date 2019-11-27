@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80529.png",
+  "name": "Manuel Torres",
+  "birth_date": "5/1/1991",
+  "nation": "Spain",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "마 누 엘 토 레 스",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 10,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 8,
+      "Long Throws": 6,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 13,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 7,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 9,
+      "Determination": 12,
+      "Flair": 15,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 4,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 16,
+      "Balance": 8,
+      "Jumping Reach": 7,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

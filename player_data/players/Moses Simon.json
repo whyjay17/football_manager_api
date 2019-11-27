@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/726.png",
+  "name": "Moses Simon",
+  "birth_date": "12/7/1995",
+  "nation": "Nigeria",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right Only",
+  "korean": "모 세 시 몬",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 12,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 5,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 10,
+      "Bravery": 15,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 12,
+      "Flair": 16,
+      "Leadership": 8,
+      "Off The Ball": 17,
+      "Positioning": 10,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 5,
+      "Natural Fitness": 12,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 10
+    }
+  }
+}

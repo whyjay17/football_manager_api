@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/923.png",
+  "name": "Leandro Cabrera",
+  "birth_date": "17/6/1991",
+  "nation": "Uruguay",
+  "position": "D (LC), WB (L)",
+  "foot": "Left",
+  "korean": "레 안 드 로 카 브 레 라",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 8,
+      "Dribbling": 6,
+      "Finishing": 4,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 8,
+      "Long Throws": 18,
+      "Marking": 14,
+      "Passing": 8,
+      "Penalty Taking": 5,
+      "Tackling": 14,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 11,
+      "Bravery": 18,
+      "Composure": 9,
+      "Concentration": 16,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 14,
+      "Off The Ball": 8,
+      "Positioning": 14,
+      "Teamwork": 18,
+      "Vision": 9,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 8,
+      "Jumping Reach": 16,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

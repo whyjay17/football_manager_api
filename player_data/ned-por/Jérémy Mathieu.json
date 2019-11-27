@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23909.png",
+  "name": "Jérémy Mathieu",
+  "birth_date": "29/10/1983",
+  "nation": "France",
+  "position": "D (LC), WB (L)",
+  "foot": "Left Only",
+  "korean": "제 레 미 마 티 유",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 11,
+      "Free Kick": 14,
+      "Heading": 13,
+      "Long Shots": 14,
+      "Long Throws": 14,
+      "Marking": 16,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 14,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

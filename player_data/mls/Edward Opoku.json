@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49514.png",
+  "name": "Edward Opoku",
+  "birth_date": "1/8/1997",
+  "nation": "Ghana",
+  "position": "AM (R)",
+  "foot": "Right Only",
+  "korean": "에 드 워 드 오 포 쿠",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 10,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 8,
+      "Penalty Taking": 1,
+      "Tackling": 8,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 7,
+      "Bravery": 8,
+      "Composure": 6,
+      "Concentration": 9,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 6,
+      "Leadership": 6,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 11,
+      "Strength": 5
+    }
+  }
+}

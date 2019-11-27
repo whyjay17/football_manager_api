@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24415.png",
+  "name": "Emanuel Insúa",
+  "birth_date": "10/4/1991",
+  "nation": "Argentina",
+  "position": "D/WB/M (L)",
+  "foot": "Left Only",
+  "korean": "에 마 누 엘 인 수 아",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 9,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 15,
+      "Long Throws": 14,
+      "Marking": 14,
+      "Passing": 11,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 19,
+      "Anticipation": 10,
+      "Bravery": 18,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 19,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 13,
+      "Pace": 15,
+      "Stamina": 15,
+      "Strength": 14
+    }
+  }
+}

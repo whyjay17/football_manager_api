@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24661.png",
+  "name": "Anderson Lucoqui",
+  "birth_date": "6/7/1997",
+  "nation": "Germany",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "앤 더 슨 루 코 키",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 11,
+      "Dribbling": 10,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 5,
+      "Heading": 8,
+      "Long Shots": 7,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 10,
+      "Penalty Taking": 7,
+      "Tackling": 12,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 8,
+      "Bravery": 15,
+      "Composure": 8,
+      "Concentration": 10,
+      "Decisions": 7,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 9,
+      "Off The Ball": 9,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 7,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 12,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

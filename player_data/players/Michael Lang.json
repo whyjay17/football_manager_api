@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6146.png",
+  "name": "Michael Lang",
+  "birth_date": "8/2/1991",
+  "nation": "Switzerland",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "마 이 클 랭",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 14,
+      "Dribbling": 9,
+      "Finishing": 12,
+      "First Touch": 12,
+      "Free Kick": 7,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 13,
+      "Marking": 11,
+      "Passing": 13,
+      "Penalty Taking": 9,
+      "Tackling": 13,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 13,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 15,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 14,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

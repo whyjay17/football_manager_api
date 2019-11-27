@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6944.png",
+  "name": "Dennis Aogo",
+  "birth_date": "14/1/1987",
+  "nation": "Germany",
+  "position": "D/WB (L), DM, M (C)",
+  "foot": "Left",
+  "korean": "데 니 스 아 오 고",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 16,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 12,
+      "Heading": 8,
+      "Long Shots": 11,
+      "Long Throws": 13,
+      "Marking": 10,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 12,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 15,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 9,
+      "Flair": 14,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 14,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

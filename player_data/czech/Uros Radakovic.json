@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40971.png",
+  "name": "Uros Radakovic",
+  "birth_date": "31/3/1994",
+  "nation": "Serbia",
+  "position": "D (C)",
+  "foot": "Left Only",
+  "korean": "우 로 시 라 다 코 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 6,
+      "First Touch": 9,
+      "Free Kick": 6,
+      "Heading": 17,
+      "Long Shots": 7,
+      "Long Throws": 9,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 7,
+      "Tackling": 13,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 16,
+      "Composure": 9,
+      "Concentration": 7,
+      "Decisions": 9,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 12,
+      "Off The Ball": 7,
+      "Positioning": 13,
+      "Teamwork": 13,
+      "Vision": 8,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 10,
+      "Balance": 16,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 16
+    }
+  }
+}

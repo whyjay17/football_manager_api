@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20164.png",
+  "name": "Borja Herrera",
+  "birth_date": "8/1/1993",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "보 르 자 에 레 라",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 3,
+      "First Touch": 11,
+      "Free Kick": 2,
+      "Heading": 8,
+      "Long Shots": 6,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 9,
+      "Penalty Taking": 3,
+      "Tackling": 9,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 9,
+      "Composure": 8,
+      "Concentration": 12,
+      "Decisions": 11,
+      "Determination": 2,
+      "Flair": 2,
+      "Leadership": 6,
+      "Off The Ball": 8,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58135.png",
+  "name": "Xabi Irureta",
+  "birth_date": "21/3/1986",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "사 비 이 레 레 타",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 10,
+      "Eccentricity": 11,
+      "First Touch": 9,
+      "Handling": 11,
+      "Kicking": 15,
+      "Passing": 11,
+      "Reflexes": 15,
+      "Rushing Out": 11,
+      "Throwing": 11
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 9,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 11,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

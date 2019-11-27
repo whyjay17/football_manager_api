@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23932.png",
+  "name": "Emiliano Viviano",
+  "birth_date": "1/12/1985",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "에 밀 리 아 노 비 비 아 노",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 15,
+      "Eccentricity": 10,
+      "First Touch": 9,
+      "Handling": 14,
+      "Kicking": 16,
+      "Passing": 8,
+      "Reflexes": 16,
+      "Rushing Out": 13,
+      "Throwing": 16
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 8,
+      "Leadership": 14,
+      "Off The Ball": 14,
+      "Positioning": 13,
+      "Teamwork": 12,
+      "Vision": 8,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 14,
+      "Balance": 16,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

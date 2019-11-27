@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6085.png",
+  "name": "Raphaël Guerreiro",
+  "birth_date": "22/12/1993",
+  "nation": "Portugal",
+  "position": "D/WB (L), M (LC), AM (L)",
+  "foot": "Left",
+  "korean": "라 파 엘 게 레 이 로",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 15,
+      "Dribbling": 12,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 15,
+      "Heading": 8,
+      "Long Shots": 13,
+      "Long Throws": 12,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 16,
+      "Bravery": 10,
+      "Composure": 17,
+      "Concentration": 14,
+      "Decisions": 16,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 10,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 10,
+      "Jumping Reach": 6,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7004.png",
+  "name": "Paul Verhaegh",
+  "birth_date": "1/9/1983",
+  "nation": "Netherlands",
+  "position": "D/WB (R)",
+  "foot": "Right",
+  "korean": "폴 베 르 해",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 13,
+      "Dribbling": 8,
+      "Finishing": 6,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 10,
+      "Long Shots": 7,
+      "Long Throws": 12,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 18,
+      "Tackling": 14,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 17,
+      "Concentration": 17,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 15,
+      "Pace": 11,
+      "Stamina": 13,
+      "Strength": 9
+    }
+  }
+}

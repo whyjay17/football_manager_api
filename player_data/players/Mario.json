@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59309.png",
+  "name": "Mario",
+  "birth_date": "25/2/1996",
+  "nation": "Spain",
+  "position": "AM (RL), ST (C)",
+  "foot": "Right",
+  "korean": "마 리 오",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 9,
+      "Heading": 11,
+      "Long Shots": 13,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 4,
+      "Penalty Taking": 5,
+      "Tackling": 4,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 2,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 13,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 10,
+      "Jumping Reach": 8,
+      "Natural Fitness": 7,
+      "Pace": 15,
+      "Stamina": 8,
+      "Strength": 7
+    }
+  }
+}

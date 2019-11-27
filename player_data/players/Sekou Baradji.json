@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26637.png",
+  "name": "Sekou Baradji",
+  "birth_date": "30/8/1995",
+  "nation": "France",
+  "position": "AM (R), ST (C)",
+  "foot": "Right Only",
+  "korean": "세 코 바 라 지",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 13,
+      "Dribbling": 7,
+      "Finishing": 8,
+      "First Touch": 7,
+      "Free Kick": 6,
+      "Heading": 6,
+      "Long Shots": 7,
+      "Long Throws": 4,
+      "Marking": 4,
+      "Passing": 8,
+      "Penalty Taking": 4,
+      "Tackling": 7,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 8,
+      "Determination": 14,
+      "Flair": 10,
+      "Leadership": 1,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 14,
+      "Vision": 8,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 10
+    }
+  }
+}

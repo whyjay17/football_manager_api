@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57.png",
+  "name": "Santi Cazorla",
+  "birth_date": "13/12/1984",
+  "nation": "Spain",
+  "position": "M (C), AM (RLC)",
+  "foot": "Either",
+  "korean": "산 티 카 졸 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 12,
+      "Dribbling": 15,
+      "Finishing": 12,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 4,
+      "Long Shots": 14,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 17,
+      "Penalty Taking": 16,
+      "Tackling": 9,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 16,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 14,
+      "Determination": 14,
+      "Flair": 17,
+      "Leadership": 11,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 14,
+      "Vision": 17,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 12,
+      "Jumping Reach": 5,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 7
+    }
+  }
+}

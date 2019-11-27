@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58573.png",
+  "name": "Enzo Lombardo",
+  "birth_date": "16/4/1997",
+  "nation": "France",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Right",
+  "korean": "엔 조 롬 바 르 도",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 9,
+      "Dribbling": 13,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 5,
+      "Long Shots": 8,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 11,
+      "Leadership": 10,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 8,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 5,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

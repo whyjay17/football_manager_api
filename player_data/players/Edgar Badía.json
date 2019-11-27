@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20150.png",
+  "name": "Edgar Badía",
+  "birth_date": "11/2/1992",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "에 드 가 바 디 아",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 9,
+      "Eccentricity": 10,
+      "First Touch": 5,
+      "Handling": 15,
+      "Kicking": 14,
+      "Passing": 11,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 9,
+      "Concentration": 15,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 3,
+      "Leadership": 15,
+      "Off The Ball": 1,
+      "Positioning": 15,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 7,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 9
+    }
+  }
+}

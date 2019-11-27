@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9234.png",
+  "name": "Gastón Pereiro",
+  "birth_date": "11/6/1995",
+  "nation": "Uruguay",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "가 스 톤 페 레 이 로",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 14,
+      "First Touch": 16,
+      "Free Kick": 15,
+      "Heading": 13,
+      "Long Shots": 13,
+      "Long Throws": 7,
+      "Marking": 5,
+      "Passing": 14,
+      "Penalty Taking": 13,
+      "Tackling": 4,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 13,
+      "Bravery": 9,
+      "Composure": 15,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 8,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 14,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

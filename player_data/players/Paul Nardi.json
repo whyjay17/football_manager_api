@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/7203.png",
+  "name": "Paul Nardi",
+  "birth_date": "18/5/1994",
+  "nation": "France",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "폴 나 르 디",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 13,
+      "Eccentricity": 8,
+      "First Touch": 10,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 3,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 14,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 14
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6182.png",
+  "name": "Jonas Hofmann",
+  "birth_date": "14/7/1992",
+  "nation": "Germany",
+  "position": "M (RLC), AM (RL)",
+  "foot": "Right",
+  "korean": "조 나 스 호 프 만",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 10,
+      "Heading": 6,
+      "Long Shots": 9,
+      "Long Throws": 15,
+      "Marking": 8,
+      "Passing": 12,
+      "Penalty Taking": 11,
+      "Tackling": 11,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 12,
+      "Teamwork": 16,
+      "Vision": 14,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 16,
+      "Stamina": 17,
+      "Strength": 7
+    }
+  }
+}

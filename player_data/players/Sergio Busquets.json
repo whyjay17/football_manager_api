@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1134.png",
+  "name": "Sergio Busquets",
+  "birth_date": "16/7/1988",
+  "nation": "Spain",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "세 르 지 오 부 스 케 츠",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 12,
+      "Finishing": 9,
+      "First Touch": 16,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 9,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 17,
+      "Penalty Taking": 11,
+      "Tackling": 15,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 19,
+      "Bravery": 13,
+      "Composure": 18,
+      "Concentration": 18,
+      "Decisions": 18,
+      "Determination": 16,
+      "Flair": 9,
+      "Leadership": 11,
+      "Off The Ball": 11,
+      "Positioning": 17,
+      "Teamwork": 19,
+      "Vision": 16,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 12,
+      "Balance": 10,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 16,
+      "Strength": 13
+    }
+  }
+}

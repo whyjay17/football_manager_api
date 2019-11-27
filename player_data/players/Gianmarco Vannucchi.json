@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35474.png",
+  "name": "Gianmarco Vannucchi",
+  "birth_date": "30/7/1995",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "잔 마 르 코 반 누 치",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 9,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 6,
+      "Handling": 13,
+      "Kicking": 10,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 8,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 13,
+      "Bravery": 13,
+      "Composure": 13,
+      "Concentration": 9,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 4,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 11,
+      "Jumping Reach": 10,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 14,
+      "Strength": 10
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/365.png",
+  "name": "Jesús Navas",
+  "birth_date": "21/11/1985",
+  "nation": "Spain",
+  "position": "WB/M/AM (R)",
+  "foot": "Right",
+  "korean": "헤 수 스 나 바 스",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 9,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 5,
+      "Long Shots": 11,
+      "Long Throws": 4,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 8,
+      "Tackling": 10,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 13,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 14,
+      "Flair": 13,
+      "Leadership": 11,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 11,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 6,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 15,
+      "Strength": 8
+    }
+  }
+}

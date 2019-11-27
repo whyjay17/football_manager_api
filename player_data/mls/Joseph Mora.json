@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49544.png",
+  "name": "Joseph Mora",
+  "birth_date": "15/1/1993",
+  "nation": "Costa Rica",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "조 셉 모 라",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 4,
+      "Heading": 10,
+      "Long Shots": 6,
+      "Long Throws": 3,
+      "Marking": 9,
+      "Passing": 11,
+      "Penalty Taking": 2,
+      "Tackling": 11,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 10,
+      "Determination": 9,
+      "Flair": 5,
+      "Leadership": 14,
+      "Off The Ball": 12,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 11,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 11,
+      "Jumping Reach": 8,
+      "Natural Fitness": 14,
+      "Pace": 12,
+      "Stamina": 9,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26357.png",
+  "name": "Ibrahima Niane",
+  "birth_date": "11/3/1999",
+  "nation": "Senegal",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "이 브 라 히 마 니 아 네",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 11,
+      "First Touch": 9,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 6,
+      "Penalty Taking": 5,
+      "Tackling": 10,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 11,
+      "Concentration": 10,
+      "Decisions": 10,
+      "Determination": 3,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 14,
+      "Positioning": 9,
+      "Teamwork": 10,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 15,
+      "Jumping Reach": 15,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 13
+    }
+  }
+}

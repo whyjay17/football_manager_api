@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/49770.png",
+  "name": "Alejandro Romero Gamarra",
+  "birth_date": "11/1/1995",
+  "nation": "Paraguay",
+  "position": "AM (RLC)",
+  "foot": "Left",
+  "korean": "알 레 한 드 로 로 메 로 가 마 라",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 14,
+      "Dribbling": 14,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 14,
+      "Heading": 6,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 5,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 5,
+      "Off The Ball": 14,
+      "Positioning": 4,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 8,
+      "Jumping Reach": 5,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

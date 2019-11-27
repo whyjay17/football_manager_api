@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20245.png",
+  "name": "Álvaro Ratón",
+  "birth_date": "20/3/1993",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Left Only",
+  "korean": "알 바 로 라 톤",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 8,
+      "Handling": 12,
+      "Kicking": 8,
+      "Passing": 6,
+      "Reflexes": 14,
+      "Rushing Out": 10,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 15,
+      "Decisions": 12,
+      "Determination": 11,
+      "Flair": 5,
+      "Leadership": 8,
+      "Off The Ball": 2,
+      "Positioning": 16,
+      "Teamwork": 12,
+      "Vision": 9,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 11,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 12
+    }
+  }
+}

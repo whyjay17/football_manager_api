@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58959.png",
+  "name": "Adrià Pedrosa",
+  "birth_date": "13/5/1998",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "아 드 리 아 페 드 로 사",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 9,
+      "Dribbling": 9,
+      "Finishing": 2,
+      "First Touch": 8,
+      "Free Kick": 4,
+      "Heading": 7,
+      "Long Shots": 2,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 2,
+      "Tackling": 11,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 8,
+      "Bravery": 8,
+      "Composure": 5,
+      "Concentration": 6,
+      "Decisions": 10,
+      "Determination": 1,
+      "Flair": 4,
+      "Leadership": 2,
+      "Off The Ball": 8,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 5,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 14,
+      "Balance": 10,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

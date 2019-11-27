@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58625.png",
+  "name": "Joseba Beitia",
+  "birth_date": "29/9/1990",
+  "nation": "Spain",
+  "position": "M/AM (L)",
+  "foot": "Right",
+  "korean": "조 세 바 베 이 티 아",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 8,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 10,
+      "Marking": 6,
+      "Passing": 12,
+      "Penalty Taking": 13,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 11,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 6,
+      "Flair": 11,
+      "Leadership": 14,
+      "Off The Ball": 11,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 12,
+      "Balance": 11,
+      "Jumping Reach": 11,
+      "Natural Fitness": 12,
+      "Pace": 12,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

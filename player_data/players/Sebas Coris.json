@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19651.png",
+  "name": "Sebas Coris",
+  "birth_date": "31/5/1993",
+  "nation": "Spain",
+  "position": "D/WB/M (R), AM (RC)",
+  "foot": "Right",
+  "korean": "세 바 스 코 리 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 12,
+      "Finishing": 7,
+      "First Touch": 9,
+      "Free Kick": 11,
+      "Heading": 7,
+      "Long Shots": 9,
+      "Long Throws": 11,
+      "Marking": 9,
+      "Passing": 10,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 9,
+      "Bravery": 8,
+      "Composure": 11,
+      "Concentration": 9,
+      "Decisions": 11,
+      "Determination": 19,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 9,
+      "Teamwork": 9,
+      "Vision": 11,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

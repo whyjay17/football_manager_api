@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59184.png",
+  "name": "Cristian Rivero",
+  "birth_date": "21/3/1998",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "크 리 스 티 안 리 베 로",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 10,
+      "Eccentricity": 1,
+      "First Touch": 3,
+      "Handling": 11,
+      "Kicking": 11,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 7,
+      "Throwing": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 13,
+      "Composure": 8,
+      "Concentration": 13,
+      "Decisions": 13,
+      "Determination": 4,
+      "Flair": 1,
+      "Leadership": 6,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 8,
+      "Vision": 7,
+      "Work Rate": 7
+    },
+    "physical": {
+      "Acceleration": 7,
+      "Agility": 12,
+      "Balance": 4,
+      "Jumping Reach": 14,
+      "Natural Fitness": 13,
+      "Pace": 9,
+      "Stamina": 7,
+      "Strength": 6
+    }
+  }
+}

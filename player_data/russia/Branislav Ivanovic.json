@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/31576.png",
+  "name": "Branislav Ivanovic",
+  "birth_date": "22/2/1984",
+  "nation": "Serbia",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "브 라 니 슬 라 프 이 바 노 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 11,
+      "Free Kick": 10,
+      "Heading": 15,
+      "Long Shots": 9,
+      "Long Throws": 14,
+      "Marking": 13,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 15,
+      "Technique": 8
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 19,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 19,
+      "Flair": 6,
+      "Leadership": 15,
+      "Off The Ball": 12,
+      "Positioning": 14,
+      "Teamwork": 17,
+      "Vision": 10,
+      "Work Rate": 17
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 8,
+      "Balance": 13,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

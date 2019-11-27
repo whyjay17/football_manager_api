@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/10530.png",
+  "name": "Joe Lumley",
+  "birth_date": "15/2/1995",
+  "nation": "England",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "조 럼 리",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 15,
+      "Communication": 15,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 11,
+      "Passing": 10,
+      "Reflexes": 13,
+      "Rushing Out": 10,
+      "Throwing": 13
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 11,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 12,
+      "Determination": 13,
+      "Flair": 1,
+      "Leadership": 13,
+      "Off The Ball": 1,
+      "Positioning": 10,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 10,
+      "Balance": 10,
+      "Jumping Reach": 15,
+      "Natural Fitness": 12,
+      "Pace": 7,
+      "Stamina": 13,
+      "Strength": 12
+    }
+  }
+}

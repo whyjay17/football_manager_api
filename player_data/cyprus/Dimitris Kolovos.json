@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/80763.png",
+  "name": "Dimitris Kolovos",
+  "birth_date": "27/4/1993",
+  "nation": "Greece",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "디 미 트 리 스 콜 로 보 스",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 13,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 13,
+      "Long Throws": 8,
+      "Marking": 7,
+      "Passing": 11,
+      "Penalty Taking": 10,
+      "Tackling": 6,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 9,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 8,
+      "Determination": 13,
+      "Flair": 14,
+      "Leadership": 6,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 12,
+      "Natural Fitness": 11,
+      "Pace": 12,
+      "Stamina": 11,
+      "Strength": 11
+    }
+  }
+}

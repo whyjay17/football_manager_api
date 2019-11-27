@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/34903.png",
+  "name": "Costa Ferreira",
+  "birth_date": "12/5/1991",
+  "nation": "Portugal",
+  "position": "M (RC), AM (R)",
+  "foot": "Left",
+  "korean": "코 스 타 페 레 이 라",
+  "abilities": {
+    "technical": {
+      "Corners": 13,
+      "Crossing": 15,
+      "Dribbling": 15,
+      "Finishing": 10,
+      "First Touch": 10,
+      "Free Kick": 10,
+      "Heading": 10,
+      "Long Shots": 15,
+      "Long Throws": 10,
+      "Marking": 10,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 10,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 13,
+      "Flair": 10,
+      "Leadership": 12,
+      "Off The Ball": 13,
+      "Positioning": 12,
+      "Teamwork": 11,
+      "Vision": 12,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 10,
+      "Balance": 9,
+      "Jumping Reach": 10,
+      "Natural Fitness": 12,
+      "Pace": 9,
+      "Stamina": 10,
+      "Strength": 12
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/26584.png",
+  "name": "Jonathan Pitroïpa",
+  "birth_date": "12/4/1986",
+  "nation": "Burkina Faso",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "조 니 선 피 트 로 이 파",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 9,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 11,
+      "Long Shots": 11,
+      "Long Throws": 7,
+      "Marking": 2,
+      "Passing": 11,
+      "Penalty Taking": 9,
+      "Tackling": 3,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 7,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 8,
+      "Decisions": 7,
+      "Determination": 8,
+      "Flair": 18,
+      "Leadership": 6,
+      "Off The Ball": 13,
+      "Positioning": 5,
+      "Teamwork": 7,
+      "Vision": 9,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 8,
+      "Natural Fitness": 12,
+      "Pace": 14,
+      "Stamina": 12,
+      "Strength": 6
+    }
+  }
+}

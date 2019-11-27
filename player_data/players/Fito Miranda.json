@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/59277.png",
+  "name": "Fito Miranda",
+  "birth_date": "14/10/1989",
+  "nation": "Spain",
+  "position": "M (L), AM (LC)",
+  "foot": "Left",
+  "korean": "피 토 미 란 다",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 14,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 2,
+      "Heading": 8,
+      "Long Shots": 9,
+      "Long Throws": 7,
+      "Marking": 7,
+      "Passing": 9,
+      "Penalty Taking": 4,
+      "Tackling": 9,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 6,
+      "Composure": 10,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 10,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 13,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 9,
+      "Jumping Reach": 5,
+      "Natural Fitness": 13,
+      "Pace": 14,
+      "Stamina": 13,
+      "Strength": 6
+    }
+  }
+}

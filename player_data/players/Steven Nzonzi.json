@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22489.png",
+  "name": "Steven Nzonzi",
+  "birth_date": "15/12/1988",
+  "nation": "France",
+  "position": "DM, M (C)",
+  "foot": "Right",
+  "korean": "스 티 븐 은 손 지",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 11,
+      "Finishing": 7,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 14,
+      "Long Shots": 11,
+      "Long Throws": 5,
+      "Marking": 13,
+      "Passing": 17,
+      "Penalty Taking": 8,
+      "Tackling": 13,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 14,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 17,
+      "Concentration": 13,
+      "Decisions": 15,
+      "Determination": 13,
+      "Flair": 15,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 15,
+      "Teamwork": 13,
+      "Vision": 15,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 11,
+      "Balance": 17,
+      "Jumping Reach": 18,
+      "Natural Fitness": 18,
+      "Pace": 13,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

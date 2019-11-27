@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1353.png",
+  "name": "Iñigo Martínez",
+  "birth_date": "17/5/1991",
+  "nation": "Spain",
+  "position": "D (C)",
+  "foot": "Left",
+  "korean": "이 니 고 마 르 티 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 6,
+      "Dribbling": 9,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 14,
+      "Long Shots": 16,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 3,
+      "Tackling": 16,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 17,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 7,
+      "Positioning": 17,
+      "Teamwork": 15,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 12,
+      "Natural Fitness": 12,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 15
+    }
+  }
+}

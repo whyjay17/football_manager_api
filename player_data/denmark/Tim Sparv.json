@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/41375.png",
+  "name": "Tim Sparv",
+  "birth_date": "20/2/1987",
+  "nation": "Finland",
+  "position": "DM, M (C)",
+  "foot": "Left Only",
+  "korean": "팀 스 파 프",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 11,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 12,
+      "Free Kick": 12,
+      "Heading": 14,
+      "Long Shots": 13,
+      "Long Throws": 10,
+      "Marking": 15,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 16,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 15,
+      "Bravery": 16,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 8,
+      "Positioning": 15,
+      "Teamwork": 16,
+      "Vision": 9,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 6,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 17,
+      "Pace": 11,
+      "Stamina": 16,
+      "Strength": 15
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24378.png",
+  "name": "José Sá",
+  "birth_date": "17/1/1993",
+  "nation": "Portugal",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "호 세 사",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 13,
+      "Communication": 14,
+      "Eccentricity": 14,
+      "First Touch": 9,
+      "Handling": 12,
+      "Kicking": 12,
+      "Passing": 10,
+      "Reflexes": 15,
+      "Rushing Out": 13,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 14,
+      "Bravery": 15,
+      "Composure": 12,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 15,
+      "Flair": 1,
+      "Leadership": 12,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 13,
+      "Natural Fitness": 13,
+      "Pace": 11,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

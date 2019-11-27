@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6351.png",
+  "name": "Serge Gnabry",
+  "birth_date": "14/7/1995",
+  "nation": "Germany",
+  "position": "M (RL), AM (RLC)",
+  "foot": "Either",
+  "korean": "세 르 주 그 나 브 리",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 15,
+      "Finishing": 15,
+      "First Touch": 12,
+      "Free Kick": 11,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 12,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 12,
+      "Bravery": 14,
+      "Composure": 10,
+      "Concentration": 10,
+      "Decisions": 11,
+      "Determination": 11,
+      "Flair": 17,
+      "Leadership": 5,
+      "Off The Ball": 15,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 13,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 17,
+      "Jumping Reach": 8,
+      "Natural Fitness": 13,
+      "Pace": 17,
+      "Stamina": 12,
+      "Strength": 11
+    }
+  }
+}

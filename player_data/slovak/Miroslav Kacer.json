@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53365.png",
+  "name": "Miroslav Kacer",
+  "birth_date": "9/6/1996",
+  "nation": "Slovakia",
+  "position": "M/AM (RC)",
+  "foot": "Right",
+  "korean": "미 로 슬 라 프 카 세 르",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 12,
+      "Dribbling": 8,
+      "Finishing": 12,
+      "First Touch": 15,
+      "Free Kick": 10,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 7,
+      "Marking": 10,
+      "Passing": 12,
+      "Penalty Taking": 4,
+      "Tackling": 8,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 12,
+      "Bravery": 11,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 15,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 4,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 9,
+      "Vision": 10,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 10,
+      "Balance": 11,
+      "Jumping Reach": 3,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 15,
+      "Strength": 2
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/35785.png",
+  "name": "Andrea Tozzo",
+  "birth_date": "30/8/1992",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Left",
+  "korean": "안 드 레 아 토 조",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 12,
+      "Eccentricity": 10,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 14,
+      "Passing": 6,
+      "Reflexes": 13,
+      "Rushing Out": 7,
+      "Throwing": 14
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 12,
+      "Bravery": 10,
+      "Composure": 12,
+      "Concentration": 14,
+      "Decisions": 12,
+      "Determination": 18,
+      "Flair": 1,
+      "Leadership": 10,
+      "Off The Ball": 6,
+      "Positioning": 11,
+      "Teamwork": 10,
+      "Vision": 6,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 12,
+      "Jumping Reach": 14,
+      "Natural Fitness": 12,
+      "Pace": 7,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

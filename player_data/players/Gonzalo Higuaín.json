@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22184.png",
+  "name": "Gonzalo Higuaín",
+  "birth_date": "10/12/1987",
+  "nation": "Argentina",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "곤 잘 로 이 과 인",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 12,
+      "Dribbling": 14,
+      "Finishing": 18,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 15,
+      "Long Shots": 16,
+      "Long Throws": 9,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 14,
+      "Tackling": 6,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 17,
+      "Anticipation": 18,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 11,
+      "Decisions": 18,
+      "Determination": 16,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 17,
+      "Positioning": 5,
+      "Teamwork": 17,
+      "Vision": 14,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 12,
+      "Natural Fitness": 14,
+      "Pace": 14,
+      "Stamina": 15,
+      "Strength": 16
+    }
+  }
+}

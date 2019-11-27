@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20027.png",
+  "name": "Sergio Herrera",
+  "birth_date": "5/6/1993",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "세 르 지 오 에 레 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 12,
+      "Eccentricity": 1,
+      "First Touch": 4,
+      "Handling": 13,
+      "Kicking": 13,
+      "Passing": 9,
+      "Reflexes": 13,
+      "Rushing Out": 12,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 9,
+      "Flair": 3,
+      "Leadership": 11,
+      "Off The Ball": 2,
+      "Positioning": 12,
+      "Teamwork": 12,
+      "Vision": 11,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 11,
+      "Balance": 10,
+      "Jumping Reach": 13,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

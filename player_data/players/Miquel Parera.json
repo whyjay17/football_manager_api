@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19933.png",
+  "name": "Miquel Parera",
+  "birth_date": "18/5/1996",
+  "nation": "Spain",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "미 켈 파 레 라",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 13,
+      "Eccentricity": 1,
+      "First Touch": 3,
+      "Handling": 14,
+      "Kicking": 6,
+      "Passing": 12,
+      "Reflexes": 14,
+      "Rushing Out": 7,
+      "Throwing": 6
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 11,
+      "Bravery": 9,
+      "Composure": 9,
+      "Concentration": 10,
+      "Decisions": 14,
+      "Determination": 8,
+      "Flair": 2,
+      "Leadership": 13,
+      "Off The Ball": 3,
+      "Positioning": 12,
+      "Teamwork": 9,
+      "Vision": 6,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 15,
+      "Balance": 7,
+      "Jumping Reach": 16,
+      "Natural Fitness": 11,
+      "Pace": 9,
+      "Stamina": 8,
+      "Strength": 6
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21941.png",
+  "name": "Radja Nainggolan",
+  "birth_date": "4/5/1988",
+  "nation": "Belgium",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "라 자 나 잉 골 란",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 10,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 11,
+      "Long Shots": 16,
+      "Long Throws": 5,
+      "Marking": 15,
+      "Passing": 14,
+      "Penalty Taking": 10,
+      "Tackling": 17,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 14,
+      "Bravery": 20,
+      "Composure": 13,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 19,
+      "Flair": 13,
+      "Leadership": 15,
+      "Off The Ball": 16,
+      "Positioning": 13,
+      "Teamwork": 14,
+      "Vision": 14,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 15,
+      "Agility": 15,
+      "Balance": 18,
+      "Jumping Reach": 9,
+      "Natural Fitness": 17,
+      "Pace": 14,
+      "Stamina": 16,
+      "Strength": 16
+    }
+  }
+}

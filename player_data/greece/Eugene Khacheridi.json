@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24545.png",
+  "name": "Eugene Khacheridi",
+  "birth_date": "28/7/1987",
+  "nation": "Ukraine",
+  "position": "D (C)",
+  "foot": "Right",
+  "korean": "예 우 헨 하 체 리 디",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 8,
+      "Finishing": 7,
+      "First Touch": 13,
+      "Free Kick": 5,
+      "Heading": 15,
+      "Long Shots": 6,
+      "Long Throws": 9,
+      "Marking": 16,
+      "Passing": 13,
+      "Penalty Taking": 8,
+      "Tackling": 15,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 10,
+      "Bravery": 17,
+      "Composure": 11,
+      "Concentration": 11,
+      "Decisions": 10,
+      "Determination": 15,
+      "Flair": 5,
+      "Leadership": 12,
+      "Off The Ball": 11,
+      "Positioning": 15,
+      "Teamwork": 15,
+      "Vision": 10,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 9,
+      "Agility": 8,
+      "Balance": 15,
+      "Jumping Reach": 18,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 18
+    }
+  }
+}

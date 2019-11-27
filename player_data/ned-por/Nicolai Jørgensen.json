@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/9016.png",
+  "name": "Nicolai Jørgensen",
+  "birth_date": "15/1/1991",
+  "nation": "Denmark",
+  "position": "AM (LC), ST (C)",
+  "foot": "Right",
+  "korean": "니 콜 라 이 외 르 겐 센",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 14,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 13,
+      "Heading": 14,
+      "Long Shots": 14,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 4,
+      "Technique": 15
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 15,
+      "Bravery": 11,
+      "Composure": 12,
+      "Concentration": 7,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 15,
+      "Leadership": 7,
+      "Off The Ball": 14,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 14,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 9,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 15
+    }
+  }
+}

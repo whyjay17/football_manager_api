@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/25179.png",
+  "name": "Marlon Ritter",
+  "birth_date": "15/10/1994",
+  "nation": "Germany",
+  "position": "M (L), AM (LC)",
+  "foot": "Right",
+  "korean": "말 론 리 터",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 14,
+      "Dribbling": 12,
+      "Finishing": 13,
+      "First Touch": 14,
+      "Free Kick": 16,
+      "Heading": 7,
+      "Long Shots": 15,
+      "Long Throws": 6,
+      "Marking": 4,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 5,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 12,
+      "Bravery": 8,
+      "Composure": 14,
+      "Concentration": 8,
+      "Decisions": 11,
+      "Determination": 8,
+      "Flair": 16,
+      "Leadership": 6,
+      "Off The Ball": 12,
+      "Positioning": 7,
+      "Teamwork": 10,
+      "Vision": 14,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 14,
+      "Balance": 7,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 11,
+      "Strength": 6
+    }
+  }
+}

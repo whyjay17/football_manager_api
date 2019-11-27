@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/21687.png",
+  "name": "Federico Chiesa",
+  "birth_date": "25/10/1997",
+  "nation": "Italy",
+  "position": "M (R), AM (RL)",
+  "foot": "Right",
+  "korean": "페 데 리 코 키 에 사",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 16,
+      "Finishing": 13,
+      "First Touch": 15,
+      "Free Kick": 12,
+      "Heading": 10,
+      "Long Shots": 13,
+      "Long Throws": 5,
+      "Marking": 7,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 11,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 14,
+      "Concentration": 13,
+      "Decisions": 14,
+      "Determination": 15,
+      "Flair": 13,
+      "Leadership": 12,
+      "Off The Ball": 17,
+      "Positioning": 11,
+      "Teamwork": 14,
+      "Vision": 13,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 9,
+      "Natural Fitness": 16,
+      "Pace": 16,
+      "Stamina": 13,
+      "Strength": 11
+    }
+  }
+}

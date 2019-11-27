@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/40854.png",
+  "name": "Stanislav Tecl",
+  "birth_date": "1/9/1990",
+  "nation": "Czech Republic",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "스 타 니 슬 라 브 테 츨",
+  "abilities": {
+    "technical": {
+      "Corners": 9,
+      "Crossing": 14,
+      "Dribbling": 11,
+      "Finishing": 16,
+      "First Touch": 9,
+      "Free Kick": 8,
+      "Heading": 12,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 14,
+      "Penalty Taking": 14,
+      "Tackling": 8,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 10,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 11,
+      "Flair": 13,
+      "Leadership": 8,
+      "Off The Ball": 16,
+      "Positioning": 4,
+      "Teamwork": 13,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 16,
+      "Jumping Reach": 11,
+      "Natural Fitness": 15,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

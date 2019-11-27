@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6321.png",
+  "name": "Javi Martínez",
+  "birth_date": "2/9/1988",
+  "nation": "Spain",
+  "position": "D (C), DM, M (C)",
+  "foot": "Right",
+  "korean": "하 비 마 르 티 네 스",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 14,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 8,
+      "Marking": 15,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 16,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 18,
+      "Bravery": 14,
+      "Composure": 16,
+      "Concentration": 15,
+      "Decisions": 15,
+      "Determination": 15,
+      "Flair": 9,
+      "Leadership": 14,
+      "Off The Ball": 10,
+      "Positioning": 17,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 13
+    },
+    "physical": {
+      "Acceleration": 8,
+      "Agility": 10,
+      "Balance": 15,
+      "Jumping Reach": 16,
+      "Natural Fitness": 14,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 16
+    }
+  }
+}

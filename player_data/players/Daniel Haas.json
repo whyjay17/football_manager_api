@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24889.png",
+  "name": "Daniel Haas",
+  "birth_date": "1/8/1983",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "다 니 엘 하 스",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 10,
+      "Communication": 12,
+      "Eccentricity": 7,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 14,
+      "Passing": 8,
+      "Reflexes": 13,
+      "Rushing Out": 11,
+      "Throwing": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 9,
+      "Bravery": 11,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 12,
+      "Flair": 4,
+      "Leadership": 10,
+      "Off The Ball": 5,
+      "Positioning": 10,
+      "Teamwork": 11,
+      "Vision": 7,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 11,
+      "Balance": 11,
+      "Jumping Reach": 13,
+      "Natural Fitness": 12,
+      "Pace": 10,
+      "Stamina": 11,
+      "Strength": 14
+    }
+  }
+}

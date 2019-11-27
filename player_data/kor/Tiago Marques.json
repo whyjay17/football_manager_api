@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/46491.png",
+  "name": "Tiago Marques",
+  "birth_date": "3/3/1988",
+  "nation": "Brazil",
+  "position": "ST (C)",
+  "foot": "Either",
+  "korean": "티 아 고 마 르 케 스",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 5,
+      "Dribbling": 13,
+      "Finishing": 13,
+      "First Touch": 13,
+      "Free Kick": 8,
+      "Heading": 13,
+      "Long Shots": 6,
+      "Long Throws": 5,
+      "Marking": 8,
+      "Passing": 9,
+      "Penalty Taking": 8,
+      "Tackling": 2,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 2,
+      "Flair": 11,
+      "Leadership": 11,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 8,
+      "Vision": 9,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 13,
+      "Balance": 9,
+      "Jumping Reach": 14,
+      "Natural Fitness": 17,
+      "Pace": 13,
+      "Stamina": 13,
+      "Strength": 10
+    }
+  }
+}

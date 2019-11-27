@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/57673.png",
+  "name": "Darío Poveda",
+  "birth_date": "13/3/1997",
+  "nation": "Spain",
+  "position": "ST (C)",
+  "foot": "Right",
+  "korean": "다 리 오 포 베 다",
+  "abilities": {
+    "technical": {
+      "Corners": 7,
+      "Crossing": 7,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 13,
+      "Free Kick": 7,
+      "Heading": 14,
+      "Long Shots": 8,
+      "Long Throws": 1,
+      "Marking": 6,
+      "Passing": 8,
+      "Penalty Taking": 10,
+      "Tackling": 1,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 6,
+      "Anticipation": 11,
+      "Bravery": 5,
+      "Composure": 12,
+      "Concentration": 8,
+      "Decisions": 14,
+      "Determination": 9,
+      "Flair": 10,
+      "Leadership": 7,
+      "Off The Ball": 11,
+      "Positioning": 6,
+      "Teamwork": 7,
+      "Vision": 6,
+      "Work Rate": 8
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 12,
+      "Balance": 3,
+      "Jumping Reach": 9,
+      "Natural Fitness": 12,
+      "Pace": 11,
+      "Stamina": 6,
+      "Strength": 9
+    }
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23206.png",
+  "name": "Franco Cervi",
+  "birth_date": "26/5/1994",
+  "nation": "Argentina",
+  "position": "M/AM (L)",
+  "foot": "Left",
+  "korean": "프 랑 코 세 르 비",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 12,
+      "Dribbling": 13,
+      "Finishing": 10,
+      "First Touch": 14,
+      "Free Kick": 12,
+      "Heading": 4,
+      "Long Shots": 12,
+      "Long Throws": 8,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 14,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 16,
+      "Anticipation": 14,
+      "Bravery": 16,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 10,
+      "Determination": 16,
+      "Flair": 15,
+      "Leadership": 9,
+      "Off The Ball": 15,
+      "Positioning": 13,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 16
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 15,
+      "Balance": 13,
+      "Jumping Reach": 7,
+      "Natural Fitness": 16,
+      "Pace": 14,
+      "Stamina": 14,
+      "Strength": 7
+    }
+  }
+}

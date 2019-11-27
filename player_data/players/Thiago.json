@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6342.png",
+  "name": "Thiago",
+  "birth_date": "11/4/1991",
+  "nation": "Spain",
+  "position": "DM, M/AM (C)",
+  "foot": "Right",
+  "korean": "T h i a g o",
+  "abilities": {
+    "technical": {
+      "Corners": 15,
+      "Crossing": 14,
+      "Dribbling": 17,
+      "Finishing": 13,
+      "First Touch": 19,
+      "Free Kick": 13,
+      "Heading": 12,
+      "Long Shots": 14,
+      "Long Throws": 5,
+      "Marking": 10,
+      "Passing": 17,
+      "Penalty Taking": 13,
+      "Tackling": 14,
+      "Technique": 19
+    },
+    "mental": {
+      "Aggression": 13,
+      "Anticipation": 18,
+      "Bravery": 8,
+      "Composure": 18,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 11,
+      "Flair": 18,
+      "Leadership": 8,
+      "Off The Ball": 13,
+      "Positioning": 14,
+      "Teamwork": 10,
+      "Vision": 19,
+      "Work Rate": 15
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 17,
+      "Balance": 12,
+      "Jumping Reach": 7,
+      "Natural Fitness": 11,
+      "Pace": 10,
+      "Stamina": 15,
+      "Strength": 9
+    }
+  }
+}

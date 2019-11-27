@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1311.png",
+  "name": "Gelson Martins",
+  "birth_date": "11/5/1995",
+  "nation": "Portugal",
+  "position": "AM (RL)",
+  "foot": "Right",
+  "korean": "겔 슨 마 틴 스",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 18,
+      "Finishing": 13,
+      "First Touch": 16,
+      "Free Kick": 5,
+      "Heading": 5,
+      "Long Shots": 10,
+      "Long Throws": 2,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 12,
+      "Tackling": 6,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 11,
+      "Anticipation": 14,
+      "Bravery": 12,
+      "Composure": 14,
+      "Concentration": 12,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 19,
+      "Leadership": 6,
+      "Off The Ball": 14,
+      "Positioning": 7,
+      "Teamwork": 11,
+      "Vision": 13,
+      "Work Rate": 12
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 14,
+      "Jumping Reach": 7,
+      "Natural Fitness": 14,
+      "Pace": 16,
+      "Stamina": 11,
+      "Strength": 8
+    }
+  }
+}

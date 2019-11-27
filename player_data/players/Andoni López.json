@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/19243.png",
+  "name": "Andoni López",
+  "birth_date": "5/4/1996",
+  "nation": "Spain",
+  "position": "D/WB (L)",
+  "foot": "Left",
+  "korean": "안 도 니 로 페 즈",
+  "abilities": {
+    "technical": {
+      "Corners": 6,
+      "Crossing": 11,
+      "Dribbling": 1,
+      "Finishing": 5,
+      "First Touch": 12,
+      "Free Kick": 6,
+      "Heading": 12,
+      "Long Shots": 7,
+      "Long Throws": 8,
+      "Marking": 9,
+      "Passing": 6,
+      "Penalty Taking": 5,
+      "Tackling": 13,
+      "Technique": 9
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 6,
+      "Bravery": 10,
+      "Composure": 9,
+      "Concentration": 9,
+      "Decisions": 13,
+      "Determination": 10,
+      "Flair": 2,
+      "Leadership": 5,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 9,
+      "Vision": 8,
+      "Work Rate": 9
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 16,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 15,
+      "Pace": 20,
+      "Stamina": 10,
+      "Strength": 7
+    }
+  }
+}

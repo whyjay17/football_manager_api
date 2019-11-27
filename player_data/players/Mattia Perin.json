@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/22031.png",
+  "name": "Mattia Perin",
+  "birth_date": "10/11/1992",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "마 티 아 페 린",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 16,
+      "Eccentricity": 17,
+      "First Touch": 5,
+      "Handling": 13,
+      "Kicking": 12,
+      "Passing": 6,
+      "Reflexes": 17,
+      "Rushing Out": 15,
+      "Throwing": 15
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 14,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 13,
+      "Determination": 15,
+      "Flair": 3,
+      "Leadership": 14,
+      "Off The Ball": 2,
+      "Positioning": 16,
+      "Teamwork": 10,
+      "Vision": 5,
+      "Work Rate": 5
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 16,
+      "Balance": 13,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 13,
+      "Stamina": 10,
+      "Strength": 11
+    }
+  }
+}

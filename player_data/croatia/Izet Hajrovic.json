@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/47897.png",
+  "name": "Izet Hajrovic",
+  "birth_date": "4/8/1991",
+  "nation": "Bosnia and Herzegovina",
+  "position": "M/AM (RL)",
+  "foot": "Left",
+  "korean": "이 제 트 하 이 로 비 치",
+  "abilities": {
+    "technical": {
+      "Corners": 14,
+      "Crossing": 16,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 13,
+      "Free Kick": 16,
+      "Heading": 5,
+      "Long Shots": 16,
+      "Long Throws": 8,
+      "Marking": 5,
+      "Passing": 11,
+      "Penalty Taking": 15,
+      "Tackling": 6,
+      "Technique": 13
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 10,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 8,
+      "Determination": 8,
+      "Flair": 17,
+      "Leadership": 7,
+      "Off The Ball": 13,
+      "Positioning": 7,
+      "Teamwork": 8,
+      "Vision": 12,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 14,
+      "Agility": 14,
+      "Balance": 8,
+      "Jumping Reach": 8,
+      "Natural Fitness": 11,
+      "Pace": 14,
+      "Stamina": 11,
+      "Strength": 9
+    }
+  }
+}

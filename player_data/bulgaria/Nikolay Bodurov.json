@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/53905.png",
+  "name": "Nikolay Bodurov",
+  "birth_date": "30/5/1986",
+  "nation": "Bulgaria",
+  "position": "D (RC)",
+  "foot": "Right",
+  "korean": "니 콜 라 이 보 두 로 프",
+  "abilities": {
+    "technical": {
+      "Corners": 4,
+      "Crossing": 7,
+      "Dribbling": 10,
+      "Finishing": 10,
+      "First Touch": 11,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 11,
+      "Long Throws": 8,
+      "Marking": 13,
+      "Passing": 11,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 12,
+      "Bravery": 19,
+      "Composure": 12,
+      "Concentration": 15,
+      "Decisions": 11,
+      "Determination": 18,
+      "Flair": 10,
+      "Leadership": 17,
+      "Off The Ball": 10,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 11,
+      "Balance": 15,
+      "Jumping Reach": 13,
+      "Natural Fitness": 18,
+      "Pace": 11,
+      "Stamina": 14,
+      "Strength": 14
+    }
+  }
+}

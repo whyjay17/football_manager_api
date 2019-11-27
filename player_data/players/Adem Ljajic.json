@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/2667.png",
+  "name": "Adem Ljajic",
+  "birth_date": "29/9/1991",
+  "nation": "Serbia",
+  "position": "AM (RLC)",
+  "foot": "Right",
+  "korean": "아 뎀 랴 이 치",
+  "abilities": {
+    "technical": {
+      "Corners": 16,
+      "Crossing": 16,
+      "Dribbling": 16,
+      "Finishing": 12,
+      "First Touch": 17,
+      "Free Kick": 16,
+      "Heading": 9,
+      "Long Shots": 14,
+      "Long Throws": 3,
+      "Marking": 4,
+      "Passing": 16,
+      "Penalty Taking": 15,
+      "Tackling": 5,
+      "Technique": 18
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 8,
+      "Composure": 13,
+      "Concentration": 10,
+      "Decisions": 13,
+      "Determination": 13,
+      "Flair": 17,
+      "Leadership": 9,
+      "Off The Ball": 13,
+      "Positioning": 6,
+      "Teamwork": 12,
+      "Vision": 17,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 15,
+      "Balance": 12,
+      "Jumping Reach": 10,
+      "Natural Fitness": 13,
+      "Pace": 13,
+      "Stamina": 12,
+      "Strength": 8
+    }
+  }
+}

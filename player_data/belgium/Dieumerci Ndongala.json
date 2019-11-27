@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/20663.png",
+  "name": "Dieumerci Ndongala",
+  "birth_date": "14/7/1991",
+  "nation": "Congo DR",
+  "position": "AM (RLC), ST (C)",
+  "foot": "Right Only",
+  "korean": "디 에 우 메 르 시 은 동 갈 라",
+  "abilities": {
+    "technical": {
+      "Corners": 12,
+      "Crossing": 13,
+      "Dribbling": 15,
+      "Finishing": 8,
+      "First Touch": 13,
+      "Free Kick": 11,
+      "Heading": 6,
+      "Long Shots": 11,
+      "Long Throws": 9,
+      "Marking": 5,
+      "Passing": 13,
+      "Penalty Taking": 7,
+      "Tackling": 5,
+      "Technique": 14
+    },
+    "mental": {
+      "Aggression": 15,
+      "Anticipation": 11,
+      "Bravery": 14,
+      "Composure": 11,
+      "Concentration": 12,
+      "Decisions": 12,
+      "Determination": 14,
+      "Flair": 12,
+      "Leadership": 8,
+      "Off The Ball": 10,
+      "Positioning": 5,
+      "Teamwork": 9,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 16,
+      "Agility": 12,
+      "Balance": 7,
+      "Jumping Reach": 4,
+      "Natural Fitness": 17,
+      "Pace": 15,
+      "Stamina": 12,
+      "Strength": 12
+    }
+  }
+}

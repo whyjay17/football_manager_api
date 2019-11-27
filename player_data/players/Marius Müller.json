@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6621.png",
+  "name": "Marius Müller",
+  "birth_date": "12/7/1993",
+  "nation": "Germany",
+  "position": "GK",
+  "foot": "Right",
+  "korean": "마 리 우 스 뮐 러",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 14,
+      "Communication": 11,
+      "Eccentricity": 9,
+      "First Touch": 8,
+      "Handling": 14,
+      "Kicking": 10,
+      "Passing": 8,
+      "Reflexes": 15,
+      "Rushing Out": 15,
+      "Throwing": 10
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 13,
+      "Composure": 10,
+      "Concentration": 12,
+      "Decisions": 10,
+      "Determination": 12,
+      "Flair": 3,
+      "Leadership": 8,
+      "Off The Ball": 1,
+      "Positioning": 12,
+      "Teamwork": 13,
+      "Vision": 7,
+      "Work Rate": 10
+    },
+    "physical": {
+      "Acceleration": 13,
+      "Agility": 12,
+      "Balance": 13,
+      "Jumping Reach": 16,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

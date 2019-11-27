@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/24707.png",
+  "name": "Jonas Hector",
+  "birth_date": "27/5/1990",
+  "nation": "Germany",
+  "position": "D/WB (L), DM, M (C)",
+  "foot": "Left",
+  "korean": "조 나 스 헥 터",
+  "abilities": {
+    "technical": {
+      "Corners": 11,
+      "Crossing": 12,
+      "Dribbling": 11,
+      "Finishing": 8,
+      "First Touch": 12,
+      "Free Kick": 10,
+      "Heading": 8,
+      "Long Shots": 10,
+      "Long Throws": 14,
+      "Marking": 10,
+      "Passing": 13,
+      "Penalty Taking": 11,
+      "Tackling": 14,
+      "Technique": 12
+    },
+    "mental": {
+      "Aggression": 10,
+      "Anticipation": 16,
+      "Bravery": 12,
+      "Composure": 16,
+      "Concentration": 16,
+      "Decisions": 15,
+      "Determination": 12,
+      "Flair": 9,
+      "Leadership": 10,
+      "Off The Ball": 13,
+      "Positioning": 13,
+      "Teamwork": 18,
+      "Vision": 11,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 12,
+      "Agility": 11,
+      "Balance": 13,
+      "Jumping Reach": 11,
+      "Natural Fitness": 18,
+      "Pace": 16,
+      "Stamina": 16,
+      "Strength": 10
+    }
+  }
+}

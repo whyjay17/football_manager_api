@@ -1,0 +1,49 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/23020.png",
+  "name": "Simone Scuffet",
+  "birth_date": "31/5/1996",
+  "nation": "Italy",
+  "position": "GK",
+  "foot": "Right Only",
+  "korean": "시 몬 스 커 펫",
+  "abilities": {
+    "technical": {
+      "Aerial Reach": 12,
+      "Communication": 11,
+      "Eccentricity": 4,
+      "First Touch": 6,
+      "Handling": 12,
+      "Kicking": 11,
+      "Passing": 7,
+      "Reflexes": 14,
+      "Rushing Out": 12,
+      "Throwing": 7
+    },
+    "mental": {
+      "Aggression": 8,
+      "Anticipation": 14,
+      "Bravery": 14,
+      "Composure": 14,
+      "Concentration": 14,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 6,
+      "Leadership": 11,
+      "Off The Ball": 4,
+      "Positioning": 14,
+      "Teamwork": 11,
+      "Vision": 6,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 13,
+      "Balance": 14,
+      "Jumping Reach": 15,
+      "Natural Fitness": 15,
+      "Pace": 10,
+      "Stamina": 13,
+      "Strength": 13
+    }
+  }
+}

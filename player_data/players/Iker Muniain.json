@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/1426.png",
+  "name": "Iker Muniain",
+  "birth_date": "19/12/1992",
+  "nation": "Spain",
+  "position": "M/AM (LC)",
+  "foot": "Right",
+  "korean": "이 커 무 니 아 인",
+  "abilities": {
+    "technical": {
+      "Corners": 10,
+      "Crossing": 11,
+      "Dribbling": 16,
+      "Finishing": 11,
+      "First Touch": 15,
+      "Free Kick": 8,
+      "Heading": 4,
+      "Long Shots": 12,
+      "Long Throws": 2,
+      "Marking": 4,
+      "Passing": 15,
+      "Penalty Taking": 10,
+      "Tackling": 8,
+      "Technique": 16
+    },
+    "mental": {
+      "Aggression": 12,
+      "Anticipation": 15,
+      "Bravery": 15,
+      "Composure": 13,
+      "Concentration": 11,
+      "Decisions": 11,
+      "Determination": 14,
+      "Flair": 18,
+      "Leadership": 12,
+      "Off The Ball": 15,
+      "Positioning": 9,
+      "Teamwork": 12,
+      "Vision": 14,
+      "Work Rate": 14
+    },
+    "physical": {
+      "Acceleration": 17,
+      "Agility": 17,
+      "Balance": 16,
+      "Jumping Reach": 6,
+      "Natural Fitness": 12,
+      "Pace": 15,
+      "Stamina": 14,
+      "Strength": 8
+    }
+  }
+}

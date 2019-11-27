@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/58524.png",
+  "name": "Claudio",
+  "birth_date": "4/9/1993",
+  "nation": "Spain",
+  "position": "AM (C), ST (C)",
+  "foot": "Either",
+  "korean": "클 라 우 디 오",
+  "abilities": {
+    "technical": {
+      "Corners": 5,
+      "Crossing": 9,
+      "Dribbling": 12,
+      "Finishing": 14,
+      "First Touch": 8,
+      "Free Kick": 7,
+      "Heading": 13,
+      "Long Shots": 10,
+      "Long Throws": 4,
+      "Marking": 8,
+      "Passing": 10,
+      "Penalty Taking": 14,
+      "Tackling": 9,
+      "Technique": 10
+    },
+    "mental": {
+      "Aggression": 9,
+      "Anticipation": 13,
+      "Bravery": 10,
+      "Composure": 11,
+      "Concentration": 14,
+      "Decisions": 11,
+      "Determination": 4,
+      "Flair": 8,
+      "Leadership": 11,
+      "Off The Ball": 12,
+      "Positioning": 8,
+      "Teamwork": 11,
+      "Vision": 10,
+      "Work Rate": 11
+    },
+    "physical": {
+      "Acceleration": 10,
+      "Agility": 9,
+      "Balance": 7,
+      "Jumping Reach": 14,
+      "Natural Fitness": 14,
+      "Pace": 9,
+      "Stamina": 12,
+      "Strength": 15
+    }
+  }
+}

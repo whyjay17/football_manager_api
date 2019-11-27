@@ -1,0 +1,53 @@
+﻿{
+  "profile_img": "https://fmdataba.com/images/p/6093.png",
+  "name": "Thomas Delaney",
+  "birth_date": "3/9/1991",
+  "nation": "Denmark",
+  "position": "DM, M (C)",
+  "foot": "Left",
+  "korean": "토 머 스 델 라 니",
+  "abilities": {
+    "technical": {
+      "Corners": 8,
+      "Crossing": 10,
+      "Dribbling": 9,
+      "Finishing": 11,
+      "First Touch": 12,
+      "Free Kick": 14,
+      "Heading": 16,
+      "Long Shots": 14,
+      "Long Throws": 8,
+      "Marking": 12,
+      "Passing": 14,
+      "Penalty Taking": 9,
+      "Tackling": 16,
+      "Technique": 11
+    },
+    "mental": {
+      "Aggression": 18,
+      "Anticipation": 16,
+      "Bravery": 17,
+      "Composure": 14,
+      "Concentration": 16,
+      "Decisions": 14,
+      "Determination": 18,
+      "Flair": 7,
+      "Leadership": 15,
+      "Off The Ball": 17,
+      "Positioning": 12,
+      "Teamwork": 17,
+      "Vision": 12,
+      "Work Rate": 18
+    },
+    "physical": {
+      "Acceleration": 11,
+      "Agility": 12,
+      "Balance": 15,
+      "Jumping Reach": 14,
+      "Natural Fitness": 16,
+      "Pace": 11,
+      "Stamina": 18,
+      "Strength": 13
+    }
+  }
+}
