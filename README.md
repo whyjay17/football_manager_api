@@ -135,9 +135,9 @@ An unofficial API for Football Manager
       ]
     ]
   }
- }
   ```
-  - More to come
+  
+- More to come
  
 # Features
 - Covers up to 30K player data (currently 8K)
