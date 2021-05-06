@@ -1,5 +1,5 @@
 ﻿Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-PyMongo==2.3.0
 gunicorn==19.9.0
 html5lib==1.0.1
